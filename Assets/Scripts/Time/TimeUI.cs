@@ -1,0 +1,39 @@
+using UnityEngine;
+using Unity.Entities;
+using TMPro;
+
+public class TimeUI : MonoBehaviour
+{
+	[SerializeField] private TextMeshProUGUI timeText;
+	private EntityManager entityManager;
+	private Entity timeEntity;
+
+	void Start()
+	{
+		entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
+		timeEntity = entityManager.CreateEntityQuery(typeof(GameTime)).GetSingletonEntity();
+	}
+
+	void Update()
+	{
+		// GameTimeComponent 데이터를 timeEntity로부터 가져옵니다.
+		GameTime time = entityManager.GetComponentData<GameTime>(timeEntity);
+
+		int hour = time.Hour;
+		string timePeriod;
+		if (hour >= 24) { timePeriod = "새벽"; }       // 24:00 (자정) ~ 02:00
+		else if (hour >= 17) { timePeriod = "저녁"; }  // 17:00 ~ 23:59
+		else if (hour >= 12) { timePeriod = "오후"; }  // 12:00 ~ 16:59
+		else if (hour >= 6) { timePeriod = "오전"; }   // 06:00 ~ 11:59
+		else { timePeriod = "새벽"; }
+
+		int hours12 = hour % 12;
+		if (hours12 == 0) hours12 = 12; // 0시는 12시로 표시
+
+		string timeString = $"{time.Year}년 {time.Quater}분기 {time.Day}일차\n";
+		timeString += $"{timePeriod} {hours12:00}시 {time.Minutes:00}분 ({time.DayOfWeek})";
+
+		// UI 텍스트를 업데이트합니다.
+		timeText.text = timeString;
+	}
+}

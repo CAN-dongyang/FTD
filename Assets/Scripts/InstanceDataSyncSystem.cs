@@ -23,17 +23,17 @@ public partial class InstanceDataSyncSystem : SystemBase
 		var ecb = new EntityCommandBuffer(Allocator.Temp);
 		
 		// MainThread이므로 .Run() 대신 .ForEach 사용
-		Entities.ForEach((Entity entity, in UpdateDataRequest tag) =>
-		{
-			int instanceID = tag.InstanceID;
+		//Entities.ForEach((Entity entity, in UpdateDataRequest tag) =>
+		//{
+		//	int instanceID = tag.InstanceID;
 
 			// 1. InstanceID로 RuntimeData 찾기
 
 			// 2. 매니지드 객체의 메서드로 Sync
 
 			// 3. 처리 완료된 태그 제거
-			ecb.RemoveComponent<UpdateDataRequest>(entity);
-		}).WithoutBurst().Run();
+		//	ecb.RemoveComponent<UpdateDataRequest>(entity);
+		//}).WithoutBurst().Run();
 
 		ecb.Playback(EntityManager);
 	}

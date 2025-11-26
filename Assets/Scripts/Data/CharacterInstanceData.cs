@@ -22,7 +22,7 @@ public abstract class CharacterInstanceData : InstanceData
 
 	public DataID organization;
 
-	public CharacterInstanceData(EntityAsset asset, DataType type) : base(asset, type)
+	public CharacterInstanceData(DataAsset asset, DataType type) : base(asset, type)
 	{
 		int statCount = (int)StatType.End;
 
@@ -38,7 +38,7 @@ public class StudentInstanceData : CharacterInstanceData
 	[Header("Student")]
 	public int scheduleDatas;
 
-	public StudentInstanceData(EntityAsset asset) : base(asset) {}
+	public StudentInstanceData(DataAsset asset) : base(asset, DataType.Student) {}
 }
 
 [Serializable]
@@ -48,7 +48,7 @@ public class WorkerInstanceData : CharacterInstanceData
 	public JobProperty Job;
 	public int payCost;
 
-	public WorkerInstanceData(EntityAsset asset) : base(asset) {}
+	public WorkerInstanceData(DataAsset asset) : base(asset, DataType.Worker) {}
 }
 
 [Serializable]
@@ -57,7 +57,7 @@ public class ProfessorInstanceData : CharacterInstanceData
 	[Header("Professor")]
 	public int scheduleDatas;
 
-	public ProfessorInstanceData(EntityAsset asset) : base(asset)
+	public ProfessorInstanceData(DataAsset asset) : base(asset, DataType.Professor)
 	{
 	}
 }

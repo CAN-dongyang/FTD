@@ -38,5 +38,5 @@ public class OrganizationInstanceData : InstanceData
 	}
 	#endregion
 
-	public OrganizationInstanceData(EntityAsset asset, DataType type) : base(asset, type) {}
+	public OrganizationInstanceData(DataAsset asset, DataType type) : base(asset, type) {}
 }

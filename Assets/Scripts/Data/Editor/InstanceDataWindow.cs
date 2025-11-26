@@ -37,7 +37,7 @@ public class InstanceDataWindow : EditorWindow
 	}
 
 	#region Sub Fields
-	EntityAsset createReqAsset = null;
+	DataAsset createReqAsset = null;
 	DataType selectedDataType = DataType.None;
 
 	[Obsolete] // Warning 표시하자 마라고. ObjectField 쓸 거라고
@@ -45,17 +45,16 @@ public class InstanceDataWindow : EditorWindow
 	{
 		EditorGUILayout.BeginVertical();
 		{
-			createReqAsset = EditorGUILayout.ObjectField("Create New Data", createReqAsset, typeof(EntityAsset)) as EntityAsset;
+			createReqAsset = EditorGUILayout.ObjectField("Create New Data", createReqAsset, typeof(DataAsset)) as DataAsset;
 			if (createReqAsset)
 			{
 				selectedDataType = (DataType)EditorGUILayout.EnumPopup(selectedDataType);
 
-				if (selectedDataType == DataType.None) // + condition : 선택한 asset에서 선택한 data를 만들 수 있는가?
+				// + condition : 선택한 asset에서 선택한 data를 만들 수 있는가?
+				if (GUILayout.Button("Create"))
 				{
-				}
-				else if (GUILayout.Button("Create"))
-				{
-					InstanceDataManager.CreateByDataType(createReqAsset, selectedDataType);
+					if(InstanceDataManager.CreateByDataType(createReqAsset, selectedDataType) == null)
+						Debug.LogError("선택한 데이터 타입은 Asset의 타입입니다. 표기 못해서 ㅈㅅ");
 					Refresh();
 				}
 			}

@@ -12,6 +12,7 @@ public abstract class InstanceData : IDisposable
 {
 	[SerializeField] private DataID _id;
 	public DataID ID => _id;
+	public DataAsset Asset => InstanceDataManager.GetAsset(_id);
 
 	private bool _disposed = false;
 
@@ -20,7 +21,7 @@ public abstract class InstanceData : IDisposable
 	/// 
 	/// Manager에게 새로운 ID를 요청하고 자신을 등록.
 	/// </summary>
-	public InstanceData(EntityAsset asset, DataType type)
+	public InstanceData(DataAsset asset, DataType type)
 	{
 		_id = InstanceDataManager.GetNewID(asset.ID, type);
 		InstanceDataManager.AddData(this);

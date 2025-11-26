@@ -3,7 +3,6 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Disposition_newDisposition", menuName = "Synergy/Disposition")]
 public class Disposition : SynergyProperty
 {
-	public override SynergyType GetSynergyType => SynergyType.Disposition;
 }
 
 /*	5가지의 긍정, 부정으로 구성

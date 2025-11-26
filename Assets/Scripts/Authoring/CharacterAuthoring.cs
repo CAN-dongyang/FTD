@@ -22,12 +22,12 @@ public class CharacterAuthoring : MonoBehaviour
 			
 			if(authoring.findID.IsValid && InstanceDataManager.Contains(authoring.findID))
 			{
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.data != null && authoring.data.ID.IsValid && InstanceDataManager.Contains(authoring.data.ID))
 			{
 				authoring.findID = authoring.data.ID;
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.asset != null && authoring.dataType != DataType.None)
 			{
@@ -45,7 +45,7 @@ public class CharacterAuthoring : MonoBehaviour
 			// AddComponent(entity, new CurrentPathIndex { Value = -1 }); // -1은 경로가 없음을 의미
 			AddComponent(entity, new CharacterComponentData()
 			{
-				InstanceID = authoring.data.ID.value,
+				InstanceID = authoring.data.ID,
 				OrganizationEntityID = 0
 			});
 			AddComponent<IsAwakeTag>(entity);

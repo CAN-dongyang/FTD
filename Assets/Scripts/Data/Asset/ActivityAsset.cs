@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 [CreateAssetMenu(fileName = "New Acts", menuName = "Asset/Activity")]
-public class ActivityAsset : EntityAsset
+public class ActivityAsset : DataAsset
 {
 	private UnityEvent _onCompleted;
 

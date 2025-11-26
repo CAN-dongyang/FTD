@@ -9,7 +9,7 @@ public class ActivityInstanceData : InstanceData
 	public int endTime = 0;
 	public DataID room;
 
-	public ActivityInstanceData(EntityAsset asset, DataType type) : base(asset, type) {}
+	public ActivityInstanceData(DataAsset asset, DataType type) : base(asset, type) {}
 }
 
 [Serializable]
@@ -50,5 +50,5 @@ public class LessonInstanceData : ActivityInstanceData
 		});
 	}
 
-	public LessonInstanceData(EntityAsset asset, DataType type) : base(asset, type) {}
+	public LessonInstanceData(DataAsset asset, DataType type) : base(asset, type) {}
 }

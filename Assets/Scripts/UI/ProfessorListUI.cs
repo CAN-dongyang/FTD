@@ -33,7 +33,7 @@ public class ProfessorListUI : MonoBehaviour
             TextMeshProUGUI nameText = newItem.GetComponentInChildren<TextMeshProUGUI>();
             if (nameText != null)
             {
-                // EntityAsset의 DisplayName 프로퍼티를 사용.
+                // DataAsset의 DisplayName 프로퍼티를 사용.
                 nameText.text = professorData.Asset.DisplayName; 
             }
         }

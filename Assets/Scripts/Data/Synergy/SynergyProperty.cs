@@ -2,10 +2,8 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract partial class SynergyProperty : EntityAsset, ISynergy
+public abstract partial class SynergyProperty : DataAsset
 {
-	public abstract SynergyType GetSynergyType { get; }
-
 	[SerializeField] private Sprite _icon;
 	public Sprite Icon => _icon;
 	[SerializeField] private List<SynergyData> _synergyDatas;

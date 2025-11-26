@@ -20,12 +20,12 @@ public class OrganizationAuthoring : MonoBehaviour
 
 			if(authoring.findID.IsValid && InstanceDataManager.Contains(authoring.findID))
 			{
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.data != null && authoring.data.ID.IsValid && InstanceDataManager.Contains(authoring.data.ID))
 			{
 				authoring.findID = authoring.data.ID;
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.asset != null && authoring.dataType != DataType.None)
 			{
@@ -38,21 +38,19 @@ public class OrganizationAuthoring : MonoBehaviour
 			var entity = GetEntity(TransformUsageFlags.Dynamic);
 			AddComponent(entity, new OrganizationComponentData()
 			{
-				InstanceID = authoring.data.ID.value
+				InstanceID = authoring.data.ID
 			});
 			AddComponent<IsAwakeTag>(entity);
 
 			var buffer = AddBuffer<RoomComponentData>(entity);
-			(authoring.data as OrganizationInstanceData).room_ids.ForEach(rid =>
+			(authoring.data as OrganizationInstanceData).rooms.ForEach(room =>
 			{
-				RoomInstanceData room = InstanceDataManager.Get<RoomInstanceData>(rid);
-				if(room != null)
-					buffer.Add(new RoomComponentData()
-					{
-						parentID = authoring.data.ID.value,
+				buffer.Add(new RoomComponentData()
+				{
+						parentID = authoring.data.ID,
 						bounds = room.bounds
-					});
 				});
+			});
 		}
 	}
 }

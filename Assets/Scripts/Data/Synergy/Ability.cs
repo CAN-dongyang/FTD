@@ -5,5 +5,4 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Ability_newAbility", menuName = "Synergy/Ability")]
 public class Ability : SynergyProperty
 {
-	public override SynergyType GetSynergyType => SynergyType.Ability;
 }

@@ -5,9 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using UnityEditor;
-using UnityEngine;
-
-public static class EntityAssetIDGenerator
+/*
+public static class DataAssetIDGenerator
 {
 	/// <summary>
 	/// Entity Asset의 ID가 초기화되지 않았을 때 부여하기 위한 매핑 값
@@ -15,40 +14,28 @@ public static class EntityAssetIDGenerator
 	/// 
 	/// Editor 상태일 때만 매핑 값이 존재 (#if UNITY_EDITOR)
 	/// </summary>
-	private static readonly Dictionary<Type, EntityAssetType> _typeToEnumMap = new()
-	{
-		{ typeof(ActivityAsset), EntityAssetType.Activity },
-		{ typeof(CharacterAsset), EntityAssetType.Character },
-		{ typeof(OrganizationAsset), EntityAssetType.Organization },
-		{ typeof(SynergyProperty), EntityAssetType.Synergy },
-		{ typeof(Ability), EntityAssetType.Ability },
-		{ typeof(Disposition), EntityAssetType.Disposition },
-		{ typeof(JobProperty), EntityAssetType.Job },
-		{ typeof(SkillProperty), EntityAssetType.Skill },
-		{ typeof(Stat), EntityAssetType.Stat }, // 이 클래스는 ScriptableObject가 아니지만 ID 사용이 필요함
-	};
 
 	[MenuItem("FTD/Generate Entity Asset's ID")]
 	public static void GenerateEntityIDs()
 	{
-		// Resources/Entity/ 하위의 모든 EntityAsset 로드
-		var entities = Resources.LoadAll<EntityAsset>("Entity/");
+		// Resources/Entity/ 하위의 모든 DataAsset 로드
+		var entities = Resources.LoadAll<DataAsset>("Entity/");
 		if (entities.Length == 0)
 		{
-			Debug.LogWarning("Assets/Resources/Entity/ 하위의 EntityAsset이 존재하지 않습니다. ID 생성을 종료합니다.");
+			Debug.LogWarning("Assets/Resources/Entity/ 하위의 DataAsset이 존재하지 않습니다. ID 생성을 종료합니다.");
 			return;
 		}
 
-		// EntityAsset의 Private 필드인 _id를 불러올 방법. reflection
-		FieldInfo idField = typeof(EntityAsset).GetField("_id", BindingFlags.NonPublic | BindingFlags.Instance);
+		// DataAsset의 Private 필드인 _id를 불러올 방법. reflection
+		FieldInfo idField = typeof(DataAsset).GetField("_id", BindingFlags.NonPublic | BindingFlags.Instance);
 		if (idField == null)
 		{
-			Debug.LogWarning("EntityAsset 타입에 _id 필드가 존재하지 않거나 찾을 수 없습니다. ID 생성을 종료합니다.");
+			Debug.LogWarning("DataAsset 타입에 _id 필드가 존재하지 않거나 찾을 수 없습니다. ID 생성을 종료합니다.");
 			return;
 		}
 
 		// Asset 타입 별 id index	(id 마지막의 iiii)
-		Dictionary<EntityAssetType, int> indexDic = new();
+		Dictionary<DataAssetType, int> indexDic = new();
 
 		// log용 변수
 		string dirtyLog = string.Empty;
@@ -61,7 +48,7 @@ public static class EntityAssetIDGenerator
 				.FirstOrDefault(pair => pair.Key == assetType)
 				.Value;
 
-			if (assetTypeEnum == EntityAssetType.None)
+			if (assetTypeEnum == DataAssetType.None)
 				throw new KeyNotFoundException($"{assetType}에 매핑된 Enum Value를 찾을 수 없습니다.");
 
 			if (!indexDic.ContainsKey(assetTypeEnum))
@@ -92,4 +79,5 @@ public static class EntityAssetIDGenerator
 		AssetDatabase.Refresh(); // 새로고침
 	}
 }
+*/
 #endif

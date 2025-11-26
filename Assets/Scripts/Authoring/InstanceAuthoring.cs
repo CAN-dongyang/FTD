@@ -4,7 +4,7 @@ using UnityEngine;
 public class InstanceAuthoring : MonoBehaviour
 {
 	[SerializeField] private DataID findID;
-	[SerializeField] private EntityAsset asset;
+	[SerializeField] private DataAsset asset;
 	[SerializeField] private DataType dataType;
 
 	[Tooltip("asset, dataType에 의해 초기화하거나 data에 입력된 ID로 찾음")]
@@ -19,12 +19,12 @@ public class InstanceAuthoring : MonoBehaviour
 
 			if(authoring.findID.IsValid && InstanceDataManager.Contains(authoring.findID))
 			{
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.data != null && authoring.data.ID.IsValid && InstanceDataManager.Contains(authoring.data.ID))
 			{
 				authoring.findID = authoring.data.ID;
-				authoring.data = InstanceDataManager.Get(authoring.findID);
+				authoring.data = InstanceDataManager.GetData(authoring.findID);
 			}
 			else if(authoring.asset != null && authoring.dataType != DataType.None)
 			{
@@ -37,7 +37,7 @@ public class InstanceAuthoring : MonoBehaviour
 			var entity = GetEntity(TransformUsageFlags.Dynamic);
 			AddComponent(entity, new InstanceComponentData()
 			{
-				InstanceID = authoring.data.ID.value
+				InstanceID = authoring.data.ID
 			});
 		}
 	}

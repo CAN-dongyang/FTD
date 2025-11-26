@@ -1,13 +1,12 @@
 using UnityEngine;
 
-// Entity의 원형 데이터 에셋. constant 틀
-public abstract class EntityAsset : ScriptableObject
+// 원형 데이터 에셋. constant 틀
+public abstract class DataAsset : ScriptableObject
 {
 	#region Property
-	[Header("Entity")]
-	// Editor에서 특별한 커맨드를 통해 id를 일괄 부여하기 위해 수정이 불가하게 만듦
-	[SerializeField] [HideInInspector] private int _id;
-	public int ID => _id;
+	[Header("Asset")]
+	[SerializeField] private DataID _id;
+	public DataID ID => _id;
 
 	[SerializeField] private string _displayName;
 	public string DisplayName => _displayName;

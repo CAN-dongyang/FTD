@@ -19,9 +19,8 @@ public enum StatType
 [Serializable]
 public struct Stat : ISynergy
 {
-	// ID 호환성을 위해 Type의 Int 값을 ID로 한다
-	public readonly int ID => (int)Type;
-	public readonly SynergyType GetSynergyType => SynergyType.Stat;
+	// ID 호환성을 위해 Type의 값을 ID로 한다
+	public readonly DataID ID => new((int)Type);
 
 	[SerializeField] private StatType _type;
 	public readonly StatType Type => _type;

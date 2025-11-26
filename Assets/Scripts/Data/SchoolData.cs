@@ -22,5 +22,5 @@ public class SchoolData : OrganizationInstanceData
 	}
 	#endregion
 
-	public SchoolData(EntityAsset asset, DataType type) : base(asset, type) {}
+	public SchoolData(DataAsset asset) : base(asset, DataType.School) {}
 }

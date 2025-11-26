@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Data.Common;
 using System.IO;
 using System.Linq;
 using UnityEngine;
@@ -25,24 +26,34 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	private List<InstanceData> DataList = new(); // 저장과 수정
 	private Dictionary<DataID, InstanceData> Datas = new(); // 검색 ( O(1) )
 
+	private Dictionary<DataID, DataAsset> Assets = new();
+
 	public static bool Contains(DataID id) => Instance.Datas.ContainsKey(id);
 	#region Gets
 	public static List<InstanceData> GetAllData() => Instance.DataList;
-	public static InstanceData Get(DataID id)
+	public static InstanceData GetData(DataID id)
 	{
 		return Instance.Datas.TryGetValue(id, out InstanceData value) ? value : null;
 	}
-	public static T Get<T>(DataID id) where T : InstanceData
+	public static T GetData<T>(DataID id) where T : InstanceData
 	{
 		return Instance.Datas.TryGetValue(id, out InstanceData value) ? value as T : null;
 	}
 
-	public static DataID GetNewID(int assetID, DataType dataType)
+	public static DataAsset GetAsset(DataID id)
 	{
-		// sub type 값을 침범하기 전까지
-		for (int i = 1; i < IDStructure.indent_s; i++)
-			if (!Instance.Datas.ContainsKey(new(assetID + (int)dataType + i)))
-				return new(assetID + (int)dataType + i);
+		return Instance.Assets.TryGetValue(id, out DataAsset value) ? value : null;
+	}
+	public static T GetAsset<T>(DataID id) where T : DataAsset
+	{
+		return Instance.Assets.TryGetValue(id, out DataAsset value) ? value as T : null;
+	}
+
+	public static DataID GetNewID(DataID assetID, DataType dataType)
+	{
+		for (int i = 1; i < DataIDStructure.indent_type; i++)
+			if (!Instance.Datas.ContainsKey(new((int)assetID + (int)dataType + i)))
+				return new((int)assetID + (int)dataType + i);
 		return default;
 	}	
 	#endregion
@@ -69,16 +80,16 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	#endregion
 	
 	#region
-	public static InstanceData CreateByDataType(EntityAsset createReqAsset, DataType type)
+	public static InstanceData CreateByDataType(DataAsset createReqAsset, DataType type)
 	{
 		return type switch
 		{
-			DataType.Lesson => new LessonInstanceData(createReqAsset),
-			DataType.Activity => new ActivityInstanceData(createReqAsset),
+			DataType.Lesson => new LessonInstanceData(createReqAsset, DataType.Lesson),
+			DataType.Activity => new ActivityInstanceData(createReqAsset, DataType.Activity),
 			DataType.Student => new StudentInstanceData(createReqAsset),
 			DataType.Professor => new ProfessorInstanceData(createReqAsset),
 			DataType.Worker => new WorkerInstanceData(createReqAsset),
-			DataType.Organization => new OrganizationInstanceData(createReqAsset),
+			DataType.Organization => new OrganizationInstanceData(createReqAsset, DataType.Organization),
 			DataType.School => new SchoolData(createReqAsset),
 			_ => null,
 		};

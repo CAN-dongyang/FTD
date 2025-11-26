@@ -3,7 +3,7 @@ using UnityEngine.U2D;
 
 // 모든 캐릭터의 베이스. Student는 이 Character로 간주
 [CreateAssetMenu(fileName = "New Character", menuName = "Asset/Character")]
-public class CharacterAsset : EntityAsset
+public class CharacterAsset : DataAsset
 {
 	[Header("Character")]
 	[SerializeField] private SpriteAtlas _spriteAtlas;

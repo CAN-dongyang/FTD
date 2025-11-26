@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RoomAsset : EntityAsset
+public class RoomAsset : DataAsset
 {
 	
 }

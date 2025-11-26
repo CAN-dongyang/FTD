@@ -9,15 +9,6 @@ aaa : asset type
 ttt  : data type
 iiii : instance number
 */
-public struct IDStructure
-{
-	public const int indent_a = 10000000;
-	public const int indent_c = 10000;
-
-	public const int indent_s = indent_a;
-	public const int indent_e = 100000;
-}
-
 public struct DataIDStructure
 {
 	public const int indent_asset = 10000000;
@@ -26,7 +17,7 @@ public struct DataIDStructure
 
 public struct DataID : IEquatable<DataID>, IEquatable<int>
 {
-	public int value; // unsigned int
+	private int value; // unsigned int
 	public DataID(int value=-1) => this.value = value;
 
 	// Property
@@ -34,14 +25,21 @@ public struct DataID : IEquatable<DataID>, IEquatable<int>
 	public readonly bool IsAsset => value % DataIDStructure.indent_asset > 0;
 	public readonly bool IsInstance => value % DataIDStructure.indent_asset > 0;
 
-	public readonly DataType GetAssetType => (DataType)(value / DataIDStructure.indent_asset);
-	public readonly DataType GetDataType => (DataType)(value / DataIDStructure.indent_type);
+	public readonly int GetAssetValue => value / DataIDStructure.indent_asset * DataIDStructure.indent_asset;
+	public readonly int GetCategoryValue => value % DataIDStructure.indent_asset / DataIDStructure.indent_type * DataIDStructure.indent_type;
+	public readonly int GetInstanceValue => value % DataIDStructure.indent_type;
+
+	public readonly DataType GetAssetType => (DataType)GetAssetValue;
+	public readonly DataType GetDataType => (DataType)GetCategoryValue;
 	
-	// public readonly Asset GetAsset => ;
-	public readonly InstanceData GetData => InstanceDataManager.Get(this);
+	public readonly DataAsset GetAsset => InstanceDataManager.GetAsset(GetAssetValue);
+	public readonly InstanceData GetData => InstanceDataManager.GetData(this);
 
 	public readonly bool Equals(int other) => value == other;
 	public readonly bool Equals(DataID other) => value == other.value;
+
+	public static implicit operator int(DataID id) => id.value;
+	public static implicit operator DataID(int v) => new(v);
 }
 
 public enum DataType

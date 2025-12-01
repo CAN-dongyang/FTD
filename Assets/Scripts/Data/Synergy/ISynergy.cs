@@ -4,5 +4,5 @@ public interface ISynergy
 	// SynergyProperty : Asset ID
 	public DataID ID { get; }
 
-	public int GetSynergyType => ID.GetCategoryValue;
+	public DataType GetSynergyType => ID.GetDataType;
 }

@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21a4ded9c47bc104d886e01fff50ef4e, type: 3}
   m_Name: Disposition_Pessimistic
   m_EditorClassIdentifier: 
-  _id: 40030007
+  _id:
+    value: 0
   _displayName: Pessimistic
   _description: 
+  _setAssetType_inEditor: 0
   _icon: {fileID: 0}
   _synergyDatas: []

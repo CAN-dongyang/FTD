@@ -49,12 +49,15 @@ public class InstanceDataWindow : EditorWindow
 			if (createReqAsset)
 			{
 				selectedDataType = (DataType)EditorGUILayout.EnumPopup(selectedDataType);
+				if(selectedDataType != DataType.None && !new DataID(selectedDataType).IsInstance)
+				{
+					Debug.LogWarning("선택한 데이터 타입이 Instance 타입이 아닙니다.");
+				}
 
 				// + condition : 선택한 asset에서 선택한 data를 만들 수 있는가?
 				if (GUILayout.Button("Create"))
 				{
-					if(InstanceDataManager.CreateByDataType(createReqAsset, selectedDataType) == null)
-						Debug.LogError("선택한 데이터 타입은 Asset의 타입입니다. 표기 못해서 ㅈㅅ");
+					InstanceDataManager.CreateByDataType(createReqAsset, selectedDataType);
 					Refresh();
 				}
 			}

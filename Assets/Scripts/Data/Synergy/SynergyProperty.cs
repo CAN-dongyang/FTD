@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract partial class SynergyProperty : DataAsset
+public abstract partial class SynergyProperty : DataAsset, ISynergy
 {
 	[SerializeField] private Sprite _icon;
 	public Sprite Icon => _icon;

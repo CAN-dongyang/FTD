@@ -14,7 +14,7 @@ public partial class SynergyCsvManager
 	const string saveFileName = "synergySaves.csv";
 	const string dataFieldName = "_synergyDatas";
 
-	[MenuItem(itemName: "FTD/Save All Synergy to csv")]
+	//[MenuItem(itemName: "FTD/Save All Synergy to csv")]
 	public static void SaveAllSynergy()
 	{
 		// 모든 Synergy를 List 타입으로 로드
@@ -96,8 +96,7 @@ public partial class SynergyCsvManager
 		Debug.Log($"저장을 완료했습니다. {filePath}\n이 데이터대로 진행하기를 원하신다면 FTD/LoadAllSynergy를 호출해주세요.");
 	}
 
-
-	[MenuItem(itemName: "FTD/Load All Synergy from csv")]
+	//[MenuItem(itemName: "FTD/Load All Synergy from csv")]
 	public static void LoadAllSynergy()
 	{
 		// save csv 파일 로드

@@ -14,13 +14,28 @@ public abstract class DataAsset : ScriptableObject
 	[TextArea]
 	[SerializeField] private string _description;
 	public string Desc => _description;
-	#endregion
-	
+
 #if UNITY_EDITOR
-	// Zero ID Notification
+	[SerializeField] private DataType _setAssetType_inEditor;
+	private DataType _prevType;
+
 	private void OnValidate()
 	{
-		if (ID == 0) Debug.LogAssertion($"{this}의 ID가 0입니다. FTD 메뉴의 ID Generation을 실행해주세요.");
+		if(_prevType != _setAssetType_inEditor)
+		{
+			_id = new(_setAssetType_inEditor);
+			_prevType = _setAssetType_inEditor;
+
+			UnityEditor.EditorUtility.SetDirty(this);
+			UnityEditor.AssetDatabase.SaveAssetIfDirty(this);
+			UnityEditor.AssetDatabase.Refresh();
+
+			if(!_id.IsAsset)
+			{
+				Debug.LogWarning($"{name}에 적용된 아이디 타입이 에셋이 아닙니다");
+			}
+		}
 	}
 #endif
+	#endregion
 }

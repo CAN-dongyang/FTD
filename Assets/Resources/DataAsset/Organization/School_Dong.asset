@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e8f915d4f96dfb45b496ac2e18b766d, type: 3}
   m_Name: School_Dong
   m_EditorClassIdentifier: 
-  _id: 30000001
+  _id:
+    value: 30010000
   _displayName: DongyangDragon
   _description: 
+  _setAssetType_inEditor: 30010000

@@ -16,7 +16,7 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	[SerializeField] private string fileName = "InstanceDatas.json";
 	
 #if UNITY_EDITOR
-	public string FilePath => $"{Application.dataPath}/Resources/Entity/{fileName}";
+	public string FilePath => $"{Application.dataPath}/Resources/DataAsset/{fileName}";
 #else
 	public string FilePath => Application.persistentDataPath + fileName;
 #endif
@@ -29,6 +29,7 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	private Dictionary<DataID, DataAsset> Assets = new();
 
 	public static bool Contains(DataID id) => Instance.Datas.ContainsKey(id);
+	
 	#region Gets
 	public static List<InstanceData> GetAllData() => Instance.DataList;
 	public static InstanceData GetData(DataID id)
@@ -48,17 +49,9 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	{
 		return Instance.Assets.TryGetValue(id, out DataAsset value) ? value as T : null;
 	}
-
-	public static DataID GetNewID(DataID assetID, DataType dataType)
-	{
-		for (int i = 1; i < DataIDStructure.indent_type; i++)
-			if (!Instance.Datas.ContainsKey(new((int)assetID + (int)dataType + i)))
-				return new((int)assetID + (int)dataType + i);
-		return default;
-	}	
 	#endregion
 
-	#region DDL
+	#region Add / Remove
 	public static bool AddData<DATA_TYPE>(DATA_TYPE data) where DATA_TYPE : InstanceData
 	{
 		if (Instance.Datas.ContainsKey(data.ID)) return true;
@@ -81,36 +74,33 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	
 	#region
 	public static InstanceData CreateByDataType(DataAsset createReqAsset, DataType type)
+		=> CreateByDataType<InstanceData>(createReqAsset, type);
+	public static T CreateByDataType<T>(DataAsset createReqAsset, DataType type)
+		where T : InstanceData
 	{
 		return type switch
 		{
-			DataType.Lesson => new LessonInstanceData(createReqAsset, DataType.Lesson),
-			DataType.Activity => new ActivityInstanceData(createReqAsset, DataType.Activity),
-			DataType.Student => new StudentInstanceData(createReqAsset),
-			DataType.Professor => new ProfessorInstanceData(createReqAsset),
-			DataType.Worker => new WorkerInstanceData(createReqAsset),
-			DataType.Organization => new OrganizationInstanceData(createReqAsset, DataType.Organization),
-			DataType.School => new SchoolData(createReqAsset),
-			_ => null,
-		};
-	}
-	public static InstanceData ParseByDataType(InstanceData data, DataType type)
-	{
-		return type switch
-		{
-			DataType.Lesson => data as LessonInstanceData,
-			DataType.Activity => data as ActivityInstanceData,
-			DataType.Student => data as StudentInstanceData,
-			DataType.Professor => data as ProfessorInstanceData,
-			DataType.Worker => data as WorkerInstanceData,
-			DataType.Organization => data as OrganizationInstanceData,
-			DataType.School => data as SchoolData,
+			DataType.Lesson => new LessonInstanceData(createReqAsset, DataType.Lesson) as T,
+			DataType.Activity => new ActivityInstanceData(createReqAsset, DataType.Activity) as T,
+			DataType.Student => new StudentInstanceData(createReqAsset) as T,
+			DataType.Professor => new ProfessorInstanceData(createReqAsset) as T,
+			DataType.Worker => new WorkerInstanceData(createReqAsset) as T,
+			DataType.Organization => new OrganizationInstanceData(createReqAsset, DataType.Organization) as T,
+			DataType.School => new SchoolData(createReqAsset) as T,
 			_ => null,
 		};
 	}
 	#endregion
 
-	#region Save Load
+	#region Util
+	public static DataID GetNewID(DataID assetID, DataType dataType)
+	{
+		for (int i = 1; i < DataIDStructure.indent_type; i++)
+			if (!Instance.Datas.ContainsKey(new((int)assetID + (int)dataType + i)))
+				return new((int)assetID + (int)dataType + i);
+		return default;
+	}
+
 	public void LoadAll()
 	{
 		if (DataList != null) DataList.Clear();
@@ -175,10 +165,15 @@ public class InstanceDataManager : MonoBehaviour, ISerializationCallbackReceiver
 	{
 		Datas.Clear();
 		
-		foreach (var data in DataList)
-			if(data == null) Debug.LogError("data is null");
-			else if(Datas.ContainsKey(data.ID)) Debug.LogError($"duplicated Key {data.ID}");
-			else Datas.Add(data.ID, data);
+		for (int i=0; i<DataList.Count; i++)
+			if(DataList[i] == null)
+			{
+				Debug.LogError("data is null. i'll remove it");
+				DataList.RemoveAt(i);
+				i--;
+			}
+			else if(Datas.ContainsKey(DataList[i].ID)) Debug.LogError($"duplicated Key {DataList[i].ID} - from {DataList[i].ID}");
+			else Datas.Add(DataList[i].ID, DataList[i]);
 	}
 	public void OnAfterDeserialize() { }
 	#endregion

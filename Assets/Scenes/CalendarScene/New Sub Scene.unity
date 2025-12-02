@@ -119,7 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &924526196
+--- !u!1 &851884665
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,52 +127,16 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 924526197}
-  - component: {fileID: 924526198}
+  - component: {fileID: 1304015672}
+  - component: {fileID: 1304015674}
   m_Layer: 0
-  m_Name: Character
+  m_Name: Student
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &924526197
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 924526196}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &924526198
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 924526196}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7cec88933f856454a935dc55f99bb174, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  asset: {fileID: 11400000, guid: 8a994143e9c15834a8a721f72a3e4da1, type: 2}
-  data:
-    _id: 20020001
-    aptitudes: []
-    interests: []
-    dispositions: []
-    skills: []
-    familyGeneration: 1
-  organization: {fileID: 1885578212}
---- !u!1 &1885578210
+--- !u!1 &1304015670
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -180,8 +144,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1885578211}
-  - component: {fileID: 1885578212}
+  - component: {fileID: 1304015671}
+  - component: {fileID: 1304015673}
   m_Layer: 0
   m_Name: School
   m_TagString: Untagged
@@ -189,13 +153,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1885578211
+--- !u!4 &1304015671
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1885578210}
+  m_GameObject: {fileID: 1304015670}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -204,24 +168,107 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1885578212
+--- !u!4 &1304015672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851884665}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1304015673
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1885578210}
+  m_GameObject: {fileID: 1304015670}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e6eacd9eb2e6d4548b4cc06d73446bd8, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
-  asset: {fileID: 11400000, guid: 6c2264427ddcbcd4cb5cbb508f83ca03, type: 2}
+  m_EditorClassIdentifier: Assembly-CSharp::OrganizationAuthoring
+  findID:
+    entityID: 30000001
+    instanceID: 70000001
+  asset: {fileID: 0}
+  dataType: 60000000
   data:
-    _id: 30010001
+    rid: 7176120435825967251
+  references:
+    version: 2
+    RefIds:
+    - rid: 7176120435825967251
+      type: {class: SchoolData, ns: , asm: Assembly-CSharp}
+      data:
+        _id:
+          entityID: 30000001
+          instanceID: 70000001
+        owner_ids: []
+        member_ids:
+        - entityID: 20000001
+          instanceID: 30000001
+        room_ids: []
+        activity_ids:
+        - entityID: 10000001
+          instanceID: 10000001
+        - entityID: 10000001
+          instanceID: 10000002
+        schedules:
+        - member_id:
+            entityID: 0
+            instanceID: 0
+          activitys:
+          - entityID: 0
+            instanceID: 0
+--- !u!114 &1304015674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851884665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ffb1832bb0fe34781c70f92ba056f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterAuthoring
+  findID:
+    entityID: 20000002
+    instanceID: 30000001
+  asset: {fileID: 0}
+  dataType: 30000000
+  data:
+    rid: 7176120435825967249
+  organization: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 7176120435825967249
+      type: {class: StudentInstanceData, ns: , asm: Assembly-CSharp}
+      data:
+        _id:
+          entityID: 20000002
+          instanceID: 30000001
+        aptitudes: []
+        interests: []
+        dispositions: []
+        skills: []
+        familyGeneration: 1
+        organization:
+          entityID: 0
+          instanceID: 0
+        scheduleDatas: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 924526197}
-  - {fileID: 1885578211}
+  - {fileID: 1304015672}
+  - {fileID: 1304015671}

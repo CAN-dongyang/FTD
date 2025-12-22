@@ -1,0 +1,28 @@
+{
+  "Professors": [
+    {
+      "Id": 1,
+      "Name": "미셸",
+      "Major": "검술",
+      "Salary": 500,
+      "Description": "왕국기사단 교관출신으로 기본검술에 능통합니다.",
+      "DispositionIds": [40030000]
+    },
+    {
+      "Id": 2,
+      "Name": "로버트",
+      "Major": "마법",
+      "Salary": 600,
+      "Description": "길거리 마법사 출신으로 기본만큼은 튼튼합니다 ",
+      "DispositionIds": [40030003]
+    },
+    {
+      "Id": 3,
+      "Name": "이사벨라",
+      "Major": "회계",
+      "Salary": 450,
+      "Description": "지방행정관 출신으로 비리를 저질러 파면당했습니다",
+      "DispositionIds": [40030005]
+    }
+  ]
+}

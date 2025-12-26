@@ -1,0 +1,5 @@
+10000000{"_id":{"entityID":10000001,"instanceID":10000001},"startTime":0,"endTime":0,"room":{"entityID":0,"instanceID":0},"professor":{"entityID":0,"instanceID":0},"students":[]}
+10000000{"_id":{"entityID":10000001,"instanceID":10000002},"startTime":0,"endTime":0,"room":{"entityID":0,"instanceID":0},"professor":{"entityID":0,"instanceID":0},"students":[]}
+40000000{"_id":{"entityID":20000001,"instanceID":40000001},"aptitudes":[],"interests":[],"dispositions":[],"skills":[],"familyGeneration":1,"organization":{"entityID":0,"instanceID":0},"scheduleDatas":0}
+70000000{"_id":{"entityID":30000001,"instanceID":70000001},"owner_ids":[],"member_ids":[{"entityID":20000001,"instanceID":40000001}],"room_ids":[],"activity_ids":[{"entityID":10000001,"instanceID":10000001},{"entityID":10000001,"instanceID":10000002}],"schedules":[]}
+30000000{"_id":{"entityID":20000002,"instanceID":30000001},"aptitudes":[],"interests":[],"dispositions":[],"skills":[],"familyGeneration":1,"organization":{"entityID":0,"instanceID":0},"scheduleDatas":0}

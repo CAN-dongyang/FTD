@@ -8,46 +8,46 @@ public class HotbarUI : MonoBehaviour
 
     private Inventory inventory;
     private int selectedIndex = 0;
-    private InputActions inputActions; // 생성된 InputActions 클래스 참조
+    //private InputActions inputActions; // 생성된 InputActions 클래스 참조
 
     void Awake()
     {
         // InputActions 인스턴스 생성
-        inputActions = new InputActions();
+        //inputActions = new InputActions();
     }
 
     void OnEnable()
     {
         // Player 액션 맵 활성화
-        inputActions.Player.Enable();
+        //inputActions.Player.Enable();
 
         // 각 핫바 액션이 performed 될 때 SelectSlot 메서드를 호출하도록 이벤트 구독
-        inputActions.Player.Hotbar1.performed += ctx => SelectSlot(0);
-        inputActions.Player.Hotbar2.performed += ctx => SelectSlot(1);
-        inputActions.Player.Hotbar3.performed += ctx => SelectSlot(2);
-        inputActions.Player.Hotbar4.performed += ctx => SelectSlot(3);
-        inputActions.Player.Hotbar5.performed += ctx => SelectSlot(4);
-        inputActions.Player.Hotbar6.performed += ctx => SelectSlot(5);
-        inputActions.Player.Hotbar7.performed += ctx => SelectSlot(6);
-        inputActions.Player.Hotbar8.performed += ctx => SelectSlot(7);
-        inputActions.Player.Hotbar9.performed += ctx => SelectSlot(8);
-        inputActions.Player.Hotbar10.performed += ctx => SelectSlot(9);
+        //inputActions.Player.Hotbar1.performed += ctx => SelectSlot(0);
+        //inputActions.Player.Hotbar2.performed += ctx => SelectSlot(1);
+        //inputActions.Player.Hotbar3.performed += ctx => SelectSlot(2);
+        //inputActions.Player.Hotbar4.performed += ctx => SelectSlot(3);
+        //inputActions.Player.Hotbar5.performed += ctx => SelectSlot(4);
+        //inputActions.Player.Hotbar6.performed += ctx => SelectSlot(5);
+        //inputActions.Player.Hotbar7.performed += ctx => SelectSlot(6);
+        //inputActions.Player.Hotbar8.performed += ctx => SelectSlot(7);
+        //inputActions.Player.Hotbar9.performed += ctx => SelectSlot(8);
+        //inputActions.Player.Hotbar10.performed += ctx => SelectSlot(9);
     }
 
     void OnDisable()
     {
         // Player 액션 맵 비활성화 및 이벤트 구독 해제
-        inputActions.Player.Disable();
-        inputActions.Player.Hotbar1.performed -= ctx => SelectSlot(0);
-        inputActions.Player.Hotbar2.performed -= ctx => SelectSlot(1);
-        inputActions.Player.Hotbar3.performed -= ctx => SelectSlot(2);
-        inputActions.Player.Hotbar4.performed -= ctx => SelectSlot(3);
-        inputActions.Player.Hotbar5.performed -= ctx => SelectSlot(4);
-        inputActions.Player.Hotbar6.performed -= ctx => SelectSlot(5);
-        inputActions.Player.Hotbar7.performed -= ctx => SelectSlot(6);
-        inputActions.Player.Hotbar8.performed -= ctx => SelectSlot(7);
-        inputActions.Player.Hotbar9.performed -= ctx => SelectSlot(8);
-        inputActions.Player.Hotbar10.performed -= ctx => SelectSlot(9);
+        //snputActions.Player.Disable();
+        //snputActions.Player.Hotbar1.performed -= ctx => SelectSlot(0);
+        //snputActions.Player.Hotbar2.performed -= ctx => SelectSlot(1);
+        //snputActions.Player.Hotbar3.performed -= ctx => SelectSlot(2);
+        //snputActions.Player.Hotbar4.performed -= ctx => SelectSlot(3);
+        //snputActions.Player.Hotbar5.performed -= ctx => SelectSlot(4);
+        //snputActions.Player.Hotbar6.performed -= ctx => SelectSlot(5);
+        //snputActions.Player.Hotbar7.performed -= ctx => SelectSlot(6);
+        //snputActions.Player.Hotbar8.performed -= ctx => SelectSlot(7);
+        //snputActions.Player.Hotbar9.performed -= ctx => SelectSlot(8);
+        //snputActions.Player.Hotbar10.performed -= ctx => SelectSlot(9);
     }
 
     void Start()

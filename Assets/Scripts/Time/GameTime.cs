@@ -1,3 +1,4 @@
+using System;
 using Unity.Entities;
 
 // 게임의 전역 시간 정보 (Singleton Entity에 존재)
@@ -15,7 +16,7 @@ public struct GameTime : IComponentData
 		get => TimeScale.Equals(0f);
 		set => TimeScale = value ? 0f : 1f;     // 기본 Scale 값은 1이다
 	}
-	public GameDayOfWeek DayOfWeek => (GameDayOfWeek)((Day - 1) % 7);
+	public DayOfWeek DayOfWeek => (DayOfWeek)((Day - 1) % 7);
 	public int Hour => (int)(TimeOfDay / 60);
 	public int Minutes => (int)(TimeOfDay % 60);
 

@@ -453,6 +453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b6eef93d098c8e45a5a8ef80cb9dfbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
+  _data: {fileID: 11400000, guid: 852fe1c6f0e5816418cc13f515d5b69e, type: 2}
   _moveSpeed: 5
   _rigidbody: {fileID: 26550675}
   _detectedObject: {fileID: 0}

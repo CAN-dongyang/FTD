@@ -38,7 +38,10 @@ public class SceneController : MonoBehaviour
 		while(GameData.Instance == null)
 			yield return null;
 		
-		while(SchoolData.Instance == null)
+		while(Player.Instance == null)
+			yield return null;
+		
+		while(School.Instance == null)
 			yield return null;
 		
 		Start();

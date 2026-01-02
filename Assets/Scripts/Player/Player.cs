@@ -4,6 +4,9 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+	[SerializeField] private PlayerData _data;
+	public PlayerData Data => _data;
+
 	[Header("Physics")]
 	[Range(3, 12)]
 	[SerializeField] private float _moveSpeed = 5f;

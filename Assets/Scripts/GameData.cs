@@ -6,6 +6,9 @@ public class GameData : ScriptableObject
 	public GameTime time;
 	public static GameTime Time => Instance.time;
 
+	public Player player;
+	public static Player Player => Instance.player;
+
 	public static GameData Instance { get; private set; }
 	public void Initialize()
 	{

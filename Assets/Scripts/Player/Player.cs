@@ -4,12 +4,20 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-	public GameObject detectedObject;
-	public UnityEvent<GameObject> OnDetectEvent = new();
-
+	[Header("Physics")]
 	[Range(3, 12)]
 	[SerializeField] private float _moveSpeed = 5f;
 	[SerializeField] private Rigidbody2D _rigidbody;
+
+	[Header("Detective")]
+	[SerializeField] private GameObject _detectedObject;
+	public GameObject NowDetected => _detectedObject;
+	public UnityEvent<GameObject> OnDetectEvent = new();
+
+	public void Detect(GameObject obj)
+	{
+		OnDetectEvent.Invoke(_detectedObject = obj);
+	}
 
 	private void Move(InputAction.CallbackContext cb)
 	{
@@ -17,9 +25,12 @@ public class Player : MonoBehaviour
 	}
 	private void Interact(InputAction.CallbackContext cb)
 	{
-		if(detectedObject is not null)
+		if(NowDetected is not null)
 		{
+			Debug.Log($"Interact to {NowDetected}");
 			
+			var schoolUI = FindAnyObjectByType<SchoolUIControl>();
+			if(schoolUI) schoolUI.ToggleUI();
 		}
 	}
 
@@ -40,6 +51,12 @@ public class Player : MonoBehaviour
 			act.performed += Move;
 			act.canceled += Move;
 		}
+
+		OnDetectEvent.AddListener(obj =>
+		{
+			var schoolUI = FindAnyObjectByType<SchoolUIControl>();
+			if(schoolUI) schoolUI.CloseUI();
+		});
 	}
 	private void OnDisable()
 	{
@@ -58,6 +75,8 @@ public class Player : MonoBehaviour
 		}
 
 		InputSystem.actions.Disable();
+
+		OnDetectEvent.RemoveAllListeners();
 	}
 
 	#region Singleton

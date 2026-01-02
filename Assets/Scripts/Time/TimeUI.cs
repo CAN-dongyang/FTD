@@ -5,10 +5,9 @@ public class TimeUI : MonoBehaviour
 {
 	[SerializeField] private TextMeshProUGUI timeText;
 
-	void Update()
+	void LateUpdate()
 	{
-		// GameTimeComponent 데이터를 timeEntity로부터 가져옵니다.
-		GameTime time = new GameTime(); // entityManager.GetComponentData<GameTime>(timeEntity);
+		var time = GameData.Time;
 
 		int hour = time.Hour;
 		string timePeriod;

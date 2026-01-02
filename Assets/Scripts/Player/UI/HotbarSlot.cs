@@ -4,8 +4,8 @@ using UnityEngine.UI;
 
 public class HotbarSlot : MonoBehaviour
 {
-    public Image icon;
-    public Image border; // 선택 상태를 표시할 테두리 이미지
+	public Image border; // 선택 상태를 표시할 테두리 이미지
+	public Image icon;
 
     private Item item;
 

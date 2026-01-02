@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,18 +8,16 @@ public class MinimapUI : MonoBehaviour
     public Button zoomInButton;
     public Button zoomOutButton;
 
-
-    void Start()
+    void OnEnable()
     {
-        if (zoomInButton != null)
-        {
-            zoomInButton.onClick.AddListener(ZoomIn);
-        }
-        if (zoomOutButton != null)
-        {
-            zoomOutButton.onClick.AddListener(ZoomOut);
-        }
+        zoomInButton?.onClick.AddListener(ZoomIn);
+        zoomOutButton?.onClick.AddListener(ZoomOut);
     }
+	void OnDestroy()
+	{
+		zoomInButton?.onClick.RemoveListener(ZoomIn);
+		zoomOutButton?.onClick.RemoveListener(ZoomIn);
+	}
 
     public void ZoomIn()
     {

@@ -1,8 +1,7 @@
 using System;
-using Unity.Entities;
 
 // 게임의 전역 시간 정보 (Singleton Entity에 존재)
-public struct GameTime : IComponentData
+public struct GameTime
 {
 	public int Year;			// 현재 년도 [ n ~ inf ]
 	public int Quater;			// 현재 분기 [ 1 ~ 4 ]

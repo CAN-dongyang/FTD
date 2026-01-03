@@ -1,2 +1,3263 @@
 fileFormatVersion: 2
 guid: 1f39f2ad15eaf6f48b24c0093430601f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5224737006091381399
+    second: Tool_Shovel_0
+  - first:
+      213: 3109411408000945746
+    second: Tool_Shovel_1
+  - first:
+      213: -7560975103499059634
+    second: Tool_Shovel_2
+  - first:
+      213: 4286806544703297899
+    second: Tool_Shovel_3
+  - first:
+      213: 2051161527301847445
+    second: Tool_Shovel_4
+  - first:
+      213: 6314068281403327482
+    second: Tool_Shovel_5
+  - first:
+      213: 5887969746594052009
+    second: Tool_Shovel_6
+  - first:
+      213: -954795666374625433
+    second: Tool_Shovel_7
+  - first:
+      213: 825293643204280797
+    second: Tool_Shovel_8
+  - first:
+      213: 4942087325126851485
+    second: Tool_Shovel_9
+  - first:
+      213: -8312384196486445757
+    second: Tool_Shovel_10
+  - first:
+      213: 4008960115804330316
+    second: Tool_Shovel_11
+  - first:
+      213: -979859475909317788
+    second: Tool_Shovel_12
+  - first:
+      213: 305854917799801036
+    second: Tool_Shovel_13
+  - first:
+      213: -7004853092739176035
+    second: Tool_Shovel_14
+  - first:
+      213: -6395848859721227077
+    second: Tool_Shovel_15
+  - first:
+      213: 398121267729997026
+    second: Tool_Shovel_16
+  - first:
+      213: 7430124700824823932
+    second: Tool_Shovel_17
+  - first:
+      213: 885640956427997332
+    second: Tool_Shovel_18
+  - first:
+      213: -7536304190175386882
+    second: Tool_Shovel_19
+  - first:
+      213: -6405139642940937307
+    second: Tool_Shovel_20
+  - first:
+      213: -5886439236394110939
+    second: Tool_Shovel_21
+  - first:
+      213: 8060685381732635547
+    second: Tool_Shovel_22
+  - first:
+      213: -4471712748563965188
+    second: Tool_Shovel_23
+  - first:
+      213: 1384814882370331773
+    second: Tool_Shovel_24
+  - first:
+      213: 9030157788220372267
+    second: Tool_Shovel_25
+  - first:
+      213: 5941881454693250459
+    second: Tool_Shovel_26
+  - first:
+      213: 2721468819727313336
+    second: Tool_Shovel_27
+  - first:
+      213: -9122493573670123878
+    second: Tool_Shovel_28
+  - first:
+      213: 7152624802968811801
+    second: Tool_Shovel_29
+  - first:
+      213: 3870567589680435542
+    second: Tool_Shovel_30
+  - first:
+      213: -4423464015405734902
+    second: Tool_Shovel_31
+  - first:
+      213: 2335387906674626339
+    second: Tool_Shovel_32
+  - first:
+      213: -5655879247198658741
+    second: Tool_Shovel_33
+  - first:
+      213: -7380337930157613969
+    second: Tool_Shovel_34
+  - first:
+      213: -3554006696021067475
+    second: Tool_Shovel_35
+  - first:
+      213: -6508325524182444163
+    second: Tool_Shovel_36
+  - first:
+      213: -6051650608459815022
+    second: Tool_Shovel_37
+  - first:
+      213: -2040861035536356447
+    second: Tool_Shovel_38
+  - first:
+      213: -6214289977240226306
+    second: Tool_Shovel_39
+  - first:
+      213: -5037457791769103122
+    second: Tool_Shovel_40
+  - first:
+      213: 2376172216270226596
+    second: Tool_Shovel_41
+  - first:
+      213: 8749096007644520325
+    second: Tool_Shovel_42
+  - first:
+      213: -5396170931795142663
+    second: Tool_Shovel_43
+  - first:
+      213: 3740299174932893943
+    second: Tool_Shovel_44
+  - first:
+      213: 6279943574460320909
+    second: Tool_Shovel_45
+  - first:
+      213: -3045312427841834850
+    second: Tool_Shovel_46
+  - first:
+      213: -8832799685016083825
+    second: Tool_Shovel_47
+  - first:
+      213: 4552281146447555539
+    second: Tool_Shovel_48
+  - first:
+      213: 3928817584129152515
+    second: Tool_Shovel_49
+  - first:
+      213: 2175442842874621721
+    second: Tool_Shovel_50
+  - first:
+      213: -214052510800797519
+    second: Tool_Shovel_51
+  - first:
+      213: -4639943409572900059
+    second: Tool_Shovel_52
+  - first:
+      213: 7590113080966227463
+    second: Tool_Shovel_53
+  - first:
+      213: -6546260677807964820
+    second: Tool_Shovel_54
+  - first:
+      213: -1908514436131747342
+    second: Tool_Shovel_55
+  - first:
+      213: 2720537491564312135
+    second: Tool_Shovel_56
+  - first:
+      213: -4890753403686221787
+    second: Tool_Shovel_57
+  - first:
+      213: 3800720679843027531
+    second: Tool_Shovel_58
+  - first:
+      213: -3330142981907990715
+    second: Tool_Shovel_59
+  - first:
+      213: -4532560208830714716
+    second: Tool_Shovel_60
+  - first:
+      213: -711549812342363289
+    second: Tool_Shovel_61
+  - first:
+      213: -8872500977284992213
+    second: Tool_Shovel_62
+  - first:
+      213: -4046426251581446711
+    second: Tool_Shovel_63
+  - first:
+      213: -7498444761068861436
+    second: Tool_Shovel_64
+  - first:
+      213: -5844893090194855403
+    second: Tool_Shovel_65
+  - first:
+      213: 4496861518494290701
+    second: Tool_Shovel_66
+  - first:
+      213: 645683444937536071
+    second: Tool_Shovel_67
+  - first:
+      213: -1529466561058271947
+    second: Tool_Shovel_68
+  - first:
+      213: -7845161312566381610
+    second: Tool_Shovel_69
+  - first:
+      213: 4080382077668549208
+    second: Tool_Shovel_70
+  - first:
+      213: 8237972612690296752
+    second: Tool_Shovel_71
+  - first:
+      213: -6691518627120651146
+    second: Tool_Shovel_72
+  - first:
+      213: -5317390013002415769
+    second: Tool_Shovel_73
+  - first:
+      213: 145229236275266638
+    second: Tool_Shovel_74
+  - first:
+      213: -1708942155922970557
+    second: Tool_Shovel_75
+  - first:
+      213: -3470588950784788356
+    second: Tool_Shovel_76
+  - first:
+      213: -4474342882166107879
+    second: Tool_Shovel_77
+  - first:
+      213: 835534032689233580
+    second: Tool_Shovel_78
+  - first:
+      213: 2576706978722537465
+    second: Tool_Shovel_79
+  - first:
+      213: -3858102201811731428
+    second: Tool_Shovel_80
+  - first:
+      213: -3315734052874978057
+    second: Tool_Shovel_81
+  - first:
+      213: -3453718397549035510
+    second: Tool_Shovel_82
+  - first:
+      213: -3476330547028246185
+    second: Tool_Shovel_83
+  - first:
+      213: 242199755395279334
+    second: Tool_Shovel_84
+  - first:
+      213: 2284577831844118351
+    second: Tool_Shovel_85
+  - first:
+      213: -2812796189561855560
+    second: Tool_Shovel_86
+  - first:
+      213: -5504721601795850521
+    second: Tool_Shovel_87
+  - first:
+      213: -1568554942452590029
+    second: Tool_Shovel_88
+  - first:
+      213: -8711449376090239612
+    second: Tool_Shovel_89
+  - first:
+      213: -4282797345928187015
+    second: Tool_Shovel_90
+  - first:
+      213: -5625372641619869970
+    second: Tool_Shovel_91
+  - first:
+      213: 7225099462101453549
+    second: Tool_Shovel_92
+  - first:
+      213: -416485503011785916
+    second: Tool_Shovel_93
+  - first:
+      213: -2971596702995964262
+    second: Tool_Shovel_94
+  - first:
+      213: -78607337229339628
+    second: Tool_Shovel_95
+  - first:
+      213: 2714975326213512904
+    second: Tool_Shovel_96
+  - first:
+      213: -1452820996051443671
+    second: Tool_Shovel_97
+  - first:
+      213: 833042057321066452
+    second: Tool_Shovel_98
+  - first:
+      213: 5780250265153699307
+    second: Tool_Shovel_99
+  - first:
+      213: 6569196198950745973
+    second: Tool_Shovel_100
+  - first:
+      213: -6688313074943850342
+    second: Tool_Shovel_101
+  - first:
+      213: 7758801653539542238
+    second: Tool_Shovel_102
+  - first:
+      213: -8146877552453934615
+    second: Tool_Shovel_103
+  - first:
+      213: -5437476707632661155
+    second: Tool_Shovel_104
+  - first:
+      213: 4561235514491689630
+    second: Tool_Shovel_105
+  - first:
+      213: -1475734467869485013
+    second: Tool_Shovel_106
+  - first:
+      213: 426049798106283062
+    second: Tool_Shovel_107
+  - first:
+      213: -4361366484143950016
+    second: Tool_Shovel_108
+  - first:
+      213: 5768227413365658717
+    second: Tool_Shovel_109
+  - first:
+      213: -7904533069619655764
+    second: Tool_Shovel_110
+  - first:
+      213: 8331257871944596648
+    second: Tool_Shovel_111
+  - first:
+      213: -3510073669390715849
+    second: Tool_Shovel_112
+  - first:
+      213: -6158434857248308131
+    second: Tool_Shovel_113
+  - first:
+      213: -8145671954003925165
+    second: Tool_Shovel_114
+  - first:
+      213: -441551244843940395
+    second: Tool_Shovel_115
+  - first:
+      213: 2825771787833813784
+    second: Tool_Shovel_116
+  - first:
+      213: 6386207126788931506
+    second: Tool_Shovel_117
+  - first:
+      213: -8448064669353184421
+    second: Tool_Shovel_118
+  - first:
+      213: 539702426983176914
+    second: Tool_Shovel_119
+  - first:
+      213: -6210780979056810970
+    second: Tool_Shovel_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tool_Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a2aec00aef18840800000000000000
+      internalID: 5224737006091381399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e81728339d62b20800000000000000
+      internalID: 3109411408000945746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ebd500435021790800000000000000
+      internalID: -7560975103499059634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 347
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b691cd507dbcd7b30800000000000000
+      internalID: 4286806544703297899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 344
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59936c3aa80377c10800000000000000
+      internalID: 2051161527301847445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af34b9806a310a750800000000000000
+      internalID: 6314068281403327482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73cf9e94546b150800000000000000
+      internalID: 5887969746594052009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 353
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76778a07662efb2f0800000000000000
+      internalID: -954795666374625433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 353
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd144962238047b00800000000000000
+      internalID: 825293643204280797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 353
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7527ec32d59440800000000000000
+      internalID: 4942087325126851485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 356
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345cadb3d9a74ac80800000000000000
+      internalID: -8312384196486445757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 353
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d9352cffa2a730800000000000000
+      internalID: 4008960115804330316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 353
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bef988ff6d662f0800000000000000
+      internalID: -979859475909317788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc073406d6d9e3400800000000000000
+      internalID: 305854917799801036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d992c77b933c9ce90800000000000000
+      internalID: -7004853092739176035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 344
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4aa3749516d37a0800000000000000
+      internalID: -6395848859721227077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 347
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec13940f29668500800000000000000
+      internalID: 398121267729997026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78e4858c0b1d1760800000000000000
+      internalID: 7430124700824823932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909d6ee1cd6a4c00800000000000000
+      internalID: 885640956427997332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 341
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ee41a44ba96790800000000000000
+      internalID: -7536304190175386882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 353
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ababbd3e6f5c17a0800000000000000
+      internalID: -6405139642940937307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 353
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520bec2c3ba2f4ea0800000000000000
+      internalID: -5886439236394110939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 353
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b939b58b5ae4ddf60800000000000000
+      internalID: 8060685381732635547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 356
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa524482f841f1c0800000000000000
+      internalID: -4471712748563965188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 353
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74ab576cc9d73310800000000000000
+      internalID: 1384814882370331773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 353
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253a902aa0915d70800000000000000
+      internalID: 9030157788220372267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f87c93bdc57250800000000000000
+      internalID: 5941881454693250459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e52bf87994c520800000000000000
+      internalID: 2721468819727313336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96cb938d64666180800000000000000
+      internalID: -9122493573670123878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919ba90bc5a334360800000000000000
+      internalID: 7152624802968811801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651da0637b407b530800000000000000
+      internalID: 3870567589680435542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 341
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04a40d1ae2bc92c0800000000000000
+      internalID: -4423464015405734902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 341
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f851e7de6f86020800000000000000
+      internalID: 2335387906674626339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 209
+        width: 11
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f58327ac74281b0800000000000000
+      internalID: -5655879247198658741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c1d9651c5c39990800000000000000
+      internalID: -7380337930157613969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 341
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29fd4a6db1adaec0800000000000000
+      internalID: -3554006696021067475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 341
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d775f781b68cda5a0800000000000000
+      internalID: -6508325524182444163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297e9f9a5d7340ca0800000000000000
+      internalID: -6051650608459815022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab6bec73b76da3e0800000000000000
+      internalID: -2040861035536356447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5735fb03862c9a0800000000000000
+      internalID: -6214289977240226306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43496f3da571ab0800000000000000
+      internalID: -5037457791769103122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a480fb8a0cd9f020800000000000000
+      internalID: 2376172216270226596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 329
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9079d6780b6970800000000000000
+      internalID: 8749096007644520325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 329
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7df0fa023fc15b0800000000000000
+      internalID: -5396170931795142663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 329
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0df8b584638e330800000000000000
+      internalID: 3740299174932893943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c443d8867d62750800000000000000
+      internalID: 6279943574460320909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 329
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b76c4b70ecb5d0800000000000000
+      internalID: -3045312427841834850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 329
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822f621c779b6580800000000000000
+      internalID: -8832799685016083825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 215
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe6bb6593fc2f30800000000000000
+      internalID: 4552281146447555539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 221
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069359e6c6f58630800000000000000
+      internalID: 3928817584129152515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 206
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f25b65db9b03e10800000000000000
+      internalID: 2175442842874621721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 218
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b020722068870df0800000000000000
+      internalID: -214052510800797519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 212
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231e7e6d0c9b9fb0800000000000000
+      internalID: -4639943409572900059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 212
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a90c02af755960800000000000000
+      internalID: 7590113080966227463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 215
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df52cd8920725a0800000000000000
+      internalID: -6546260677807964820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 215
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f989a96b389385e0800000000000000
+      internalID: -1908514436131747342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 218
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b2de3f6a41c520800000000000000
+      internalID: 2720537491564312135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 218
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528004111bd802cb0800000000000000
+      internalID: -4890753403686221787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 212
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a568c325fdeb430800000000000000
+      internalID: 3800720679843027531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473d101a94f8c1d0800000000000000
+      internalID: -3330142981907990715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac239d218c1911c0800000000000000
+      internalID: -4532560208830714716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b665337311026f0800000000000000
+      internalID: -711549812342363289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_62
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 200
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233f93ae5b8ed480800000000000000
+      internalID: -8872500977284992213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_63
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 200
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c52ca853c438d7c0800000000000000
+      internalID: -4046426251581446711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_64
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 200
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4080a90e73c20f790800000000000000
+      internalID: -7498444761068861436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_65
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aecc8b3b4c2eea0800000000000000
+      internalID: -5844893090194855403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_66
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 209
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d9f5c9bf086e30800000000000000
+      internalID: 4496861518494290701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_67
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423ad41cade5f800800000000000000
+      internalID: 645683444937536071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_68
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 200
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8844244e36cae0800000000000000
+      internalID: -1529466561058271947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_69
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f7d60a53602390800000000000000
+      internalID: -7845161312566381610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_70
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ed4f71ed60a830800000000000000
+      internalID: 4080382077668549208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_71
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 197
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3dc0d178235270800000000000000
+      internalID: 8237972612690296752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_72
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 200
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67460960343f223a0800000000000000
+      internalID: -6691518627120651146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_73
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 200
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76108c6b4f5d436b0800000000000000
+      internalID: -5317390013002415769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_74
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 200
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44403f8835f30200800000000000000
+      internalID: 145229236275266638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_75
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 191
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348658ed92e9848e0800000000000000
+      internalID: -1708942155922970557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_76
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 194
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b31bbcbdf5dfc0800000000000000
+      internalID: -3470588950784788356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_77
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 188
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9111131dad0f7e1c0800000000000000
+      internalID: -4474342882166107879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_78
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 185
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef030a6c9689b00800000000000000
+      internalID: 835534032689233580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_79
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 185
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd60d585d42c320800000000000000
+      internalID: 2576706978722537465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_80
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 188
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cfbd11d74457ac0800000000000000
+      internalID: -3858102201811731428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_81
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 113
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc78b842752cf1d0800000000000000
+      internalID: -3315734052874978057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_82
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 104
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00cbdf7a6de110d0800000000000000
+      internalID: -3453718397549035510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_83
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 113
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ca8e29c791cfc0800000000000000
+      internalID: -3476330547028246185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_84
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 104
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a501f4677c5300800000000000000
+      internalID: 242199755395279334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_85
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 113
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ffcc01f6374bf10800000000000000
+      internalID: 2284577831844118351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_86
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 56
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1e797b4c0f6f8d0800000000000000
+      internalID: -2812796189561855560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_87
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 59
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eef9815edc4b93b0800000000000000
+      internalID: -5504721601795850521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_88
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 86
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1e64279f5b3ae0800000000000000
+      internalID: -1568554942452590029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_89
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 59
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc75b92f6ba1780800000000000000
+      internalID: -8711449376090239612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_90
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 86
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f6fe41827094c0800000000000000
+      internalID: -4282797345928187015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_91
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeefb0f0369aee1b0800000000000000
+      internalID: -5625372641619869970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_92
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4c693ea5b44460800000000000000
+      internalID: 7225099462101453549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_93
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 59
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f1e244a8583af0800000000000000
+      internalID: -416485503011785916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_94
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 59
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1436fa84c2c6d0800000000000000
+      internalID: -2971596702995964262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_95
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 86
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414b4b31b0bb8eef0800000000000000
+      internalID: -78607337229339628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_96
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 86
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce18e4bca78da520800000000000000
+      internalID: 2714975326213512904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_97
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 53
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ef10600b86dbe0800000000000000
+      internalID: -1452820996051443671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_98
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 56
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2595665f8f8b00800000000000000
+      internalID: 833042057321066452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_99
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 56
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf757bdf2973050800000000000000
+      internalID: 5780250265153699307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_100
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773e4a43297a2b50800000000000000
+      internalID: 6569196198950745973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_101
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 56
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a980f5dc1b65e23a0800000000000000
+      internalID: -6688313074943850342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_102
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed410f9fefcccab60800000000000000
+      internalID: 7758801653539542238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_103
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 56
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e12161b70a70fe80800000000000000
+      internalID: -8146877552453934615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_104
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 47
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d381f4eb33a84b0800000000000000
+      internalID: -5437476707632661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_105
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 44
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a5c22b883cc4f30800000000000000
+      internalID: 4561235514491689630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_106
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d6dbf153258be0800000000000000
+      internalID: -1475734467869485013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_107
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 53
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c70c8b802a9e500800000000000000
+      internalID: 426049798106283062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_108
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 50
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0473e494a405973c0800000000000000
+      internalID: -4361366484143950016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549455654cdc0050800000000000000
+      internalID: 5768227413365658717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_110
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 50
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0efd9d057d4290800000000000000
+      internalID: -7904533069619655764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_111
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 59
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac3f65c4e29e9370800000000000000
+      internalID: 8331257871944596648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_112
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 53
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734b3884896b94fc0800000000000000
+      internalID: -3510073669390715849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_113
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 53
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c4594028d88aa0800000000000000
+      internalID: -6158434857248308131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_114
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 50
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357ebb4f382c4fe80800000000000000
+      internalID: -8145671954003925165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_115
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 50
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d502f47b7b4fd9f0800000000000000
+      internalID: -441551244843940395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_116
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 50
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba72e2878273720800000000000000
+      internalID: 2825771787833813784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_117
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 62
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf7256db8d50a850800000000000000
+      internalID: 6386207126788931506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_118
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 29
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53fca761f172ca80800000000000000
+      internalID: -8448064669353184421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_119
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 29
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9fb47f786d7700800000000000000
+      internalID: 539702426983176914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Shovel_120
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 29
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e09d0b9fdec9a0800000000000000
+      internalID: -6210780979056810970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tool_Shovel_0: 5224737006091381399
+      Tool_Shovel_1: 3109411408000945746
+      Tool_Shovel_10: -8312384196486445757
+      Tool_Shovel_100: 6569196198950745973
+      Tool_Shovel_101: -6688313074943850342
+      Tool_Shovel_102: 7758801653539542238
+      Tool_Shovel_103: -8146877552453934615
+      Tool_Shovel_104: -5437476707632661155
+      Tool_Shovel_105: 4561235514491689630
+      Tool_Shovel_106: -1475734467869485013
+      Tool_Shovel_107: 426049798106283062
+      Tool_Shovel_108: -4361366484143950016
+      Tool_Shovel_109: 5768227413365658717
+      Tool_Shovel_11: 4008960115804330316
+      Tool_Shovel_110: -7904533069619655764
+      Tool_Shovel_111: 8331257871944596648
+      Tool_Shovel_112: -3510073669390715849
+      Tool_Shovel_113: -6158434857248308131
+      Tool_Shovel_114: -8145671954003925165
+      Tool_Shovel_115: -441551244843940395
+      Tool_Shovel_116: 2825771787833813784
+      Tool_Shovel_117: 6386207126788931506
+      Tool_Shovel_118: -8448064669353184421
+      Tool_Shovel_119: 539702426983176914
+      Tool_Shovel_12: -979859475909317788
+      Tool_Shovel_120: -6210780979056810970
+      Tool_Shovel_13: 305854917799801036
+      Tool_Shovel_14: -7004853092739176035
+      Tool_Shovel_15: -6395848859721227077
+      Tool_Shovel_16: 398121267729997026
+      Tool_Shovel_17: 7430124700824823932
+      Tool_Shovel_18: 885640956427997332
+      Tool_Shovel_19: -7536304190175386882
+      Tool_Shovel_2: -7560975103499059634
+      Tool_Shovel_20: -6405139642940937307
+      Tool_Shovel_21: -5886439236394110939
+      Tool_Shovel_22: 8060685381732635547
+      Tool_Shovel_23: -4471712748563965188
+      Tool_Shovel_24: 1384814882370331773
+      Tool_Shovel_25: 9030157788220372267
+      Tool_Shovel_26: 5941881454693250459
+      Tool_Shovel_27: 2721468819727313336
+      Tool_Shovel_28: -9122493573670123878
+      Tool_Shovel_29: 7152624802968811801
+      Tool_Shovel_3: 4286806544703297899
+      Tool_Shovel_30: 3870567589680435542
+      Tool_Shovel_31: -4423464015405734902
+      Tool_Shovel_32: 2335387906674626339
+      Tool_Shovel_33: -5655879247198658741
+      Tool_Shovel_34: -7380337930157613969
+      Tool_Shovel_35: -3554006696021067475
+      Tool_Shovel_36: -6508325524182444163
+      Tool_Shovel_37: -6051650608459815022
+      Tool_Shovel_38: -2040861035536356447
+      Tool_Shovel_39: -6214289977240226306
+      Tool_Shovel_4: 2051161527301847445
+      Tool_Shovel_40: -5037457791769103122
+      Tool_Shovel_41: 2376172216270226596
+      Tool_Shovel_42: 8749096007644520325
+      Tool_Shovel_43: -5396170931795142663
+      Tool_Shovel_44: 3740299174932893943
+      Tool_Shovel_45: 6279943574460320909
+      Tool_Shovel_46: -3045312427841834850
+      Tool_Shovel_47: -8832799685016083825
+      Tool_Shovel_48: 4552281146447555539
+      Tool_Shovel_49: 3928817584129152515
+      Tool_Shovel_5: 6314068281403327482
+      Tool_Shovel_50: 2175442842874621721
+      Tool_Shovel_51: -214052510800797519
+      Tool_Shovel_52: -4639943409572900059
+      Tool_Shovel_53: 7590113080966227463
+      Tool_Shovel_54: -6546260677807964820
+      Tool_Shovel_55: -1908514436131747342
+      Tool_Shovel_56: 2720537491564312135
+      Tool_Shovel_57: -4890753403686221787
+      Tool_Shovel_58: 3800720679843027531
+      Tool_Shovel_59: -3330142981907990715
+      Tool_Shovel_6: 5887969746594052009
+      Tool_Shovel_60: -4532560208830714716
+      Tool_Shovel_61: -711549812342363289
+      Tool_Shovel_62: -8872500977284992213
+      Tool_Shovel_63: -4046426251581446711
+      Tool_Shovel_64: -7498444761068861436
+      Tool_Shovel_65: -5844893090194855403
+      Tool_Shovel_66: 4496861518494290701
+      Tool_Shovel_67: 645683444937536071
+      Tool_Shovel_68: -1529466561058271947
+      Tool_Shovel_69: -7845161312566381610
+      Tool_Shovel_7: -954795666374625433
+      Tool_Shovel_70: 4080382077668549208
+      Tool_Shovel_71: 8237972612690296752
+      Tool_Shovel_72: -6691518627120651146
+      Tool_Shovel_73: -5317390013002415769
+      Tool_Shovel_74: 145229236275266638
+      Tool_Shovel_75: -1708942155922970557
+      Tool_Shovel_76: -3470588950784788356
+      Tool_Shovel_77: -4474342882166107879
+      Tool_Shovel_78: 835534032689233580
+      Tool_Shovel_79: 2576706978722537465
+      Tool_Shovel_8: 825293643204280797
+      Tool_Shovel_80: -3858102201811731428
+      Tool_Shovel_81: -3315734052874978057
+      Tool_Shovel_82: -3453718397549035510
+      Tool_Shovel_83: -3476330547028246185
+      Tool_Shovel_84: 242199755395279334
+      Tool_Shovel_85: 2284577831844118351
+      Tool_Shovel_86: -2812796189561855560
+      Tool_Shovel_87: -5504721601795850521
+      Tool_Shovel_88: -1568554942452590029
+      Tool_Shovel_89: -8711449376090239612
+      Tool_Shovel_9: 4942087325126851485
+      Tool_Shovel_90: -4282797345928187015
+      Tool_Shovel_91: -5625372641619869970
+      Tool_Shovel_92: 7225099462101453549
+      Tool_Shovel_93: -416485503011785916
+      Tool_Shovel_94: -2971596702995964262
+      Tool_Shovel_95: -78607337229339628
+      Tool_Shovel_96: 2714975326213512904
+      Tool_Shovel_97: -1452820996051443671
+      Tool_Shovel_98: 833042057321066452
+      Tool_Shovel_99: 5780250265153699307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,2 +1,1053 @@
 fileFormatVersion: 2
 guid: 5d68b24c835a836468693d28bf60cb0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6222750719284849060
+    second: Body_Dig_Animation_16x16_0
+  - first:
+      213: -7016612651052191375
+    second: Body_Dig_Animation_16x16_1
+  - first:
+      213: -508492651260298697
+    second: Body_Dig_Animation_16x16_2
+  - first:
+      213: -6503839027477315416
+    second: Body_Dig_Animation_16x16_3
+  - first:
+      213: -1132963929711680930
+    second: Body_Dig_Animation_16x16_4
+  - first:
+      213: 8418815686841773392
+    second: Body_Dig_Animation_16x16_5
+  - first:
+      213: -5915195777656211391
+    second: Body_Dig_Animation_16x16_6
+  - first:
+      213: -7495250415336825923
+    second: Body_Dig_Animation_16x16_7
+  - first:
+      213: 8597507440316950658
+    second: Body_Dig_Animation_16x16_8
+  - first:
+      213: -6367783982524737068
+    second: Body_Dig_Animation_16x16_9
+  - first:
+      213: -429816721206199394
+    second: Body_Dig_Animation_16x16_10
+  - first:
+      213: -6589200110650914369
+    second: Body_Dig_Animation_16x16_11
+  - first:
+      213: 683385244734796636
+    second: Body_Dig_Animation_16x16_12
+  - first:
+      213: 7890022034174500557
+    second: Body_Dig_Animation_16x16_13
+  - first:
+      213: 2285344063804945579
+    second: Body_Dig_Animation_16x16_14
+  - first:
+      213: -4410136595979561047
+    second: Body_Dig_Animation_16x16_15
+  - first:
+      213: -6832918918686252041
+    second: Body_Dig_Animation_16x16_16
+  - first:
+      213: 1398191186042886671
+    second: Body_Dig_Animation_16x16_17
+  - first:
+      213: 4419933108314860158
+    second: Body_Dig_Animation_16x16_18
+  - first:
+      213: -1237598928787322010
+    second: Body_Dig_Animation_16x16_19
+  - first:
+      213: 4463430438772166184
+    second: Body_Dig_Animation_16x16_20
+  - first:
+      213: 6431005548045311870
+    second: Body_Dig_Animation_16x16_21
+  - first:
+      213: 1154811064049986292
+    second: Body_Dig_Animation_16x16_22
+  - first:
+      213: -2955503953407741414
+    second: Body_Dig_Animation_16x16_23
+  - first:
+      213: 7435310791067439646
+    second: Body_Dig_Animation_16x16_24
+  - first:
+      213: -2728190282826511658
+    second: Body_Dig_Animation_16x16_25
+  - first:
+      213: 2716031409970788773
+    second: Body_Dig_Animation_16x16_26
+  - first:
+      213: 2997308146847687441
+    second: Body_Dig_Animation_16x16_27
+  - first:
+      213: 1417016207100227359
+    second: Body_Dig_Animation_16x16_28
+  - first:
+      213: -8185798482095795503
+    second: Body_Dig_Animation_16x16_29
+  - first:
+      213: 1994303757822299899
+    second: Body_Dig_Animation_16x16_30
+  - first:
+      213: -5858724090483937429
+    second: Body_Dig_Animation_16x16_31
+  - first:
+      213: -3684456386198804598
+    second: Body_Dig_Animation_16x16_32
+  - first:
+      213: -7116727705915532512
+    second: Body_Dig_Animation_16x16_33
+  - first:
+      213: 676687483614745860
+    second: Body_Dig_Animation_16x16_34
+  - first:
+      213: -6929463512112729630
+    second: Body_Dig_Animation_16x16_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56583bb03954a9a0800000000000000
+      internalID: -6222750719284849060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b58f28fbff9e90800000000000000
+      internalID: -7016612651052191375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73abbb6b0a871f8f0800000000000000
+      internalID: -508492651260298697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a084e20dd8bdb5a0800000000000000
+      internalID: -6503839027477315416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5264320f47e640f0800000000000000
+      internalID: -1132963929711680930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05da0bb2344a5d470800000000000000
+      internalID: 8418815686841773392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14839efb7c009eda0800000000000000
+      internalID: -5915195777656211391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbdf3375758bf790800000000000000
+      internalID: -7495250415336825923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288aed5277b705770800000000000000
+      internalID: 8597507440316950658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9d033b43611a7a0800000000000000
+      internalID: -6367783982524737068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3bf528fbf80af0800000000000000
+      internalID: -429816721206199394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb900b219657e84a0800000000000000
+      internalID: -6589200110650914369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533925624fdb7900800000000000000
+      internalID: 683385244734796636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dced9f8ac3dfe7d60800000000000000
+      internalID: 7890022034174500557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba434a8515c27bf10800000000000000
+      internalID: 2285344063804945579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a710b1c12c0cc2c0800000000000000
+      internalID: -4410136595979561047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e8a022789c21a0800000000000000
+      internalID: -6832918918686252041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a1b2cc97f576310800000000000000
+      internalID: 1398191186042886671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a68148eb1c65d30800000000000000
+      internalID: 4419933108314860158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b4a33d45a23dee0800000000000000
+      internalID: -1237598928787322010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4ea6f55a41fd30800000000000000
+      internalID: 4463430438772166184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f9ec719758f3950800000000000000
+      internalID: 6431005548045311870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae3675b86b60010800000000000000
+      internalID: 1154811064049986292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a127ed430d0fbf6d0800000000000000
+      internalID: -2955503953407741414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12143045c78f2760800000000000000
+      internalID: 7435310791067439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da04707465832ad0800000000000000
+      internalID: -2728190282826511658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9bc1e5d2841b520800000000000000
+      internalID: 2716031409970788773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113ad3f01e3989920800000000000000
+      internalID: 2997308146847687441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2e219bb04aa310800000000000000
+      internalID: 1417016207100227359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29fb796a3366e80800000000000000
+      internalID: -8185798482095795503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe893393b03dab10800000000000000
+      internalID: 1994303757822299899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6ea50b71a1bea0800000000000000
+      internalID: -5858724090483937429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a876336107e2edcc0800000000000000
+      internalID: -3684456386198804598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 6
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b59b58bdd4c3d90800000000000000
+      internalID: -7116727705915532512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 6
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4055fcc5ea3146900800000000000000
+      internalID: 676687483614745860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Dig_Animation_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e17d7c46a995df90800000000000000
+      internalID: -6929463512112729630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Body_Dig_Animation_16x16_0: -6222750719284849060
+      Body_Dig_Animation_16x16_1: -7016612651052191375
+      Body_Dig_Animation_16x16_10: -429816721206199394
+      Body_Dig_Animation_16x16_11: -6589200110650914369
+      Body_Dig_Animation_16x16_12: 683385244734796636
+      Body_Dig_Animation_16x16_13: 7890022034174500557
+      Body_Dig_Animation_16x16_14: 2285344063804945579
+      Body_Dig_Animation_16x16_15: -4410136595979561047
+      Body_Dig_Animation_16x16_16: -6832918918686252041
+      Body_Dig_Animation_16x16_17: 1398191186042886671
+      Body_Dig_Animation_16x16_18: 4419933108314860158
+      Body_Dig_Animation_16x16_19: -1237598928787322010
+      Body_Dig_Animation_16x16_2: -508492651260298697
+      Body_Dig_Animation_16x16_20: 4463430438772166184
+      Body_Dig_Animation_16x16_21: 6431005548045311870
+      Body_Dig_Animation_16x16_22: 1154811064049986292
+      Body_Dig_Animation_16x16_23: -2955503953407741414
+      Body_Dig_Animation_16x16_24: 7435310791067439646
+      Body_Dig_Animation_16x16_25: -2728190282826511658
+      Body_Dig_Animation_16x16_26: 2716031409970788773
+      Body_Dig_Animation_16x16_27: 2997308146847687441
+      Body_Dig_Animation_16x16_28: 1417016207100227359
+      Body_Dig_Animation_16x16_29: -8185798482095795503
+      Body_Dig_Animation_16x16_3: -6503839027477315416
+      Body_Dig_Animation_16x16_30: 1994303757822299899
+      Body_Dig_Animation_16x16_31: -5858724090483937429
+      Body_Dig_Animation_16x16_32: -3684456386198804598
+      Body_Dig_Animation_16x16_33: -7116727705915532512
+      Body_Dig_Animation_16x16_34: 676687483614745860
+      Body_Dig_Animation_16x16_35: -6929463512112729630
+      Body_Dig_Animation_16x16_4: -1132963929711680930
+      Body_Dig_Animation_16x16_5: 8418815686841773392
+      Body_Dig_Animation_16x16_6: -5915195777656211391
+      Body_Dig_Animation_16x16_7: -7495250415336825923
+      Body_Dig_Animation_16x16_8: 8597507440316950658
+      Body_Dig_Animation_16x16_9: -6367783982524737068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

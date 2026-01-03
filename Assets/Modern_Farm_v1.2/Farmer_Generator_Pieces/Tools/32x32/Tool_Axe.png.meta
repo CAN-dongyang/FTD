@@ -1,2 +1,3887 @@
 fileFormatVersion: 2
 guid: 1a081cdab7a3f0a46a8d119840c6d41c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1627285011574424937
+    second: Tool_Axe_0
+  - first:
+      213: -2657789845149806595
+    second: Tool_Axe_1
+  - first:
+      213: -7716560578542457160
+    second: Tool_Axe_2
+  - first:
+      213: -1101057282522753014
+    second: Tool_Axe_3
+  - first:
+      213: 1667430904620267653
+    second: Tool_Axe_4
+  - first:
+      213: -8856668131425344031
+    second: Tool_Axe_5
+  - first:
+      213: -1253016384035522852
+    second: Tool_Axe_6
+  - first:
+      213: -1734590144273555002
+    second: Tool_Axe_7
+  - first:
+      213: 3544596270631409900
+    second: Tool_Axe_8
+  - first:
+      213: 1435835918788409531
+    second: Tool_Axe_9
+  - first:
+      213: -1456384691615009868
+    second: Tool_Axe_10
+  - first:
+      213: 2146062889193862941
+    second: Tool_Axe_11
+  - first:
+      213: -5616622930070168253
+    second: Tool_Axe_12
+  - first:
+      213: 4134186125207406941
+    second: Tool_Axe_13
+  - first:
+      213: 709527242329102070
+    second: Tool_Axe_14
+  - first:
+      213: -7236380009258469647
+    second: Tool_Axe_15
+  - first:
+      213: 4404162636934729604
+    second: Tool_Axe_16
+  - first:
+      213: 8942597386512590648
+    second: Tool_Axe_17
+  - first:
+      213: 6395696463856106068
+    second: Tool_Axe_18
+  - first:
+      213: 2897385772075236547
+    second: Tool_Axe_19
+  - first:
+      213: -5761281452161930486
+    second: Tool_Axe_20
+  - first:
+      213: -8927577224388683986
+    second: Tool_Axe_21
+  - first:
+      213: 3728858510015507342
+    second: Tool_Axe_22
+  - first:
+      213: 8814116057874987733
+    second: Tool_Axe_23
+  - first:
+      213: 7106606498780472091
+    second: Tool_Axe_24
+  - first:
+      213: 2097843631813076372
+    second: Tool_Axe_25
+  - first:
+      213: 8547634049682596920
+    second: Tool_Axe_26
+  - first:
+      213: 4344746759212884710
+    second: Tool_Axe_27
+  - first:
+      213: 1241537871827683846
+    second: Tool_Axe_28
+  - first:
+      213: -2966899850731429540
+    second: Tool_Axe_29
+  - first:
+      213: 2344734375470132225
+    second: Tool_Axe_30
+  - first:
+      213: 58008471299228071
+    second: Tool_Axe_31
+  - first:
+      213: -8379773589753440558
+    second: Tool_Axe_32
+  - first:
+      213: -3223100919716081188
+    second: Tool_Axe_33
+  - first:
+      213: 6593053738729810174
+    second: Tool_Axe_34
+  - first:
+      213: -8491206700717360744
+    second: Tool_Axe_35
+  - first:
+      213: 1103292536387427019
+    second: Tool_Axe_36
+  - first:
+      213: 8387756752772611149
+    second: Tool_Axe_37
+  - first:
+      213: 4568365289294142592
+    second: Tool_Axe_38
+  - first:
+      213: 1485739486506907355
+    second: Tool_Axe_39
+  - first:
+      213: 5337171930038691398
+    second: Tool_Axe_40
+  - first:
+      213: 4668614091061994562
+    second: Tool_Axe_41
+  - first:
+      213: -624726805436198295
+    second: Tool_Axe_42
+  - first:
+      213: -4638367401467410714
+    second: Tool_Axe_43
+  - first:
+      213: -1498128502986146658
+    second: Tool_Axe_44
+  - first:
+      213: -1711227036559336121
+    second: Tool_Axe_45
+  - first:
+      213: 6832215652395395145
+    second: Tool_Axe_46
+  - first:
+      213: -5625108485294764291
+    second: Tool_Axe_47
+  - first:
+      213: 1235551315352377608
+    second: Tool_Axe_48
+  - first:
+      213: 4215025032125285329
+    second: Tool_Axe_49
+  - first:
+      213: 5869825124665445883
+    second: Tool_Axe_50
+  - first:
+      213: -6014465903094467198
+    second: Tool_Axe_51
+  - first:
+      213: -831785547587316766
+    second: Tool_Axe_52
+  - first:
+      213: 1591807458267015521
+    second: Tool_Axe_53
+  - first:
+      213: 486190139780490745
+    second: Tool_Axe_54
+  - first:
+      213: -4590953278364074626
+    second: Tool_Axe_55
+  - first:
+      213: -4501059104290748895
+    second: Tool_Axe_56
+  - first:
+      213: -5462745671156537148
+    second: Tool_Axe_57
+  - first:
+      213: -8743064854422341800
+    second: Tool_Axe_58
+  - first:
+      213: 6405307691033912378
+    second: Tool_Axe_59
+  - first:
+      213: 408590388960049172
+    second: Tool_Axe_60
+  - first:
+      213: 7506659436463148245
+    second: Tool_Axe_61
+  - first:
+      213: -49535187794485126
+    second: Tool_Axe_62
+  - first:
+      213: 1191218199189502372
+    second: Tool_Axe_63
+  - first:
+      213: 6509982150572280773
+    second: Tool_Axe_64
+  - first:
+      213: 6584400367723937384
+    second: Tool_Axe_65
+  - first:
+      213: 3055066376449854931
+    second: Tool_Axe_66
+  - first:
+      213: -9164020586032811236
+    second: Tool_Axe_67
+  - first:
+      213: -5845601944599245309
+    second: Tool_Axe_68
+  - first:
+      213: 2323119038900806464
+    second: Tool_Axe_69
+  - first:
+      213: 1079921427281931809
+    second: Tool_Axe_70
+  - first:
+      213: 1474730516684182209
+    second: Tool_Axe_71
+  - first:
+      213: -927437353798375470
+    second: Tool_Axe_72
+  - first:
+      213: -7120613574258861946
+    second: Tool_Axe_73
+  - first:
+      213: 3905608776734476645
+    second: Tool_Axe_74
+  - first:
+      213: 6061426208249190290
+    second: Tool_Axe_75
+  - first:
+      213: 8969787369626423905
+    second: Tool_Axe_76
+  - first:
+      213: 2935634838606829320
+    second: Tool_Axe_77
+  - first:
+      213: 926924188645006320
+    second: Tool_Axe_78
+  - first:
+      213: 1717409982903642492
+    second: Tool_Axe_79
+  - first:
+      213: -2618555083537573215
+    second: Tool_Axe_80
+  - first:
+      213: 7810708309460752438
+    second: Tool_Axe_81
+  - first:
+      213: -1100842916931848066
+    second: Tool_Axe_82
+  - first:
+      213: -5697414037692604805
+    second: Tool_Axe_83
+  - first:
+      213: -1706854012028436842
+    second: Tool_Axe_84
+  - first:
+      213: -4718061400632500827
+    second: Tool_Axe_85
+  - first:
+      213: -6222556444616428079
+    second: Tool_Axe_86
+  - first:
+      213: 348608811577429775
+    second: Tool_Axe_87
+  - first:
+      213: 573474917506056507
+    second: Tool_Axe_88
+  - first:
+      213: 5972771022617485472
+    second: Tool_Axe_89
+  - first:
+      213: -368556654045810366
+    second: Tool_Axe_90
+  - first:
+      213: -6415869745899712172
+    second: Tool_Axe_91
+  - first:
+      213: 5810043086590035030
+    second: Tool_Axe_92
+  - first:
+      213: 3583639846695929021
+    second: Tool_Axe_93
+  - first:
+      213: 1066537947798494571
+    second: Tool_Axe_94
+  - first:
+      213: -3790865147214533313
+    second: Tool_Axe_95
+  - first:
+      213: -7317778435958559332
+    second: Tool_Axe_96
+  - first:
+      213: -2741103647746400368
+    second: Tool_Axe_97
+  - first:
+      213: -2531528147428983151
+    second: Tool_Axe_98
+  - first:
+      213: -2586969894453374614
+    second: Tool_Axe_99
+  - first:
+      213: 2491737901760525708
+    second: Tool_Axe_100
+  - first:
+      213: -7984331517936591246
+    second: Tool_Axe_101
+  - first:
+      213: -3392784753683142480
+    second: Tool_Axe_102
+  - first:
+      213: 8093784616968595304
+    second: Tool_Axe_103
+  - first:
+      213: -8996467053296350800
+    second: Tool_Axe_104
+  - first:
+      213: -9102058620407249955
+    second: Tool_Axe_105
+  - first:
+      213: -4947267750929772328
+    second: Tool_Axe_106
+  - first:
+      213: -5112007830853529889
+    second: Tool_Axe_107
+  - first:
+      213: 2678119899749695575
+    second: Tool_Axe_108
+  - first:
+      213: -5430531213893169100
+    second: Tool_Axe_109
+  - first:
+      213: -3675584559665354170
+    second: Tool_Axe_110
+  - first:
+      213: -8931069973396773100
+    second: Tool_Axe_111
+  - first:
+      213: 5097781842919519143
+    second: Tool_Axe_112
+  - first:
+      213: 6188889247036894842
+    second: Tool_Axe_113
+  - first:
+      213: -5237232096086408718
+    second: Tool_Axe_114
+  - first:
+      213: 2691774492239900554
+    second: Tool_Axe_115
+  - first:
+      213: 3764491153513838499
+    second: Tool_Axe_116
+  - first:
+      213: 6164010814585835398
+    second: Tool_Axe_117
+  - first:
+      213: -2186876522238379058
+    second: Tool_Axe_118
+  - first:
+      213: 6295703595588129374
+    second: Tool_Axe_119
+  - first:
+      213: -7425674886266334930
+    second: Tool_Axe_120
+  - first:
+      213: -2868712536050178644
+    second: Tool_Axe_121
+  - first:
+      213: -1183340813623793577
+    second: Tool_Axe_122
+  - first:
+      213: -4090127133735027524
+    second: Tool_Axe_123
+  - first:
+      213: -825855973276925866
+    second: Tool_Axe_124
+  - first:
+      213: 4703670070323461505
+    second: Tool_Axe_125
+  - first:
+      213: 3580189739919402769
+    second: Tool_Axe_126
+  - first:
+      213: -1495011726834015249
+    second: Tool_Axe_127
+  - first:
+      213: 4257124883283842010
+    second: Tool_Axe_128
+  - first:
+      213: -7920734363962307543
+    second: Tool_Axe_129
+  - first:
+      213: 1884062958931204947
+    second: Tool_Axe_130
+  - first:
+      213: -4360261226824352779
+    second: Tool_Axe_131
+  - first:
+      213: -1011357301050738815
+    second: Tool_Axe_132
+  - first:
+      213: 3237813780063777087
+    second: Tool_Axe_133
+  - first:
+      213: -5237234229020302980
+    second: Tool_Axe_134
+  - first:
+      213: -1741910601220589074
+    second: Tool_Axe_135
+  - first:
+      213: -730507802749312207
+    second: Tool_Axe_136
+  - first:
+      213: -4185819680255031204
+    second: Tool_Axe_137
+  - first:
+      213: -1394098690235921384
+    second: Tool_Axe_138
+  - first:
+      213: -7323268348748535854
+    second: Tool_Axe_139
+  - first:
+      213: -609515053764690921
+    second: Tool_Axe_140
+  - first:
+      213: -6819518562929420035
+    second: Tool_Axe_141
+  - first:
+      213: 6747497076724810634
+    second: Tool_Axe_142
+  - first:
+      213: 7863614103811548277
+    second: Tool_Axe_143
+  - first:
+      213: -6296489518620853980
+    second: Tool_Axe_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tool_Axe_0
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650637a817459610800000000000000
+      internalID: 1627285011574424937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 225
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8438a732ad1bd0800000000000000
+      internalID: -2657789845149806595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea134b90549e490800000000000000
+      internalID: -7716560578542457160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 225
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08dfd53c3248b0f0800000000000000
+      internalID: -1101057282522753014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_4
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883665c297e32710800000000000000
+      internalID: 1667430904620267653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5aed4524bc61580800000000000000
+      internalID: -8856668131425344031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd671dbcc346c9ee0800000000000000
+      internalID: -1253016384035522852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 237
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c16eab347f7de7e0800000000000000
+      internalID: -1734590144273555002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_8
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8d82f278fe03130800000000000000
+      internalID: 3544596270631409900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83127292d1de310800000000000000
+      internalID: 1435835918788409531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_10
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 225
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b378f7d6d1e9cbe0800000000000000
+      internalID: -1456384691615009868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_11
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177c00d3d858cd10800000000000000
+      internalID: 2146062889193862941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 225
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d9ad7043fbd02b0800000000000000
+      internalID: -5616622930070168253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_13
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59065480649f5930800000000000000
+      internalID: 4134186125207406941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_14
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61d75844fb8d900800000000000000
+      internalID: 709527242329102070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_15
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63968b8b6339b90800000000000000
+      internalID: -7236380009258469647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_16
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fca83859abe1d30800000000000000
+      internalID: 4404162636934729604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_17
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376b6071fc7a1c70800000000000000
+      internalID: 8942597386512590648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_18
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a7d5b4c0412c850800000000000000
+      internalID: 6395696463856106068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_19
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb0d93205953820800000000000000
+      internalID: 2897385772075236547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b67d83b01db00b0800000000000000
+      internalID: -5761281452161930486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d17390dfda1480800000000000000
+      internalID: -8927577224388683986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8baa2bfe019fb330800000000000000
+      internalID: 3728858510015507342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da74befad7025a70800000000000000
+      internalID: 8814116057874987733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ea4e45fcbf9260800000000000000
+      internalID: 7106606498780472091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495a8841ba90d1d10800000000000000
+      internalID: 2097843631813076372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346d5181eb4f9670800000000000000
+      internalID: 8547634049682596920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2e9e57824ab4c30800000000000000
+      internalID: 4344746759212884710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60acb71dd14da3110800000000000000
+      internalID: 1241537871827683846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_29
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516ef81e4473d6d0800000000000000
+      internalID: -2966899850731429540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_30
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c6b86dd7b2a8020800000000000000
+      internalID: 2344734375470132225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_31
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a101c5b5661ec000800000000000000
+      internalID: 58008471299228071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_32
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6db8c615015bb80800000000000000
+      internalID: -8379773589753440558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_33
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1961d4ace3543d0800000000000000
+      internalID: -3223100919716081188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_34
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef82d02a17b3f7b50800000000000000
+      internalID: 6593053738729810174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_35
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89933597e7c292a80800000000000000
+      internalID: -8491206700717360744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_36
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca56b267beaf4f00800000000000000
+      internalID: 1103292536387427019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_37
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c356f835c476470800000000000000
+      internalID: 8387756752772611149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_38
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1a90c608166f30800000000000000
+      internalID: 4568365289294142592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_39
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f302f0386e9410800000000000000
+      internalID: 1485739486506907355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_40
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 223
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6466423c791711a40800000000000000
+      internalID: 5337171930038691398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_41
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244222bc7cf3ac040800000000000000
+      internalID: 4668614091061994562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_42
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9629f48c7468457f0800000000000000
+      internalID: -624726805436198295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_43
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e688c96c6531afb0800000000000000
+      internalID: -4638367401467410714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_44
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c7f9f5014953be0800000000000000
+      internalID: -1498128502986146658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_45
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d16d3a3108048e0800000000000000
+      internalID: -1711227036559336121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_46
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94824edefe7e0de50800000000000000
+      internalID: 6832215652395395145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_47
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe48feb2a99fe1b0800000000000000
+      internalID: -5625108485294764291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_48
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 143
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8095855006f852110800000000000000
+      internalID: 1235551315352377608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_49
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 149
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3053f3fe6ce7a30800000000000000
+      internalID: 4215025032125285329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_50
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 151
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc859e9dec57150800000000000000
+      internalID: 5869825124665445883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_51
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 145
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285fa5c8023588ca0800000000000000
+      internalID: -6014465903094467198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_52
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 143
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e311c29377e474f0800000000000000
+      internalID: -831785547587316766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_53
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 141
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a2d4137c371610800000000000000
+      internalID: 1591807458267015521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_54
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 141
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5e9ee2b5b4fb600800000000000000
+      internalID: 486190139780490745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_55
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 141
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db1b63158a940c0800000000000000
+      internalID: -4590953278364074626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_56
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12646bf97960981c0800000000000000
+      internalID: -4501059104290748895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_57
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 145
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8696441cd6034b0800000000000000
+      internalID: -5462745671156537148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_58
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 141
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85734ff66d46aa680800000000000000
+      internalID: -8743064854422341800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346721886934e850800000000000000
+      internalID: 6405307691033912378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4183a904bca9ba500800000000000000
+      internalID: 408590388960049172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc48384cf20d2860800000000000000
+      internalID: 7506659436463148245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a0a75204005ff0800000000000000
+      internalID: -49535187794485126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bbac04ae088010800000000000000
+      internalID: 1191218199189502372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb8efa464a185a50800000000000000
+      internalID: 6509982150572280773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef221bf3d706b50800000000000000
+      internalID: 6584400367723937384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd8885dea6c56a20800000000000000
+      internalID: 3055066376449854931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b52f74dbd2d080800000000000000
+      internalID: -9164020586032811236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_68
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e44d1b00040eea0800000000000000
+      internalID: -5845601944599245309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04321ac15706d3020800000000000000
+      internalID: 2323119038900806464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_70
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ee87201d6acfe00800000000000000
+      internalID: 1079921427281931809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_71
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2936a679b477410800000000000000
+      internalID: 1474730516684182209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_72
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76b67f3a41123f0800000000000000
+      internalID: -927437353798375470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_73
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d97b4eaf7e2d90800000000000000
+      internalID: -7120613574258861946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_74
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56908e85d72833630800000000000000
+      internalID: 3905608776734476645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_75
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2979fe685038e1450800000000000000
+      internalID: 6061426208249190290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_76
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1625e55b6161b7c70800000000000000
+      internalID: 8969787369626423905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_77
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807db6105587db820800000000000000
+      internalID: 2935634838606829320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_78
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb17e573a81ddc00800000000000000
+      internalID: 926924188645006320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_79
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796eacb74775d710800000000000000
+      internalID: 1717409982903642492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_80
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa13f4760609abd0800000000000000
+      internalID: -2618555083537573215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_81
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638999513d5356c60800000000000000
+      internalID: 7810708309460752438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_82
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b5c6133509b0f0800000000000000
+      internalID: -1100842916931848066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_83
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e12017e18bee0b0800000000000000
+      internalID: -5697414037692604805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_84
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e3891c1590058e0800000000000000
+      internalID: -1706854012028436842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_85
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad51da4724168eb0800000000000000
+      internalID: -4718061400632500827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_86
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f1d3d1e905a9a0800000000000000
+      internalID: -6222556444616428079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_87
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 127
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc4abfdd186d400800000000000000
+      internalID: 348608811577429775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_88
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318b89266465f700800000000000000
+      internalID: 573474917506056507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_89
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0acd7999b83e250800000000000000
+      internalID: 5972771022617485472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_90
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 139
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2413ef30daf92eaf0800000000000000
+      internalID: -368556654045810366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_91
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d876757046f6a0800000000000000
+      internalID: -6415869745899712172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_92
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 121
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c9e1876b61a050800000000000000
+      internalID: 5810043086590035030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_93
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 125
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40f312475abb130800000000000000
+      internalID: 3583639846695929021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_94
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd00edc9a1dce00800000000000000
+      internalID: 1066537947798494571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_95
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6ed4cb34246bc0800000000000000
+      internalID: -3790865147214533313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_96
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 33
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2da3a847027a90800000000000000
+      internalID: -7317778435958559332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_97
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 39
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5c8f51c4a5f9d0800000000000000
+      internalID: -2741103647746400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_98
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 43
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb79100943edcd0800000000000000
+      internalID: -2531528147428983151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_99
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 59
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611a7c569c391cd0800000000000000
+      internalID: -2586969894453374614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_100
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 37
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8530db7b6e649220800000000000000
+      internalID: 2491737901760525708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_101
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 41
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1f6889c4f13190800000000000000
+      internalID: -7984331517936591246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_102
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 43
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ea550e386ae0d0800000000000000
+      internalID: -3392784753683142480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_103
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 21
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672fe6f936e25070800000000000000
+      internalID: 8093784616968595304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_104
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 19
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b904ce51e0262380800000000000000
+      internalID: -8996467053296350800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd308d5d8edfea180800000000000000
+      internalID: -9102058620407249955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_106
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 27
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0d5193136c75bb0800000000000000
+      internalID: -4947267750929772328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec5f066ff7e09b0800000000000000
+      internalID: -5112007830853529889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 19
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504c7a0cd79a2520800000000000000
+      internalID: 2678119899749695575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_109
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 23
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301a3612a0e2a4b0800000000000000
+      internalID: -5430531213893169100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_110
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 25
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a6c3b2153bdfcc0800000000000000
+      internalID: -3675584559665354170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_111
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 31
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41727839d277e0480800000000000000
+      internalID: -8931069973396773100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_112
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a377a1b395feb640800000000000000
+      internalID: 5097781842919519143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_113
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e6ed3eaf953e550800000000000000
+      internalID: 6188889247036894842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_114
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1ce7a182d9157b0800000000000000
+      internalID: -5237232096086408718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_115
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 43
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8faa6993aa1b5520800000000000000
+      internalID: 2691774492239900554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_116
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 35
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7fa4d42c82e3430800000000000000
+      internalID: 3764491153513838499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_117
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 33
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f0e037d27fa8550800000000000000
+      internalID: 6164010814585835398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_118
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 27
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf65cb367a6a1e0800000000000000
+      internalID: -2186876522238379058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_119
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521e2a6015de5750800000000000000
+      internalID: 6295703595588129374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_120
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215e8aa804b2f890800000000000000
+      internalID: -7425674886266334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_121
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 37
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e406c5294038d0800000000000000
+      internalID: -2868712536050178644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_122
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 27
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7586bb3bccde39fe0800000000000000
+      internalID: -1183340813623793577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_123
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 21
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7983da03fc37c0800000000000000
+      internalID: -4090127133735027524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_124
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 19
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c13d2e58f984f0800000000000000
+      internalID: -825855973276925866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_125
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 23
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3442020bc64140800000000000000
+      internalID: 4703670070323461505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_126
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 25
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e46c89936fa130800000000000000
+      internalID: 3580189739919402769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_127
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 31
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e30f51c6a04be0800000000000000
+      internalID: -1495011726834015249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_128
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 27
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad31c90b688541b30800000000000000
+      internalID: 4257124883283842010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_129
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c0cc3df06e31290800000000000000
+      internalID: -7920734363962307543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_130
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 29
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd0996749852a10800000000000000
+      internalID: 1884062958931204947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_131
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb93f048d3d73c0800000000000000
+      internalID: -4360261226824352779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_132
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 29
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877fd1a4efe6f1f0800000000000000
+      internalID: -1011357301050738815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_133
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 35
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31f0917a760fec20800000000000000
+      internalID: 3237813780063777087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_134
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 19
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716abd773b9157b0800000000000000
+      internalID: -5237234229020302980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_135
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 23
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee972c7898d73d7e0800000000000000
+      internalID: -1741910601220589074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_136
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 25
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e9771607bcd5f0800000000000000
+      internalID: -730507802749312207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_137
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584f80ad2bf8e5c0800000000000000
+      internalID: -4185819680255031204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_138
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 25
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c86a2a0aa27ace0800000000000000
+      internalID: -1394098690235921384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_139
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76bf5bc368e5a90800000000000000
+      internalID: -7323268348748535854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_140
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 25
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c3a17b9419a87f0800000000000000
+      internalID: -609515053764690921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_141
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 25
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d8659ff33c51a0800000000000000
+      internalID: -6819518562929420035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_142
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 23
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834b2d67dce3ad50800000000000000
+      internalID: 6747497076724810634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_143
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 25
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574607c3d5b212d60800000000000000
+      internalID: 7863614103811548277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tool_Axe_144
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 25
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42932ae94206e98a0800000000000000
+      internalID: -6296489518620853980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tool_Axe_0: 1627285011574424937
+      Tool_Axe_1: -2657789845149806595
+      Tool_Axe_10: -1456384691615009868
+      Tool_Axe_100: 2491737901760525708
+      Tool_Axe_101: -7984331517936591246
+      Tool_Axe_102: -3392784753683142480
+      Tool_Axe_103: 8093784616968595304
+      Tool_Axe_104: -8996467053296350800
+      Tool_Axe_105: -9102058620407249955
+      Tool_Axe_106: -4947267750929772328
+      Tool_Axe_107: -5112007830853529889
+      Tool_Axe_108: 2678119899749695575
+      Tool_Axe_109: -5430531213893169100
+      Tool_Axe_11: 2146062889193862941
+      Tool_Axe_110: -3675584559665354170
+      Tool_Axe_111: -8931069973396773100
+      Tool_Axe_112: 5097781842919519143
+      Tool_Axe_113: 6188889247036894842
+      Tool_Axe_114: -5237232096086408718
+      Tool_Axe_115: 2691774492239900554
+      Tool_Axe_116: 3764491153513838499
+      Tool_Axe_117: 6164010814585835398
+      Tool_Axe_118: -2186876522238379058
+      Tool_Axe_119: 6295703595588129374
+      Tool_Axe_12: -5616622930070168253
+      Tool_Axe_120: -7425674886266334930
+      Tool_Axe_121: -2868712536050178644
+      Tool_Axe_122: -1183340813623793577
+      Tool_Axe_123: -4090127133735027524
+      Tool_Axe_124: -825855973276925866
+      Tool_Axe_125: 4703670070323461505
+      Tool_Axe_126: 3580189739919402769
+      Tool_Axe_127: -1495011726834015249
+      Tool_Axe_128: 4257124883283842010
+      Tool_Axe_129: -7920734363962307543
+      Tool_Axe_13: 4134186125207406941
+      Tool_Axe_130: 1884062958931204947
+      Tool_Axe_131: -4360261226824352779
+      Tool_Axe_132: -1011357301050738815
+      Tool_Axe_133: 3237813780063777087
+      Tool_Axe_134: -5237234229020302980
+      Tool_Axe_135: -1741910601220589074
+      Tool_Axe_136: -730507802749312207
+      Tool_Axe_137: -4185819680255031204
+      Tool_Axe_138: -1394098690235921384
+      Tool_Axe_139: -7323268348748535854
+      Tool_Axe_14: 709527242329102070
+      Tool_Axe_140: -609515053764690921
+      Tool_Axe_141: -6819518562929420035
+      Tool_Axe_142: 6747497076724810634
+      Tool_Axe_143: 7863614103811548277
+      Tool_Axe_144: -6296489518620853980
+      Tool_Axe_15: -7236380009258469647
+      Tool_Axe_16: 4404162636934729604
+      Tool_Axe_17: 8942597386512590648
+      Tool_Axe_18: 6395696463856106068
+      Tool_Axe_19: 2897385772075236547
+      Tool_Axe_2: -7716560578542457160
+      Tool_Axe_20: -5761281452161930486
+      Tool_Axe_21: -8927577224388683986
+      Tool_Axe_22: 3728858510015507342
+      Tool_Axe_23: 8814116057874987733
+      Tool_Axe_24: 7106606498780472091
+      Tool_Axe_25: 2097843631813076372
+      Tool_Axe_26: 8547634049682596920
+      Tool_Axe_27: 4344746759212884710
+      Tool_Axe_28: 1241537871827683846
+      Tool_Axe_29: -2966899850731429540
+      Tool_Axe_3: -1101057282522753014
+      Tool_Axe_30: 2344734375470132225
+      Tool_Axe_31: 58008471299228071
+      Tool_Axe_32: -8379773589753440558
+      Tool_Axe_33: -3223100919716081188
+      Tool_Axe_34: 6593053738729810174
+      Tool_Axe_35: -8491206700717360744
+      Tool_Axe_36: 1103292536387427019
+      Tool_Axe_37: 8387756752772611149
+      Tool_Axe_38: 4568365289294142592
+      Tool_Axe_39: 1485739486506907355
+      Tool_Axe_4: 1667430904620267653
+      Tool_Axe_40: 5337171930038691398
+      Tool_Axe_41: 4668614091061994562
+      Tool_Axe_42: -624726805436198295
+      Tool_Axe_43: -4638367401467410714
+      Tool_Axe_44: -1498128502986146658
+      Tool_Axe_45: -1711227036559336121
+      Tool_Axe_46: 6832215652395395145
+      Tool_Axe_47: -5625108485294764291
+      Tool_Axe_48: 1235551315352377608
+      Tool_Axe_49: 4215025032125285329
+      Tool_Axe_5: -8856668131425344031
+      Tool_Axe_50: 5869825124665445883
+      Tool_Axe_51: -6014465903094467198
+      Tool_Axe_52: -831785547587316766
+      Tool_Axe_53: 1591807458267015521
+      Tool_Axe_54: 486190139780490745
+      Tool_Axe_55: -4590953278364074626
+      Tool_Axe_56: -4501059104290748895
+      Tool_Axe_57: -5462745671156537148
+      Tool_Axe_58: -8743064854422341800
+      Tool_Axe_59: 6405307691033912378
+      Tool_Axe_6: -1253016384035522852
+      Tool_Axe_60: 408590388960049172
+      Tool_Axe_61: 7506659436463148245
+      Tool_Axe_62: -49535187794485126
+      Tool_Axe_63: 1191218199189502372
+      Tool_Axe_64: 6509982150572280773
+      Tool_Axe_65: 6584400367723937384
+      Tool_Axe_66: 3055066376449854931
+      Tool_Axe_67: -9164020586032811236
+      Tool_Axe_68: -5845601944599245309
+      Tool_Axe_69: 2323119038900806464
+      Tool_Axe_7: -1734590144273555002
+      Tool_Axe_70: 1079921427281931809
+      Tool_Axe_71: 1474730516684182209
+      Tool_Axe_72: -927437353798375470
+      Tool_Axe_73: -7120613574258861946
+      Tool_Axe_74: 3905608776734476645
+      Tool_Axe_75: 6061426208249190290
+      Tool_Axe_76: 8969787369626423905
+      Tool_Axe_77: 2935634838606829320
+      Tool_Axe_78: 926924188645006320
+      Tool_Axe_79: 1717409982903642492
+      Tool_Axe_8: 3544596270631409900
+      Tool_Axe_80: -2618555083537573215
+      Tool_Axe_81: 7810708309460752438
+      Tool_Axe_82: -1100842916931848066
+      Tool_Axe_83: -5697414037692604805
+      Tool_Axe_84: -1706854012028436842
+      Tool_Axe_85: -4718061400632500827
+      Tool_Axe_86: -6222556444616428079
+      Tool_Axe_87: 348608811577429775
+      Tool_Axe_88: 573474917506056507
+      Tool_Axe_89: 5972771022617485472
+      Tool_Axe_9: 1435835918788409531
+      Tool_Axe_90: -368556654045810366
+      Tool_Axe_91: -6415869745899712172
+      Tool_Axe_92: 5810043086590035030
+      Tool_Axe_93: 3583639846695929021
+      Tool_Axe_94: 1066537947798494571
+      Tool_Axe_95: -3790865147214533313
+      Tool_Axe_96: -7317778435958559332
+      Tool_Axe_97: -2741103647746400368
+      Tool_Axe_98: -2531528147428983151
+      Tool_Axe_99: -2586969894453374614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

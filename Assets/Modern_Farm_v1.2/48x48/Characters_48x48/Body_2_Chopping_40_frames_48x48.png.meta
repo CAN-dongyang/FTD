@@ -1,2 +1,1573 @@
 fileFormatVersion: 2
 guid: 223c4e5b03bcbcf4c95683c0b8eacea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6347635172434328160
+    second: Body_2_Chopping_40_frames_48x48_0
+  - first:
+      213: -8089581890029341477
+    second: Body_2_Chopping_40_frames_48x48_1
+  - first:
+      213: 7091830402116989805
+    second: Body_2_Chopping_40_frames_48x48_2
+  - first:
+      213: 5240551244182223853
+    second: Body_2_Chopping_40_frames_48x48_3
+  - first:
+      213: 8039189560167559345
+    second: Body_2_Chopping_40_frames_48x48_4
+  - first:
+      213: 2399066188559728494
+    second: Body_2_Chopping_40_frames_48x48_5
+  - first:
+      213: 1477678589321537686
+    second: Body_2_Chopping_40_frames_48x48_6
+  - first:
+      213: 5640299503126132790
+    second: Body_2_Chopping_40_frames_48x48_7
+  - first:
+      213: -2858739340280594495
+    second: Body_2_Chopping_40_frames_48x48_8
+  - first:
+      213: -2675140836291793015
+    second: Body_2_Chopping_40_frames_48x48_9
+  - first:
+      213: -2669831802905451102
+    second: Body_2_Chopping_40_frames_48x48_10
+  - first:
+      213: -6722303040062155195
+    second: Body_2_Chopping_40_frames_48x48_11
+  - first:
+      213: -1609322434362497226
+    second: Body_2_Chopping_40_frames_48x48_12
+  - first:
+      213: -1628003879436523073
+    second: Body_2_Chopping_40_frames_48x48_13
+  - first:
+      213: -78276409459260008
+    second: Body_2_Chopping_40_frames_48x48_14
+  - first:
+      213: 7695092991151990163
+    second: Body_2_Chopping_40_frames_48x48_15
+  - first:
+      213: 1169561825768052481
+    second: Body_2_Chopping_40_frames_48x48_16
+  - first:
+      213: 2071225875100593612
+    second: Body_2_Chopping_40_frames_48x48_17
+  - first:
+      213: 8139780349177001064
+    second: Body_2_Chopping_40_frames_48x48_18
+  - first:
+      213: -4722786597022099851
+    second: Body_2_Chopping_40_frames_48x48_19
+  - first:
+      213: -7498102134931831822
+    second: Body_2_Chopping_40_frames_48x48_20
+  - first:
+      213: -8227404886829973310
+    second: Body_2_Chopping_40_frames_48x48_21
+  - first:
+      213: 5454569653490763279
+    second: Body_2_Chopping_40_frames_48x48_22
+  - first:
+      213: -3646820098199430888
+    second: Body_2_Chopping_40_frames_48x48_23
+  - first:
+      213: -8001189878804173745
+    second: Body_2_Chopping_40_frames_48x48_24
+  - first:
+      213: -8644868135435820558
+    second: Body_2_Chopping_40_frames_48x48_25
+  - first:
+      213: 6829038555570086087
+    second: Body_2_Chopping_40_frames_48x48_26
+  - first:
+      213: -4939153322999537300
+    second: Body_2_Chopping_40_frames_48x48_27
+  - first:
+      213: -6298066745578071770
+    second: Body_2_Chopping_40_frames_48x48_28
+  - first:
+      213: 3344912560754682450
+    second: Body_2_Chopping_40_frames_48x48_29
+  - first:
+      213: 1531056259246139057
+    second: Body_2_Chopping_40_frames_48x48_30
+  - first:
+      213: -5012780853090259953
+    second: Body_2_Chopping_40_frames_48x48_31
+  - first:
+      213: -7021095369960449751
+    second: Body_2_Chopping_40_frames_48x48_32
+  - first:
+      213: 4496244421385255016
+    second: Body_2_Chopping_40_frames_48x48_33
+  - first:
+      213: 5514405937640420713
+    second: Body_2_Chopping_40_frames_48x48_34
+  - first:
+      213: 1444175665521290190
+    second: Body_2_Chopping_40_frames_48x48_35
+  - first:
+      213: 8154402260710893140
+    second: Body_2_Chopping_40_frames_48x48_36
+  - first:
+      213: -7831490888481973509
+    second: Body_2_Chopping_40_frames_48x48_37
+  - first:
+      213: 2339745411627083637
+    second: Body_2_Chopping_40_frames_48x48_38
+  - first:
+      213: -7806466670563208752
+    second: Body_2_Chopping_40_frames_48x48_39
+  - first:
+      213: 6233747076602305282
+    second: Body_2_Chopping_40_frames_48x48_40
+  - first:
+      213: -1015965485053372643
+    second: Body_2_Chopping_40_frames_48x48_41
+  - first:
+      213: 1531640123932083795
+    second: Body_2_Chopping_40_frames_48x48_42
+  - first:
+      213: 3595121875321366425
+    second: Body_2_Chopping_40_frames_48x48_43
+  - first:
+      213: -7004952667408753774
+    second: Body_2_Chopping_40_frames_48x48_44
+  - first:
+      213: -4043933940978803255
+    second: Body_2_Chopping_40_frames_48x48_45
+  - first:
+      213: 7712468866214504084
+    second: Body_2_Chopping_40_frames_48x48_46
+  - first:
+      213: 8509523957793064437
+    second: Body_2_Chopping_40_frames_48x48_47
+  - first:
+      213: 6525618457524056554
+    second: Body_2_Chopping_40_frames_48x48_48
+  - first:
+      213: 212474812294712218
+    second: Body_2_Chopping_40_frames_48x48_49
+  - first:
+      213: -1075807300751235642
+    second: Body_2_Chopping_40_frames_48x48_50
+  - first:
+      213: -6222254357170846319
+    second: Body_2_Chopping_40_frames_48x48_51
+  - first:
+      213: -1169599122992829238
+    second: Body_2_Chopping_40_frames_48x48_52
+  - first:
+      213: 8591209991377786850
+    second: Body_2_Chopping_40_frames_48x48_53
+  - first:
+      213: -7616973196305917454
+    second: Body_2_Chopping_40_frames_48x48_54
+  - first:
+      213: -4102398475261558013
+    second: Body_2_Chopping_40_frames_48x48_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a39b0ee84571850800000000000000
+      internalID: 6347635172434328160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 107
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd43e57a1280cbf80800000000000000
+      internalID: -8089581890029341477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 98
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bf753d2e3b6260800000000000000
+      internalID: 7091830402116989805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 95
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb76b8479d2ab840800000000000000
+      internalID: 5240551244182223853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 101
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0f0dfbf40f09f60800000000000000
+      internalID: 8039189560167559345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 104
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb0c9dcf13b4120800000000000000
+      internalID: 2399066188559728494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 104
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e5b019d4c18410800000000000000
+      internalID: 1477678589321537686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 101
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63835a6b38e564e40800000000000000
+      internalID: 5640299503126132790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 104
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff32d57b7b358d0800000000000000
+      internalID: -2858739340280594495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 113
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fafa8359dffdad0800000000000000
+      internalID: -2675140836291793015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 110
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5a7c1ee1ad2fad0800000000000000
+      internalID: -2669831802905451102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 110
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5461198500595b2a0800000000000000
+      internalID: -6722303040062155195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 110
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a1c2c5c98aa9e0800000000000000
+      internalID: -1609322434362497226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 110
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96a31e81b2869e0800000000000000
+      internalID: -1628003879436523073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 104
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89543e33508e9eef0800000000000000
+      internalID: -78276409459260008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 98
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395663b1e467aca60800000000000000
+      internalID: 7695092991151990163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 95
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10713cfa84e1b3010800000000000000
+      internalID: 1169561825768052481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 110
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde7f6a5f87ebc10800000000000000
+      internalID: 2071225875100593612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 110
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647666e91f46f070800000000000000
+      internalID: 8139780349177001064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 110
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5769586cc9a457eb0800000000000000
+      internalID: -4722786597022099851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 113
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f34acdb5d361f790800000000000000
+      internalID: -7498102134931831822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 107
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0cf2998d262dd80800000000000000
+      internalID: -8227404886829973310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 98
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0641f6433682bb40800000000000000
+      internalID: 5454569653490763279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 95
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819511f3174e36dc0800000000000000
+      internalID: -3646820098199430888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 101
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2d65823016f090800000000000000
+      internalID: -8001189878804173745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 104
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12149bb32470880800000000000000
+      internalID: -8644868135435820558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 104
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0a33e626e95ce50800000000000000
+      internalID: 6829038555570086087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 101
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c612c63b83a947bb0800000000000000
+      internalID: -4939153322999537300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 104
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295e1ad9a5c898a0800000000000000
+      internalID: -6298066745578071770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 113
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a668c70448b6e20800000000000000
+      internalID: 3344912560754682450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 116
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6218f4e876f3510800000000000000
+      internalID: 1531056259246139057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 119
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cecaa7f560f6ab0800000000000000
+      internalID: -5012780853090259953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 119
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291e5bd5fe009e90800000000000000
+      internalID: -7021095369960449751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 122
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868fff7aa7ed56e30800000000000000
+      internalID: 4496244421385255016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 122
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bc54dbfa178c40800000000000000
+      internalID: 5514405937640420713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 122
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe8a0cd1eba0410800000000000000
+      internalID: 1444175665521290190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 122
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a059f6a14a2170800000000000000
+      internalID: 8154402260710893140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 98
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad25aa784f05390800000000000000
+      internalID: -7831490888481973509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 95
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577e1ec2e02787020800000000000000
+      internalID: 2339745411627083637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 98
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1572e6cebd9a390800000000000000
+      internalID: -7806466670563208752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b928830f7b28650800000000000000
+      internalID: 6233747076602305282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17165f26c096e1f0800000000000000
+      internalID: -1015965485053372643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35605b6e39a714510800000000000000
+      internalID: 1531640123932083795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 35
+        width: 464
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99724ce3c4074e130800000000000000
+      internalID: 3595121875321366425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b1daea9a869ce90800000000000000
+      internalID: -7004952667408753774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd10d0a18f01e7c0800000000000000
+      internalID: -4043933940978803255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496a9f74291380b60800000000000000
+      internalID: 7712468866214504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 35
+        width: 464
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58ee744f6e71670800000000000000
+      internalID: 8509523957793064437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae13474b967af8a50800000000000000
+      internalID: 6525618457524056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4b8e47bcd2f200800000000000000
+      internalID: 212474812294712218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c563f7b5f6f111f0800000000000000
+      internalID: -1075807300751235642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 35
+        width: 464
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19584ba01ac16a9a0800000000000000
+      internalID: -6222254357170846319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc67606bcfb4cfe0800000000000000
+      internalID: -1169599122992829238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e71cde08fb1a3770800000000000000
+      internalID: 8591209991377786850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f993820c331b4690800000000000000
+      internalID: -7616973196305917454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2_Chopping_40_frames_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 35
+        width: 464
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3034eea725a5117c0800000000000000
+      internalID: -4102398475261558013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Body_2_Chopping_40_frames_48x48_0: 6347635172434328160
+      Body_2_Chopping_40_frames_48x48_1: -8089581890029341477
+      Body_2_Chopping_40_frames_48x48_10: -2669831802905451102
+      Body_2_Chopping_40_frames_48x48_11: -6722303040062155195
+      Body_2_Chopping_40_frames_48x48_12: -1609322434362497226
+      Body_2_Chopping_40_frames_48x48_13: -1628003879436523073
+      Body_2_Chopping_40_frames_48x48_14: -78276409459260008
+      Body_2_Chopping_40_frames_48x48_15: 7695092991151990163
+      Body_2_Chopping_40_frames_48x48_16: 1169561825768052481
+      Body_2_Chopping_40_frames_48x48_17: 2071225875100593612
+      Body_2_Chopping_40_frames_48x48_18: 8139780349177001064
+      Body_2_Chopping_40_frames_48x48_19: -4722786597022099851
+      Body_2_Chopping_40_frames_48x48_2: 7091830402116989805
+      Body_2_Chopping_40_frames_48x48_20: -7498102134931831822
+      Body_2_Chopping_40_frames_48x48_21: -8227404886829973310
+      Body_2_Chopping_40_frames_48x48_22: 5454569653490763279
+      Body_2_Chopping_40_frames_48x48_23: -3646820098199430888
+      Body_2_Chopping_40_frames_48x48_24: -8001189878804173745
+      Body_2_Chopping_40_frames_48x48_25: -8644868135435820558
+      Body_2_Chopping_40_frames_48x48_26: 6829038555570086087
+      Body_2_Chopping_40_frames_48x48_27: -4939153322999537300
+      Body_2_Chopping_40_frames_48x48_28: -6298066745578071770
+      Body_2_Chopping_40_frames_48x48_29: 3344912560754682450
+      Body_2_Chopping_40_frames_48x48_3: 5240551244182223853
+      Body_2_Chopping_40_frames_48x48_30: 1531056259246139057
+      Body_2_Chopping_40_frames_48x48_31: -5012780853090259953
+      Body_2_Chopping_40_frames_48x48_32: -7021095369960449751
+      Body_2_Chopping_40_frames_48x48_33: 4496244421385255016
+      Body_2_Chopping_40_frames_48x48_34: 5514405937640420713
+      Body_2_Chopping_40_frames_48x48_35: 1444175665521290190
+      Body_2_Chopping_40_frames_48x48_36: 8154402260710893140
+      Body_2_Chopping_40_frames_48x48_37: -7831490888481973509
+      Body_2_Chopping_40_frames_48x48_38: 2339745411627083637
+      Body_2_Chopping_40_frames_48x48_39: -7806466670563208752
+      Body_2_Chopping_40_frames_48x48_4: 8039189560167559345
+      Body_2_Chopping_40_frames_48x48_40: 6233747076602305282
+      Body_2_Chopping_40_frames_48x48_41: -1015965485053372643
+      Body_2_Chopping_40_frames_48x48_42: 1531640123932083795
+      Body_2_Chopping_40_frames_48x48_43: 3595121875321366425
+      Body_2_Chopping_40_frames_48x48_44: -7004952667408753774
+      Body_2_Chopping_40_frames_48x48_45: -4043933940978803255
+      Body_2_Chopping_40_frames_48x48_46: 7712468866214504084
+      Body_2_Chopping_40_frames_48x48_47: 8509523957793064437
+      Body_2_Chopping_40_frames_48x48_48: 6525618457524056554
+      Body_2_Chopping_40_frames_48x48_49: 212474812294712218
+      Body_2_Chopping_40_frames_48x48_5: 2399066188559728494
+      Body_2_Chopping_40_frames_48x48_50: -1075807300751235642
+      Body_2_Chopping_40_frames_48x48_51: -6222254357170846319
+      Body_2_Chopping_40_frames_48x48_52: -1169599122992829238
+      Body_2_Chopping_40_frames_48x48_53: 8591209991377786850
+      Body_2_Chopping_40_frames_48x48_54: -7616973196305917454
+      Body_2_Chopping_40_frames_48x48_55: -4102398475261558013
+      Body_2_Chopping_40_frames_48x48_6: 1477678589321537686
+      Body_2_Chopping_40_frames_48x48_7: 5640299503126132790
+      Body_2_Chopping_40_frames_48x48_8: -2858739340280594495
+      Body_2_Chopping_40_frames_48x48_9: -2675140836291793015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

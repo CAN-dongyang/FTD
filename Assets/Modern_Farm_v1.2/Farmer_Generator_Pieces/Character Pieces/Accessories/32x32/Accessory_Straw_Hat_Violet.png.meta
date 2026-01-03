@@ -1,2 +1,403 @@
 fileFormatVersion: 2
 guid: 7fc0f0a0e1d87c14f8b26e5265594628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1686438090886494092
+    second: Accessory_Straw_Hat_Violet_0
+  - first:
+      213: -6084646184577018072
+    second: Accessory_Straw_Hat_Violet_1
+  - first:
+      213: 8841519946473270016
+    second: Accessory_Straw_Hat_Violet_2
+  - first:
+      213: -8824922409753785435
+    second: Accessory_Straw_Hat_Violet_3
+  - first:
+      213: 7756287742759102969
+    second: Accessory_Straw_Hat_Violet_4
+  - first:
+      213: -355287046554715984
+    second: Accessory_Straw_Hat_Violet_5
+  - first:
+      213: 5360411176172161546
+    second: Accessory_Straw_Hat_Violet_6
+  - first:
+      213: 1420440521348358794
+    second: Accessory_Straw_Hat_Violet_7
+  - first:
+      213: 8766125038371419498
+    second: Accessory_Straw_Hat_Violet_8
+  - first:
+      213: -4283153718418611436
+    second: Accessory_Straw_Hat_Violet_9
+  - first:
+      213: -9129199129690428386
+    second: Accessory_Straw_Hat_Violet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 129
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873afe228e676710800000000000000
+      internalID: 1686438090886494092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 769
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d950788efe8ba0800000000000000
+      internalID: -6084646184577018072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 769
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be1140c8363ba70800000000000000
+      internalID: 8841519946473270016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 1153
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abcd3423d3978580800000000000000
+      internalID: -8824922409753785435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 1153
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f96fd28b9ed3ab60800000000000000
+      internalID: 7756287742759102969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 1792
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8fec44054c11bf0800000000000000
+      internalID: -355287046554715984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 1281
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a86c56091046a40800000000000000
+      internalID: 5360411176172161546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 1153
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822a8bd02b66b310800000000000000
+      internalID: 1420440521348358794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 769
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6539c8074887a970800000000000000
+      internalID: 8766125038371419498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 257
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e34fd26e2f84c0800000000000000
+      internalID: -4283153718418611436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Straw_Hat_Violet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1153
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2ff692c19e4180800000000000000
+      internalID: -9129199129690428386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_Straw_Hat_Violet_0: 1686438090886494092
+      Accessory_Straw_Hat_Violet_1: -6084646184577018072
+      Accessory_Straw_Hat_Violet_10: -9129199129690428386
+      Accessory_Straw_Hat_Violet_2: 8841519946473270016
+      Accessory_Straw_Hat_Violet_3: -8824922409753785435
+      Accessory_Straw_Hat_Violet_4: 7756287742759102969
+      Accessory_Straw_Hat_Violet_5: -355287046554715984
+      Accessory_Straw_Hat_Violet_6: 5360411176172161546
+      Accessory_Straw_Hat_Violet_7: 1420440521348358794
+      Accessory_Straw_Hat_Violet_8: 8766125038371419498
+      Accessory_Straw_Hat_Violet_9: -4283153718418611436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

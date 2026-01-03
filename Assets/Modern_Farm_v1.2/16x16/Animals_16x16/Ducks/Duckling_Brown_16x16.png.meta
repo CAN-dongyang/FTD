@@ -1,2 +1,1781 @@
 fileFormatVersion: 2
 guid: f040cfaf3b0d024458e646dd1726c584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -445853646152375549
+    second: Duckling_Brown_16x16_0
+  - first:
+      213: -1657387801488078753
+    second: Duckling_Brown_16x16_1
+  - first:
+      213: -6834490135880548582
+    second: Duckling_Brown_16x16_2
+  - first:
+      213: 8021482963258069456
+    second: Duckling_Brown_16x16_3
+  - first:
+      213: 6034922545839290212
+    second: Duckling_Brown_16x16_4
+  - first:
+      213: 771439563100709186
+    second: Duckling_Brown_16x16_5
+  - first:
+      213: 7061075147135801704
+    second: Duckling_Brown_16x16_6
+  - first:
+      213: -8854022094194541234
+    second: Duckling_Brown_16x16_7
+  - first:
+      213: -6005046429008199980
+    second: Duckling_Brown_16x16_8
+  - first:
+      213: 1114356640751426108
+    second: Duckling_Brown_16x16_9
+  - first:
+      213: 1932086100186468501
+    second: Duckling_Brown_16x16_10
+  - first:
+      213: -6966016381701213011
+    second: Duckling_Brown_16x16_11
+  - first:
+      213: 4426266684632817782
+    second: Duckling_Brown_16x16_12
+  - first:
+      213: -3597366478227863095
+    second: Duckling_Brown_16x16_13
+  - first:
+      213: -4919893452836911081
+    second: Duckling_Brown_16x16_14
+  - first:
+      213: 6431164294140542207
+    second: Duckling_Brown_16x16_15
+  - first:
+      213: -2381295968352319179
+    second: Duckling_Brown_16x16_16
+  - first:
+      213: -2063993239715120309
+    second: Duckling_Brown_16x16_17
+  - first:
+      213: 7318812268647245689
+    second: Duckling_Brown_16x16_18
+  - first:
+      213: 9192151340935638528
+    second: Duckling_Brown_16x16_19
+  - first:
+      213: 3770737478298185317
+    second: Duckling_Brown_16x16_20
+  - first:
+      213: -7196164600716802823
+    second: Duckling_Brown_16x16_21
+  - first:
+      213: -1214230294788028994
+    second: Duckling_Brown_16x16_22
+  - first:
+      213: -739056341988733001
+    second: Duckling_Brown_16x16_23
+  - first:
+      213: 8728892544079104235
+    second: Duckling_Brown_16x16_24
+  - first:
+      213: -4648424241887155236
+    second: Duckling_Brown_16x16_25
+  - first:
+      213: -5524934861182296503
+    second: Duckling_Brown_16x16_26
+  - first:
+      213: -7579132085806495528
+    second: Duckling_Brown_16x16_27
+  - first:
+      213: 8553554389134424181
+    second: Duckling_Brown_16x16_28
+  - first:
+      213: -3360417961975359443
+    second: Duckling_Brown_16x16_29
+  - first:
+      213: -1833807282034257913
+    second: Duckling_Brown_16x16_30
+  - first:
+      213: -450914667721028889
+    second: Duckling_Brown_16x16_31
+  - first:
+      213: -7291258400366711641
+    second: Duckling_Brown_16x16_32
+  - first:
+      213: 7089767086401978843
+    second: Duckling_Brown_16x16_33
+  - first:
+      213: 1417803147880399704
+    second: Duckling_Brown_16x16_34
+  - first:
+      213: -4228182117968982738
+    second: Duckling_Brown_16x16_35
+  - first:
+      213: -7489117149639102759
+    second: Duckling_Brown_16x16_36
+  - first:
+      213: 6985158855624299709
+    second: Duckling_Brown_16x16_37
+  - first:
+      213: -2422734808361169825
+    second: Duckling_Brown_16x16_38
+  - first:
+      213: 4087672288262591322
+    second: Duckling_Brown_16x16_39
+  - first:
+      213: -6102285038767106431
+    second: Duckling_Brown_16x16_40
+  - first:
+      213: -247591959927791013
+    second: Duckling_Brown_16x16_41
+  - first:
+      213: -6332534117926486700
+    second: Duckling_Brown_16x16_42
+  - first:
+      213: 7276849611047294378
+    second: Duckling_Brown_16x16_43
+  - first:
+      213: -1790918951399373031
+    second: Duckling_Brown_16x16_44
+  - first:
+      213: 2872541095452016484
+    second: Duckling_Brown_16x16_45
+  - first:
+      213: 8954410423789904789
+    second: Duckling_Brown_16x16_46
+  - first:
+      213: -6203069849910937354
+    second: Duckling_Brown_16x16_47
+  - first:
+      213: 3509351989319421774
+    second: Duckling_Brown_16x16_48
+  - first:
+      213: -4139798856258454610
+    second: Duckling_Brown_16x16_49
+  - first:
+      213: -6661949611918789171
+    second: Duckling_Brown_16x16_50
+  - first:
+      213: -1822048519249786819
+    second: Duckling_Brown_16x16_51
+  - first:
+      213: 7076785795675459419
+    second: Duckling_Brown_16x16_52
+  - first:
+      213: 1339522871021463461
+    second: Duckling_Brown_16x16_53
+  - first:
+      213: 2612993666321392842
+    second: Duckling_Brown_16x16_54
+  - first:
+      213: 4247944149244116105
+    second: Duckling_Brown_16x16_55
+  - first:
+      213: -2056152179839614638
+    second: Duckling_Brown_16x16_56
+  - first:
+      213: -3411019314886775393
+    second: Duckling_Brown_16x16_57
+  - first:
+      213: -1868259507095236010
+    second: Duckling_Brown_16x16_58
+  - first:
+      213: 7943421408803156005
+    second: Duckling_Brown_16x16_59
+  - first:
+      213: -6939109172113870692
+    second: Duckling_Brown_16x16_60
+  - first:
+      213: 8142436591873473345
+    second: Duckling_Brown_16x16_61
+  - first:
+      213: -6565020107366828896
+    second: Duckling_Brown_16x16_62
+  - first:
+      213: -6122146724426263792
+    second: Duckling_Brown_16x16_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3036647987200d9f0800000000000000
+      internalID: -445853646152375549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58cc356396cff8e0800000000000000
+      internalID: -1657387801488078753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbded9e630721a0800000000000000
+      internalID: -6834490135880548582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d158d46148025f60800000000000000
+      internalID: 8021482963258069456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673fbfb41a50c350800000000000000
+      internalID: 6034922545839290212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ec440234b4ba00800000000000000
+      internalID: 771439563100709186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695e556f6afdf160800000000000000
+      internalID: 7061075147135801704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df212e0d1302580800000000000000
+      internalID: -8854022094194541234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4defc33c61ac9aca0800000000000000
+      internalID: -6005046429008199980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a161de57df67f00800000000000000
+      internalID: 1114356640751426108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590951d421620da10800000000000000
+      internalID: 1932086100186468501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b525220db35f90800000000000000
+      internalID: -6966016381701213011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6706faa29124d6d30800000000000000
+      internalID: 4426266684632817782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9845a6f36931ec0800000000000000
+      internalID: -3597366478227863095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 16
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c2eaa8f609bbb0800000000000000
+      internalID: -4919893452836911081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3c6c0ad5104950800000000000000
+      internalID: 6431164294140542207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394a45feefe3fed0800000000000000
+      internalID: -2381295968352319179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf8ff75193b53e0800000000000000
+      internalID: -2063993239715120309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 16
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776d7a4bf4a19560800000000000000
+      internalID: 7318812268647245689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e691641f4119f70800000000000000
+      internalID: 9192151340935638528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e273f12c9545430800000000000000
+      internalID: 3770737478298185317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c80d2c66122c90800000000000000
+      internalID: -7196164600716802823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb544abeaff262fe0800000000000000
+      internalID: -1214230294788028994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf03c23c285eb5f0800000000000000
+      internalID: -739056341988733001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8046c6581432970800000000000000
+      internalID: 8728892544079104235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6009c7ca7d7fb0800000000000000
+      internalID: -4648424241887155236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9e00240d7353b0800000000000000
+      internalID: -5524934861182296503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d80dbf168381d690800000000000000
+      internalID: -7579132085806495528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5783753f56454b670800000000000000
+      internalID: 8553554389134424181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28dd97faa56d51d0800000000000000
+      internalID: -3360417961975359443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700d2df2ef10d86e0800000000000000
+      internalID: -1833807282034257913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea897eaf770eb9f0800000000000000
+      internalID: -450914667721028889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2f889d1f30da90800000000000000
+      internalID: -7291258400366711641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10f351a99e36260800000000000000
+      internalID: 7089767086401978843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85387de737c0da310800000000000000
+      internalID: 1417803147880399704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dccccf3ca7255c0800000000000000
+      internalID: -4228182117968982738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea976a1af411890800000000000000
+      internalID: -7489117149639102759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4192168f440f060800000000000000
+      internalID: 6985158855624299709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c88aa2787b06ed0800000000000000
+      internalID: -2422734808361169825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53991ce9445ab830800000000000000
+      internalID: 4087672288262591322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1861b1aa614505ba0800000000000000
+      internalID: -6102285038767106431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e24b9c60609cf0800000000000000
+      internalID: -247591959927791013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d33fc55c15e18a0800000000000000
+      internalID: -6332534117926486700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d966ba209cf460800000000000000
+      internalID: 7276849611047294378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174350d3b06527e0800000000000000
+      internalID: -1790918951399373031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff02d28e05dd720800000000000000
+      internalID: 2872541095452016484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5936d0386d4744c70800000000000000
+      internalID: 8954410423789904789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f87f1736d44ae9a0800000000000000
+      internalID: -6203069849910937354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc13b7a09b3b030800000000000000
+      internalID: 3509351989319421774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7523bfda7c86c0800000000000000
+      internalID: -4139798856258454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5770edf100c83a0800000000000000
+      internalID: -6661949611918789171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 16
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38079e7688c6b6e0800000000000000
+      internalID: -1822048519249786819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f04cecf2bc53260800000000000000
+      internalID: 7076785795675459419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7eebf34f0f69210800000000000000
+      internalID: 1339522871021463461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ae6135e7334420800000000000000
+      internalID: 2612993666321392842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf46972bab3fa30800000000000000
+      internalID: 4247944149244116105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c3848c741773e0800000000000000
+      internalID: -2056152179839614638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6d266100a9a0d0800000000000000
+      internalID: -3411019314886775393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652975370eb9216e0800000000000000
+      internalID: -1868259507095236010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f1fc6fa3bc3e60800000000000000
+      internalID: 7943421408803156005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907f7219f453bf90800000000000000
+      internalID: -6939109172113870692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb2c890febff070800000000000000
+      internalID: 8142436591873473345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47a1dcefc54e4a0800000000000000
+      internalID: -6565020107366828896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duckling_Brown_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01350cb9df3c90ba0800000000000000
+      internalID: -6122146724426263792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duckling_Brown_16x16_0: -445853646152375549
+      Duckling_Brown_16x16_1: -1657387801488078753
+      Duckling_Brown_16x16_10: 1932086100186468501
+      Duckling_Brown_16x16_11: -6966016381701213011
+      Duckling_Brown_16x16_12: 4426266684632817782
+      Duckling_Brown_16x16_13: -3597366478227863095
+      Duckling_Brown_16x16_14: -4919893452836911081
+      Duckling_Brown_16x16_15: 6431164294140542207
+      Duckling_Brown_16x16_16: -2381295968352319179
+      Duckling_Brown_16x16_17: -2063993239715120309
+      Duckling_Brown_16x16_18: 7318812268647245689
+      Duckling_Brown_16x16_19: 9192151340935638528
+      Duckling_Brown_16x16_2: -6834490135880548582
+      Duckling_Brown_16x16_20: 3770737478298185317
+      Duckling_Brown_16x16_21: -7196164600716802823
+      Duckling_Brown_16x16_22: -1214230294788028994
+      Duckling_Brown_16x16_23: -739056341988733001
+      Duckling_Brown_16x16_24: 8728892544079104235
+      Duckling_Brown_16x16_25: -4648424241887155236
+      Duckling_Brown_16x16_26: -5524934861182296503
+      Duckling_Brown_16x16_27: -7579132085806495528
+      Duckling_Brown_16x16_28: 8553554389134424181
+      Duckling_Brown_16x16_29: -3360417961975359443
+      Duckling_Brown_16x16_3: 8021482963258069456
+      Duckling_Brown_16x16_30: -1833807282034257913
+      Duckling_Brown_16x16_31: -450914667721028889
+      Duckling_Brown_16x16_32: -7291258400366711641
+      Duckling_Brown_16x16_33: 7089767086401978843
+      Duckling_Brown_16x16_34: 1417803147880399704
+      Duckling_Brown_16x16_35: -4228182117968982738
+      Duckling_Brown_16x16_36: -7489117149639102759
+      Duckling_Brown_16x16_37: 6985158855624299709
+      Duckling_Brown_16x16_38: -2422734808361169825
+      Duckling_Brown_16x16_39: 4087672288262591322
+      Duckling_Brown_16x16_4: 6034922545839290212
+      Duckling_Brown_16x16_40: -6102285038767106431
+      Duckling_Brown_16x16_41: -247591959927791013
+      Duckling_Brown_16x16_42: -6332534117926486700
+      Duckling_Brown_16x16_43: 7276849611047294378
+      Duckling_Brown_16x16_44: -1790918951399373031
+      Duckling_Brown_16x16_45: 2872541095452016484
+      Duckling_Brown_16x16_46: 8954410423789904789
+      Duckling_Brown_16x16_47: -6203069849910937354
+      Duckling_Brown_16x16_48: 3509351989319421774
+      Duckling_Brown_16x16_49: -4139798856258454610
+      Duckling_Brown_16x16_5: 771439563100709186
+      Duckling_Brown_16x16_50: -6661949611918789171
+      Duckling_Brown_16x16_51: -1822048519249786819
+      Duckling_Brown_16x16_52: 7076785795675459419
+      Duckling_Brown_16x16_53: 1339522871021463461
+      Duckling_Brown_16x16_54: 2612993666321392842
+      Duckling_Brown_16x16_55: 4247944149244116105
+      Duckling_Brown_16x16_56: -2056152179839614638
+      Duckling_Brown_16x16_57: -3411019314886775393
+      Duckling_Brown_16x16_58: -1868259507095236010
+      Duckling_Brown_16x16_59: 7943421408803156005
+      Duckling_Brown_16x16_6: 7061075147135801704
+      Duckling_Brown_16x16_60: -6939109172113870692
+      Duckling_Brown_16x16_61: 8142436591873473345
+      Duckling_Brown_16x16_62: -6565020107366828896
+      Duckling_Brown_16x16_63: -6122146724426263792
+      Duckling_Brown_16x16_7: -8854022094194541234
+      Duckling_Brown_16x16_8: -6005046429008199980
+      Duckling_Brown_16x16_9: 1114356640751426108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,2 +1,1105 @@
 fileFormatVersion: 2
 guid: 0f162c0677d294245b84d460f8fdff9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4455356549429160121
+    second: Tractor_48x48_0
+  - first:
+      213: -4320969209069149811
+    second: Tractor_48x48_1
+  - first:
+      213: 7728924101899312336
+    second: Tractor_48x48_2
+  - first:
+      213: -8797020365734234492
+    second: Tractor_48x48_3
+  - first:
+      213: -980190862335473168
+    second: Tractor_48x48_4
+  - first:
+      213: -1162808694285076290
+    second: Tractor_48x48_5
+  - first:
+      213: -4258339990060410894
+    second: Tractor_48x48_6
+  - first:
+      213: -2725045872853375957
+    second: Tractor_48x48_7
+  - first:
+      213: 223267665551771233
+    second: Tractor_48x48_8
+  - first:
+      213: 8854182443137008729
+    second: Tractor_48x48_9
+  - first:
+      213: -2056313082114585363
+    second: Tractor_48x48_10
+  - first:
+      213: 8584549874352817712
+    second: Tractor_48x48_11
+  - first:
+      213: -8447599400954771044
+    second: Tractor_48x48_12
+  - first:
+      213: -7481810613441967795
+    second: Tractor_48x48_13
+  - first:
+      213: 7323307815368556150
+    second: Tractor_48x48_14
+  - first:
+      213: -2007104695216287479
+    second: Tractor_48x48_15
+  - first:
+      213: -4698516189023044645
+    second: Tractor_48x48_16
+  - first:
+      213: -5235019058736992590
+    second: Tractor_48x48_17
+  - first:
+      213: 3958843591751427816
+    second: Tractor_48x48_18
+  - first:
+      213: 687726668668943268
+    second: Tractor_48x48_19
+  - first:
+      213: -6844416491584447918
+    second: Tractor_48x48_20
+  - first:
+      213: 6964494728433043003
+    second: Tractor_48x48_21
+  - first:
+      213: 2941628670470242287
+    second: Tractor_48x48_22
+  - first:
+      213: 784284571269469129
+    second: Tractor_48x48_23
+  - first:
+      213: -9107494837658134028
+    second: Tractor_48x48_24
+  - first:
+      213: 2701924213478231634
+    second: Tractor_48x48_25
+  - first:
+      213: 8367960590689985055
+    second: Tractor_48x48_26
+  - first:
+      213: -8543131763228485625
+    second: Tractor_48x48_27
+  - first:
+      213: -188153052198555236
+    second: Tractor_48x48_28
+  - first:
+      213: -7999658327035845838
+    second: Tractor_48x48_29
+  - first:
+      213: 5514119616964263215
+    second: Tractor_48x48_30
+  - first:
+      213: -2502236704907662816
+    second: Tractor_48x48_31
+  - first:
+      213: -6685018359364244541
+    second: Tractor_48x48_32
+  - first:
+      213: 104702019078939428
+    second: Tractor_48x48_33
+  - first:
+      213: -695351004710168086
+    second: Tractor_48x48_34
+  - first:
+      213: -1077445726169935519
+    second: Tractor_48x48_35
+  - first:
+      213: 6470584376756011900
+    second: Tractor_48x48_36
+  - first:
+      213: 3749880027857440203
+    second: Tractor_48x48_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tractor_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7479093e2d46b22c0800000000000000
+      internalID: -4455356549429160121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1178
+        width: 146
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d816808d565d804c0800000000000000
+      internalID: -4320969209069149811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1166
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcd9a56587a24b60800000000000000
+      internalID: 7728924101899312336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1151
+        width: 242
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b8820694bae580800000000000000
+      internalID: -8797020365734234492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1151
+        width: 242
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9096e9a99a562f0800000000000000
+      internalID: -980190862335473168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1295
+        width: 338
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f66347afdcdfe0800000000000000
+      internalID: -1162808694285076290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1199
+        width: 338
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7db97375657e4c0800000000000000
+      internalID: -4258339990060410894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 863
+        width: 248
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b242eef6731be2ad0800000000000000
+      internalID: -2725045872853375957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 863
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664b0742c4391300800000000000000
+      internalID: 223267665551771233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 863
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9548ea3450060ea70800000000000000
+      internalID: 8854182443137008729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 863
+        width: 257
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec429985228673e0800000000000000
+      internalID: -2056313082114585363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 923
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0368c69b0a2722770800000000000000
+      internalID: 8584549874352817712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 863
+        width: 245
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c9452a1914ca80800000000000000
+      internalID: -8447599400954771044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 926
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d494b0d23e44b2890800000000000000
+      internalID: -7481810613441967795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 863
+        width: 245
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e72e358ad91a560800000000000000
+      internalID: 7323307815368556150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 593
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9015d9ee9e45524e0800000000000000
+      internalID: -2007104695216287479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 575
+        width: 146
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbfbdd7b648bceb0800000000000000
+      internalID: -4698516189023044645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 581
+        width: 146
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bee49307e97957b0800000000000000
+      internalID: -5235019058736992590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 578
+        width: 146
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6eca79543a0f630800000000000000
+      internalID: 3958843591751427816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 575
+        width: 146
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab339ce2cb4b8900800000000000000
+      internalID: 687726668668943268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 590
+        width: 146
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a9844d67fb301a0800000000000000
+      internalID: -6844416491584447918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 575
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3605585e0bd6a060800000000000000
+      internalID: 6964494728433043003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 578
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefbb7cb0b3c2d820800000000000000
+      internalID: 2941628670470242287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 575
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3165989a652ea00800000000000000
+      internalID: 784284571269469129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 287
+        width: 248
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9deafd2bdab9180800000000000000
+      internalID: -9107494837658134028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 287
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e856ab1c92f7520800000000000000
+      internalID: 2701924213478231634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 287
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f126b8662d7f02470800000000000000
+      internalID: 8367960590689985055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 287
+        width: 257
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d86fbce2b07980800000000000000
+      internalID: -8543131763228485625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 287
+        width: 245
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91bc40cbcb836df0800000000000000
+      internalID: -188153052198555236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 347
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2336884b2218bf090800000000000000
+      internalID: -7999658327035845838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 287
+        width: 245
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dfa2a9396168c40800000000000000
+      internalID: 5514119616964263215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 350
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae80c69f4464dd0800000000000000
+      internalID: -2502236704907662816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb212d883b0a33a0800000000000000
+      internalID: -6685018359364244541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423677e7ee9f37100800000000000000
+      internalID: 104702019078939428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91a0202fd9956f0800000000000000
+      internalID: -695351004710168086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161d0e212d42c01f0800000000000000
+      internalID: -1077445726169935519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730cb145322cc950800000000000000
+      internalID: 6470584376756011900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tractor_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 14
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd46c284004a0430800000000000000
+      internalID: 3749880027857440203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tractor_48x48_0: -4455356549429160121
+      Tractor_48x48_1: -4320969209069149811
+      Tractor_48x48_10: -2056313082114585363
+      Tractor_48x48_11: 8584549874352817712
+      Tractor_48x48_12: -8447599400954771044
+      Tractor_48x48_13: -7481810613441967795
+      Tractor_48x48_14: 7323307815368556150
+      Tractor_48x48_15: -2007104695216287479
+      Tractor_48x48_16: -4698516189023044645
+      Tractor_48x48_17: -5235019058736992590
+      Tractor_48x48_18: 3958843591751427816
+      Tractor_48x48_19: 687726668668943268
+      Tractor_48x48_2: 7728924101899312336
+      Tractor_48x48_20: -6844416491584447918
+      Tractor_48x48_21: 6964494728433043003
+      Tractor_48x48_22: 2941628670470242287
+      Tractor_48x48_23: 784284571269469129
+      Tractor_48x48_24: -9107494837658134028
+      Tractor_48x48_25: 2701924213478231634
+      Tractor_48x48_26: 8367960590689985055
+      Tractor_48x48_27: -8543131763228485625
+      Tractor_48x48_28: -188153052198555236
+      Tractor_48x48_29: -7999658327035845838
+      Tractor_48x48_3: -8797020365734234492
+      Tractor_48x48_30: 5514119616964263215
+      Tractor_48x48_31: -2502236704907662816
+      Tractor_48x48_32: -6685018359364244541
+      Tractor_48x48_33: 104702019078939428
+      Tractor_48x48_34: -695351004710168086
+      Tractor_48x48_35: -1077445726169935519
+      Tractor_48x48_36: 6470584376756011900
+      Tractor_48x48_37: 3749880027857440203
+      Tractor_48x48_4: -980190862335473168
+      Tractor_48x48_5: -1162808694285076290
+      Tractor_48x48_6: -4258339990060410894
+      Tractor_48x48_7: -2725045872853375957
+      Tractor_48x48_8: 223267665551771233
+      Tractor_48x48_9: 8854182443137008729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

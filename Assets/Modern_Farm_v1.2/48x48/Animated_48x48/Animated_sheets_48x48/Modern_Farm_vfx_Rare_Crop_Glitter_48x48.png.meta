@@ -1,2 +1,637 @@
 fileFormatVersion: 2
 guid: 274442d76c7890641814b83932701e69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3426248006119299916
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_0
+  - first:
+      213: -4977589500481417243
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_1
+  - first:
+      213: -4158515580374507095
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_2
+  - first:
+      213: 6631890532524708328
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_3
+  - first:
+      213: -3275100813858655362
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_4
+  - first:
+      213: 4437193871076339003
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_5
+  - first:
+      213: -274022623347830176
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_6
+  - first:
+      213: 1763660605821655174
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_7
+  - first:
+      213: -7327753998411178421
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_8
+  - first:
+      213: -5722880759318226883
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_9
+  - first:
+      213: -1109651188930558183
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_10
+  - first:
+      213: -3624609771072823090
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_11
+  - first:
+      213: -1740280330553240357
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_12
+  - first:
+      213: -6479797214842090847
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_13
+  - first:
+      213: 6294487489021410788
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_14
+  - first:
+      213: 2224465284439880319
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_15
+  - first:
+      213: 8744112513452305467
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_16
+  - first:
+      213: -7481704378945353482
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_17
+  - first:
+      213: -3660256391216882319
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_18
+  - first:
+      213: 7692091349256837306
+    second: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b46eda67958370d0800000000000000
+      internalID: -3426248006119299916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4712c8bc0ceab0800000000000000
+      internalID: -4977589500481417243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a9d6cc1cf946c0800000000000000
+      internalID: -4158515580374507095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 26
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e159645d45390c50800000000000000
+      internalID: 6631890532524708328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bc5a79218c82d0800000000000000
+      internalID: -3275100813858655362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dab050154149d30800000000000000
+      internalID: 4437193871076339003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0629eea30e9723cf0800000000000000
+      internalID: -274022623347830176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688995a0af7c97810800000000000000
+      internalID: 1763660605821655174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed04300969e4a90800000000000000
+      internalID: -7327753998411178421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d385be0454e3490b0800000000000000
+      internalID: -5722880759318226883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 29
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91744337f1ab990f0800000000000000
+      internalID: -1109651188930558183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06bc10e9cc2bdc0800000000000000
+      internalID: -3624609771072823090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd456cf724849d7e0800000000000000
+      internalID: -1740280330553240357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa85c8b3c22316a0800000000000000
+      internalID: -6479797214842090847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 29
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf24a85038a5750800000000000000
+      internalID: 6294487489021410788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 5
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723a36f363eede10800000000000000
+      internalID: 2224465284439880319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6f50b004595970800000000000000
+      internalID: 8744112513452305467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f84a72d185ab2890800000000000000
+      internalID: -7481704378945353482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1aae7438243dc0800000000000000
+      internalID: -3660256391216882319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Farm_vfx_Rare_Crop_Glitter_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81f44e35ccfba60800000000000000
+      internalID: 7692091349256837306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_0: -3426248006119299916
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_1: -4977589500481417243
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_10: -1109651188930558183
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_11: -3624609771072823090
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_12: -1740280330553240357
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_13: -6479797214842090847
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_14: 6294487489021410788
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_15: 2224465284439880319
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_16: 8744112513452305467
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_17: -7481704378945353482
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_18: -3660256391216882319
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_19: 7692091349256837306
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_2: -4158515580374507095
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_3: 6631890532524708328
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_4: -3275100813858655362
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_5: 4437193871076339003
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_6: -274022623347830176
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_7: 1763660605821655174
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_8: -7327753998411178421
+      Modern_Farm_vfx_Rare_Crop_Glitter_48x48_9: -5722880759318226883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

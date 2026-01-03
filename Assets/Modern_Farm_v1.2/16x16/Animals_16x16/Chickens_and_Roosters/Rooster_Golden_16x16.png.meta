@@ -1,2 +1,1911 @@
 fileFormatVersion: 2
 guid: 288404cd3ef402a47aa867f7c986bdfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -936238561620901267
+    second: Rooster_Golden_16x16_0
+  - first:
+      213: 1107152020442028569
+    second: Rooster_Golden_16x16_1
+  - first:
+      213: 7404982632727730575
+    second: Rooster_Golden_16x16_2
+  - first:
+      213: 3100584017076662955
+    second: Rooster_Golden_16x16_3
+  - first:
+      213: -166020182301614147
+    second: Rooster_Golden_16x16_4
+  - first:
+      213: 7447576006910490458
+    second: Rooster_Golden_16x16_5
+  - first:
+      213: -683095401718475832
+    second: Rooster_Golden_16x16_6
+  - first:
+      213: -1946976606658071031
+    second: Rooster_Golden_16x16_7
+  - first:
+      213: 8130390261245365492
+    second: Rooster_Golden_16x16_8
+  - first:
+      213: -2256602445945422535
+    second: Rooster_Golden_16x16_9
+  - first:
+      213: 9065599567013511507
+    second: Rooster_Golden_16x16_10
+  - first:
+      213: -9076201308325884541
+    second: Rooster_Golden_16x16_11
+  - first:
+      213: -740688507653978162
+    second: Rooster_Golden_16x16_12
+  - first:
+      213: -6305194547387065806
+    second: Rooster_Golden_16x16_13
+  - first:
+      213: -4141053577444943013
+    second: Rooster_Golden_16x16_14
+  - first:
+      213: 5338121047880155491
+    second: Rooster_Golden_16x16_15
+  - first:
+      213: 5593423958915760691
+    second: Rooster_Golden_16x16_16
+  - first:
+      213: -1059411298882208675
+    second: Rooster_Golden_16x16_17
+  - first:
+      213: -5214225431619678690
+    second: Rooster_Golden_16x16_18
+  - first:
+      213: -6186949333128819875
+    second: Rooster_Golden_16x16_19
+  - first:
+      213: -4592874188633377442
+    second: Rooster_Golden_16x16_20
+  - first:
+      213: 1735475220127839889
+    second: Rooster_Golden_16x16_21
+  - first:
+      213: 2088811390565812167
+    second: Rooster_Golden_16x16_22
+  - first:
+      213: -276619456855767259
+    second: Rooster_Golden_16x16_23
+  - first:
+      213: -3872278426096133092
+    second: Rooster_Golden_16x16_24
+  - first:
+      213: 7275856026208829325
+    second: Rooster_Golden_16x16_25
+  - first:
+      213: -9091939738205968734
+    second: Rooster_Golden_16x16_26
+  - first:
+      213: 3498572478656328367
+    second: Rooster_Golden_16x16_27
+  - first:
+      213: -3657612420427313579
+    second: Rooster_Golden_16x16_28
+  - first:
+      213: -1540645620532980551
+    second: Rooster_Golden_16x16_29
+  - first:
+      213: -6517378019715241078
+    second: Rooster_Golden_16x16_30
+  - first:
+      213: -8430092627829171693
+    second: Rooster_Golden_16x16_31
+  - first:
+      213: -3174942165763927918
+    second: Rooster_Golden_16x16_32
+  - first:
+      213: 8185461955756263207
+    second: Rooster_Golden_16x16_33
+  - first:
+      213: 7293480606167612233
+    second: Rooster_Golden_16x16_34
+  - first:
+      213: 6623417869142591256
+    second: Rooster_Golden_16x16_35
+  - first:
+      213: 2168008016831147055
+    second: Rooster_Golden_16x16_36
+  - first:
+      213: 9040448980697517239
+    second: Rooster_Golden_16x16_37
+  - first:
+      213: 6928683557174796039
+    second: Rooster_Golden_16x16_38
+  - first:
+      213: 959392588096456571
+    second: Rooster_Golden_16x16_39
+  - first:
+      213: 5604557082840798532
+    second: Rooster_Golden_16x16_40
+  - first:
+      213: 2576221152706892139
+    second: Rooster_Golden_16x16_41
+  - first:
+      213: 2827776378861185411
+    second: Rooster_Golden_16x16_42
+  - first:
+      213: 8064696202232519582
+    second: Rooster_Golden_16x16_43
+  - first:
+      213: -6346059304658907066
+    second: Rooster_Golden_16x16_44
+  - first:
+      213: -1922357631419843146
+    second: Rooster_Golden_16x16_45
+  - first:
+      213: 2814152510755216342
+    second: Rooster_Golden_16x16_46
+  - first:
+      213: -3394973562447145894
+    second: Rooster_Golden_16x16_47
+  - first:
+      213: 5451715819141400926
+    second: Rooster_Golden_16x16_48
+  - first:
+      213: -6183712358044760495
+    second: Rooster_Golden_16x16_49
+  - first:
+      213: 6543506453705085497
+    second: Rooster_Golden_16x16_50
+  - first:
+      213: -2925691692546270174
+    second: Rooster_Golden_16x16_51
+  - first:
+      213: 8222391233015981725
+    second: Rooster_Golden_16x16_52
+  - first:
+      213: -7029706121740294288
+    second: Rooster_Golden_16x16_53
+  - first:
+      213: -528263562357116277
+    second: Rooster_Golden_16x16_54
+  - first:
+      213: 4132682169880022909
+    second: Rooster_Golden_16x16_55
+  - first:
+      213: -5463248754554268806
+    second: Rooster_Golden_16x16_56
+  - first:
+      213: 8459859221303419596
+    second: Rooster_Golden_16x16_57
+  - first:
+      213: -6244695195482509747
+    second: Rooster_Golden_16x16_58
+  - first:
+      213: -4078340923517630124
+    second: Rooster_Golden_16x16_59
+  - first:
+      213: -7760328568562386051
+    second: Rooster_Golden_16x16_60
+  - first:
+      213: -8102056654441319799
+    second: Rooster_Golden_16x16_61
+  - first:
+      213: 8754983938597457230
+    second: Rooster_Golden_16x16_62
+  - first:
+      213: 8766975043240733809
+    second: Rooster_Golden_16x16_63
+  - first:
+      213: 8362634072670455588
+    second: Rooster_Golden_16x16_64
+  - first:
+      213: -3188389980338098573
+    second: Rooster_Golden_16x16_65
+  - first:
+      213: 7759050471273894201
+    second: Rooster_Golden_16x16_66
+  - first:
+      213: -9222250672180521213
+    second: Rooster_Golden_16x16_67
+  - first:
+      213: 7051413699595778327
+    second: Rooster_Golden_16x16_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6240951dffc103f0800000000000000
+      internalID: -936238561620901267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9dca85e46d5f00800000000000000
+      internalID: 1107152020442028569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f895caf9878c3c660800000000000000
+      internalID: 7404982632727730575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2bb166cbc770b20800000000000000
+      internalID: 3100584017076662955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfdd58168d22bdf0800000000000000
+      internalID: -166020182301614147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a573f995bea1b5760800000000000000
+      internalID: 7447576006910490458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c31ed0f9582586f0800000000000000
+      internalID: -683095401718475832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906762e7713faf4e0800000000000000
+      internalID: -1946976606658071031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc43deadd2f4d070800000000000000
+      internalID: 8130390261245365492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d352a0800fea0e0800000000000000
+      internalID: -2256602445945422535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35186cb46ca7fcd70800000000000000
+      internalID: 9065599567013511507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dcc437ffada0280800000000000000
+      internalID: -9076201308325884541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec702140abb88b5f0800000000000000
+      internalID: -740688507653978162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a934b27f27f78a0800000000000000
+      internalID: -6305194547387065806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b988826b50886c0800000000000000
+      internalID: -4141053577444943013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361ceea7fc0d41a40800000000000000
+      internalID: 5338121047880155491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33245559475df9d40800000000000000
+      internalID: 5593423958915760691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c371369073c41f0800000000000000
+      internalID: -1059411298882208675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4089989953a7b0800000000000000
+      internalID: -5214225431619678690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b44838c5a832aa0800000000000000
+      internalID: -6186949333128819875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5572707245d240c0800000000000000
+      internalID: -4592874188633377442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196763c8485a51810800000000000000
+      internalID: 1735475220127839889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7077984e2fcfc10800000000000000
+      internalID: 2088811390565812167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278620d110492cf0800000000000000
+      internalID: -276619456855767259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9125a947e24ac0800000000000000
+      internalID: -3872278426096133092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fff07b18809f460800000000000000
+      internalID: 7275856026208829325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a9f0baf0f2d180800000000000000
+      internalID: -9091939738205968734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b443122d6d8030800000000000000
+      internalID: 3498572478656328367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8f5ae1ec8d3dc0800000000000000
+      internalID: -3657612420427313579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4de5788f68e9ae0800000000000000
+      internalID: -1540645620532980551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2febb83f9d85a0800000000000000
+      internalID: -6517378019715241078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5a966b6b420b80800000000000000
+      internalID: -8430092627829171693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2905b3bfbe650f3d0800000000000000
+      internalID: -3174942165763927918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278353c74a989170800000000000000
+      internalID: 8185461955756263207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b32d208f5a73560800000000000000
+      internalID: 7293480606167612233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170839a57b1beb50800000000000000
+      internalID: 6623417869142591256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6b610ecf461e10800000000000000
+      internalID: 2168008016831147055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc84881370267d70800000000000000
+      internalID: 9040448980697517239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5e7a4cf0a72060800000000000000
+      internalID: 6928683557174796039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77c1adc972705d00800000000000000
+      internalID: 959392588096456571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445102ef8f267cd40800000000000000
+      internalID: 5604557082840798532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6111fd2d7390c320800000000000000
+      internalID: 2576221152706892139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e24662a74e3720800000000000000
+      internalID: 2827776378861185411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd283a77e8bef60800000000000000
+      internalID: 8064696202232519582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405e3e6fa44ee7a0800000000000000
+      internalID: -6346059304658907066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd75f75be96255e0800000000000000
+      internalID: -1922357631419843146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db965b6cc0ed0720800000000000000
+      internalID: 2814152510755216342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54de744881a2e0d0800000000000000
+      internalID: -3394973562447145894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590d4037a268ab40800000000000000
+      internalID: 5451715819141400926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568c818f5a0f2aa0800000000000000
+      internalID: -6183712358044760495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932519e53743fca50800000000000000
+      internalID: 6543506453705085497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd77718ead567d0800000000000000
+      internalID: -2925691692546270174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962438234dcb1270800000000000000
+      internalID: 8222391233015981725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e74af687717e90800000000000000
+      internalID: -7029706121740294288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82fbe1c61b3ba8f0800000000000000
+      internalID: -528263562357116277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f0a41a98c3a5930800000000000000
+      internalID: 4132682169880022909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7392390434ae24b0800000000000000
+      internalID: -5463248754554268806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc26a97b325776570800000000000000
+      internalID: 8459859221303419596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2da63ec26659a0800000000000000
+      internalID: -6244695195482509747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590bccb982d667c0800000000000000
+      internalID: -4078340923517630124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf58a6846cd4490800000000000000
+      internalID: -7760328568562386051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9827fe93666bf8f80800000000000000
+      internalID: -8102056654441319799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d0a5a9183ff7970800000000000000
+      internalID: 8754983938597457230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c24173a5d8aa970800000000000000
+      internalID: 8766975043240733809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c918c16b0e0470800000000000000
+      internalID: 8362634072670455588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6888a43090c3d0800000000000000
+      internalID: -3188389980338098573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9319b9e5b4fadab60800000000000000
+      internalID: 7759050471273894201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307921f00ebf30080800000000000000
+      internalID: -9222250672180521213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_Golden_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719bab85667abd160800000000000000
+      internalID: 7051413699595778327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rooster_Golden_16x16_0: -936238561620901267
+      Rooster_Golden_16x16_1: 1107152020442028569
+      Rooster_Golden_16x16_10: 9065599567013511507
+      Rooster_Golden_16x16_11: -9076201308325884541
+      Rooster_Golden_16x16_12: -740688507653978162
+      Rooster_Golden_16x16_13: -6305194547387065806
+      Rooster_Golden_16x16_14: -4141053577444943013
+      Rooster_Golden_16x16_15: 5338121047880155491
+      Rooster_Golden_16x16_16: 5593423958915760691
+      Rooster_Golden_16x16_17: -1059411298882208675
+      Rooster_Golden_16x16_18: -5214225431619678690
+      Rooster_Golden_16x16_19: -6186949333128819875
+      Rooster_Golden_16x16_2: 7404982632727730575
+      Rooster_Golden_16x16_20: -4592874188633377442
+      Rooster_Golden_16x16_21: 1735475220127839889
+      Rooster_Golden_16x16_22: 2088811390565812167
+      Rooster_Golden_16x16_23: -276619456855767259
+      Rooster_Golden_16x16_24: -3872278426096133092
+      Rooster_Golden_16x16_25: 7275856026208829325
+      Rooster_Golden_16x16_26: -9091939738205968734
+      Rooster_Golden_16x16_27: 3498572478656328367
+      Rooster_Golden_16x16_28: -3657612420427313579
+      Rooster_Golden_16x16_29: -1540645620532980551
+      Rooster_Golden_16x16_3: 3100584017076662955
+      Rooster_Golden_16x16_30: -6517378019715241078
+      Rooster_Golden_16x16_31: -8430092627829171693
+      Rooster_Golden_16x16_32: -3174942165763927918
+      Rooster_Golden_16x16_33: 8185461955756263207
+      Rooster_Golden_16x16_34: 7293480606167612233
+      Rooster_Golden_16x16_35: 6623417869142591256
+      Rooster_Golden_16x16_36: 2168008016831147055
+      Rooster_Golden_16x16_37: 9040448980697517239
+      Rooster_Golden_16x16_38: 6928683557174796039
+      Rooster_Golden_16x16_39: 959392588096456571
+      Rooster_Golden_16x16_4: -166020182301614147
+      Rooster_Golden_16x16_40: 5604557082840798532
+      Rooster_Golden_16x16_41: 2576221152706892139
+      Rooster_Golden_16x16_42: 2827776378861185411
+      Rooster_Golden_16x16_43: 8064696202232519582
+      Rooster_Golden_16x16_44: -6346059304658907066
+      Rooster_Golden_16x16_45: -1922357631419843146
+      Rooster_Golden_16x16_46: 2814152510755216342
+      Rooster_Golden_16x16_47: -3394973562447145894
+      Rooster_Golden_16x16_48: 5451715819141400926
+      Rooster_Golden_16x16_49: -6183712358044760495
+      Rooster_Golden_16x16_5: 7447576006910490458
+      Rooster_Golden_16x16_50: 6543506453705085497
+      Rooster_Golden_16x16_51: -2925691692546270174
+      Rooster_Golden_16x16_52: 8222391233015981725
+      Rooster_Golden_16x16_53: -7029706121740294288
+      Rooster_Golden_16x16_54: -528263562357116277
+      Rooster_Golden_16x16_55: 4132682169880022909
+      Rooster_Golden_16x16_56: -5463248754554268806
+      Rooster_Golden_16x16_57: 8459859221303419596
+      Rooster_Golden_16x16_58: -6244695195482509747
+      Rooster_Golden_16x16_59: -4078340923517630124
+      Rooster_Golden_16x16_6: -683095401718475832
+      Rooster_Golden_16x16_60: -7760328568562386051
+      Rooster_Golden_16x16_61: -8102056654441319799
+      Rooster_Golden_16x16_62: 8754983938597457230
+      Rooster_Golden_16x16_63: 8766975043240733809
+      Rooster_Golden_16x16_64: 8362634072670455588
+      Rooster_Golden_16x16_65: -3188389980338098573
+      Rooster_Golden_16x16_66: 7759050471273894201
+      Rooster_Golden_16x16_67: -9222250672180521213
+      Rooster_Golden_16x16_68: 7051413699595778327
+      Rooster_Golden_16x16_7: -1946976606658071031
+      Rooster_Golden_16x16_8: 8130390261245365492
+      Rooster_Golden_16x16_9: -2256602445945422535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

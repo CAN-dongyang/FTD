@@ -1,2 +1,1625 @@
 fileFormatVersion: 2
 guid: 9def02273abd33641a9455ae1053660a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -284951353464892225
+    second: 5_Fruit_Trees_48x48_0
+  - first:
+      213: -5732433817350978479
+    second: 5_Fruit_Trees_48x48_1
+  - first:
+      213: -1677550552617045739
+    second: 5_Fruit_Trees_48x48_2
+  - first:
+      213: 543272905752553691
+    second: 5_Fruit_Trees_48x48_3
+  - first:
+      213: 8114864268293619270
+    second: 5_Fruit_Trees_48x48_4
+  - first:
+      213: -1369097522999852219
+    second: 5_Fruit_Trees_48x48_5
+  - first:
+      213: 7779543828156795168
+    second: 5_Fruit_Trees_48x48_6
+  - first:
+      213: 3880393529827529632
+    second: 5_Fruit_Trees_48x48_7
+  - first:
+      213: -6548550529044568881
+    second: 5_Fruit_Trees_48x48_8
+  - first:
+      213: -3651673509013108035
+    second: 5_Fruit_Trees_48x48_9
+  - first:
+      213: 1653462452405117749
+    second: 5_Fruit_Trees_48x48_10
+  - first:
+      213: 1050625709829562267
+    second: 5_Fruit_Trees_48x48_11
+  - first:
+      213: 696448987607826210
+    second: 5_Fruit_Trees_48x48_12
+  - first:
+      213: 7607201599590823929
+    second: 5_Fruit_Trees_48x48_13
+  - first:
+      213: 3135856205758443600
+    second: 5_Fruit_Trees_48x48_14
+  - first:
+      213: -1845639104285758405
+    second: 5_Fruit_Trees_48x48_15
+  - first:
+      213: 7030223885076011142
+    second: 5_Fruit_Trees_48x48_16
+  - first:
+      213: 929705294347510062
+    second: 5_Fruit_Trees_48x48_17
+  - first:
+      213: -4127116846793107972
+    second: 5_Fruit_Trees_48x48_18
+  - first:
+      213: -9198772304186358099
+    second: 5_Fruit_Trees_48x48_19
+  - first:
+      213: -1616367365000531096
+    second: 5_Fruit_Trees_48x48_20
+  - first:
+      213: 1990824745147112460
+    second: 5_Fruit_Trees_48x48_21
+  - first:
+      213: -5540852043411711585
+    second: 5_Fruit_Trees_48x48_22
+  - first:
+      213: 7851219641230002587
+    second: 5_Fruit_Trees_48x48_23
+  - first:
+      213: 8377893529040020242
+    second: 5_Fruit_Trees_48x48_24
+  - first:
+      213: 5727972768453889934
+    second: 5_Fruit_Trees_48x48_25
+  - first:
+      213: -4176968875090677076
+    second: 5_Fruit_Trees_48x48_26
+  - first:
+      213: 5080144022416953338
+    second: 5_Fruit_Trees_48x48_27
+  - first:
+      213: 12038288381124600
+    second: 5_Fruit_Trees_48x48_28
+  - first:
+      213: 2380913999324580032
+    second: 5_Fruit_Trees_48x48_29
+  - first:
+      213: -1430146430817427545
+    second: 5_Fruit_Trees_48x48_30
+  - first:
+      213: -7336302653646249118
+    second: 5_Fruit_Trees_48x48_31
+  - first:
+      213: -3202216904915842531
+    second: 5_Fruit_Trees_48x48_32
+  - first:
+      213: 4575293772650735794
+    second: 5_Fruit_Trees_48x48_33
+  - first:
+      213: 6928575524587246127
+    second: 5_Fruit_Trees_48x48_34
+  - first:
+      213: 8995018051702149524
+    second: 5_Fruit_Trees_48x48_35
+  - first:
+      213: -6780974365867133132
+    second: 5_Fruit_Trees_48x48_36
+  - first:
+      213: 4085131637149446465
+    second: 5_Fruit_Trees_48x48_37
+  - first:
+      213: -12621476297385741
+    second: 5_Fruit_Trees_48x48_38
+  - first:
+      213: -5661747889164032603
+    second: 5_Fruit_Trees_48x48_39
+  - first:
+      213: -706680567571354929
+    second: 5_Fruit_Trees_48x48_40
+  - first:
+      213: -7356798338765002477
+    second: 5_Fruit_Trees_48x48_41
+  - first:
+      213: -615798569439271984
+    second: 5_Fruit_Trees_48x48_42
+  - first:
+      213: 4645690062216217459
+    second: 5_Fruit_Trees_48x48_43
+  - first:
+      213: 4242649794363528707
+    second: 5_Fruit_Trees_48x48_44
+  - first:
+      213: -6408407767848900053
+    second: 5_Fruit_Trees_48x48_45
+  - first:
+      213: 5383393474847278042
+    second: 5_Fruit_Trees_48x48_46
+  - first:
+      213: -7937482912726411433
+    second: 5_Fruit_Trees_48x48_47
+  - first:
+      213: -5753700136921454979
+    second: 5_Fruit_Trees_48x48_48
+  - first:
+      213: 4695088970482636371
+    second: 5_Fruit_Trees_48x48_49
+  - first:
+      213: 3097973016490171035
+    second: 5_Fruit_Trees_48x48_50
+  - first:
+      213: 7441699368818964203
+    second: 5_Fruit_Trees_48x48_51
+  - first:
+      213: -4631916475504533881
+    second: 5_Fruit_Trees_48x48_52
+  - first:
+      213: 2497836204985521570
+    second: 5_Fruit_Trees_48x48_53
+  - first:
+      213: 6888052718327021932
+    second: 5_Fruit_Trees_48x48_54
+  - first:
+      213: 3552491973268185214
+    second: 5_Fruit_Trees_48x48_55
+  - first:
+      213: 5385765569293326511
+    second: 5_Fruit_Trees_48x48_56
+  - first:
+      213: -6074171373210790356
+    second: 5_Fruit_Trees_48x48_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45576f046ab0cf0800000000000000
+      internalID: -284951353464892225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2018
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154cb5a90dd4270b0800000000000000
+      internalID: -5732433817350978479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2021
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511308219a428b8e0800000000000000
+      internalID: -1677550552617045739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2018
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a97354d71a8700800000000000000
+      internalID: 543272905752553691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2015
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb620ce0acd9070800000000000000
+      internalID: 8114864268293619270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2117
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430abe7e0dfffce0800000000000000
+      internalID: -1369097522999852219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2015
+        width: 140
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0294ed7d4ed76fb60800000000000000
+      internalID: 7779543828156795168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2018
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3181e2b5de9d530800000000000000
+      internalID: 3880393529827529632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1775
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42a925dffde15a0800000000000000
+      internalID: -6548550529044568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1775
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac19b7a46a25dc0800000000000000
+      internalID: -3651673509013108035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1775
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ad0d075742f610800000000000000
+      internalID: 1653462452405117749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1775
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f98424482949e00800000000000000
+      internalID: 1050625709829562267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1778
+        width: 98
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7b8e0aa84aa900800000000000000
+      internalID: 696448987607826210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1583
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f466dc85329960800000000000000
+      internalID: 7607201599590823929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1583
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bfeaca9cc48b20800000000000000
+      internalID: 3135856205758443600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1583
+        width: 170
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c2a756309f266e0800000000000000
+      internalID: -1845639104285758405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1583
+        width: 170
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6881c61306f509160800000000000000
+      internalID: 7030223885076011142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1583
+        width: 170
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2122671a0af6ec00800000000000000
+      internalID: 929705294347510062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1583
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5dd50281989b6c0800000000000000
+      internalID: -4127116846793107972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1586
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da645479355675080800000000000000
+      internalID: -9198772304186358099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1343
+        width: 170
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863fb9602728199e0800000000000000
+      internalID: -1616367365000531096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1343
+        width: 170
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1d80de84d0ab10800000000000000
+      internalID: 1990824745147112460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1343
+        width: 170
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9992775c60fa13b0800000000000000
+      internalID: -5540852043411711585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1343
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9985198aa225fc60800000000000000
+      internalID: 7851219641230002587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1346
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136974d6c1444470800000000000000
+      internalID: 8377893529040020242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f0ec282e8dd7f40800000000000000
+      internalID: 5727972768453889934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 959
+        width: 194
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca27b5a40fc6806c0800000000000000
+      internalID: -4176968875090677076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 959
+        width: 194
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8cf7921c408640800000000000000
+      internalID: 5080144022416953338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 959
+        width: 194
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff19ae62c4ca2000800000000000000
+      internalID: 12038288381124600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1151
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80f72faa4ba0120800000000000000
+      internalID: 2380913999324580032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1154
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af955ef569172ce0800000000000000
+      internalID: -1430146430817427545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 959
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e8ac1b97303a90800000000000000
+      internalID: -7336302653646249118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 962
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8db8e0b07f83d0800000000000000
+      internalID: -3202216904915842531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b867edf175be7f30800000000000000
+      internalID: 4575293772650735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 722
+        width: 212
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f221d7efabe372060800000000000000
+      internalID: 6928575524587246127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 722
+        width: 212
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491dee7a249b4dc70800000000000000
+      internalID: 8995018051702149524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 722
+        width: 212
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437b57bcdb325e1a0800000000000000
+      internalID: -6780974365867133132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 719
+        width: 143
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b00d749d41b830800000000000000
+      internalID: 4085131637149446465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 722
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d0cc85d823dff0800000000000000
+      internalID: -12621476297385741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 479
+        width: 212
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56f82ca4e6d61b0800000000000000
+      internalID: -5661747889164032603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 479
+        width: 212
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaec3894cd5136f0800000000000000
+      internalID: -706680567571354929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 479
+        width: 212
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196abd83e667e990800000000000000
+      internalID: -7356798338765002477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 479
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e067b67e3477f0800000000000000
+      internalID: -615798569439271984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 482
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373c5f66f7ec87040800000000000000
+      internalID: 4645690062216217459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3061c6b628be0ea30800000000000000
+      internalID: 4242649794363528707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 245
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a238d9613c017a0800000000000000
+      internalID: -6408407767848900053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38d6ac7d7a5ba40800000000000000
+      internalID: 5383393474847278042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 242
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7579530785568d190800000000000000
+      internalID: -7937482912726411433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 242
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d762eaab530c620b0800000000000000
+      internalID: -5753700136921454979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 239
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356d8720b8e482140800000000000000
+      internalID: 4695088970482636371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 242
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a54a37b063efa20800000000000000
+      internalID: 3097973016490171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6f3bbe52a364760800000000000000
+      internalID: 7441699368818964203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed548a18028bfb0800000000000000
+      internalID: -4631916475504533881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 206
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a595495bc81aa220800000000000000
+      internalID: 2497836204985521570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 206
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61cb0ee377479f50800000000000000
+      internalID: 6888052718327021932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 206
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70a316b0acfc4130800000000000000
+      internalID: 3552491973268185214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8124110451eba40800000000000000
+      internalID: 5385765569293326511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Fruit_Trees_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269ce2815534bba0800000000000000
+      internalID: -6074171373210790356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5_Fruit_Trees_48x48_0: -284951353464892225
+      5_Fruit_Trees_48x48_1: -5732433817350978479
+      5_Fruit_Trees_48x48_10: 1653462452405117749
+      5_Fruit_Trees_48x48_11: 1050625709829562267
+      5_Fruit_Trees_48x48_12: 696448987607826210
+      5_Fruit_Trees_48x48_13: 7607201599590823929
+      5_Fruit_Trees_48x48_14: 3135856205758443600
+      5_Fruit_Trees_48x48_15: -1845639104285758405
+      5_Fruit_Trees_48x48_16: 7030223885076011142
+      5_Fruit_Trees_48x48_17: 929705294347510062
+      5_Fruit_Trees_48x48_18: -4127116846793107972
+      5_Fruit_Trees_48x48_19: -9198772304186358099
+      5_Fruit_Trees_48x48_2: -1677550552617045739
+      5_Fruit_Trees_48x48_20: -1616367365000531096
+      5_Fruit_Trees_48x48_21: 1990824745147112460
+      5_Fruit_Trees_48x48_22: -5540852043411711585
+      5_Fruit_Trees_48x48_23: 7851219641230002587
+      5_Fruit_Trees_48x48_24: 8377893529040020242
+      5_Fruit_Trees_48x48_25: 5727972768453889934
+      5_Fruit_Trees_48x48_26: -4176968875090677076
+      5_Fruit_Trees_48x48_27: 5080144022416953338
+      5_Fruit_Trees_48x48_28: 12038288381124600
+      5_Fruit_Trees_48x48_29: 2380913999324580032
+      5_Fruit_Trees_48x48_3: 543272905752553691
+      5_Fruit_Trees_48x48_30: -1430146430817427545
+      5_Fruit_Trees_48x48_31: -7336302653646249118
+      5_Fruit_Trees_48x48_32: -3202216904915842531
+      5_Fruit_Trees_48x48_33: 4575293772650735794
+      5_Fruit_Trees_48x48_34: 6928575524587246127
+      5_Fruit_Trees_48x48_35: 8995018051702149524
+      5_Fruit_Trees_48x48_36: -6780974365867133132
+      5_Fruit_Trees_48x48_37: 4085131637149446465
+      5_Fruit_Trees_48x48_38: -12621476297385741
+      5_Fruit_Trees_48x48_39: -5661747889164032603
+      5_Fruit_Trees_48x48_4: 8114864268293619270
+      5_Fruit_Trees_48x48_40: -706680567571354929
+      5_Fruit_Trees_48x48_41: -7356798338765002477
+      5_Fruit_Trees_48x48_42: -615798569439271984
+      5_Fruit_Trees_48x48_43: 4645690062216217459
+      5_Fruit_Trees_48x48_44: 4242649794363528707
+      5_Fruit_Trees_48x48_45: -6408407767848900053
+      5_Fruit_Trees_48x48_46: 5383393474847278042
+      5_Fruit_Trees_48x48_47: -7937482912726411433
+      5_Fruit_Trees_48x48_48: -5753700136921454979
+      5_Fruit_Trees_48x48_49: 4695088970482636371
+      5_Fruit_Trees_48x48_5: -1369097522999852219
+      5_Fruit_Trees_48x48_50: 3097973016490171035
+      5_Fruit_Trees_48x48_51: 7441699368818964203
+      5_Fruit_Trees_48x48_52: -4631916475504533881
+      5_Fruit_Trees_48x48_53: 2497836204985521570
+      5_Fruit_Trees_48x48_54: 6888052718327021932
+      5_Fruit_Trees_48x48_55: 3552491973268185214
+      5_Fruit_Trees_48x48_56: 5385765569293326511
+      5_Fruit_Trees_48x48_57: -6074171373210790356
+      5_Fruit_Trees_48x48_6: 7779543828156795168
+      5_Fruit_Trees_48x48_7: 3880393529827529632
+      5_Fruit_Trees_48x48_8: -6548550529044568881
+      5_Fruit_Trees_48x48_9: -3651673509013108035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

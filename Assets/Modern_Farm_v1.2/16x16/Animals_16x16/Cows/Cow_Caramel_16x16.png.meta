@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 0115d12b70553824fbdbd216c9470c65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8727981367917084866
+    second: Cow_Caramel_16x16_0
+  - first:
+      213: 1398487472455216108
+    second: Cow_Caramel_16x16_1
+  - first:
+      213: -363349556750462462
+    second: Cow_Caramel_16x16_2
+  - first:
+      213: 1531864897643747106
+    second: Cow_Caramel_16x16_3
+  - first:
+      213: -3774537169838027187
+    second: Cow_Caramel_16x16_4
+  - first:
+      213: 3897821324159650472
+    second: Cow_Caramel_16x16_5
+  - first:
+      213: 5811267229386140941
+    second: Cow_Caramel_16x16_6
+  - first:
+      213: 4465576784701934344
+    second: Cow_Caramel_16x16_7
+  - first:
+      213: -7893911915942902252
+    second: Cow_Caramel_16x16_8
+  - first:
+      213: -745297880803552240
+    second: Cow_Caramel_16x16_9
+  - first:
+      213: -1628580715329003760
+    second: Cow_Caramel_16x16_10
+  - first:
+      213: -7281968603001721817
+    second: Cow_Caramel_16x16_11
+  - first:
+      213: -5161975427237967215
+    second: Cow_Caramel_16x16_12
+  - first:
+      213: -5299699184957519852
+    second: Cow_Caramel_16x16_13
+  - first:
+      213: -65644899049193911
+    second: Cow_Caramel_16x16_14
+  - first:
+      213: -908725762313680026
+    second: Cow_Caramel_16x16_15
+  - first:
+      213: -2175896697384732055
+    second: Cow_Caramel_16x16_16
+  - first:
+      213: -5029663650065905478
+    second: Cow_Caramel_16x16_17
+  - first:
+      213: -7965430320323505770
+    second: Cow_Caramel_16x16_18
+  - first:
+      213: 7370929184268746116
+    second: Cow_Caramel_16x16_19
+  - first:
+      213: 1353036123475803972
+    second: Cow_Caramel_16x16_20
+  - first:
+      213: -8064373645812836643
+    second: Cow_Caramel_16x16_21
+  - first:
+      213: -5108512377936756953
+    second: Cow_Caramel_16x16_22
+  - first:
+      213: -2400090477621715019
+    second: Cow_Caramel_16x16_23
+  - first:
+      213: 8281861885274914623
+    second: Cow_Caramel_16x16_24
+  - first:
+      213: 7966209094089633703
+    second: Cow_Caramel_16x16_25
+  - first:
+      213: -3842158370305311764
+    second: Cow_Caramel_16x16_26
+  - first:
+      213: -403610495819325275
+    second: Cow_Caramel_16x16_27
+  - first:
+      213: -7783404558036055189
+    second: Cow_Caramel_16x16_28
+  - first:
+      213: 4407739271249822061
+    second: Cow_Caramel_16x16_29
+  - first:
+      213: 3438425941986114836
+    second: Cow_Caramel_16x16_30
+  - first:
+      213: 4826853274383752668
+    second: Cow_Caramel_16x16_31
+  - first:
+      213: 6956607224662661710
+    second: Cow_Caramel_16x16_32
+  - first:
+      213: 6813887868290361381
+    second: Cow_Caramel_16x16_33
+  - first:
+      213: 1410045837920869514
+    second: Cow_Caramel_16x16_34
+  - first:
+      213: -556566289841536914
+    second: Cow_Caramel_16x16_35
+  - first:
+      213: 2115168480968586063
+    second: Cow_Caramel_16x16_36
+  - first:
+      213: -7295237048000832500
+    second: Cow_Caramel_16x16_37
+  - first:
+      213: -1330337544065413843
+    second: Cow_Caramel_16x16_38
+  - first:
+      213: -3594081634730088594
+    second: Cow_Caramel_16x16_39
+  - first:
+      213: 2862890866440983806
+    second: Cow_Caramel_16x16_40
+  - first:
+      213: -7638276287537406780
+    second: Cow_Caramel_16x16_41
+  - first:
+      213: 8826710394305340816
+    second: Cow_Caramel_16x16_42
+  - first:
+      213: 329160006490210537
+    second: Cow_Caramel_16x16_43
+  - first:
+      213: 393941967084741180
+    second: Cow_Caramel_16x16_44
+  - first:
+      213: 1564032187506142731
+    second: Cow_Caramel_16x16_45
+  - first:
+      213: -3543977223083540784
+    second: Cow_Caramel_16x16_46
+  - first:
+      213: 3276792854811117616
+    second: Cow_Caramel_16x16_47
+  - first:
+      213: -7359509132533531865
+    second: Cow_Caramel_16x16_48
+  - first:
+      213: -4533280095507063929
+    second: Cow_Caramel_16x16_49
+  - first:
+      213: -3140689211301184178
+    second: Cow_Caramel_16x16_50
+  - first:
+      213: -4210569595034929958
+    second: Cow_Caramel_16x16_51
+  - first:
+      213: 156215112348902283
+    second: Cow_Caramel_16x16_52
+  - first:
+      213: 4640098245163741283
+    second: Cow_Caramel_16x16_53
+  - first:
+      213: 6121786301497906761
+    second: Cow_Caramel_16x16_54
+  - first:
+      213: -5241057811452262026
+    second: Cow_Caramel_16x16_55
+  - first:
+      213: -2634708041840221317
+    second: Cow_Caramel_16x16_56
+  - first:
+      213: -2094892895956187659
+    second: Cow_Caramel_16x16_57
+  - first:
+      213: 7343185438884391981
+    second: Cow_Caramel_16x16_58
+  - first:
+      213: -5879629623526879808
+    second: Cow_Caramel_16x16_59
+  - first:
+      213: -8504518241396381753
+    second: Cow_Caramel_16x16_60
+  - first:
+      213: 3695511045915011947
+    second: Cow_Caramel_16x16_61
+  - first:
+      213: -1552819146231490705
+    second: Cow_Caramel_16x16_62
+  - first:
+      213: -1942648397026418929
+    second: Cow_Caramel_16x16_63
+  - first:
+      213: -9158769949687239853
+    second: Cow_Caramel_16x16_64
+  - first:
+      213: 3885856242315110547
+    second: Cow_Caramel_16x16_65
+  - first:
+      213: 4191530481987920680
+    second: Cow_Caramel_16x16_66
+  - first:
+      213: -3919124287264033002
+    second: Cow_Caramel_16x16_67
+  - first:
+      213: 7226241391416543901
+    second: Cow_Caramel_16x16_68
+  - first:
+      213: 3684408564501423729
+    second: Cow_Caramel_16x16_69
+  - first:
+      213: -9166712264501157782
+    second: Cow_Caramel_16x16_70
+  - first:
+      213: 149123417609080363
+    second: Cow_Caramel_16x16_71
+  - first:
+      213: 2257365830862684460
+    second: Cow_Caramel_16x16_72
+  - first:
+      213: 8929697446435667638
+    second: Cow_Caramel_16x16_73
+  - first:
+      213: -8495316492631141865
+    second: Cow_Caramel_16x16_74
+  - first:
+      213: -260798781017815504
+    second: Cow_Caramel_16x16_75
+  - first:
+      213: -1374421739884140368
+    second: Cow_Caramel_16x16_76
+  - first:
+      213: -7249646998240366882
+    second: Cow_Caramel_16x16_77
+  - first:
+      213: 729736837996915750
+    second: Cow_Caramel_16x16_78
+  - first:
+      213: -6987516496825449335
+    second: Cow_Caramel_16x16_79
+  - first:
+      213: 5076632128112232995
+    second: Cow_Caramel_16x16_80
+  - first:
+      213: -5705995321362796245
+    second: Cow_Caramel_16x16_81
+  - first:
+      213: -2969638855456541195
+    second: Cow_Caramel_16x16_82
+  - first:
+      213: 2971064850822169026
+    second: Cow_Caramel_16x16_83
+  - first:
+      213: 6472979339267123705
+    second: Cow_Caramel_16x16_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff21f403bffd680800000000000000
+      internalID: -8727981367917084866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe68a52fc686310800000000000000
+      internalID: 1398487472455216108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d794d08f15faf0800000000000000
+      internalID: -363349556750462462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22712fb1207424510800000000000000
+      internalID: 1531864897643747106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 145
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ecb4041762e9bc0800000000000000
+      internalID: -3774537169838027187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 145
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8a70c7d7d71630800000000000000
+      internalID: 3897821324159650472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ded6671c4c5a050800000000000000
+      internalID: 5811267229386140941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc3611d6ae8fd30800000000000000
+      internalID: 4465576784701934344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416000aafe0337290800000000000000
+      internalID: -7893911915942902252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 145
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0145ad2b68b28a5f0800000000000000
+      internalID: -745297880803552240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 145
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f53cec77e1669e0800000000000000
+      internalID: -1628580715329003760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce888132041fa90800000000000000
+      internalID: -7281968603001721817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 145
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8f20c2bafc58b0800000000000000
+      internalID: -5161975427237967215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180e289bafa376b0800000000000000
+      internalID: -5299699184957519852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3bd6ef48c61ff0800000000000000
+      internalID: -65644899049193911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b0c0bdbbe8363f0800000000000000
+      internalID: -908725762313680026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aff6c6b79adc1e0800000000000000
+      internalID: -2175896697384732055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8802efe8b033ab0800000000000000
+      internalID: -5029663650065905478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ddf9835b157190800000000000000
+      internalID: -7965430320323505770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 95
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df5ec4a0dca4660800000000000000
+      internalID: 7370929184268746116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ffb048f23f6c210800000000000000
+      internalID: 1353036123475803972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 95
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6dd4165e6951090800000000000000
+      internalID: -8064373645812836643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 95
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb46eee0bea19b0800000000000000
+      internalID: -5108512377936756953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 95
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf5f844d6a21bed0800000000000000
+      internalID: -2400090477621715019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 95
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f78a661851fe270800000000000000
+      internalID: 8281861885274914623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe2bbd6f8ad8e60800000000000000
+      internalID: 7966209094089633703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb782f9159edaac0800000000000000
+      internalID: -3842158370305311764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 95
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e1197466166af0800000000000000
+      internalID: -403610495819325275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 95
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bca1feacacbf390800000000000000
+      internalID: -7783404558036055189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 95
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d618265938f6b2d30800000000000000
+      internalID: 4407739271249822061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 95
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df19a3d2eb7bf20800000000000000
+      internalID: 3438425941986114836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 96
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1392ba7d6cf240800000000000000
+      internalID: 4826853274383752668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 96
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1fe3c965da8060800000000000000
+      internalID: 6956607224662661710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 96
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286ac82aeacf8e50800000000000000
+      internalID: 6813887868290361381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 96
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9a46083d719310800000000000000
+      internalID: 1410045837920869514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 96
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c90088eda648f0800000000000000
+      internalID: -556566289841536914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 96
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433c3cd6869a5d10800000000000000
+      internalID: 2115168480968586063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c14a18e8c12ca90800000000000000
+      internalID: -7295237048000832500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d8d965d01b98de0800000000000000
+      internalID: -1330337544065413843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e676824abc14f1ec0800000000000000
+      internalID: -3594081634730088594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4dce423180bb720800000000000000
+      internalID: 2862890866440983806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1b019f246ff590800000000000000
+      internalID: -7638276287537406780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09561d37656ce7a70800000000000000
+      internalID: 8826710394305340816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 48
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04d1d2849619400800000000000000
+      internalID: 329160006490210537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c326432c120977500800000000000000
+      internalID: 393941967084741180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea499ecfe84b510800000000000000
+      internalID: 1564032187506142731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 48
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deb70e0e7341dec0800000000000000
+      internalID: -3543977223083540784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 47
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0380e818db1897d20800000000000000
+      internalID: 3276792854811117616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 47
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7812bf65cdd990800000000000000
+      internalID: -7359509132533531865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 47
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd3ff75cd8611c0800000000000000
+      internalID: -4533280095507063929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 47
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbd7a6dc70a64d0800000000000000
+      internalID: -3140689211301184178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 47
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f1e9034d0195c0800000000000000
+      internalID: -4210569595034929958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 47
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83aa1821dcfa2200800000000000000
+      internalID: 156215112348902283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 47
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360f5e905c0f46040800000000000000
+      internalID: 4640098245163741283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 47
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94692a3e434f4f450800000000000000
+      internalID: 6121786301497906761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 49
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6790a1550b50447b0800000000000000
+      internalID: -5241057811452262026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 48
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73af37cef2af6bd0800000000000000
+      internalID: -2634708041840221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 47
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ca06a2027de2e0800000000000000
+      internalID: -2094892895956187659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 49
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6684304c38e560800000000000000
+      internalID: 7343185438884391981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 48
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd01de420c576ea0800000000000000
+      internalID: -5879629623526879808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 47
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c72db3e7b1e9f980800000000000000
+      internalID: -8504518241396381753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6beb4377b7194330800000000000000
+      internalID: 3695511045915011947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675274b637437ae0800000000000000
+      internalID: -1552819146231490705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f12c353935a05e0800000000000000
+      internalID: -1942648397026418929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bae59814385e080800000000000000
+      internalID: -9158769949687239853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982d6b0aa55de530800000000000000
+      internalID: 3885856242315110547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823ac1404ce4b2a30800000000000000
+      internalID: 4191530481987920680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177503a9397c99c0800000000000000
+      internalID: -3919124287264033002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8b9c5244c84460800000000000000
+      internalID: 7226241391416543901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a38e8116a12330800000000000000
+      internalID: 3684408564501423729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60213443cb49c080800000000000000
+      internalID: -9166712264501157782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e084e45fac11200800000000000000
+      internalID: 149123417609080363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ccac5346c35f10800000000000000
+      internalID: 2257365830862684460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb2861488aceb70800000000000000
+      internalID: 8929697446435667638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712143af8a29a1a80800000000000000
+      internalID: -8495316492631141865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0360493f3e4716cf0800000000000000
+      internalID: -260798781017815504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a1a6a5b21dece0800000000000000
+      internalID: -1374421739884140368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edee7e22774146b90800000000000000
+      internalID: -7249646998240366882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca250b9cb802a00800000000000000
+      internalID: 729736837996915750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984898084ca570f90800000000000000
+      internalID: -6987516496825449335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a077bf502d37640800000000000000
+      internalID: 5076632128112232995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b213124ac7b30d0b0800000000000000
+      internalID: -5705995321362796245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5b05dd139b9c6d0800000000000000
+      internalID: -2969638855456541195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c187ed8db75b3920800000000000000
+      internalID: 2971064850822169026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Caramel_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a57be964a4d950800000000000000
+      internalID: 6472979339267123705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cow_Caramel_16x16_0: -8727981367917084866
+      Cow_Caramel_16x16_1: 1398487472455216108
+      Cow_Caramel_16x16_10: -1628580715329003760
+      Cow_Caramel_16x16_11: -7281968603001721817
+      Cow_Caramel_16x16_12: -5161975427237967215
+      Cow_Caramel_16x16_13: -5299699184957519852
+      Cow_Caramel_16x16_14: -65644899049193911
+      Cow_Caramel_16x16_15: -908725762313680026
+      Cow_Caramel_16x16_16: -2175896697384732055
+      Cow_Caramel_16x16_17: -5029663650065905478
+      Cow_Caramel_16x16_18: -7965430320323505770
+      Cow_Caramel_16x16_19: 7370929184268746116
+      Cow_Caramel_16x16_2: -363349556750462462
+      Cow_Caramel_16x16_20: 1353036123475803972
+      Cow_Caramel_16x16_21: -8064373645812836643
+      Cow_Caramel_16x16_22: -5108512377936756953
+      Cow_Caramel_16x16_23: -2400090477621715019
+      Cow_Caramel_16x16_24: 8281861885274914623
+      Cow_Caramel_16x16_25: 7966209094089633703
+      Cow_Caramel_16x16_26: -3842158370305311764
+      Cow_Caramel_16x16_27: -403610495819325275
+      Cow_Caramel_16x16_28: -7783404558036055189
+      Cow_Caramel_16x16_29: 4407739271249822061
+      Cow_Caramel_16x16_3: 1531864897643747106
+      Cow_Caramel_16x16_30: 3438425941986114836
+      Cow_Caramel_16x16_31: 4826853274383752668
+      Cow_Caramel_16x16_32: 6956607224662661710
+      Cow_Caramel_16x16_33: 6813887868290361381
+      Cow_Caramel_16x16_34: 1410045837920869514
+      Cow_Caramel_16x16_35: -556566289841536914
+      Cow_Caramel_16x16_36: 2115168480968586063
+      Cow_Caramel_16x16_37: -7295237048000832500
+      Cow_Caramel_16x16_38: -1330337544065413843
+      Cow_Caramel_16x16_39: -3594081634730088594
+      Cow_Caramel_16x16_4: -3774537169838027187
+      Cow_Caramel_16x16_40: 2862890866440983806
+      Cow_Caramel_16x16_41: -7638276287537406780
+      Cow_Caramel_16x16_42: 8826710394305340816
+      Cow_Caramel_16x16_43: 329160006490210537
+      Cow_Caramel_16x16_44: 393941967084741180
+      Cow_Caramel_16x16_45: 1564032187506142731
+      Cow_Caramel_16x16_46: -3543977223083540784
+      Cow_Caramel_16x16_47: 3276792854811117616
+      Cow_Caramel_16x16_48: -7359509132533531865
+      Cow_Caramel_16x16_49: -4533280095507063929
+      Cow_Caramel_16x16_5: 3897821324159650472
+      Cow_Caramel_16x16_50: -3140689211301184178
+      Cow_Caramel_16x16_51: -4210569595034929958
+      Cow_Caramel_16x16_52: 156215112348902283
+      Cow_Caramel_16x16_53: 4640098245163741283
+      Cow_Caramel_16x16_54: 6121786301497906761
+      Cow_Caramel_16x16_55: -5241057811452262026
+      Cow_Caramel_16x16_56: -2634708041840221317
+      Cow_Caramel_16x16_57: -2094892895956187659
+      Cow_Caramel_16x16_58: 7343185438884391981
+      Cow_Caramel_16x16_59: -5879629623526879808
+      Cow_Caramel_16x16_6: 5811267229386140941
+      Cow_Caramel_16x16_60: -8504518241396381753
+      Cow_Caramel_16x16_61: 3695511045915011947
+      Cow_Caramel_16x16_62: -1552819146231490705
+      Cow_Caramel_16x16_63: -1942648397026418929
+      Cow_Caramel_16x16_64: -9158769949687239853
+      Cow_Caramel_16x16_65: 3885856242315110547
+      Cow_Caramel_16x16_66: 4191530481987920680
+      Cow_Caramel_16x16_67: -3919124287264033002
+      Cow_Caramel_16x16_68: 7226241391416543901
+      Cow_Caramel_16x16_69: 3684408564501423729
+      Cow_Caramel_16x16_7: 4465576784701934344
+      Cow_Caramel_16x16_70: -9166712264501157782
+      Cow_Caramel_16x16_71: 149123417609080363
+      Cow_Caramel_16x16_72: 2257365830862684460
+      Cow_Caramel_16x16_73: 8929697446435667638
+      Cow_Caramel_16x16_74: -8495316492631141865
+      Cow_Caramel_16x16_75: -260798781017815504
+      Cow_Caramel_16x16_76: -1374421739884140368
+      Cow_Caramel_16x16_77: -7249646998240366882
+      Cow_Caramel_16x16_78: 729736837996915750
+      Cow_Caramel_16x16_79: -6987516496825449335
+      Cow_Caramel_16x16_8: -7893911915942902252
+      Cow_Caramel_16x16_80: 5076632128112232995
+      Cow_Caramel_16x16_81: -5705995321362796245
+      Cow_Caramel_16x16_82: -2969638855456541195
+      Cow_Caramel_16x16_83: 2971064850822169026
+      Cow_Caramel_16x16_84: 6472979339267123705
+      Cow_Caramel_16x16_9: -745297880803552240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

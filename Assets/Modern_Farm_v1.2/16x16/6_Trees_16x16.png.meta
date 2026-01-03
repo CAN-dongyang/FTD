@@ -1,0 +1,6721 @@
+fileFormatVersion: 2
+guid: 0e0c73efe77227a4d81623d7feaaad07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3352413932435640997
+    second: 6_Trees_16x16_0
+  - first:
+      213: 5675766602397341846
+    second: 6_Trees_16x16_1
+  - first:
+      213: -5321753858845427279
+    second: 6_Trees_16x16_2
+  - first:
+      213: 7232432729919954364
+    second: 6_Trees_16x16_3
+  - first:
+      213: -909012800073735408
+    second: 6_Trees_16x16_4
+  - first:
+      213: -6045586361347873406
+    second: 6_Trees_16x16_5
+  - first:
+      213: -1867673377862043232
+    second: 6_Trees_16x16_6
+  - first:
+      213: 3544221553512213981
+    second: 6_Trees_16x16_7
+  - first:
+      213: 4478501190267815810
+    second: 6_Trees_16x16_8
+  - first:
+      213: -1714500329033027334
+    second: 6_Trees_16x16_9
+  - first:
+      213: -6116279117622038492
+    second: 6_Trees_16x16_10
+  - first:
+      213: -5580129358946337918
+    second: 6_Trees_16x16_11
+  - first:
+      213: 430923316894425767
+    second: 6_Trees_16x16_12
+  - first:
+      213: 7819993442884430875
+    second: 6_Trees_16x16_13
+  - first:
+      213: -7499060524719229139
+    second: 6_Trees_16x16_14
+  - first:
+      213: 7151409253080962081
+    second: 6_Trees_16x16_15
+  - first:
+      213: -8647695695412637465
+    second: 6_Trees_16x16_16
+  - first:
+      213: 1127602716267438589
+    second: 6_Trees_16x16_17
+  - first:
+      213: 8690878657870611770
+    second: 6_Trees_16x16_18
+  - first:
+      213: -7378912379888615518
+    second: 6_Trees_16x16_19
+  - first:
+      213: -8405209352158763446
+    second: 6_Trees_16x16_20
+  - first:
+      213: 1195966008678873780
+    second: 6_Trees_16x16_21
+  - first:
+      213: 4224876152371304272
+    second: 6_Trees_16x16_22
+  - first:
+      213: 531409207185277885
+    second: 6_Trees_16x16_23
+  - first:
+      213: 1983191208561463912
+    second: 6_Trees_16x16_24
+  - first:
+      213: 6929214900673134347
+    second: 6_Trees_16x16_25
+  - first:
+      213: -6979559890670562695
+    second: 6_Trees_16x16_26
+  - first:
+      213: -5346280305436533508
+    second: 6_Trees_16x16_27
+  - first:
+      213: -4954145748148910848
+    second: 6_Trees_16x16_28
+  - first:
+      213: 786459678178364245
+    second: 6_Trees_16x16_29
+  - first:
+      213: 1999033314972327594
+    second: 6_Trees_16x16_30
+  - first:
+      213: 5600030948785063384
+    second: 6_Trees_16x16_31
+  - first:
+      213: 379994723184538907
+    second: 6_Trees_16x16_32
+  - first:
+      213: -4575204929369024102
+    second: 6_Trees_16x16_33
+  - first:
+      213: 630756428886103016
+    second: 6_Trees_16x16_34
+  - first:
+      213: 8917890910794411236
+    second: 6_Trees_16x16_35
+  - first:
+      213: -8132649887562663495
+    second: 6_Trees_16x16_36
+  - first:
+      213: -7011378900206078342
+    second: 6_Trees_16x16_37
+  - first:
+      213: -5405443703816645873
+    second: 6_Trees_16x16_38
+  - first:
+      213: 5208816445715234856
+    second: 6_Trees_16x16_39
+  - first:
+      213: 5830947449700271876
+    second: 6_Trees_16x16_40
+  - first:
+      213: -2265810567269379172
+    second: 6_Trees_16x16_41
+  - first:
+      213: -6860995934497970614
+    second: 6_Trees_16x16_42
+  - first:
+      213: -403263462670457580
+    second: 6_Trees_16x16_43
+  - first:
+      213: 3381485716736729584
+    second: 6_Trees_16x16_44
+  - first:
+      213: -4942370732204732806
+    second: 6_Trees_16x16_45
+  - first:
+      213: -4172471005109411250
+    second: 6_Trees_16x16_46
+  - first:
+      213: -8944687691904261004
+    second: 6_Trees_16x16_47
+  - first:
+      213: -6956944268143435207
+    second: 6_Trees_16x16_48
+  - first:
+      213: 3021785811457824231
+    second: 6_Trees_16x16_49
+  - first:
+      213: -3687715993040434514
+    second: 6_Trees_16x16_50
+  - first:
+      213: -337734364295018024
+    second: 6_Trees_16x16_51
+  - first:
+      213: -1476385064809798329
+    second: 6_Trees_16x16_52
+  - first:
+      213: -4145394063630978151
+    second: 6_Trees_16x16_53
+  - first:
+      213: -404154827975285458
+    second: 6_Trees_16x16_54
+  - first:
+      213: -1198339433168573929
+    second: 6_Trees_16x16_55
+  - first:
+      213: 4607866702356274655
+    second: 6_Trees_16x16_56
+  - first:
+      213: -2225691369720829737
+    second: 6_Trees_16x16_57
+  - first:
+      213: -4978489491579501202
+    second: 6_Trees_16x16_58
+  - first:
+      213: -4788526033249461783
+    second: 6_Trees_16x16_59
+  - first:
+      213: 121179318197092251
+    second: 6_Trees_16x16_60
+  - first:
+      213: -8850309007255513418
+    second: 6_Trees_16x16_61
+  - first:
+      213: 1418383837367122572
+    second: 6_Trees_16x16_62
+  - first:
+      213: -5713515570381809510
+    second: 6_Trees_16x16_63
+  - first:
+      213: -3147861043899967334
+    second: 6_Trees_16x16_64
+  - first:
+      213: -8181635664512162190
+    second: 6_Trees_16x16_65
+  - first:
+      213: 4353233669408698686
+    second: 6_Trees_16x16_66
+  - first:
+      213: -2176905459629145398
+    second: 6_Trees_16x16_67
+  - first:
+      213: -6779691498094513204
+    second: 6_Trees_16x16_68
+  - first:
+      213: 7754232146540027841
+    second: 6_Trees_16x16_69
+  - first:
+      213: 6894096011573819844
+    second: 6_Trees_16x16_70
+  - first:
+      213: -4752436349083376548
+    second: 6_Trees_16x16_71
+  - first:
+      213: 7861569020868437482
+    second: 6_Trees_16x16_72
+  - first:
+      213: 3159431462290959588
+    second: 6_Trees_16x16_73
+  - first:
+      213: 1251187280346535667
+    second: 6_Trees_16x16_74
+  - first:
+      213: 3754156329248629825
+    second: 6_Trees_16x16_75
+  - first:
+      213: -9139978011839584448
+    second: 6_Trees_16x16_76
+  - first:
+      213: -6597040832020527532
+    second: 6_Trees_16x16_77
+  - first:
+      213: 44782120007108722
+    second: 6_Trees_16x16_78
+  - first:
+      213: 5215247286402715842
+    second: 6_Trees_16x16_79
+  - first:
+      213: 3236782748449458519
+    second: 6_Trees_16x16_80
+  - first:
+      213: -4828728863167794786
+    second: 6_Trees_16x16_81
+  - first:
+      213: -4297413813582042939
+    second: 6_Trees_16x16_82
+  - first:
+      213: 857447365471581087
+    second: 6_Trees_16x16_83
+  - first:
+      213: 9202970376214165788
+    second: 6_Trees_16x16_84
+  - first:
+      213: -4307572736788851063
+    second: 6_Trees_16x16_85
+  - first:
+      213: 4187027241395608824
+    second: 6_Trees_16x16_86
+  - first:
+      213: -8131000556246847277
+    second: 6_Trees_16x16_87
+  - first:
+      213: -7194468054749145732
+    second: 6_Trees_16x16_88
+  - first:
+      213: 7922808652142277099
+    second: 6_Trees_16x16_89
+  - first:
+      213: -8445550439948176014
+    second: 6_Trees_16x16_90
+  - first:
+      213: 911986380618878404
+    second: 6_Trees_16x16_91
+  - first:
+      213: -4220533003316590201
+    second: 6_Trees_16x16_92
+  - first:
+      213: -142413903567136690
+    second: 6_Trees_16x16_93
+  - first:
+      213: -8073057688739262458
+    second: 6_Trees_16x16_94
+  - first:
+      213: -2208100689944270278
+    second: 6_Trees_16x16_95
+  - first:
+      213: 3011046921566276620
+    second: 6_Trees_16x16_96
+  - first:
+      213: 937775998111423357
+    second: 6_Trees_16x16_97
+  - first:
+      213: 6337899917077230791
+    second: 6_Trees_16x16_98
+  - first:
+      213: 839007094108329693
+    second: 6_Trees_16x16_99
+  - first:
+      213: 9009930427006853828
+    second: 6_Trees_16x16_100
+  - first:
+      213: 1833945437850057876
+    second: 6_Trees_16x16_101
+  - first:
+      213: -6260633804878763062
+    second: 6_Trees_16x16_102
+  - first:
+      213: 8478415819219735199
+    second: 6_Trees_16x16_103
+  - first:
+      213: 927766124939306515
+    second: 6_Trees_16x16_104
+  - first:
+      213: 6744805535739915391
+    second: 6_Trees_16x16_105
+  - first:
+      213: 8166080728173222102
+    second: 6_Trees_16x16_106
+  - first:
+      213: -9122054194018016264
+    second: 6_Trees_16x16_107
+  - first:
+      213: -1322457788699203374
+    second: 6_Trees_16x16_108
+  - first:
+      213: -283360847168368302
+    second: 6_Trees_16x16_109
+  - first:
+      213: -2863457434055389139
+    second: 6_Trees_16x16_110
+  - first:
+      213: -8239417439236578977
+    second: 6_Trees_16x16_111
+  - first:
+      213: 373148874296556411
+    second: 6_Trees_16x16_112
+  - first:
+      213: -3792850028009419202
+    second: 6_Trees_16x16_113
+  - first:
+      213: 6570105903645654377
+    second: 6_Trees_16x16_114
+  - first:
+      213: -1243705560956459586
+    second: 6_Trees_16x16_115
+  - first:
+      213: 4067228214088082669
+    second: 6_Trees_16x16_116
+  - first:
+      213: 8684942603691553910
+    second: 6_Trees_16x16_117
+  - first:
+      213: -8415210173759204705
+    second: 6_Trees_16x16_118
+  - first:
+      213: 2487379234722561390
+    second: 6_Trees_16x16_119
+  - first:
+      213: 309184111474274874
+    second: 6_Trees_16x16_120
+  - first:
+      213: 4927668801954931172
+    second: 6_Trees_16x16_121
+  - first:
+      213: -8142634045621981708
+    second: 6_Trees_16x16_122
+  - first:
+      213: -8109857566345539512
+    second: 6_Trees_16x16_123
+  - first:
+      213: -349527634130637935
+    second: 6_Trees_16x16_124
+  - first:
+      213: -7180714834566885246
+    second: 6_Trees_16x16_125
+  - first:
+      213: 2854354279519482966
+    second: 6_Trees_16x16_126
+  - first:
+      213: 450671549939139278
+    second: 6_Trees_16x16_127
+  - first:
+      213: 7876547928765149787
+    second: 6_Trees_16x16_128
+  - first:
+      213: 8151612936548961852
+    second: 6_Trees_16x16_129
+  - first:
+      213: 7738600412622108019
+    second: 6_Trees_16x16_130
+  - first:
+      213: 6536911970589209904
+    second: 6_Trees_16x16_131
+  - first:
+      213: -3526313593010834776
+    second: 6_Trees_16x16_132
+  - first:
+      213: -8035638153521117035
+    second: 6_Trees_16x16_133
+  - first:
+      213: -6809850058494718375
+    second: 6_Trees_16x16_134
+  - first:
+      213: -8673527144208335531
+    second: 6_Trees_16x16_135
+  - first:
+      213: 108594086138691867
+    second: 6_Trees_16x16_136
+  - first:
+      213: -2040834902712917871
+    second: 6_Trees_16x16_137
+  - first:
+      213: -2271595467849606476
+    second: 6_Trees_16x16_138
+  - first:
+      213: -3022718129411074861
+    second: 6_Trees_16x16_139
+  - first:
+      213: -5526956658373284532
+    second: 6_Trees_16x16_140
+  - first:
+      213: 8544870342884759123
+    second: 6_Trees_16x16_141
+  - first:
+      213: -4981296430462225218
+    second: 6_Trees_16x16_142
+  - first:
+      213: 5140782006035564626
+    second: 6_Trees_16x16_143
+  - first:
+      213: -7577545859856514065
+    second: 6_Trees_16x16_144
+  - first:
+      213: 8146207296823018583
+    second: 6_Trees_16x16_145
+  - first:
+      213: 4693090568810931405
+    second: 6_Trees_16x16_146
+  - first:
+      213: -6323531816333172815
+    second: 6_Trees_16x16_147
+  - first:
+      213: -7904242476715029451
+    second: 6_Trees_16x16_148
+  - first:
+      213: -5926394269520042104
+    second: 6_Trees_16x16_149
+  - first:
+      213: -5085785371218447026
+    second: 6_Trees_16x16_150
+  - first:
+      213: 6955943626274229825
+    second: 6_Trees_16x16_151
+  - first:
+      213: -1929744311800639620
+    second: 6_Trees_16x16_152
+  - first:
+      213: -4768577852272171508
+    second: 6_Trees_16x16_153
+  - first:
+      213: -6386520199770347717
+    second: 6_Trees_16x16_154
+  - first:
+      213: 5851065618537137546
+    second: 6_Trees_16x16_155
+  - first:
+      213: 7445432175515635518
+    second: 6_Trees_16x16_156
+  - first:
+      213: 2177756855193234194
+    second: 6_Trees_16x16_157
+  - first:
+      213: -6971632941268661432
+    second: 6_Trees_16x16_158
+  - first:
+      213: 714718615279502021
+    second: 6_Trees_16x16_159
+  - first:
+      213: -5294508973013754321
+    second: 6_Trees_16x16_160
+  - first:
+      213: -2375434504064632024
+    second: 6_Trees_16x16_161
+  - first:
+      213: -5502303270791346210
+    second: 6_Trees_16x16_162
+  - first:
+      213: 2295409667515750856
+    second: 6_Trees_16x16_163
+  - first:
+      213: -4324739283280826672
+    second: 6_Trees_16x16_164
+  - first:
+      213: 3897869618794165898
+    second: 6_Trees_16x16_165
+  - first:
+      213: -4741855639710023684
+    second: 6_Trees_16x16_166
+  - first:
+      213: -1610741895767906334
+    second: 6_Trees_16x16_167
+  - first:
+      213: -8788898341752388830
+    second: 6_Trees_16x16_168
+  - first:
+      213: -6367288449072685415
+    second: 6_Trees_16x16_169
+  - first:
+      213: -2967786487274230805
+    second: 6_Trees_16x16_170
+  - first:
+      213: -4253897140885294306
+    second: 6_Trees_16x16_171
+  - first:
+      213: 3233697599996269098
+    second: 6_Trees_16x16_172
+  - first:
+      213: 182799837398079782
+    second: 6_Trees_16x16_173
+  - first:
+      213: 8987352155904930964
+    second: 6_Trees_16x16_174
+  - first:
+      213: 6365309028355077860
+    second: 6_Trees_16x16_175
+  - first:
+      213: 6692142582165398400
+    second: 6_Trees_16x16_176
+  - first:
+      213: -189066924856546513
+    second: 6_Trees_16x16_177
+  - first:
+      213: 4607430691565039186
+    second: 6_Trees_16x16_178
+  - first:
+      213: -3858830728636460791
+    second: 6_Trees_16x16_179
+  - first:
+      213: -2779569313445303373
+    second: 6_Trees_16x16_180
+  - first:
+      213: -491337691213001236
+    second: 6_Trees_16x16_181
+  - first:
+      213: -9105669288142903191
+    second: 6_Trees_16x16_182
+  - first:
+      213: 2575235580216731776
+    second: 6_Trees_16x16_183
+  - first:
+      213: -7592667028846151206
+    second: 6_Trees_16x16_184
+  - first:
+      213: -8382072345523929962
+    second: 6_Trees_16x16_185
+  - first:
+      213: -4410006920246807232
+    second: 6_Trees_16x16_186
+  - first:
+      213: -6494481128585176588
+    second: 6_Trees_16x16_187
+  - first:
+      213: -5356045080051189215
+    second: 6_Trees_16x16_188
+  - first:
+      213: -5505312714086980331
+    second: 6_Trees_16x16_189
+  - first:
+      213: -499842487783515571
+    second: 6_Trees_16x16_190
+  - first:
+      213: -5932120598208213939
+    second: 6_Trees_16x16_191
+  - first:
+      213: 7330214148724645699
+    second: 6_Trees_16x16_192
+  - first:
+      213: 7556228453027582333
+    second: 6_Trees_16x16_193
+  - first:
+      213: -7918277633508381406
+    second: 6_Trees_16x16_194
+  - first:
+      213: 5170836797973225152
+    second: 6_Trees_16x16_195
+  - first:
+      213: -2965634818650553885
+    second: 6_Trees_16x16_196
+  - first:
+      213: 2171955639640940526
+    second: 6_Trees_16x16_197
+  - first:
+      213: 415393413809306618
+    second: 6_Trees_16x16_198
+  - first:
+      213: 5316766788723435358
+    second: 6_Trees_16x16_199
+  - first:
+      213: 786930788094762351
+    second: 6_Trees_16x16_200
+  - first:
+      213: -1525332283004837869
+    second: 6_Trees_16x16_201
+  - first:
+      213: -2807231872945882472
+    second: 6_Trees_16x16_202
+  - first:
+      213: -4872837044233952526
+    second: 6_Trees_16x16_203
+  - first:
+      213: -2548803876349570665
+    second: 6_Trees_16x16_204
+  - first:
+      213: 7418514002827615404
+    second: 6_Trees_16x16_205
+  - first:
+      213: 2556127283322062908
+    second: 6_Trees_16x16_206
+  - first:
+      213: -3168222948611264248
+    second: 6_Trees_16x16_207
+  - first:
+      213: 658023064952028703
+    second: 6_Trees_16x16_208
+  - first:
+      213: 7604774781313159413
+    second: 6_Trees_16x16_209
+  - first:
+      213: -8434687027434790343
+    second: 6_Trees_16x16_210
+  - first:
+      213: 1296142464036017730
+    second: 6_Trees_16x16_211
+  - first:
+      213: 1094075341743341249
+    second: 6_Trees_16x16_212
+  - first:
+      213: -5931209987302433093
+    second: 6_Trees_16x16_213
+  - first:
+      213: -8951067599595170285
+    second: 6_Trees_16x16_214
+  - first:
+      213: 8979491147534664937
+    second: 6_Trees_16x16_215
+  - first:
+      213: 360070467153650986
+    second: 6_Trees_16x16_216
+  - first:
+      213: -1220187842968491617
+    second: 6_Trees_16x16_217
+  - first:
+      213: 5029573940052794704
+    second: 6_Trees_16x16_218
+  - first:
+      213: 2741973277671342319
+    second: 6_Trees_16x16_219
+  - first:
+      213: -5068317086580550202
+    second: 6_Trees_16x16_220
+  - first:
+      213: -5043823685860041347
+    second: 6_Trees_16x16_221
+  - first:
+      213: 7353997823576467889
+    second: 6_Trees_16x16_222
+  - first:
+      213: -8900594733056235238
+    second: 6_Trees_16x16_223
+  - first:
+      213: 6830866485652829294
+    second: 6_Trees_16x16_224
+  - first:
+      213: 1255379208171425831
+    second: 6_Trees_16x16_225
+  - first:
+      213: -3122273524857048270
+    second: 6_Trees_16x16_226
+  - first:
+      213: 6496518917703880905
+    second: 6_Trees_16x16_227
+  - first:
+      213: -1504337129650212264
+    second: 6_Trees_16x16_228
+  - first:
+      213: 6196193009568835244
+    second: 6_Trees_16x16_229
+  - first:
+      213: 787338098907308601
+    second: 6_Trees_16x16_230
+  - first:
+      213: -1734642193013435725
+    second: 6_Trees_16x16_231
+  - first:
+      213: 6056472418322767555
+    second: 6_Trees_16x16_232
+  - first:
+      213: -5195903315064449128
+    second: 6_Trees_16x16_233
+  - first:
+      213: 1173141254692319534
+    second: 6_Trees_16x16_234
+  - first:
+      213: 5004504813200616753
+    second: 6_Trees_16x16_235
+  - first:
+      213: 9118166721329478591
+    second: 6_Trees_16x16_236
+  - first:
+      213: -8399935989173239391
+    second: 6_Trees_16x16_237
+  - first:
+      213: 2362209243230139339
+    second: 6_Trees_16x16_238
+  - first:
+      213: 4904885442561548062
+    second: 6_Trees_16x16_239
+  - first:
+      213: 3238696310363933391
+    second: 6_Trees_16x16_240
+  - first:
+      213: -260250769088209354
+    second: 6_Trees_16x16_241
+  - first:
+      213: 8301725294783332714
+    second: 6_Trees_16x16_242
+  - first:
+      213: -8946627338048389987
+    second: 6_Trees_16x16_243
+  - first:
+      213: -7685737591454581701
+    second: 6_Trees_16x16_244
+  - first:
+      213: -3358266764895606998
+    second: 6_Trees_16x16_245
+  - first:
+      213: 2511531051597949947
+    second: 6_Trees_16x16_246
+  - first:
+      213: -2944122692830383462
+    second: 6_Trees_16x16_247
+  - first:
+      213: -1873961488877048986
+    second: 6_Trees_16x16_248
+  - first:
+      213: 55700192247498863
+    second: 6_Trees_16x16_249
+  - first:
+      213: 8583184971211497177
+    second: 6_Trees_16x16_250
+  - first:
+      213: 3925151284039630121
+    second: 6_Trees_16x16_251
+  - first:
+      213: 5488928712671200335
+    second: 6_Trees_16x16_252
+  - first:
+      213: -4240594221816033853
+    second: 6_Trees_16x16_253
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6_Trees_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2975
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6a115a45d971d0800000000000000
+      internalID: -3352413932435640997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2975
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6985be347af54ce40800000000000000
+      internalID: 5675766602397341846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2975
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9347daf055526b0800000000000000
+      internalID: -5321753858845427279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2975
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd99c0bf33ce5460800000000000000
+      internalID: 7232432729919954364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2991
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013625baca98263f0800000000000000
+      internalID: -909012800073735408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2991
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285e9e83c33c91ca0800000000000000
+      internalID: -6045586361347873406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2991
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9341c45f0b416e0800000000000000
+      internalID: -1867673377862043232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2991
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde06e89ba9f2130800000000000000
+      internalID: 3544221553512213981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2959
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287c31cba15d62e30800000000000000
+      internalID: 4478501190267815810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2975
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af032b8d80fd438e0800000000000000
+      internalID: -1714500329033027334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2975
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420bff64c8c9e1ba0800000000000000
+      internalID: -6116279117622038492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2975
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b764fa9e56f82b0800000000000000
+      internalID: -5580129358946337918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2975
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2ecec3972faf500800000000000000
+      internalID: 430923316894425767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2927
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca20daa92368c60800000000000000
+      internalID: 7819993442884430875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2927
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b4fa3f2cfde790800000000000000
+      internalID: -7499060524719229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2959
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124155d63d8ee3360800000000000000
+      internalID: 7151409253080962081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2959
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0514d15963df780800000000000000
+      internalID: -8647695695412637465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2959
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e2e632bc06af00800000000000000
+      internalID: 1127602716267438589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2927
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c664d7143c9870800000000000000
+      internalID: 8690878657870611770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2927
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afb1002946d89990800000000000000
+      internalID: -7378912379888615518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2863
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4629cd70a2ba5b80800000000000000
+      internalID: -8405209352158763446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2863
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bafeb69fbce89010800000000000000
+      internalID: 1195966008678873780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2863
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575c1ae976c1aa30800000000000000
+      internalID: 4224876152371304272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2927
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db386a0cbd1ff5700800000000000000
+      internalID: 531409207185277885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2927
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862dbf395e5b58b10800000000000000
+      internalID: 1983191208561463912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2927
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f37f65d34892060800000000000000
+      internalID: 6929214900673134347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2927
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972540c324f932f90800000000000000
+      internalID: -6979559890670562695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2799
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd9c453623ec5b0800000000000000
+      internalID: -5346280305436533508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2799
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058214b0b65f3bb0800000000000000
+      internalID: -4954145748148910848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2799
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b4df319e01aea00800000000000000
+      internalID: 786459678178364245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2799
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed819653efdbb10800000000000000
+      internalID: 1999033314972327594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2863
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d507894a7e47bd40800000000000000
+      internalID: 5600030948785063384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2799
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15ffebff23064500800000000000000
+      internalID: 379994723184538907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2799
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d7527b5b9180c0800000000000000
+      internalID: -4575204929369024102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2799
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3dc8351a5e0c800800000000000000
+      internalID: 630756428886103016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2767
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece59bc886b2cb70800000000000000
+      internalID: 8917890910794411236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2767
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f4311406032f80800000000000000
+      internalID: -8132649887562663495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2767
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a763c83c90492be90800000000000000
+      internalID: -7011378900206078342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2767
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0313a437910cf4b0800000000000000
+      internalID: -5405443703816645873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2799
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c11bb5fe694840800000000000000
+      internalID: 5208816445715234856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2671
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407ca53dfcfabe050800000000000000
+      internalID: 5830947449700271876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2671
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9315993b493e80e0800000000000000
+      internalID: -2265810567269379172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2671
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4669d67c88d8c0a0800000000000000
+      internalID: -6860995934497970614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2671
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41522ac6402576af0800000000000000
+      internalID: -403263462670457580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2671
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1662fe7537dee20800000000000000
+      internalID: 3381485716736729584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2671
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e46ae310c296bb0800000000000000
+      internalID: -4942370732204732806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2671
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4226d04ab76816c0800000000000000
+      internalID: -4172471005109411250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2671
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ec396fe51ed380800000000000000
+      internalID: -8944687691904261004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2671
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ee1f2c08f37f90800000000000000
+      internalID: -6956944268143435207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2671
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e552477f2a8fe920800000000000000
+      internalID: 3021785811457824231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2671
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4c4ab7d992dcc0800000000000000
+      internalID: -3687715993040434514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2671
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9c0c39260205bf0800000000000000
+      internalID: -337734364295018024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2623
+        width: 193
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e1541b93d28be0800000000000000
+      internalID: -1476385064809798329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2479
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933347ff0a9876c0800000000000000
+      internalID: -4145394063630978151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2511
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2526444357246af0800000000000000
+      internalID: -404154827975285458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2495
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae4a572a4ae5fe0800000000000000
+      internalID: -1198339433168573929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2511
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdddb4e2a5e62ff30800000000000000
+      internalID: 4607866702356274655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2511
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82320dd71cc11e0800000000000000
+      internalID: -2225691369720829737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2495
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6583604f2ad8eab0800000000000000
+      internalID: -4978489491579501202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2511
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9947681fcbb8db0800000000000000
+      internalID: -4788526033249461783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2513
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ff247a2f38ea100800000000000000
+      internalID: 121179318197092251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2495
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6581e49d26d2580800000000000000
+      internalID: -8850309007255513418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2511
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a3c6dc59c1fa310800000000000000
+      internalID: 1418383837367122572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2495
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a989ab83cd385b0b0800000000000000
+      internalID: -5713515570381809510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2495
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985d040f0d8054d0800000000000000
+      internalID: -3147861043899967334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2335
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e51716bdf47e80800000000000000
+      internalID: -8181635664512162190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2319
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31306935fac96c30800000000000000
+      internalID: 4353233669408698686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2335
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac24239a4041ac1e0800000000000000
+      internalID: -2176905459629145398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2335
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33759b082b9e1a0800000000000000
+      internalID: -6779691498094513204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2319
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfde68bd019c9b60800000000000000
+      internalID: 7754232146540027841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2335
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c97b49cbcfbcaf50800000000000000
+      internalID: 6894096011573819844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2337
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542b3be154fb0eb0800000000000000
+      internalID: -4752436349083376548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2319
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae524124f57e91d60800000000000000
+      internalID: 7861569020868437482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2335
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecab02fc2e88db20800000000000000
+      internalID: 3159431462290959588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2319
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6da80d33c1d5110800000000000000
+      internalID: 1251187280346535667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2303
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14426248a41791430800000000000000
+      internalID: 3754156329248629825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2319
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047ab658c66482180800000000000000
+      internalID: -9139978011839584448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2159
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564baed05a9274a0800000000000000
+      internalID: -6597040832020527532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2143
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780053d9191f9000800000000000000
+      internalID: 44782120007108722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2159
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09ad186c7406840800000000000000
+      internalID: 5215247286402715842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2159
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594170b2cc5bec20800000000000000
+      internalID: 3236782748449458519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2143
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913532cea8ecfcb0800000000000000
+      internalID: -4828728863167794786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2159
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e59cb7e48c54c0800000000000000
+      internalID: -4297413813582042939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2161
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93378006d346eb00800000000000000
+      internalID: 857447365471581087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2143
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1930b83cc487bf70800000000000000
+      internalID: 9202970376214165788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2159
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861b8b1b6d6834c0800000000000000
+      internalID: -4307572736788851063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2159
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd44c971f4b1a30800000000000000
+      internalID: 4187027241395608824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2143
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03760f212e82f80800000000000000
+      internalID: -8131000556246847277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2159
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7518c01c6d182c90800000000000000
+      internalID: -7194468054749145732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2031
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f4560e7873fd60800000000000000
+      internalID: 7922808652142277099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2015
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275be3e0f906bca80800000000000000
+      internalID: -8445550439948176014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2031
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd48c008c608ac00800000000000000
+      internalID: 911986380618878404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2031
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78980864897ad65c0800000000000000
+      internalID: -4220533003316590201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2015
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ddca2f4b060ef0800000000000000
+      internalID: -142413903567136690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2031
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d5731eccb6ff80800000000000000
+      internalID: -8073057688739262458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2031
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa39b1f104b51e0800000000000000
+      internalID: -2208100689944270278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2015
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccdf1d83369c920800000000000000
+      internalID: 3011046921566276620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2031
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b915e3d46a30d00800000000000000
+      internalID: 937775998111423357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2031
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4bd5b156eb4f750800000000000000
+      internalID: 6337899917077230791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2015
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61c50c180c4ab00800000000000000
+      internalID: 839007094108329693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2031
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22ab89cf3b90d70800000000000000
+      internalID: 9009930427006853828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1887
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3088b8ab737910800000000000000
+      internalID: 1833945437850057876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1999
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb266789b2cd19a0800000000000000
+      internalID: -6260633804878763062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1887
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9215aa544269a570800000000000000
+      internalID: 8478415819219735199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1903
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e5a7006610ec00800000000000000
+      internalID: 927766124939306515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1887
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cadd436ec5a9d50800000000000000
+      internalID: 6744805535739915391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1903
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d89de1182fb35170800000000000000
+      internalID: 8166080728173222102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1903
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3a1bf8a04f76180800000000000000
+      internalID: -9122054194018016264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1887
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a22ad5afa5ade0800000000000000
+      internalID: -1322457788699203374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1903
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25196419fcc411cf0800000000000000
+      internalID: -283360847168368302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1903
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205dad82a4f248d0800000000000000
+      internalID: -2863457434055389139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1903
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51252a4e75b7ad80800000000000000
+      internalID: -8239417439236578977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1903
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b78c49ce0bd2500800000000000000
+      internalID: 373148874296556411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1903
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0b22bef61d5bc0800000000000000
+      internalID: -3792850028009419202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1791
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfe7b6284bd2b50800000000000000
+      internalID: 6570105903645654377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1775
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5230ab1687dbee0800000000000000
+      internalID: -1243705560956459586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1791
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4aa29f282b17830800000000000000
+      internalID: 4067228214088082669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1775
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f0b3884d178870800000000000000
+      internalID: 8684942603691553910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1759
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9254d2ceea273b80800000000000000
+      internalID: -8415210173759204705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1775
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d325b3c32f48220800000000000000
+      internalID: 2487379234722561390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1775
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327e9eaf417a4400800000000000000
+      internalID: 309184111474274874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1759
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e16c4fdaa8926440800000000000000
+      internalID: 4927668801954931172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1775
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd23be1a7d8ffe80800000000000000
+      internalID: -8142634045621981708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1775
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d5f2e28ff37f80800000000000000
+      internalID: -8109857566345539512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1759
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be578f77a362bf0800000000000000
+      internalID: -349527634130637935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1775
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280534c27e9f85c90800000000000000
+      internalID: -7180714834566885246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1647
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ffdd1814bc9720800000000000000
+      internalID: 2854354279519482966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1631
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24f7c036b114600800000000000000
+      internalID: 450671549939139278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1647
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b2660c9e1f4d60800000000000000
+      internalID: 7876547928765149787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1647
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eca75d6c8502170800000000000000
+      internalID: 8151612936548961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1631
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375380d0318056b60800000000000000
+      internalID: 7738600412622108019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1647
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f7fe9dc6c7ba50800000000000000
+      internalID: 6536911970589209904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1647
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a235f96874001fc0800000000000000
+      internalID: -3526313593010834776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1631
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984ccb8cadab7090800000000000000
+      internalID: -8035638153521117035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1647
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecfb1b37d8e71a0800000000000000
+      internalID: -6809850058494718375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1647
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df0c3440171a780800000000000000
+      internalID: -8673527144208335531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1631
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114109febdc18100800000000000000
+      internalID: 108594086138691867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1647
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e392087f7da3e0800000000000000
+      internalID: -2040834902712917871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1487
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4badf6915fba970e0800000000000000
+      internalID: -2271595467849606476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1471
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d15850e52d06d0800000000000000
+      internalID: -3022718129411074861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1502
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d2ea8c33e4c43b0800000000000000
+      internalID: -5526956658373284532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1487
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569a6fdd4a759670800000000000000
+      internalID: 8544870342884759123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1471
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b06dd941eedab0800000000000000
+      internalID: -4981296430462225218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1508
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25848795ff9b75740800000000000000
+      internalID: 5140782006035564626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1487
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe34502203627d690800000000000000
+      internalID: -7577545859856514065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1471
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c4d140642d0170800000000000000
+      internalID: 8146207296823018583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1520
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc426bcd105312140800000000000000
+      internalID: 4693090568810931405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1487
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9499015d4e38a0800000000000000
+      internalID: -6323531816333172815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1471
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc8dc885d7e4290800000000000000
+      internalID: -7904242476715029451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1487
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e85eafc731cda0800000000000000
+      internalID: -5926394269520042104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1487
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4575a88629ab69b0800000000000000
+      internalID: -5085785371218447026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1471
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec7b9bfd9788060800000000000000
+      internalID: 6955943626274229825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1487
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fcacbc5cb2835e0800000000000000
+      internalID: -1929744311800639620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1311
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06a58755bb92ddb0800000000000000
+      internalID: -4768577852272171508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1295
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37e4dd27b58e57a0800000000000000
+      internalID: -6386520199770347717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1326
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8548660e29233150800000000000000
+      internalID: 5851065618537137546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1311
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f8fd4bd1d735760800000000000000
+      internalID: 7445432175515635518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1295
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be6f05252f83e10800000000000000
+      internalID: 2177756855193234194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1332
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b0547f6c8cf3f90800000000000000
+      internalID: -6971632941268661432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1331
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2081a3bc03be900800000000000000
+      internalID: 714718615279502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1295
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e956bf3202686b0800000000000000
+      internalID: -5294508973013754321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1343
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b750677e2c80fd0800000000000000
+      internalID: -2375434504064632024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1311
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70302e354e3a3b0800000000000000
+      internalID: -5502303270791346210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1295
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c916465eeeeadf10800000000000000
+      internalID: 2295409667515750856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1311
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6ed909807bf3c0800000000000000
+      internalID: -4324739283280826672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1311
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86730934c3081630800000000000000
+      internalID: 3897869618794165898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1295
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb6ea4b6b813eb0800000000000000
+      internalID: -4741855639710023684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1311
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72ae5a7ce75a9e0800000000000000
+      internalID: -1610741895767906334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1135
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22344d4168f870680800000000000000
+      internalID: -8788898341752388830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1119
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e139214e8d2a7a0800000000000000
+      internalID: -6367288449072685415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1150
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba0d0f9ed40d6d0800000000000000
+      internalID: -2967786487274230805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1135
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137b76a61f17f4c0800000000000000
+      internalID: -4253897140885294306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229fc695d660ec20800000000000000
+      internalID: 3233697599996269098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1156
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299c1dcb7f698200800000000000000
+      internalID: 182799837398079782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1155
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494fd043b2d79bc70800000000000000
+      internalID: 8987352155904930964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1119
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6f0b026de165850800000000000000
+      internalID: 6365309028355077860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1167
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083eb34d8344fdc50800000000000000
+      internalID: 6692142582165398400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1135
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b662132ac406df0800000000000000
+      internalID: -189066924856546513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1119
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e67f18dc1e0ff30800000000000000
+      internalID: 4607430691565039186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1135
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011343b5eda27ac0800000000000000
+      internalID: -3858830728636460791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1135
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb248baf6cfc69d0800000000000000
+      internalID: -2779569313445303373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1119
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced0d7a19fa6e29f0800000000000000
+      internalID: -491337691213001236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1135
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968ee0eb60a22a180800000000000000
+      internalID: -9105669288142903191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1007
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e3c3bd131db320800000000000000
+      internalID: 2575235580216731776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fdcf909d61a690800000000000000
+      internalID: -7592667028846151206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1007
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cbb63ac95ecab80800000000000000
+      internalID: -8382072345523929962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1007
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045bcad32128cc2c0800000000000000
+      internalID: -4410006920246807232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 991
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9d332a2d7fed5a0800000000000000
+      internalID: -6494481128585176588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1007
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af19290618ba5b0800000000000000
+      internalID: -5356045080051189215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1007
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515676341433993b0800000000000000
+      internalID: -5505312714086980331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 991
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a1408d7e33019f0800000000000000
+      internalID: -499842487783515571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1007
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c8503eebfdcada0800000000000000
+      internalID: -5932120598208213939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1007
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f564e5ee62ab560800000000000000
+      internalID: 7330214148724645699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 991
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7198605ebd1dd860800000000000000
+      internalID: 7556228453027582333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1007
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22defc5f170ac1290800000000000000
+      internalID: -7918277633508381406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 879
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce56b6eba082c740800000000000000
+      internalID: 5170836797973225152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 863
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1cdc458d2f7d6d0800000000000000
+      internalID: -2965634818650553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef54b09526542e10800000000000000
+      internalID: 2171955639640940526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf328eb16c3c500800000000000000
+      internalID: 415393413809306618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 863
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5764739933f8c940800000000000000
+      internalID: 5316766788723435358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 879
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd437e16dbbea00800000000000000
+      internalID: 786930788094762351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 879
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310af03ce5ee4dae0800000000000000
+      internalID: -1525332283004837869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 863
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af7e22c75ba09d0800000000000000
+      internalID: -2807231872945882472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 879
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f222129684306cb0800000000000000
+      internalID: -4872837044233952526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_204
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 879
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7919b0ce064d0acd0800000000000000
+      internalID: -2548803876349570665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_205
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 863
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1dcb3e2bd3f660800000000000000
+      internalID: 7418514002827615404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_206
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 879
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388813a830397320800000000000000
+      internalID: 2556127283322062908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f8c2a3063804d0800000000000000
+      internalID: -3168222948611264248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_208
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 703
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eba70cd74c12900800000000000000
+      internalID: 658023064952028703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_209
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 740
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0150d2f56998960800000000000000
+      internalID: 7604774781313159413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_210
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 719
+        width: 29
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932672266d8f1fa80800000000000000
+      internalID: -8434687027434790343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_211
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2469a2b24b2dcf110800000000000000
+      internalID: 1296142464036017730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_212
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 719
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce30260abfee2f00800000000000000
+      internalID: 1094075341743341249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 719
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed69201fb10bda0800000000000000
+      internalID: -5931209987302433093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_214
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 703
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3161f95617b67c380800000000000000
+      internalID: -8951067599595170285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_215
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 719
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e481909f9f8d9c70800000000000000
+      internalID: 8979491147534664937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_216
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 721
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256dc0ae2a3ff400800000000000000
+      internalID: 360070467153650986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_217
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 687
+        width: 114
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ec942f95011fe0800000000000000
+      internalID: -1220187842968491617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_218
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 719
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d9864c9d2acc540800000000000000
+      internalID: 5029573940052794704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 289
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c63f1b227d0620800000000000000
+      internalID: 2741973277671342319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_220
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 559
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d25d7678b9a9b0800000000000000
+      internalID: -5068317086580550202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_221
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 607
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d5c9eb41db00ab0800000000000000
+      internalID: -5043823685860041347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_222
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 591
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96541be06ae0660800000000000000
+      internalID: 7353997823576467889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_223
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 607
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1968766f3cba7480800000000000000
+      internalID: -8900594733056235238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64357190ec1cce50800000000000000
+      internalID: 6830866485652829294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_225
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72018711db00c6110800000000000000
+      internalID: 1255379208171425831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_226
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 447
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f94b85c47ba4d0800000000000000
+      internalID: -3122273524857048270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_227
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0585e1985482a50800000000000000
+      internalID: 6496518917703880905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_228
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 335
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b4c4d9558f1be0800000000000000
+      internalID: -1504337129650212264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_229
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 335
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6eb1f96bc4df550800000000000000
+      internalID: 6196193009568835244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_230
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 335
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932608754df2dea00800000000000000
+      internalID: 787338098907308601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_231
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 335
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b29701bd105de7e0800000000000000
+      internalID: -1734642193013435725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_232
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 383
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce541e6399ec0450800000000000000
+      internalID: 6056472418322767555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_233
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 383
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971f4ac67174e7b0800000000000000
+      internalID: -5195903315064449128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_234
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 383
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ba4d61c5d74010800000000000000
+      internalID: 1173141254692319534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_235
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 239
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d2e83dc92937540800000000000000
+      internalID: 5004504813200616753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_236
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 239
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb1aba25c3a8e70800000000000000
+      internalID: 9118166721329478591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_237
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14f4df8be6d6b80800000000000000
+      internalID: -8399935989173239391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_238
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 239
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc370eb8ac048c020800000000000000
+      internalID: 2362209243230139339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_239
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 319
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f9dd3a257a11440800000000000000
+      internalID: 4904885442561548062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 319
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4c9a822922fc20800000000000000
+      internalID: 3238696310363933391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_241
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 319
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e99fbed47636cf0800000000000000
+      internalID: -260250769088209354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a618f62db27a53370800000000000000
+      internalID: 8301725294783332714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_243
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 239
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb3d956d137d380800000000000000
+      internalID: -8946627338048389987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_244
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 239
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cbb70a166c65590800000000000000
+      internalID: -7685737591454581701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_245
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 175
+        width: 109
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27a5619b2a0561d0800000000000000
+      internalID: -3358266764895606998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_246
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 175
+        width: 109
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbebdc4f20cad220800000000000000
+      internalID: 2511531051597949947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_247
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 175
+        width: 109
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92bdae62006427d0800000000000000
+      internalID: -2944122692830383462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_248
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba8bc54f95ef5e0800000000000000
+      internalID: -1873961488877048986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6845dc9703e5c000800000000000000
+      internalID: 55700192247498863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_250
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de588271499d1770800000000000000
+      internalID: 8583184971211497177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_251
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92db9d6eb40f87630800000000000000
+      internalID: 3925151284039630121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_252
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44853425979c2c40800000000000000
+      internalID: 5488928712671200335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Trees_16x16_253
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc41cd5026625c0800000000000000
+      internalID: -4240594221816033853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6_Trees_16x16_0: -3352413932435640997
+      6_Trees_16x16_1: 5675766602397341846
+      6_Trees_16x16_10: -6116279117622038492
+      6_Trees_16x16_100: 9009930427006853828
+      6_Trees_16x16_101: 1833945437850057876
+      6_Trees_16x16_102: -6260633804878763062
+      6_Trees_16x16_103: 8478415819219735199
+      6_Trees_16x16_104: 927766124939306515
+      6_Trees_16x16_105: 6744805535739915391
+      6_Trees_16x16_106: 8166080728173222102
+      6_Trees_16x16_107: -9122054194018016264
+      6_Trees_16x16_108: -1322457788699203374
+      6_Trees_16x16_109: -283360847168368302
+      6_Trees_16x16_11: -5580129358946337918
+      6_Trees_16x16_110: -2863457434055389139
+      6_Trees_16x16_111: -8239417439236578977
+      6_Trees_16x16_112: 373148874296556411
+      6_Trees_16x16_113: -3792850028009419202
+      6_Trees_16x16_114: 6570105903645654377
+      6_Trees_16x16_115: -1243705560956459586
+      6_Trees_16x16_116: 4067228214088082669
+      6_Trees_16x16_117: 8684942603691553910
+      6_Trees_16x16_118: -8415210173759204705
+      6_Trees_16x16_119: 2487379234722561390
+      6_Trees_16x16_12: 430923316894425767
+      6_Trees_16x16_120: 309184111474274874
+      6_Trees_16x16_121: 4927668801954931172
+      6_Trees_16x16_122: -8142634045621981708
+      6_Trees_16x16_123: -8109857566345539512
+      6_Trees_16x16_124: -349527634130637935
+      6_Trees_16x16_125: -7180714834566885246
+      6_Trees_16x16_126: 2854354279519482966
+      6_Trees_16x16_127: 450671549939139278
+      6_Trees_16x16_128: 7876547928765149787
+      6_Trees_16x16_129: 8151612936548961852
+      6_Trees_16x16_13: 7819993442884430875
+      6_Trees_16x16_130: 7738600412622108019
+      6_Trees_16x16_131: 6536911970589209904
+      6_Trees_16x16_132: -3526313593010834776
+      6_Trees_16x16_133: -8035638153521117035
+      6_Trees_16x16_134: -6809850058494718375
+      6_Trees_16x16_135: -8673527144208335531
+      6_Trees_16x16_136: 108594086138691867
+      6_Trees_16x16_137: -2040834902712917871
+      6_Trees_16x16_138: -2271595467849606476
+      6_Trees_16x16_139: -3022718129411074861
+      6_Trees_16x16_14: -7499060524719229139
+      6_Trees_16x16_140: -5526956658373284532
+      6_Trees_16x16_141: 8544870342884759123
+      6_Trees_16x16_142: -4981296430462225218
+      6_Trees_16x16_143: 5140782006035564626
+      6_Trees_16x16_144: -7577545859856514065
+      6_Trees_16x16_145: 8146207296823018583
+      6_Trees_16x16_146: 4693090568810931405
+      6_Trees_16x16_147: -6323531816333172815
+      6_Trees_16x16_148: -7904242476715029451
+      6_Trees_16x16_149: -5926394269520042104
+      6_Trees_16x16_15: 7151409253080962081
+      6_Trees_16x16_150: -5085785371218447026
+      6_Trees_16x16_151: 6955943626274229825
+      6_Trees_16x16_152: -1929744311800639620
+      6_Trees_16x16_153: -4768577852272171508
+      6_Trees_16x16_154: -6386520199770347717
+      6_Trees_16x16_155: 5851065618537137546
+      6_Trees_16x16_156: 7445432175515635518
+      6_Trees_16x16_157: 2177756855193234194
+      6_Trees_16x16_158: -6971632941268661432
+      6_Trees_16x16_159: 714718615279502021
+      6_Trees_16x16_16: -8647695695412637465
+      6_Trees_16x16_160: -5294508973013754321
+      6_Trees_16x16_161: -2375434504064632024
+      6_Trees_16x16_162: -5502303270791346210
+      6_Trees_16x16_163: 2295409667515750856
+      6_Trees_16x16_164: -4324739283280826672
+      6_Trees_16x16_165: 3897869618794165898
+      6_Trees_16x16_166: -4741855639710023684
+      6_Trees_16x16_167: -1610741895767906334
+      6_Trees_16x16_168: -8788898341752388830
+      6_Trees_16x16_169: -6367288449072685415
+      6_Trees_16x16_17: 1127602716267438589
+      6_Trees_16x16_170: -2967786487274230805
+      6_Trees_16x16_171: -4253897140885294306
+      6_Trees_16x16_172: 3233697599996269098
+      6_Trees_16x16_173: 182799837398079782
+      6_Trees_16x16_174: 8987352155904930964
+      6_Trees_16x16_175: 6365309028355077860
+      6_Trees_16x16_176: 6692142582165398400
+      6_Trees_16x16_177: -189066924856546513
+      6_Trees_16x16_178: 4607430691565039186
+      6_Trees_16x16_179: -3858830728636460791
+      6_Trees_16x16_18: 8690878657870611770
+      6_Trees_16x16_180: -2779569313445303373
+      6_Trees_16x16_181: -491337691213001236
+      6_Trees_16x16_182: -9105669288142903191
+      6_Trees_16x16_183: 2575235580216731776
+      6_Trees_16x16_184: -7592667028846151206
+      6_Trees_16x16_185: -8382072345523929962
+      6_Trees_16x16_186: -4410006920246807232
+      6_Trees_16x16_187: -6494481128585176588
+      6_Trees_16x16_188: -5356045080051189215
+      6_Trees_16x16_189: -5505312714086980331
+      6_Trees_16x16_19: -7378912379888615518
+      6_Trees_16x16_190: -499842487783515571
+      6_Trees_16x16_191: -5932120598208213939
+      6_Trees_16x16_192: 7330214148724645699
+      6_Trees_16x16_193: 7556228453027582333
+      6_Trees_16x16_194: -7918277633508381406
+      6_Trees_16x16_195: 5170836797973225152
+      6_Trees_16x16_196: -2965634818650553885
+      6_Trees_16x16_197: 2171955639640940526
+      6_Trees_16x16_198: 415393413809306618
+      6_Trees_16x16_199: 5316766788723435358
+      6_Trees_16x16_2: -5321753858845427279
+      6_Trees_16x16_20: -8405209352158763446
+      6_Trees_16x16_200: 786930788094762351
+      6_Trees_16x16_201: -1525332283004837869
+      6_Trees_16x16_202: -2807231872945882472
+      6_Trees_16x16_203: -4872837044233952526
+      6_Trees_16x16_204: -2548803876349570665
+      6_Trees_16x16_205: 7418514002827615404
+      6_Trees_16x16_206: 2556127283322062908
+      6_Trees_16x16_207: -3168222948611264248
+      6_Trees_16x16_208: 658023064952028703
+      6_Trees_16x16_209: 7604774781313159413
+      6_Trees_16x16_21: 1195966008678873780
+      6_Trees_16x16_210: -8434687027434790343
+      6_Trees_16x16_211: 1296142464036017730
+      6_Trees_16x16_212: 1094075341743341249
+      6_Trees_16x16_213: -5931209987302433093
+      6_Trees_16x16_214: -8951067599595170285
+      6_Trees_16x16_215: 8979491147534664937
+      6_Trees_16x16_216: 360070467153650986
+      6_Trees_16x16_217: -1220187842968491617
+      6_Trees_16x16_218: 5029573940052794704
+      6_Trees_16x16_219: 2741973277671342319
+      6_Trees_16x16_22: 4224876152371304272
+      6_Trees_16x16_220: -5068317086580550202
+      6_Trees_16x16_221: -5043823685860041347
+      6_Trees_16x16_222: 7353997823576467889
+      6_Trees_16x16_223: -8900594733056235238
+      6_Trees_16x16_224: 6830866485652829294
+      6_Trees_16x16_225: 1255379208171425831
+      6_Trees_16x16_226: -3122273524857048270
+      6_Trees_16x16_227: 6496518917703880905
+      6_Trees_16x16_228: -1504337129650212264
+      6_Trees_16x16_229: 6196193009568835244
+      6_Trees_16x16_23: 531409207185277885
+      6_Trees_16x16_230: 787338098907308601
+      6_Trees_16x16_231: -1734642193013435725
+      6_Trees_16x16_232: 6056472418322767555
+      6_Trees_16x16_233: -5195903315064449128
+      6_Trees_16x16_234: 1173141254692319534
+      6_Trees_16x16_235: 5004504813200616753
+      6_Trees_16x16_236: 9118166721329478591
+      6_Trees_16x16_237: -8399935989173239391
+      6_Trees_16x16_238: 2362209243230139339
+      6_Trees_16x16_239: 4904885442561548062
+      6_Trees_16x16_24: 1983191208561463912
+      6_Trees_16x16_240: 3238696310363933391
+      6_Trees_16x16_241: -260250769088209354
+      6_Trees_16x16_242: 8301725294783332714
+      6_Trees_16x16_243: -8946627338048389987
+      6_Trees_16x16_244: -7685737591454581701
+      6_Trees_16x16_245: -3358266764895606998
+      6_Trees_16x16_246: 2511531051597949947
+      6_Trees_16x16_247: -2944122692830383462
+      6_Trees_16x16_248: -1873961488877048986
+      6_Trees_16x16_249: 55700192247498863
+      6_Trees_16x16_25: 6929214900673134347
+      6_Trees_16x16_250: 8583184971211497177
+      6_Trees_16x16_251: 3925151284039630121
+      6_Trees_16x16_252: 5488928712671200335
+      6_Trees_16x16_253: -4240594221816033853
+      6_Trees_16x16_26: -6979559890670562695
+      6_Trees_16x16_27: -5346280305436533508
+      6_Trees_16x16_28: -4954145748148910848
+      6_Trees_16x16_29: 786459678178364245
+      6_Trees_16x16_3: 7232432729919954364
+      6_Trees_16x16_30: 1999033314972327594
+      6_Trees_16x16_31: 5600030948785063384
+      6_Trees_16x16_32: 379994723184538907
+      6_Trees_16x16_33: -4575204929369024102
+      6_Trees_16x16_34: 630756428886103016
+      6_Trees_16x16_35: 8917890910794411236
+      6_Trees_16x16_36: -8132649887562663495
+      6_Trees_16x16_37: -7011378900206078342
+      6_Trees_16x16_38: -5405443703816645873
+      6_Trees_16x16_39: 5208816445715234856
+      6_Trees_16x16_4: -909012800073735408
+      6_Trees_16x16_40: 5830947449700271876
+      6_Trees_16x16_41: -2265810567269379172
+      6_Trees_16x16_42: -6860995934497970614
+      6_Trees_16x16_43: -403263462670457580
+      6_Trees_16x16_44: 3381485716736729584
+      6_Trees_16x16_45: -4942370732204732806
+      6_Trees_16x16_46: -4172471005109411250
+      6_Trees_16x16_47: -8944687691904261004
+      6_Trees_16x16_48: -6956944268143435207
+      6_Trees_16x16_49: 3021785811457824231
+      6_Trees_16x16_5: -6045586361347873406
+      6_Trees_16x16_50: -3687715993040434514
+      6_Trees_16x16_51: -337734364295018024
+      6_Trees_16x16_52: -1476385064809798329
+      6_Trees_16x16_53: -4145394063630978151
+      6_Trees_16x16_54: -404154827975285458
+      6_Trees_16x16_55: -1198339433168573929
+      6_Trees_16x16_56: 4607866702356274655
+      6_Trees_16x16_57: -2225691369720829737
+      6_Trees_16x16_58: -4978489491579501202
+      6_Trees_16x16_59: -4788526033249461783
+      6_Trees_16x16_6: -1867673377862043232
+      6_Trees_16x16_60: 121179318197092251
+      6_Trees_16x16_61: -8850309007255513418
+      6_Trees_16x16_62: 1418383837367122572
+      6_Trees_16x16_63: -5713515570381809510
+      6_Trees_16x16_64: -3147861043899967334
+      6_Trees_16x16_65: -8181635664512162190
+      6_Trees_16x16_66: 4353233669408698686
+      6_Trees_16x16_67: -2176905459629145398
+      6_Trees_16x16_68: -6779691498094513204
+      6_Trees_16x16_69: 7754232146540027841
+      6_Trees_16x16_7: 3544221553512213981
+      6_Trees_16x16_70: 6894096011573819844
+      6_Trees_16x16_71: -4752436349083376548
+      6_Trees_16x16_72: 7861569020868437482
+      6_Trees_16x16_73: 3159431462290959588
+      6_Trees_16x16_74: 1251187280346535667
+      6_Trees_16x16_75: 3754156329248629825
+      6_Trees_16x16_76: -9139978011839584448
+      6_Trees_16x16_77: -6597040832020527532
+      6_Trees_16x16_78: 44782120007108722
+      6_Trees_16x16_79: 5215247286402715842
+      6_Trees_16x16_8: 4478501190267815810
+      6_Trees_16x16_80: 3236782748449458519
+      6_Trees_16x16_81: -4828728863167794786
+      6_Trees_16x16_82: -4297413813582042939
+      6_Trees_16x16_83: 857447365471581087
+      6_Trees_16x16_84: 9202970376214165788
+      6_Trees_16x16_85: -4307572736788851063
+      6_Trees_16x16_86: 4187027241395608824
+      6_Trees_16x16_87: -8131000556246847277
+      6_Trees_16x16_88: -7194468054749145732
+      6_Trees_16x16_89: 7922808652142277099
+      6_Trees_16x16_9: -1714500329033027334
+      6_Trees_16x16_90: -8445550439948176014
+      6_Trees_16x16_91: 911986380618878404
+      6_Trees_16x16_92: -4220533003316590201
+      6_Trees_16x16_93: -142413903567136690
+      6_Trees_16x16_94: -8073057688739262458
+      6_Trees_16x16_95: -2208100689944270278
+      6_Trees_16x16_96: 3011046921566276620
+      6_Trees_16x16_97: 937775998111423357
+      6_Trees_16x16_98: 6337899917077230791
+      6_Trees_16x16_99: 839007094108329693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 201faed4572bd854496d830e86fd195d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2540811664560095792
+    second: Tileset_Fruit_Trees_1_0
+  - first:
+      213: 8000009379042056462
+    second: Tileset_Fruit_Trees_1_1
+  - first:
+      213: -5579542789918800612
+    second: Tileset_Fruit_Trees_1_2
+  - first:
+      213: 4881854569187124590
+    second: Tileset_Fruit_Trees_1_3
+  - first:
+      213: 6384192816931523708
+    second: Tileset_Fruit_Trees_1_4
+  - first:
+      213: 2751438219579646828
+    second: Tileset_Fruit_Trees_1_5
+  - first:
+      213: 2542265483831413463
+    second: Tileset_Fruit_Trees_1_6
+  - first:
+      213: 8227050357481881927
+    second: Tileset_Fruit_Trees_1_7
+  - first:
+      213: -6059980635049094899
+    second: Tileset_Fruit_Trees_1_8
+  - first:
+      213: 1342860896544934607
+    second: Tileset_Fruit_Trees_1_9
+  - first:
+      213: 7951232866923599948
+    second: Tileset_Fruit_Trees_1_10
+  - first:
+      213: 879474872735620989
+    second: Tileset_Fruit_Trees_1_11
+  - first:
+      213: -738031040784981496
+    second: Tileset_Fruit_Trees_1_12
+  - first:
+      213: 2853247860426105042
+    second: Tileset_Fruit_Trees_1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03206434fb6c24320800000000000000
+      internalID: 2540811664560095792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 530
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095895f42eb50f60800000000000000
+      internalID: 8000009379042056462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 575
+        width: 206
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154ccde46b7192b0800000000000000
+      internalID: -5579542789918800612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 293
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6524819dd4dfb340800000000000000
+      internalID: 4881854569187124590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 434
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ccdc6ca85399850800000000000000
+      internalID: 6384192816931523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 335
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636a73ab721f2620800000000000000
+      internalID: 2751438219579646828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 335
+        width: 140
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da0280fcf0f74320800000000000000
+      internalID: 2542265483831413463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 50
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74145fa16ba5c2270800000000000000
+      internalID: 8227050357481881927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 197
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01172638bf96eba0800000000000000
+      internalID: -6059980635049094899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 95
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac251eedcc2a210800000000000000
+      internalID: 1342860896544934607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 98
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48546f3a24785e60800000000000000
+      internalID: 7951232866923599948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd942bcb5843c00800000000000000
+      internalID: 879474872735620989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 95
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802acccbdacf1c5f0800000000000000
+      internalID: -738031040784981496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fruit_Trees_1_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 119
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d067d8dfc5c89720800000000000000
+      internalID: 2853247860426105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Fruit_Trees_1_0: 2540811664560095792
+      Tileset_Fruit_Trees_1_1: 8000009379042056462
+      Tileset_Fruit_Trees_1_10: 7951232866923599948
+      Tileset_Fruit_Trees_1_11: 879474872735620989
+      Tileset_Fruit_Trees_1_12: -738031040784981496
+      Tileset_Fruit_Trees_1_13: 2853247860426105042
+      Tileset_Fruit_Trees_1_2: -5579542789918800612
+      Tileset_Fruit_Trees_1_3: 4881854569187124590
+      Tileset_Fruit_Trees_1_4: 6384192816931523708
+      Tileset_Fruit_Trees_1_5: 2751438219579646828
+      Tileset_Fruit_Trees_1_6: 2542265483831413463
+      Tileset_Fruit_Trees_1_7: 8227050357481881927
+      Tileset_Fruit_Trees_1_8: -6059980635049094899
+      Tileset_Fruit_Trees_1_9: 1342860896544934607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

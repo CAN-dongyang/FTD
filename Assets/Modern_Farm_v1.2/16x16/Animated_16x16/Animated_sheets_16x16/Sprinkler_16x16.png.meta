@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: db0a19d646ed14244b6ec81d76626c43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9024056082792500691
+    second: Sprinkler_16x16_0
+  - first:
+      213: -6390389678369891953
+    second: Sprinkler_16x16_1
+  - first:
+      213: 7657973206326617510
+    second: Sprinkler_16x16_2
+  - first:
+      213: 178698899234888445
+    second: Sprinkler_16x16_3
+  - first:
+      213: 3220130612209092220
+    second: Sprinkler_16x16_4
+  - first:
+      213: -2046039218849437018
+    second: Sprinkler_16x16_5
+  - first:
+      213: -5391739093581552952
+    second: Sprinkler_16x16_6
+  - first:
+      213: -1910840257422899575
+    second: Sprinkler_16x16_7
+  - first:
+      213: 790003004503012678
+    second: Sprinkler_16x16_8
+  - first:
+      213: 4873349453900784461
+    second: Sprinkler_16x16_9
+  - first:
+      213: -5878379533287536522
+    second: Sprinkler_16x16_10
+  - first:
+      213: -5156440452893093287
+    second: Sprinkler_16x16_11
+  - first:
+      213: 5325772196244540998
+    second: Sprinkler_16x16_12
+  - first:
+      213: -7089416299109690401
+    second: Sprinkler_16x16_13
+  - first:
+      213: -3821825753891460257
+    second: Sprinkler_16x16_14
+  - first:
+      213: -8437304261028092695
+    second: Sprinkler_16x16_15
+  - first:
+      213: 3636025271900284888
+    second: Sprinkler_16x16_16
+  - first:
+      213: 7114958379273177413
+    second: Sprinkler_16x16_17
+  - first:
+      213: 6552036826393627379
+    second: Sprinkler_16x16_18
+  - first:
+      213: -6571623846560985692
+    second: Sprinkler_16x16_19
+  - first:
+      213: -3364309474646695203
+    second: Sprinkler_16x16_20
+  - first:
+      213: -6668069227226330580
+    second: Sprinkler_16x16_21
+  - first:
+      213: 7728486316391560468
+    second: Sprinkler_16x16_22
+  - first:
+      213: 3772296485990357599
+    second: Sprinkler_16x16_23
+  - first:
+      213: -2344413339889317863
+    second: Sprinkler_16x16_24
+  - first:
+      213: -581702750033699036
+    second: Sprinkler_16x16_25
+  - first:
+      213: 4014826628852681854
+    second: Sprinkler_16x16_26
+  - first:
+      213: -2518629950892974933
+    second: Sprinkler_16x16_27
+  - first:
+      213: 3048000621752193826
+    second: Sprinkler_16x16_28
+  - first:
+      213: 2532567349358630002
+    second: Sprinkler_16x16_29
+  - first:
+      213: -3638536502016793372
+    second: Sprinkler_16x16_30
+  - first:
+      213: 7753691918188798110
+    second: Sprinkler_16x16_31
+  - first:
+      213: 5569242646508937602
+    second: Sprinkler_16x16_32
+  - first:
+      213: 5073479657186102309
+    second: Sprinkler_16x16_33
+  - first:
+      213: 1772264520080851102
+    second: Sprinkler_16x16_34
+  - first:
+      213: 2939445360985070183
+    second: Sprinkler_16x16_35
+  - first:
+      213: 4041811145450212969
+    second: Sprinkler_16x16_36
+  - first:
+      213: 3239875421515919555
+    second: Sprinkler_16x16_37
+  - first:
+      213: -2272771497433274318
+    second: Sprinkler_16x16_38
+  - first:
+      213: -1137546096301320483
+    second: Sprinkler_16x16_39
+  - first:
+      213: -5930354227861640711
+    second: Sprinkler_16x16_40
+  - first:
+      213: 1601193369832069174
+    second: Sprinkler_16x16_41
+  - first:
+      213: 3003733629816562687
+    second: Sprinkler_16x16_42
+  - first:
+      213: -2476017256707361714
+    second: Sprinkler_16x16_43
+  - first:
+      213: -9012501535832747337
+    second: Sprinkler_16x16_44
+  - first:
+      213: 3335927101734020406
+    second: Sprinkler_16x16_45
+  - first:
+      213: -5377970025333429907
+    second: Sprinkler_16x16_46
+  - first:
+      213: -2696938101898628295
+    second: Sprinkler_16x16_47
+  - first:
+      213: 1090332181988787495
+    second: Sprinkler_16x16_48
+  - first:
+      213: 6599414909965505108
+    second: Sprinkler_16x16_49
+  - first:
+      213: 6441453185248989184
+    second: Sprinkler_16x16_50
+  - first:
+      213: 7595394834637212875
+    second: Sprinkler_16x16_51
+  - first:
+      213: -2885729575561746730
+    second: Sprinkler_16x16_52
+  - first:
+      213: 3082687785548846053
+    second: Sprinkler_16x16_53
+  - first:
+      213: -9059091809565266261
+    second: Sprinkler_16x16_54
+  - first:
+      213: 3700541640821224854
+    second: Sprinkler_16x16_55
+  - first:
+      213: -1306539038809682407
+    second: Sprinkler_16x16_56
+  - first:
+      213: -1507924292698280044
+    second: Sprinkler_16x16_57
+  - first:
+      213: -3450760103546544611
+    second: Sprinkler_16x16_58
+  - first:
+      213: 8475887486826224687
+    second: Sprinkler_16x16_59
+  - first:
+      213: 756607544668016429
+    second: Sprinkler_16x16_60
+  - first:
+      213: -8487817724127283475
+    second: Sprinkler_16x16_61
+  - first:
+      213: -4160694724484950526
+    second: Sprinkler_16x16_62
+  - first:
+      213: -5763091007846135100
+    second: Sprinkler_16x16_63
+  - first:
+      213: 2692849373627034506
+    second: Sprinkler_16x16_64
+  - first:
+      213: -7957083357136787950
+    second: Sprinkler_16x16_65
+  - first:
+      213: 5289675485229215696
+    second: Sprinkler_16x16_66
+  - first:
+      213: -4826606562661297755
+    second: Sprinkler_16x16_67
+  - first:
+      213: 4573190314962167944
+    second: Sprinkler_16x16_68
+  - first:
+      213: -7064249477282508770
+    second: Sprinkler_16x16_69
+  - first:
+      213: -378992846175347100
+    second: Sprinkler_16x16_70
+  - first:
+      213: 1032981946545467271
+    second: Sprinkler_16x16_71
+  - first:
+      213: -2150085707961463642
+    second: Sprinkler_16x16_72
+  - first:
+      213: -996121738488368983
+    second: Sprinkler_16x16_73
+  - first:
+      213: 2343448124987073435
+    second: Sprinkler_16x16_74
+  - first:
+      213: 6875588801794771072
+    second: Sprinkler_16x16_75
+  - first:
+      213: 8685379247603204289
+    second: Sprinkler_16x16_76
+  - first:
+      213: 4991003466236000075
+    second: Sprinkler_16x16_77
+  - first:
+      213: 1838599379590614857
+    second: Sprinkler_16x16_78
+  - first:
+      213: 6378399570114105714
+    second: Sprinkler_16x16_79
+  - first:
+      213: -7553529580035281296
+    second: Sprinkler_16x16_80
+  - first:
+      213: -2063093061368812652
+    second: Sprinkler_16x16_81
+  - first:
+      213: -2062927215831072823
+    second: Sprinkler_16x16_82
+  - first:
+      213: 8821586402372609055
+    second: Sprinkler_16x16_83
+  - first:
+      213: 3188860602134496851
+    second: Sprinkler_16x16_84
+  - first:
+      213: -981043262078812336
+    second: Sprinkler_16x16_85
+  - first:
+      213: 5565650138152893156
+    second: Sprinkler_16x16_86
+  - first:
+      213: -1554421031226788608
+    second: Sprinkler_16x16_87
+  - first:
+      213: 6402353125320939553
+    second: Sprinkler_16x16_88
+  - first:
+      213: -6401909944991261144
+    second: Sprinkler_16x16_89
+  - first:
+      213: 4655849808679335308
+    second: Sprinkler_16x16_90
+  - first:
+      213: -150678039119025519
+    second: Sprinkler_16x16_91
+  - first:
+      213: 9030256555014907840
+    second: Sprinkler_16x16_92
+  - first:
+      213: 4714322766177443846
+    second: Sprinkler_16x16_93
+  - first:
+      213: -4186766724977266668
+    second: Sprinkler_16x16_94
+  - first:
+      213: -6188929196260638534
+    second: Sprinkler_16x16_95
+  - first:
+      213: 2129055198961348712
+    second: Sprinkler_16x16_96
+  - first:
+      213: -1519480434976947061
+    second: Sprinkler_16x16_97
+  - first:
+      213: 4446154524215392670
+    second: Sprinkler_16x16_98
+  - first:
+      213: -3974248723071235421
+    second: Sprinkler_16x16_99
+  - first:
+      213: 6152532675361283357
+    second: Sprinkler_16x16_100
+  - first:
+      213: 3638118156044129204
+    second: Sprinkler_16x16_101
+  - first:
+      213: -8102502750712848500
+    second: Sprinkler_16x16_102
+  - first:
+      213: -765871008966363262
+    second: Sprinkler_16x16_103
+  - first:
+      213: 5511515400067931496
+    second: Sprinkler_16x16_104
+  - first:
+      213: 6097438823350486250
+    second: Sprinkler_16x16_105
+  - first:
+      213: -7025159076441455350
+    second: Sprinkler_16x16_106
+  - first:
+      213: 5876123933780507745
+    second: Sprinkler_16x16_107
+  - first:
+      213: -8392605460266453068
+    second: Sprinkler_16x16_108
+  - first:
+      213: 5117052940199321070
+    second: Sprinkler_16x16_109
+  - first:
+      213: -262486201054175315
+    second: Sprinkler_16x16_110
+  - first:
+      213: -2551956590709225735
+    second: Sprinkler_16x16_111
+  - first:
+      213: 2211832143539335372
+    second: Sprinkler_16x16_112
+  - first:
+      213: -2834391513655543025
+    second: Sprinkler_16x16_113
+  - first:
+      213: 2181026665613718737
+    second: Sprinkler_16x16_114
+  - first:
+      213: 8188446982979989484
+    second: Sprinkler_16x16_115
+  - first:
+      213: -6212249447579584531
+    second: Sprinkler_16x16_116
+  - first:
+      213: 7363021335844057876
+    second: Sprinkler_16x16_117
+  - first:
+      213: -4452972954419636320
+    second: Sprinkler_16x16_118
+  - first:
+      213: -8611847801948847318
+    second: Sprinkler_16x16_119
+  - first:
+      213: -8485629920445594435
+    second: Sprinkler_16x16_120
+  - first:
+      213: -6846623970715608840
+    second: Sprinkler_16x16_121
+  - first:
+      213: 1227329848103125851
+    second: Sprinkler_16x16_122
+  - first:
+      213: -289338893882689598
+    second: Sprinkler_16x16_123
+  - first:
+      213: 7342499584995801969
+    second: Sprinkler_16x16_124
+  - first:
+      213: 6967822218859164410
+    second: Sprinkler_16x16_125
+  - first:
+      213: -3532565242775638438
+    second: Sprinkler_16x16_126
+  - first:
+      213: 2748691159326871628
+    second: Sprinkler_16x16_127
+  - first:
+      213: 5505508731213751428
+    second: Sprinkler_16x16_128
+  - first:
+      213: 4125499382179422778
+    second: Sprinkler_16x16_129
+  - first:
+      213: -4216326387732208097
+    second: Sprinkler_16x16_130
+  - first:
+      213: 5388386755917738301
+    second: Sprinkler_16x16_131
+  - first:
+      213: 7169489569217510789
+    second: Sprinkler_16x16_132
+  - first:
+      213: 3040270355055875912
+    second: Sprinkler_16x16_133
+  - first:
+      213: 3356945165871181421
+    second: Sprinkler_16x16_134
+  - first:
+      213: 2393510559637370743
+    second: Sprinkler_16x16_135
+  - first:
+      213: -57929779758924276
+    second: Sprinkler_16x16_136
+  - first:
+      213: -8810558143028429740
+    second: Sprinkler_16x16_137
+  - first:
+      213: 6577552042974492834
+    second: Sprinkler_16x16_138
+  - first:
+      213: -7919135898592355314
+    second: Sprinkler_16x16_139
+  - first:
+      213: 8079609769132833943
+    second: Sprinkler_16x16_140
+  - first:
+      213: -5350877010123252951
+    second: Sprinkler_16x16_141
+  - first:
+      213: -6443487609747761854
+    second: Sprinkler_16x16_142
+  - first:
+      213: -4971755014137781619
+    second: Sprinkler_16x16_143
+  - first:
+      213: 517451293830007242
+    second: Sprinkler_16x16_144
+  - first:
+      213: -8544620411776715404
+    second: Sprinkler_16x16_145
+  - first:
+      213: 6552355587928920171
+    second: Sprinkler_16x16_146
+  - first:
+      213: -774169882877179087
+    second: Sprinkler_16x16_147
+  - first:
+      213: 2286716809085977201
+    second: Sprinkler_16x16_148
+  - first:
+      213: -5533294633833251563
+    second: Sprinkler_16x16_149
+  - first:
+      213: 4015925344869526178
+    second: Sprinkler_16x16_150
+  - first:
+      213: 8791356015403388283
+    second: Sprinkler_16x16_151
+  - first:
+      213: -7789311120650852884
+    second: Sprinkler_16x16_152
+  - first:
+      213: -8792915151892740400
+    second: Sprinkler_16x16_153
+  - first:
+      213: 3732206666130143813
+    second: Sprinkler_16x16_154
+  - first:
+      213: 8618467438116738007
+    second: Sprinkler_16x16_155
+  - first:
+      213: -6098240974793460633
+    second: Sprinkler_16x16_156
+  - first:
+      213: -5122888281366679378
+    second: Sprinkler_16x16_157
+  - first:
+      213: 466905613325037210
+    second: Sprinkler_16x16_158
+  - first:
+      213: 3353714961800578569
+    second: Sprinkler_16x16_159
+  - first:
+      213: 2047291460009278607
+    second: Sprinkler_16x16_160
+  - first:
+      213: -7881944851243956970
+    second: Sprinkler_16x16_161
+  - first:
+      213: -2194856442879602167
+    second: Sprinkler_16x16_162
+  - first:
+      213: 2500459036744288757
+    second: Sprinkler_16x16_163
+  - first:
+      213: 2827305431554746510
+    second: Sprinkler_16x16_164
+  - first:
+      213: -7175809424602598247
+    second: Sprinkler_16x16_165
+  - first:
+      213: -8973492982708162774
+    second: Sprinkler_16x16_166
+  - first:
+      213: 4054269619686313048
+    second: Sprinkler_16x16_167
+  - first:
+      213: -3716411812083618181
+    second: Sprinkler_16x16_168
+  - first:
+      213: -603024704880578035
+    second: Sprinkler_16x16_169
+  - first:
+      213: -6552741689349759737
+    second: Sprinkler_16x16_170
+  - first:
+      213: 5754737271701171642
+    second: Sprinkler_16x16_171
+  - first:
+      213: 8313310155253970886
+    second: Sprinkler_16x16_172
+  - first:
+      213: -936747492354825436
+    second: Sprinkler_16x16_173
+  - first:
+      213: -977495394293119301
+    second: Sprinkler_16x16_174
+  - first:
+      213: -1488395256822063049
+    second: Sprinkler_16x16_175
+  - first:
+      213: 5101861608232561245
+    second: Sprinkler_16x16_176
+  - first:
+      213: -2699688270360113579
+    second: Sprinkler_16x16_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprinkler_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddcc002233eb3d70800000000000000
+      internalID: 9024056082792500691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 150
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89907cf176c057a0800000000000000
+      internalID: -6390389678369891953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 150
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ae86be06964a60800000000000000
+      internalID: 7657973206326617510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa16aab3bdda7200800000000000000
+      internalID: 178698899234888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 143
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7685171bb330bc20800000000000000
+      internalID: 3220130612209092220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa26fbbb220b93e0800000000000000
+      internalID: -2046039218849437018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 146
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22c7d6cd1bc25b0800000000000000
+      internalID: -5391739093581552952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 145
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986cac1f8e45b75e0800000000000000
+      internalID: -1910840257422899575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 144
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b4e60c87a6fa00800000000000000
+      internalID: 790003004503012678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 144
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43a91a128d91a340800000000000000
+      internalID: 4873349453900784461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 143
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678487f95fccb6ea0800000000000000
+      internalID: -5878379533287536522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525ad36ab4a078b0800000000000000
+      internalID: -5156440452893093287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 178
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecec76891f8e940800000000000000
+      internalID: 5325772196244540998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 175
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d3b2ff655d9d90800000000000000
+      internalID: -7089416299109690401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 171
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b2cd9c9b526fac0800000000000000
+      internalID: -3821825753891460257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 165
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e7833a7ca8ea80800000000000000
+      internalID: -8437304261028092695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 144
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a5f568b1c57230800000000000000
+      internalID: 3636025271900284888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 144
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549444403f86db260800000000000000
+      internalID: 7114958379273177413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa487887c28dea50800000000000000
+      internalID: 6552036826393627379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad0f34fde6ecc4a0800000000000000
+      internalID: -6571623846560985692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e3319b529f41d0800000000000000
+      internalID: -3364309474646695203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a0675ed524673a0800000000000000
+      internalID: -6668069227226330580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4157cf38b59114b60800000000000000
+      internalID: 7728486316391560468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad8e2eaa3e95430800000000000000
+      internalID: 3772296485990357599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c5351d78f67fd0800000000000000
+      internalID: -2344413339889317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 146
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9f5b4e606de7f0800000000000000
+      internalID: -581702750033699036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 146
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0b872c8787b730800000000000000
+      internalID: 4014826628852681854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 160
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5d5867670c0dd0800000000000000
+      internalID: -2518629950892974933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 158
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22395be9a6cac4a20800000000000000
+      internalID: 3048000621752193826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274164c069c752320800000000000000
+      internalID: 2532567349358630002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42ff64452518dc0800000000000000
+      internalID: -3638536502016793372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 145
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90e57108b5aa9b60800000000000000
+      internalID: 7753691918188798110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 160
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812f1d0eace94d40800000000000000
+      internalID: 5569242646508937602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 152
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8fb52ede986640800000000000000
+      internalID: 5073479657186102309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 146
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90827fe039589810800000000000000
+      internalID: 1772264520080851102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a5f226bf10bc820800000000000000
+      internalID: 2939445360985070183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 155
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e46c582d5671830800000000000000
+      internalID: 4041811145450212969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b9ffb78956fc20800000000000000
+      internalID: 3239875421515919555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386bdf5d5e7570e0800000000000000
+      internalID: -2272771497433274318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 160
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d3563adf9630f0800000000000000
+      internalID: -1137546096301320483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92218004623bda0800000000000000
+      internalID: -5930354227861640711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6381d89e2e4983610800000000000000
+      internalID: 1601193369832069174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36c1562d76fa920800000000000000
+      internalID: 3003733629816562687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44783c6c6b63add0800000000000000
+      internalID: -2476017256707361714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 146
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d60b7a992de280800000000000000
+      internalID: -9012501535832747337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635647746089b4e20800000000000000
+      internalID: 3335927101734020406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 286
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d696d4371cc9d55b0800000000000000
+      internalID: -5377970025333429907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933bd17d51d829ad0800000000000000
+      internalID: -2696938101898628295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7254e9ab753a12f00800000000000000
+      internalID: 1090332181988787495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 100
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45219e935e4d59b50800000000000000
+      internalID: 6599414909965505108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00013103b83a46950800000000000000
+      internalID: 6441453185248989184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc43672c53486960800000000000000
+      internalID: 7595394834637212875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 238
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6adc28d34d3f7d0800000000000000
+      internalID: -2885729575561746730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3131b4538e7ca20800000000000000
+      internalID: 3082687785548846053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae263f0ff3a74280800000000000000
+      internalID: -9059091809565266261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 100
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b0b91407fa5330800000000000000
+      internalID: 3700541640821224854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8192aaad3edde0800000000000000
+      internalID: -1306539038809682407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f698958d6c21be0800000000000000
+      internalID: -1507924292698280044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 100
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e940ff7ff6c10d0800000000000000
+      internalID: -3450760103546544611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c947813c660a570800000000000000
+      internalID: 8475887486826224687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f415e9d82008a00800000000000000
+      internalID: 756607544668016429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f02310c6353a80800000000000000
+      internalID: -8487817724127283475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 95
+        width: 238
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2069b30413e3246c0800000000000000
+      internalID: -4160694724484950526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 101
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca451533436500b0800000000000000
+      internalID: -5763091007846135100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 101
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2cacec3cee5520800000000000000
+      internalID: 2692849373627034506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 101
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21660b958d2c29190800000000000000
+      internalID: -7957083357136787950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 101
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfed22f3d3b86940800000000000000
+      internalID: 5289675485229215696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1110a57e2740db0800000000000000
+      internalID: -4826606562661297755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a3959c5c377f30800000000000000
+      internalID: 4573190314962167944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 101
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1056d5478eb6fd90800000000000000
+      internalID: -7064249477282508770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 101
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46edd4fa30c8dbaf0800000000000000
+      internalID: -378992846175347100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 101
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78feb3f7b93e55e00800000000000000
+      internalID: 1032981946545467271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac0054b07c5922e0800000000000000
+      internalID: -2150085707961463642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 95
+        width: 238
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03b587e801d22f0800000000000000
+      internalID: -996121738488368983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e86f47a9958020800000000000000
+      internalID: 2343448124987073435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08881a8369ffa6f50800000000000000
+      internalID: 6875588801794771072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 100
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c040f8986aa88870800000000000000
+      internalID: 8685379247603204289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477db5853b934540800000000000000
+      internalID: 4991003466236000075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 100
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f80c8f464048910800000000000000
+      internalID: 1838599379590614857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 100
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271d7246d90a48850800000000000000
+      internalID: 6378399570114105714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 100
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e67950ed87c2790800000000000000
+      internalID: -7553529580035281296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be98a9acb6e53e0800000000000000
+      internalID: -2063093061368812652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf37e680a20f53e0800000000000000
+      internalID: -2062927215831072823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e5dc18129c6a70800000000000000
+      internalID: 8821586402372609055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 95
+        width: 334
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356077482db114c20800000000000000
+      internalID: 3188860602134496851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 101
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7086d952a262f0800000000000000
+      internalID: -981043262078812336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf4b400592d3d40800000000000000
+      internalID: 5565650138152893156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 101
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b45ace469d6ae0800000000000000
+      internalID: -1554421031226788608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 101
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128dd511f3ab9d850800000000000000
+      internalID: 6402353125320939553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 101
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e51c4e2d8d727a0800000000000000
+      internalID: -6401909944991261144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 101
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85f6e5bbb6ec9040800000000000000
+      internalID: 4655849808679335308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aabda2f1fa8edf0800000000000000
+      internalID: -150678039119025519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c76e401e7ae15d70800000000000000
+      internalID: 9030256555014907840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002b8a0493ac6140800000000000000
+      internalID: 4714322766177443846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410fd4898dd95e5c0800000000000000
+      internalID: -4186766724977266668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab047d4bfa18c1aa0800000000000000
+      internalID: -6188929196260638534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603a495c6ceb8d10800000000000000
+      internalID: 2129055198961348712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840b0e4898b9eae0800000000000000
+      internalID: -1519480434976947061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ba58abf9e3bd30800000000000000
+      internalID: 4446154524215392670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa0a44c7d1a8d8c0800000000000000
+      internalID: -3974248723071235421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d94e7eedf226550800000000000000
+      internalID: 6152532675361283357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d8e5ff213d7230800000000000000
+      internalID: 3638118156044129204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f92285da02e8f80800000000000000
+      internalID: -8102502750712848500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2873ac600641f55f0800000000000000
+      internalID: -765871008966363262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dd42b1e06dc7c40800000000000000
+      internalID: 5511515400067931496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44b71ed447e9450800000000000000
+      internalID: 6097438823350486250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0588167a0f918e90800000000000000
+      internalID: -7025159076441455350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c7821b59f2c8150800000000000000
+      internalID: 5876123933780507745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b770d0ccc9778b80800000000000000
+      internalID: -8392605460266453068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd27da98c630740800000000000000
+      internalID: 5117052940199321070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf59bbd0367b5cf0800000000000000
+      internalID: -262486201054175315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64f886001a59cd0800000000000000
+      internalID: -2551956590709225735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0f372ad9102be10800000000000000
+      internalID: 2211832143539335372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bfd228fe73aa8d0800000000000000
+      internalID: -2834391513655543025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d47f816230944e10800000000000000
+      internalID: 2181026665613718737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef24a2952533a170800000000000000
+      internalID: 8188446982979989484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f6e49a08a9c9a0800000000000000
+      internalID: -6212249447579584531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137b9cd4e4be2660800000000000000
+      internalID: 7363021335844057876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a75569d0bcd332c0800000000000000
+      internalID: -4452972954419636320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 30
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a234c193d029c7880800000000000000
+      internalID: -8611847801948847318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 28
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40a60db8cfc3a80800000000000000
+      internalID: -8485629920445594435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 28
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f852da06c7ebf0a0800000000000000
+      internalID: -6846623970715608840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53cb628ef9580110800000000000000
+      internalID: 1227329848103125851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 25
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7fa6a1fcf0cfbf0800000000000000
+      internalID: -289338893882689598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb027687cc5e560800000000000000
+      internalID: 7342499584995801969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bc25146da2b060800000000000000
+      internalID: 6967822218859164410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e6776c0aec9fec0800000000000000
+      internalID: -3532565242775638438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 30
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c405fe4db00552620800000000000000
+      internalID: 2748691159326871628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484aec7850f776c40800000000000000
+      internalID: 5505508731213751428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 27
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e5eb84d7b04930800000000000000
+      internalID: 4125499382179422778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 28
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ad1a4d799c75c0800000000000000
+      internalID: -4216326387732208097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 24
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3175e2a43567ca40800000000000000
+      internalID: 5388386755917738301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 25
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df31217c42f7360800000000000000
+      internalID: 7169489569217510789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479146a7c5313a20800000000000000
+      internalID: 3040270355055875912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e673ea7d3469e20800000000000000
+      internalID: 3356945165871181421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 4
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f4513c25773120800000000000000
+      internalID: 2393510559637370743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 30
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7d871c21323ff0800000000000000
+      internalID: -57929779758924276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c7ddb9c0c9ab580800000000000000
+      internalID: -8810558143028429740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 27
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b325dbb8284b50800000000000000
+      internalID: 6577552042974492834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 21
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cdb5c8bd3991290800000000000000
+      internalID: -7919135898592355314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c30f4074a802070800000000000000
+      internalID: 8079609769132833943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9cce95bdddb5b0800000000000000
+      internalID: -5350877010123252951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459a5278222496a0800000000000000
+      internalID: -6443487609747761854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ec08f727c00bb0800000000000000
+      internalID: -4971755014137781619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cd4dc53b5e2700800000000000000
+      internalID: 517451293830007242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 24
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753f7fb1096b6980800000000000000
+      internalID: -8544620411776715404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b609c8cf0b4aeea50800000000000000
+      internalID: 6552355587928920171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcc4fd7989145f0800000000000000
+      internalID: -774169882877179087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720c7382dc0cbf10800000000000000
+      internalID: 2286716809085977201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3bc0e8d9c533b0800000000000000
+      internalID: -5533294633833251563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaaf69e2de6bb730800000000000000
+      internalID: 4015925344869526178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 16
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dcc18a7bb210a70800000000000000
+      internalID: 8791356015403388283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 13
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52b982ecec6e390800000000000000
+      internalID: -7789311120650852884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d68847914a49f580800000000000000
+      internalID: -8792915151892740400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a380350367bc330800000000000000
+      internalID: 3732206666130143813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3183de872fa9770800000000000000
+      internalID: 8618467438116738007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 5
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76434bea422be5ba0800000000000000
+      internalID: -6098240974793460633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 16
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b0251048d7e8b0800000000000000
+      internalID: -5122888281366679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eefd97e28ca7600800000000000000
+      internalID: 466905613325037210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 16
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90649003df9ca8e20800000000000000
+      internalID: 3353714961800578569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 8
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c3b816cb0796c10800000000000000
+      internalID: 2047291460009278607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615826a0be4bd9290800000000000000
+      internalID: -7881944851243956970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9021f2da1bd4a81e0800000000000000
+      internalID: -2194856442879602167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90f84fe3a63b220800000000000000
+      internalID: 2500459036744288757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 13
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886a5f6f4b9c3720800000000000000
+      internalID: 2827305431554746510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99479aee8576a6c90800000000000000
+      internalID: -7175809424602598247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f28330dafb77380800000000000000
+      internalID: -8973492982708162774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8f091db8a34830800000000000000
+      internalID: 4054269619686313048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea0b5b527ac6cc0800000000000000
+      internalID: -3716411812083618181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02fec2d930a1a7f0800000000000000
+      internalID: -603024704880578035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d1a65c62cff05a0800000000000000
+      internalID: -6552741689349759737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abde2770f0fecdf40800000000000000
+      internalID: 5754737271701171642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c77f875a8fce5370800000000000000
+      internalID: 8313310155253970886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e3f96e110003f0800000000000000
+      internalID: -936747492354825436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6049d2e1d3f62f0800000000000000
+      internalID: -977495394293119301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730aeb75668285be0800000000000000
+      internalID: -1488395256822063049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aa7e31a147dc640800000000000000
+      internalID: 5101861608232561245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprinkler_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e85e852d7c88ad0800000000000000
+      internalID: -2699688270360113579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprinkler_16x16_0: 9024056082792500691
+      Sprinkler_16x16_1: -6390389678369891953
+      Sprinkler_16x16_10: -5878379533287536522
+      Sprinkler_16x16_100: 6152532675361283357
+      Sprinkler_16x16_101: 3638118156044129204
+      Sprinkler_16x16_102: -8102502750712848500
+      Sprinkler_16x16_103: -765871008966363262
+      Sprinkler_16x16_104: 5511515400067931496
+      Sprinkler_16x16_105: 6097438823350486250
+      Sprinkler_16x16_106: -7025159076441455350
+      Sprinkler_16x16_107: 5876123933780507745
+      Sprinkler_16x16_108: -8392605460266453068
+      Sprinkler_16x16_109: 5117052940199321070
+      Sprinkler_16x16_11: -5156440452893093287
+      Sprinkler_16x16_110: -262486201054175315
+      Sprinkler_16x16_111: -2551956590709225735
+      Sprinkler_16x16_112: 2211832143539335372
+      Sprinkler_16x16_113: -2834391513655543025
+      Sprinkler_16x16_114: 2181026665613718737
+      Sprinkler_16x16_115: 8188446982979989484
+      Sprinkler_16x16_116: -6212249447579584531
+      Sprinkler_16x16_117: 7363021335844057876
+      Sprinkler_16x16_118: -4452972954419636320
+      Sprinkler_16x16_119: -8611847801948847318
+      Sprinkler_16x16_12: 5325772196244540998
+      Sprinkler_16x16_120: -8485629920445594435
+      Sprinkler_16x16_121: -6846623970715608840
+      Sprinkler_16x16_122: 1227329848103125851
+      Sprinkler_16x16_123: -289338893882689598
+      Sprinkler_16x16_124: 7342499584995801969
+      Sprinkler_16x16_125: 6967822218859164410
+      Sprinkler_16x16_126: -3532565242775638438
+      Sprinkler_16x16_127: 2748691159326871628
+      Sprinkler_16x16_128: 5505508731213751428
+      Sprinkler_16x16_129: 4125499382179422778
+      Sprinkler_16x16_13: -7089416299109690401
+      Sprinkler_16x16_130: -4216326387732208097
+      Sprinkler_16x16_131: 5388386755917738301
+      Sprinkler_16x16_132: 7169489569217510789
+      Sprinkler_16x16_133: 3040270355055875912
+      Sprinkler_16x16_134: 3356945165871181421
+      Sprinkler_16x16_135: 2393510559637370743
+      Sprinkler_16x16_136: -57929779758924276
+      Sprinkler_16x16_137: -8810558143028429740
+      Sprinkler_16x16_138: 6577552042974492834
+      Sprinkler_16x16_139: -7919135898592355314
+      Sprinkler_16x16_14: -3821825753891460257
+      Sprinkler_16x16_140: 8079609769132833943
+      Sprinkler_16x16_141: -5350877010123252951
+      Sprinkler_16x16_142: -6443487609747761854
+      Sprinkler_16x16_143: -4971755014137781619
+      Sprinkler_16x16_144: 517451293830007242
+      Sprinkler_16x16_145: -8544620411776715404
+      Sprinkler_16x16_146: 6552355587928920171
+      Sprinkler_16x16_147: -774169882877179087
+      Sprinkler_16x16_148: 2286716809085977201
+      Sprinkler_16x16_149: -5533294633833251563
+      Sprinkler_16x16_15: -8437304261028092695
+      Sprinkler_16x16_150: 4015925344869526178
+      Sprinkler_16x16_151: 8791356015403388283
+      Sprinkler_16x16_152: -7789311120650852884
+      Sprinkler_16x16_153: -8792915151892740400
+      Sprinkler_16x16_154: 3732206666130143813
+      Sprinkler_16x16_155: 8618467438116738007
+      Sprinkler_16x16_156: -6098240974793460633
+      Sprinkler_16x16_157: -5122888281366679378
+      Sprinkler_16x16_158: 466905613325037210
+      Sprinkler_16x16_159: 3353714961800578569
+      Sprinkler_16x16_16: 3636025271900284888
+      Sprinkler_16x16_160: 2047291460009278607
+      Sprinkler_16x16_161: -7881944851243956970
+      Sprinkler_16x16_162: -2194856442879602167
+      Sprinkler_16x16_163: 2500459036744288757
+      Sprinkler_16x16_164: 2827305431554746510
+      Sprinkler_16x16_165: -7175809424602598247
+      Sprinkler_16x16_166: -8973492982708162774
+      Sprinkler_16x16_167: 4054269619686313048
+      Sprinkler_16x16_168: -3716411812083618181
+      Sprinkler_16x16_169: -603024704880578035
+      Sprinkler_16x16_17: 7114958379273177413
+      Sprinkler_16x16_170: -6552741689349759737
+      Sprinkler_16x16_171: 5754737271701171642
+      Sprinkler_16x16_172: 8313310155253970886
+      Sprinkler_16x16_173: -936747492354825436
+      Sprinkler_16x16_174: -977495394293119301
+      Sprinkler_16x16_175: -1488395256822063049
+      Sprinkler_16x16_176: 5101861608232561245
+      Sprinkler_16x16_177: -2699688270360113579
+      Sprinkler_16x16_18: 6552036826393627379
+      Sprinkler_16x16_19: -6571623846560985692
+      Sprinkler_16x16_2: 7657973206326617510
+      Sprinkler_16x16_20: -3364309474646695203
+      Sprinkler_16x16_21: -6668069227226330580
+      Sprinkler_16x16_22: 7728486316391560468
+      Sprinkler_16x16_23: 3772296485990357599
+      Sprinkler_16x16_24: -2344413339889317863
+      Sprinkler_16x16_25: -581702750033699036
+      Sprinkler_16x16_26: 4014826628852681854
+      Sprinkler_16x16_27: -2518629950892974933
+      Sprinkler_16x16_28: 3048000621752193826
+      Sprinkler_16x16_29: 2532567349358630002
+      Sprinkler_16x16_3: 178698899234888445
+      Sprinkler_16x16_30: -3638536502016793372
+      Sprinkler_16x16_31: 7753691918188798110
+      Sprinkler_16x16_32: 5569242646508937602
+      Sprinkler_16x16_33: 5073479657186102309
+      Sprinkler_16x16_34: 1772264520080851102
+      Sprinkler_16x16_35: 2939445360985070183
+      Sprinkler_16x16_36: 4041811145450212969
+      Sprinkler_16x16_37: 3239875421515919555
+      Sprinkler_16x16_38: -2272771497433274318
+      Sprinkler_16x16_39: -1137546096301320483
+      Sprinkler_16x16_4: 3220130612209092220
+      Sprinkler_16x16_40: -5930354227861640711
+      Sprinkler_16x16_41: 1601193369832069174
+      Sprinkler_16x16_42: 3003733629816562687
+      Sprinkler_16x16_43: -2476017256707361714
+      Sprinkler_16x16_44: -9012501535832747337
+      Sprinkler_16x16_45: 3335927101734020406
+      Sprinkler_16x16_46: -5377970025333429907
+      Sprinkler_16x16_47: -2696938101898628295
+      Sprinkler_16x16_48: 1090332181988787495
+      Sprinkler_16x16_49: 6599414909965505108
+      Sprinkler_16x16_5: -2046039218849437018
+      Sprinkler_16x16_50: 6441453185248989184
+      Sprinkler_16x16_51: 7595394834637212875
+      Sprinkler_16x16_52: -2885729575561746730
+      Sprinkler_16x16_53: 3082687785548846053
+      Sprinkler_16x16_54: -9059091809565266261
+      Sprinkler_16x16_55: 3700541640821224854
+      Sprinkler_16x16_56: -1306539038809682407
+      Sprinkler_16x16_57: -1507924292698280044
+      Sprinkler_16x16_58: -3450760103546544611
+      Sprinkler_16x16_59: 8475887486826224687
+      Sprinkler_16x16_6: -5391739093581552952
+      Sprinkler_16x16_60: 756607544668016429
+      Sprinkler_16x16_61: -8487817724127283475
+      Sprinkler_16x16_62: -4160694724484950526
+      Sprinkler_16x16_63: -5763091007846135100
+      Sprinkler_16x16_64: 2692849373627034506
+      Sprinkler_16x16_65: -7957083357136787950
+      Sprinkler_16x16_66: 5289675485229215696
+      Sprinkler_16x16_67: -4826606562661297755
+      Sprinkler_16x16_68: 4573190314962167944
+      Sprinkler_16x16_69: -7064249477282508770
+      Sprinkler_16x16_7: -1910840257422899575
+      Sprinkler_16x16_70: -378992846175347100
+      Sprinkler_16x16_71: 1032981946545467271
+      Sprinkler_16x16_72: -2150085707961463642
+      Sprinkler_16x16_73: -996121738488368983
+      Sprinkler_16x16_74: 2343448124987073435
+      Sprinkler_16x16_75: 6875588801794771072
+      Sprinkler_16x16_76: 8685379247603204289
+      Sprinkler_16x16_77: 4991003466236000075
+      Sprinkler_16x16_78: 1838599379590614857
+      Sprinkler_16x16_79: 6378399570114105714
+      Sprinkler_16x16_8: 790003004503012678
+      Sprinkler_16x16_80: -7553529580035281296
+      Sprinkler_16x16_81: -2063093061368812652
+      Sprinkler_16x16_82: -2062927215831072823
+      Sprinkler_16x16_83: 8821586402372609055
+      Sprinkler_16x16_84: 3188860602134496851
+      Sprinkler_16x16_85: -981043262078812336
+      Sprinkler_16x16_86: 5565650138152893156
+      Sprinkler_16x16_87: -1554421031226788608
+      Sprinkler_16x16_88: 6402353125320939553
+      Sprinkler_16x16_89: -6401909944991261144
+      Sprinkler_16x16_9: 4873349453900784461
+      Sprinkler_16x16_90: 4655849808679335308
+      Sprinkler_16x16_91: -150678039119025519
+      Sprinkler_16x16_92: 9030256555014907840
+      Sprinkler_16x16_93: 4714322766177443846
+      Sprinkler_16x16_94: -4186766724977266668
+      Sprinkler_16x16_95: -6188929196260638534
+      Sprinkler_16x16_96: 2129055198961348712
+      Sprinkler_16x16_97: -1519480434976947061
+      Sprinkler_16x16_98: 4446154524215392670
+      Sprinkler_16x16_99: -3974248723071235421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

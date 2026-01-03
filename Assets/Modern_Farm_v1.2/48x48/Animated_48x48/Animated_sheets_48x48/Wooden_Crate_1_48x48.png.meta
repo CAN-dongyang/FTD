@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: afacbd82160c11f4ab948ec72d7fea09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4936247453425703860
+    second: Wooden_Crate_1_48x48_0
+  - first:
+      213: -8016881100938454377
+    second: Wooden_Crate_1_48x48_1
+  - first:
+      213: 6875306701196212966
+    second: Wooden_Crate_1_48x48_2
+  - first:
+      213: 7496820640699171169
+    second: Wooden_Crate_1_48x48_3
+  - first:
+      213: -8363149692858648545
+    second: Wooden_Crate_1_48x48_4
+  - first:
+      213: -2089610830177692993
+    second: Wooden_Crate_1_48x48_5
+  - first:
+      213: 7896256445831809891
+    second: Wooden_Crate_1_48x48_6
+  - first:
+      213: 7335325294402516542
+    second: Wooden_Crate_1_48x48_7
+  - first:
+      213: -993566517704951331
+    second: Wooden_Crate_1_48x48_8
+  - first:
+      213: -2217920116205319324
+    second: Wooden_Crate_1_48x48_9
+  - first:
+      213: -8501094172985837604
+    second: Wooden_Crate_1_48x48_10
+  - first:
+      213: -2801601960387603959
+    second: Wooden_Crate_1_48x48_11
+  - first:
+      213: 8104939016027619524
+    second: Wooden_Crate_1_48x48_12
+  - first:
+      213: 396139599641790521
+    second: Wooden_Crate_1_48x48_13
+  - first:
+      213: -1921735925911195842
+    second: Wooden_Crate_1_48x48_14
+  - first:
+      213: -4583847040160719035
+    second: Wooden_Crate_1_48x48_15
+  - first:
+      213: -5800246842060499282
+    second: Wooden_Crate_1_48x48_16
+  - first:
+      213: 2632296640822856700
+    second: Wooden_Crate_1_48x48_17
+  - first:
+      213: -8706052171506120539
+    second: Wooden_Crate_1_48x48_18
+  - first:
+      213: 7944117652016628709
+    second: Wooden_Crate_1_48x48_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44622f281dee7bb0800000000000000
+      internalID: -4936247453425703860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a550c2d115eb090800000000000000
+      internalID: -8016881100938454377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eab9ae840ff96f50800000000000000
+      internalID: 6875306701196212966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c0b127ae0a0860800000000000000
+      internalID: 7496820640699171169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183eb90aaf10fb80800000000000000
+      internalID: -8363149692858648545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2137c65063003e0800000000000000
+      internalID: -2089610830177692993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b813db663259d60800000000000000
+      internalID: 7896256445831809891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36bcc4bd7f4cc560800000000000000
+      internalID: 7335325294402516542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9797b24842632f0800000000000000
+      internalID: -993566517704951331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8365c76d5831e0800000000000000
+      internalID: -2217920116205319324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd73901f3eb060a80800000000000000
+      internalID: -8501094172985837604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9021f0d4cd5be19d0800000000000000
+      internalID: -2801601960387603959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c780e7178a7070800000000000000
+      internalID: 8104939016027619524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9384d16fdde5f7500800000000000000
+      internalID: 396139599641790521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe4ff6b5f9455e0800000000000000
+      internalID: -1921735925911195842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9e7a3767e260c0800000000000000
+      internalID: -4583847040160719035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea617696a32618fa0800000000000000
+      internalID: -5800246842060499282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb43bb29dbc78420800000000000000
+      internalID: 2632296640822856700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80c593da3ed2780800000000000000
+      internalID: -8706052171506120539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_1_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38c5e2aec2f3e60800000000000000
+      internalID: 7944117652016628709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wooden_Crate_1_48x48_0: -4936247453425703860
+      Wooden_Crate_1_48x48_1: -8016881100938454377
+      Wooden_Crate_1_48x48_10: -8501094172985837604
+      Wooden_Crate_1_48x48_11: -2801601960387603959
+      Wooden_Crate_1_48x48_12: 8104939016027619524
+      Wooden_Crate_1_48x48_13: 396139599641790521
+      Wooden_Crate_1_48x48_14: -1921735925911195842
+      Wooden_Crate_1_48x48_15: -4583847040160719035
+      Wooden_Crate_1_48x48_16: -5800246842060499282
+      Wooden_Crate_1_48x48_17: 2632296640822856700
+      Wooden_Crate_1_48x48_18: -8706052171506120539
+      Wooden_Crate_1_48x48_19: 7944117652016628709
+      Wooden_Crate_1_48x48_2: 6875306701196212966
+      Wooden_Crate_1_48x48_3: 7496820640699171169
+      Wooden_Crate_1_48x48_4: -8363149692858648545
+      Wooden_Crate_1_48x48_5: -2089610830177692993
+      Wooden_Crate_1_48x48_6: 7896256445831809891
+      Wooden_Crate_1_48x48_7: 7335325294402516542
+      Wooden_Crate_1_48x48_8: -993566517704951331
+      Wooden_Crate_1_48x48_9: -2217920116205319324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

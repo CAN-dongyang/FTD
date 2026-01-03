@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 4355c4d097e42ea4997547709c34c337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3315611536685961589
+    second: Dog_Shepherd_16x16_0
+  - first:
+      213: 642172819609092724
+    second: Dog_Shepherd_16x16_1
+  - first:
+      213: 2466192620248095069
+    second: Dog_Shepherd_16x16_2
+  - first:
+      213: 4815154387236337090
+    second: Dog_Shepherd_16x16_3
+  - first:
+      213: 6202524039065005657
+    second: Dog_Shepherd_16x16_4
+  - first:
+      213: 1402426139355531004
+    second: Dog_Shepherd_16x16_5
+  - first:
+      213: -7208736412259355595
+    second: Dog_Shepherd_16x16_6
+  - first:
+      213: -3548603770475945692
+    second: Dog_Shepherd_16x16_7
+  - first:
+      213: -4345579919132947025
+    second: Dog_Shepherd_16x16_8
+  - first:
+      213: -53474323229906556
+    second: Dog_Shepherd_16x16_9
+  - first:
+      213: 3815480398712317919
+    second: Dog_Shepherd_16x16_10
+  - first:
+      213: -1119274871770170674
+    second: Dog_Shepherd_16x16_11
+  - first:
+      213: -4468057699677745344
+    second: Dog_Shepherd_16x16_12
+  - first:
+      213: 1313054781634926800
+    second: Dog_Shepherd_16x16_13
+  - first:
+      213: 7514324974547304721
+    second: Dog_Shepherd_16x16_14
+  - first:
+      213: -7999500647061592716
+    second: Dog_Shepherd_16x16_15
+  - first:
+      213: 2609253739067219784
+    second: Dog_Shepherd_16x16_16
+  - first:
+      213: 5930644708674301699
+    second: Dog_Shepherd_16x16_17
+  - first:
+      213: -2315500802066718808
+    second: Dog_Shepherd_16x16_18
+  - first:
+      213: -2476085945656367599
+    second: Dog_Shepherd_16x16_19
+  - first:
+      213: 2591471207404373186
+    second: Dog_Shepherd_16x16_20
+  - first:
+      213: -115681717310847939
+    second: Dog_Shepherd_16x16_21
+  - first:
+      213: -1309694512049713451
+    second: Dog_Shepherd_16x16_22
+  - first:
+      213: 4153262307548234741
+    second: Dog_Shepherd_16x16_23
+  - first:
+      213: 2499069270010566920
+    second: Dog_Shepherd_16x16_24
+  - first:
+      213: 7602457430157586726
+    second: Dog_Shepherd_16x16_25
+  - first:
+      213: -8683016242691125145
+    second: Dog_Shepherd_16x16_26
+  - first:
+      213: 5498830624671921731
+    second: Dog_Shepherd_16x16_27
+  - first:
+      213: -9037694611812604246
+    second: Dog_Shepherd_16x16_28
+  - first:
+      213: -2557963699432796044
+    second: Dog_Shepherd_16x16_29
+  - first:
+      213: 1515112900151320632
+    second: Dog_Shepherd_16x16_30
+  - first:
+      213: 4397056048342545213
+    second: Dog_Shepherd_16x16_31
+  - first:
+      213: 3603217420149178210
+    second: Dog_Shepherd_16x16_32
+  - first:
+      213: 2514063128630607879
+    second: Dog_Shepherd_16x16_33
+  - first:
+      213: -5205336812758573828
+    second: Dog_Shepherd_16x16_34
+  - first:
+      213: -835999113089802835
+    second: Dog_Shepherd_16x16_35
+  - first:
+      213: 6987611074590558656
+    second: Dog_Shepherd_16x16_36
+  - first:
+      213: -7845056546652860664
+    second: Dog_Shepherd_16x16_37
+  - first:
+      213: -8175715643639884749
+    second: Dog_Shepherd_16x16_38
+  - first:
+      213: -8989998396524863610
+    second: Dog_Shepherd_16x16_39
+  - first:
+      213: -3845634036549250254
+    second: Dog_Shepherd_16x16_40
+  - first:
+      213: 5594943104303553195
+    second: Dog_Shepherd_16x16_41
+  - first:
+      213: -9189951549488368473
+    second: Dog_Shepherd_16x16_42
+  - first:
+      213: -6068790159058252729
+    second: Dog_Shepherd_16x16_43
+  - first:
+      213: 6627278545273611965
+    second: Dog_Shepherd_16x16_44
+  - first:
+      213: -1359877361195764052
+    second: Dog_Shepherd_16x16_45
+  - first:
+      213: 6759010459989323355
+    second: Dog_Shepherd_16x16_46
+  - first:
+      213: -5514815624398331098
+    second: Dog_Shepherd_16x16_47
+  - first:
+      213: 881446137137137750
+    second: Dog_Shepherd_16x16_48
+  - first:
+      213: -5393885298119662042
+    second: Dog_Shepherd_16x16_49
+  - first:
+      213: 1513971127200433249
+    second: Dog_Shepherd_16x16_50
+  - first:
+      213: -8689736239859177302
+    second: Dog_Shepherd_16x16_51
+  - first:
+      213: -7206449299193823977
+    second: Dog_Shepherd_16x16_52
+  - first:
+      213: 4909268783291204219
+    second: Dog_Shepherd_16x16_53
+  - first:
+      213: -6770273730805043951
+    second: Dog_Shepherd_16x16_54
+  - first:
+      213: -567967241921418634
+    second: Dog_Shepherd_16x16_55
+  - first:
+      213: 2886050803323777995
+    second: Dog_Shepherd_16x16_56
+  - first:
+      213: 5987487956844720066
+    second: Dog_Shepherd_16x16_57
+  - first:
+      213: 5167434013001105924
+    second: Dog_Shepherd_16x16_58
+  - first:
+      213: 9159300817348691837
+    second: Dog_Shepherd_16x16_59
+  - first:
+      213: 9007988604495576768
+    second: Dog_Shepherd_16x16_60
+  - first:
+      213: 427852219790754757
+    second: Dog_Shepherd_16x16_61
+  - first:
+      213: -618021387946208410
+    second: Dog_Shepherd_16x16_62
+  - first:
+      213: 7778510702408999574
+    second: Dog_Shepherd_16x16_63
+  - first:
+      213: 3739190225943039806
+    second: Dog_Shepherd_16x16_64
+  - first:
+      213: 6343482314302977546
+    second: Dog_Shepherd_16x16_65
+  - first:
+      213: 7460831852899946100
+    second: Dog_Shepherd_16x16_66
+  - first:
+      213: -6267558852774035031
+    second: Dog_Shepherd_16x16_67
+  - first:
+      213: 6596370732754321839
+    second: Dog_Shepherd_16x16_68
+  - first:
+      213: 3365672899197042197
+    second: Dog_Shepherd_16x16_69
+  - first:
+      213: 4740031512081624711
+    second: Dog_Shepherd_16x16_70
+  - first:
+      213: -8399188070441601584
+    second: Dog_Shepherd_16x16_71
+  - first:
+      213: -8023130782807240758
+    second: Dog_Shepherd_16x16_72
+  - first:
+      213: 5034449239712531790
+    second: Dog_Shepherd_16x16_73
+  - first:
+      213: 4072740272275119923
+    second: Dog_Shepherd_16x16_74
+  - first:
+      213: -3696118215752238779
+    second: Dog_Shepherd_16x16_75
+  - first:
+      213: 4058520740604829352
+    second: Dog_Shepherd_16x16_76
+  - first:
+      213: -3810156438643239113
+    second: Dog_Shepherd_16x16_77
+  - first:
+      213: -8429497214072247573
+    second: Dog_Shepherd_16x16_78
+  - first:
+      213: -6223179061175963549
+    second: Dog_Shepherd_16x16_79
+  - first:
+      213: 4557727233400015121
+    second: Dog_Shepherd_16x16_80
+  - first:
+      213: 5553316523529154538
+    second: Dog_Shepherd_16x16_81
+  - first:
+      213: -74824515502860534
+    second: Dog_Shepherd_16x16_82
+  - first:
+      213: -110848227410818006
+    second: Dog_Shepherd_16x16_83
+  - first:
+      213: 4785738497682137911
+    second: Dog_Shepherd_16x16_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5719a51302b630e20800000000000000
+      internalID: 3315611536685961589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472063de6c479e800800000000000000
+      internalID: 642172819609092724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 151
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d3952f1da93220800000000000000
+      internalID: 2466192620248095069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 153
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b2e5476dd2d240800000000000000
+      internalID: 4815154387236337090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6a4b40cac31650800000000000000
+      internalID: 6202524039065005657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64204b42b667310800000000000000
+      internalID: 1402426139355531004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5347bd33d6c65fb90800000000000000
+      internalID: -7208736412259355595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4216b2c0ca3d0cec0800000000000000
+      internalID: -3548603770475945692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad8201661661b3c0800000000000000
+      internalID: -4345579919132947025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 143
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e647e265024ff0800000000000000
+      internalID: -53474323229906556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a6b4153f43f430800000000000000
+      internalID: 3815480398712317919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca3e1e2f698770f0800000000000000
+      internalID: -1119274871770170674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f42c6e1354ef1c0800000000000000
+      internalID: -4468057699677745344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85af5fd58e83210800000000000000
+      internalID: 1313054781634926800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110db270ce384860800000000000000
+      internalID: 7514324974547304721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475e26f6b801cf090800000000000000
+      internalID: -7999500647061592716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 105
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f16f5837ee53420800000000000000
+      internalID: 2609253739067219784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 105
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fe49dc0f1ed4250800000000000000
+      internalID: 5930644708674301699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5eafd940bddfd0800000000000000
+      internalID: -2315500802066718808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a0d783fc23add0800000000000000
+      internalID: -2476085945656367599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48dfa3551c6f320800000000000000
+      internalID: 2591471207404373186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d340eac4714056ef0800000000000000
+      internalID: -115681717310847939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8ff4c7c703dde0800000000000000
+      internalID: -1309694512049713451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38e64501a53a930800000000000000
+      internalID: 4153262307548234741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809131ca24a7ea220800000000000000
+      internalID: 2499069270010566920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 105
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217290d0ca518960800000000000000
+      internalID: 7602457430157586726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 105
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760d27b5bbabf7780800000000000000
+      internalID: -8683016242691125145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 105
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346fb9fa155cf4c40800000000000000
+      internalID: 5498830624671921731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 105
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a27262a8a39280800000000000000
+      internalID: -9037694611812604246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 105
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470d6fa6199408cd0800000000000000
+      internalID: -2557963699432796044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 105
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830a120c723c60510800000000000000
+      internalID: 1515112900151320632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b0faed2b750d30800000000000000
+      internalID: 4397056048342545213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbd782723310230800000000000000
+      internalID: 3603217420149178210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7004fec681fb3e220800000000000000
+      internalID: 2514063128630607879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd2437fbde2c7b0800000000000000
+      internalID: -5205336812758573828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad9db76c3fe564f0800000000000000
+      internalID: -835999113089802835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c94e89104bf8f060800000000000000
+      internalID: 6987611074590558656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f47edb2a2c02390800000000000000
+      internalID: -7845056546652860664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 57
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3349d3c50f50a8e80800000000000000
+      internalID: -8175715643639884749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fddc3e61c1d3380800000000000000
+      internalID: -8989998396524863610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 57
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339453083091aac0800000000000000
+      internalID: -3845634036549250254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 57
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad88e2c1b35ad40800000000000000
+      internalID: 5594943104303553195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 57
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f1b591cbb67080800000000000000
+      internalID: -9189951549488368473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 55
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c42f0118357cba0800000000000000
+      internalID: -6068790159058252729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6e99e59b2d8fb50800000000000000
+      internalID: 6627278545273611965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 54
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6b4d3bebeb02de0800000000000000
+      internalID: -1359877361195764052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 55
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e20dcd334dccd50800000000000000
+      internalID: 6759010459989323355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 55
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623a6f988607773b0800000000000000
+      internalID: -5514815624398331098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 54
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65803b477968b3c00800000000000000
+      internalID: 881446137137137750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 57
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626206e36e11525b0800000000000000
+      internalID: -5393885298119662042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 57
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164caf408b4b20510800000000000000
+      internalID: 1513971127200433249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 57
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ea571eead76780800000000000000
+      internalID: -8689736239859177302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 57
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d70b53b8c8dfb90800000000000000
+      internalID: -7206449299193823977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 57
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b728cfea2f9312440800000000000000
+      internalID: 4909268783291204219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 57
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de43b89e72b02a0800000000000000
+      internalID: -6770273730805043951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 54
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a273d7dcc2e18f0800000000000000
+      internalID: -567967241921418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 54
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc338d72aef4d0820800000000000000
+      internalID: 2886050803323777995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 53
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa8acd294d71350800000000000000
+      internalID: 5987487956844720066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 54
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c3394bd966b740800000000000000
+      internalID: 5167434013001105924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 54
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778309b09f5c1f70800000000000000
+      internalID: 9159300817348691837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 53
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb9bfc8edc20d70800000000000000
+      internalID: 9007988604495576768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38df8b35900f500800000000000000
+      internalID: 427852219790754757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635fd372d85c67f0800000000000000
+      internalID: -618021387946208410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692a9a28542d2fb60800000000000000
+      internalID: 7778510702408999574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 9
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f82fc03b544e330800000000000000
+      internalID: 3739190225943039806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 9
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06700f3e83980850800000000000000
+      internalID: 6343482314302977546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 9
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e45018a033a8760800000000000000
+      internalID: 7460831852899946100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18c8b2e682509a0800000000000000
+      internalID: -6267558852774035031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 7
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1ca9c7b340b8b50800000000000000
+      internalID: 6596370732754321839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 7
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e7cc27ba545be20800000000000000
+      internalID: 3365672899197042197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e68c5eb89f7c140800000000000000
+      internalID: 4740031512081624711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 7
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d531a363f6107b80800000000000000
+      internalID: -8399188070441601584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 7
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfc548bf0d18a090800000000000000
+      internalID: -8023130782807240758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 9
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e450dcce8e4fdd540800000000000000
+      internalID: 5034449239712531790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd26703b7458830800000000000000
+      internalID: 4072740272275119923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549bc3ec010c4bcc0800000000000000
+      internalID: -3696118215752238779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae5e415c13c25830800000000000000
+      internalID: 4058520740604829352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 9
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7379008f7ea9f1bc0800000000000000
+      internalID: -3810156438643239113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 9
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2418f1f8640b80800000000000000
+      internalID: -8429497214072247573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36035fc9d93d2a9a0800000000000000
+      internalID: -6223179061175963549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 6
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198ee955cc404f30800000000000000
+      internalID: 4557727233400015121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 6
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef234694f7511d40800000000000000
+      internalID: 5553316523529154538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 6
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0716f4ef7b26fef0800000000000000
+      internalID: -74824515502860534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c423ddf10367ef0800000000000000
+      internalID: -110848227410818006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Shepherd_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7336146cecb5a6240800000000000000
+      internalID: 4785738497682137911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dog_Shepherd_16x16_0: 3315611536685961589
+      Dog_Shepherd_16x16_1: 642172819609092724
+      Dog_Shepherd_16x16_10: 3815480398712317919
+      Dog_Shepherd_16x16_11: -1119274871770170674
+      Dog_Shepherd_16x16_12: -4468057699677745344
+      Dog_Shepherd_16x16_13: 1313054781634926800
+      Dog_Shepherd_16x16_14: 7514324974547304721
+      Dog_Shepherd_16x16_15: -7999500647061592716
+      Dog_Shepherd_16x16_16: 2609253739067219784
+      Dog_Shepherd_16x16_17: 5930644708674301699
+      Dog_Shepherd_16x16_18: -2315500802066718808
+      Dog_Shepherd_16x16_19: -2476085945656367599
+      Dog_Shepherd_16x16_2: 2466192620248095069
+      Dog_Shepherd_16x16_20: 2591471207404373186
+      Dog_Shepherd_16x16_21: -115681717310847939
+      Dog_Shepherd_16x16_22: -1309694512049713451
+      Dog_Shepherd_16x16_23: 4153262307548234741
+      Dog_Shepherd_16x16_24: 2499069270010566920
+      Dog_Shepherd_16x16_25: 7602457430157586726
+      Dog_Shepherd_16x16_26: -8683016242691125145
+      Dog_Shepherd_16x16_27: 5498830624671921731
+      Dog_Shepherd_16x16_28: -9037694611812604246
+      Dog_Shepherd_16x16_29: -2557963699432796044
+      Dog_Shepherd_16x16_3: 4815154387236337090
+      Dog_Shepherd_16x16_30: 1515112900151320632
+      Dog_Shepherd_16x16_31: 4397056048342545213
+      Dog_Shepherd_16x16_32: 3603217420149178210
+      Dog_Shepherd_16x16_33: 2514063128630607879
+      Dog_Shepherd_16x16_34: -5205336812758573828
+      Dog_Shepherd_16x16_35: -835999113089802835
+      Dog_Shepherd_16x16_36: 6987611074590558656
+      Dog_Shepherd_16x16_37: -7845056546652860664
+      Dog_Shepherd_16x16_38: -8175715643639884749
+      Dog_Shepherd_16x16_39: -8989998396524863610
+      Dog_Shepherd_16x16_4: 6202524039065005657
+      Dog_Shepherd_16x16_40: -3845634036549250254
+      Dog_Shepherd_16x16_41: 5594943104303553195
+      Dog_Shepherd_16x16_42: -9189951549488368473
+      Dog_Shepherd_16x16_43: -6068790159058252729
+      Dog_Shepherd_16x16_44: 6627278545273611965
+      Dog_Shepherd_16x16_45: -1359877361195764052
+      Dog_Shepherd_16x16_46: 6759010459989323355
+      Dog_Shepherd_16x16_47: -5514815624398331098
+      Dog_Shepherd_16x16_48: 881446137137137750
+      Dog_Shepherd_16x16_49: -5393885298119662042
+      Dog_Shepherd_16x16_5: 1402426139355531004
+      Dog_Shepherd_16x16_50: 1513971127200433249
+      Dog_Shepherd_16x16_51: -8689736239859177302
+      Dog_Shepherd_16x16_52: -7206449299193823977
+      Dog_Shepherd_16x16_53: 4909268783291204219
+      Dog_Shepherd_16x16_54: -6770273730805043951
+      Dog_Shepherd_16x16_55: -567967241921418634
+      Dog_Shepherd_16x16_56: 2886050803323777995
+      Dog_Shepherd_16x16_57: 5987487956844720066
+      Dog_Shepherd_16x16_58: 5167434013001105924
+      Dog_Shepherd_16x16_59: 9159300817348691837
+      Dog_Shepherd_16x16_6: -7208736412259355595
+      Dog_Shepherd_16x16_60: 9007988604495576768
+      Dog_Shepherd_16x16_61: 427852219790754757
+      Dog_Shepherd_16x16_62: -618021387946208410
+      Dog_Shepherd_16x16_63: 7778510702408999574
+      Dog_Shepherd_16x16_64: 3739190225943039806
+      Dog_Shepherd_16x16_65: 6343482314302977546
+      Dog_Shepherd_16x16_66: 7460831852899946100
+      Dog_Shepherd_16x16_67: -6267558852774035031
+      Dog_Shepherd_16x16_68: 6596370732754321839
+      Dog_Shepherd_16x16_69: 3365672899197042197
+      Dog_Shepherd_16x16_7: -3548603770475945692
+      Dog_Shepherd_16x16_70: 4740031512081624711
+      Dog_Shepherd_16x16_71: -8399188070441601584
+      Dog_Shepherd_16x16_72: -8023130782807240758
+      Dog_Shepherd_16x16_73: 5034449239712531790
+      Dog_Shepherd_16x16_74: 4072740272275119923
+      Dog_Shepherd_16x16_75: -3696118215752238779
+      Dog_Shepherd_16x16_76: 4058520740604829352
+      Dog_Shepherd_16x16_77: -3810156438643239113
+      Dog_Shepherd_16x16_78: -8429497214072247573
+      Dog_Shepherd_16x16_79: -6223179061175963549
+      Dog_Shepherd_16x16_8: -4345579919132947025
+      Dog_Shepherd_16x16_80: 4557727233400015121
+      Dog_Shepherd_16x16_81: 5553316523529154538
+      Dog_Shepherd_16x16_82: -74824515502860534
+      Dog_Shepherd_16x16_83: -110848227410818006
+      Dog_Shepherd_16x16_84: 4785738497682137911
+      Dog_Shepherd_16x16_9: -53474323229906556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

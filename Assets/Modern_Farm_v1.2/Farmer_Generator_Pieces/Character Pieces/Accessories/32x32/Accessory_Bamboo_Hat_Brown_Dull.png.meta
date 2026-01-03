@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 5264a7b83359bc740aab277c8a0463b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2898807429964414883
+    second: Accessory_Bamboo_Hat_Brown_Dull_0
+  - first:
+      213: -5636361918641973871
+    second: Accessory_Bamboo_Hat_Brown_Dull_1
+  - first:
+      213: 1734408646437933970
+    second: Accessory_Bamboo_Hat_Brown_Dull_2
+  - first:
+      213: -3254799063126713174
+    second: Accessory_Bamboo_Hat_Brown_Dull_3
+  - first:
+      213: -8690583674255514356
+    second: Accessory_Bamboo_Hat_Brown_Dull_4
+  - first:
+      213: -8561355560991640413
+    second: Accessory_Bamboo_Hat_Brown_Dull_5
+  - first:
+      213: -7793217032416532240
+    second: Accessory_Bamboo_Hat_Brown_Dull_6
+  - first:
+      213: 8194967614495785820
+    second: Accessory_Bamboo_Hat_Brown_Dull_7
+  - first:
+      213: 4744178450629081479
+    second: Accessory_Bamboo_Hat_Brown_Dull_8
+  - first:
+      213: 4878328268170116752
+    second: Accessory_Bamboo_Hat_Brown_Dull_9
+  - first:
+      213: 3743441372851097600
+    second: Accessory_Bamboo_Hat_Brown_Dull_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afba4fbff1aa3820800000000000000
+      internalID: 2898807429964414883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 769
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955ecd92be97c1b0800000000000000
+      internalID: -5636361918641973871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 769
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2939c42897bd11810800000000000000
+      internalID: 1734408646437933970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 1153
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacde0b2f71a4d2d0800000000000000
+      internalID: -3254799063126713174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 1153
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e0356138d46780800000000000000
+      internalID: -8690583674255514356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 1792
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4374f2a74ff2980800000000000000
+      internalID: -8561355560991640413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 1281
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e945366ee8d390800000000000000
+      internalID: -7793217032416532240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 1153
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530ad760af5ab170800000000000000
+      internalID: 8194967614495785820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 769
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893fc44a25b6d140800000000000000
+      internalID: 4744178450629081479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 257
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb602a6bd43b340800000000000000
+      internalID: 4878328268170116752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_Bamboo_Hat_Brown_Dull_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 1153
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005a42581063f330800000000000000
+      internalID: 3743441372851097600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_Bamboo_Hat_Brown_Dull_0: 2898807429964414883
+      Accessory_Bamboo_Hat_Brown_Dull_1: -5636361918641973871
+      Accessory_Bamboo_Hat_Brown_Dull_10: 3743441372851097600
+      Accessory_Bamboo_Hat_Brown_Dull_2: 1734408646437933970
+      Accessory_Bamboo_Hat_Brown_Dull_3: -3254799063126713174
+      Accessory_Bamboo_Hat_Brown_Dull_4: -8690583674255514356
+      Accessory_Bamboo_Hat_Brown_Dull_5: -8561355560991640413
+      Accessory_Bamboo_Hat_Brown_Dull_6: -7793217032416532240
+      Accessory_Bamboo_Hat_Brown_Dull_7: 8194967614495785820
+      Accessory_Bamboo_Hat_Brown_Dull_8: 4744178450629081479
+      Accessory_Bamboo_Hat_Brown_Dull_9: 4878328268170116752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

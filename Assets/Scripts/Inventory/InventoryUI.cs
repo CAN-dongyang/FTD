@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI; // Button을 사용하기 위해 추가
 
-public class InventoryUI : UI_Base
+public class InventoryUI : MonoBehaviour
 {
     public Transform itemsParent;
     public GameObject inventoryUI;
@@ -24,10 +24,8 @@ public class InventoryUI : UI_Base
     Inventory inventory;
     InventorySlot[] slots;
 
-    protected override void Start()
+    protected void Start()
     {
-        base.Start();
-
         inventory = Inventory.instance;
         inventory.onItemChangedCallback += UpdateUI;
 

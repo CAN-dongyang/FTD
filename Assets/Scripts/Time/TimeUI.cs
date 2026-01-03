@@ -1,23 +1,13 @@
 using UnityEngine;
-using Unity.Entities;
 using TMPro;
 
 public class TimeUI : MonoBehaviour
 {
 	[SerializeField] private TextMeshProUGUI timeText;
-	private EntityManager entityManager;
-	private Entity timeEntity;
 
-	void Start()
+	void LateUpdate()
 	{
-		entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
-		timeEntity = entityManager.CreateEntityQuery(typeof(GameTime)).GetSingletonEntity();
-	}
-
-	void Update()
-	{
-		// GameTimeComponent 데이터를 timeEntity로부터 가져옵니다.
-		GameTime time = entityManager.GetComponentData<GameTime>(timeEntity);
+		var time = GameData.Time;
 
 		int hour = time.Hour;
 		string timePeriod;

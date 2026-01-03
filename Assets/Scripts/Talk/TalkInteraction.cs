@@ -7,11 +7,11 @@ public class TalkInteraction : MonoBehaviour
     private Transform playerTransform;
 
     // Input Actions 자동 생성 클래스
-    private InputActions inputActions; 
+    //private InputActions inputActions; 
 
     private void Awake()
     {
-        inputActions = new InputActions();
+        //inputActions = new InputActions();
         playerTransform = transform;
     }
 
@@ -19,14 +19,14 @@ public class TalkInteraction : MonoBehaviour
     {
         // [중요] 에디터에서 설정한 'Player' 맵의 'Interact' 액션을 연결합니다.
         // 키가 E로 설정되어 있다면, E를 누를 때 이 함수가 실행됩니다.
-        inputActions.Player.Interact.performed += OnInteractPerformed;
-        inputActions.Player.Enable();
+        //inputActions.Player.Interact.performed += OnInteractPerformed;
+        //inputActions.Player.Enable();
     }
 
     private void OnDisable()
     {
-        inputActions.Player.Interact.performed -= OnInteractPerformed;
-        inputActions.Player.Disable();
+        //inputActions.Player.Interact.performed -= OnInteractPerformed;
+        //inputActions.Player.Disable();
     }
     
     // E키가 눌렸을 때 실행되는 함수

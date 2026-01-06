@@ -7,6 +7,7 @@ public class School : MonoBehaviour
 	[SerializeField] private Grid _schoolGrid;
 
 	public SchoolData Data => _data;
+	public Grid Grid => _schoolGrid;
 
 	public static School Instance { get; private set; }
 	private void Awake() => Instance = this;

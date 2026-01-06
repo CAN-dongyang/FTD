@@ -17,15 +17,18 @@ public class SchoolUIControl : UIView
 	public struct TabMenu { public MENU key; public UIView view; public Button button; }
 	[SerializeField] private List<TabMenu> _menus;
 	
-	private MENU _nowMenu = MENU.INFO;
+	public MENU NowMenu { get; private set; } = MENU.INFO;
 	public void SelectMenu(MENU key)
 	{
-		if(_nowMenu == key) return;
-
 		_menus.ForEach(m => m.view.ActivateUI(m.key == key));
-		_nowMenu = key;
+		NowMenu = key;
 	}
 
+	protected override void SetActivateUI(bool active)
+	{
+		base.SetActivateUI(active);
+		if(active) SelectMenu(NowMenu);
+	}
 	private void ToggleMenu(InputAction.CallbackContext ctx) => ToggleUI();
 	private void OnEnable()
 	{

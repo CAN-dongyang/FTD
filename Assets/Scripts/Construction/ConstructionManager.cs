@@ -1,12 +1,17 @@
 using UnityEngine;
 using Unity.Cinemachine;
 using UnityEngine.InputSystem;
+using UnityEngine.Tilemaps;
 
 public class ConstructionManager : MonoBehaviour
 {
 	[SerializeField] private UIView _ui;
-	[SerializeField] private DragableUI _dragItem;
 	[SerializeField] private CinemachineCamera _camera;
+
+	[Header("Preview")]
+	[SerializeField] private Tilemap _gridOverlayMap;
+	[SerializeField] private Tilemap _previewMap;
+	[SerializeField] private DragableUI _dragItem;
 
 	private Grid _grid;
 

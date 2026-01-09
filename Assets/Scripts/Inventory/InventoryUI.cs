@@ -1,11 +1,16 @@
 using UnityEngine;
 using UnityEngine.UI; // Button을 사용하기 위해 추가
+using UnityEngine.InputSystem;
+using System.Collections.Generic;
 
 public class InventoryUI : MonoBehaviour
 {
-    public Transform itemsParent;
+    public Transform hotbarParent; // 핫바 영역
+    public Transform inventoryParent; // 인벤토리 영역
+
     public GameObject inventoryUI;
     public GameObject inventorySlotPrefab; // 슬롯 프리팹을 연결할 변수 추가
+    public Button sortButton;
 
     // 각 뷰(패널)들을 연결할 변수
     public GameObject inventoryView;
@@ -24,22 +29,57 @@ public class InventoryUI : MonoBehaviour
     Inventory inventory;
     InventorySlot[] slots;
 
+    private void OnEnable()
+    {
+        if(InputSystem.actions == null) return;
+        InputSystem.actions.Enable();
+
+        var action = InputSystem.actions.FindAction("Inventory");
+        if(action != null)
+        {
+            action.started += OnInventoryKey;
+        }
+    }
+
+    private void OnDisable()
+    {
+        if(InputSystem.actions == null) return;
+        var action = InputSystem.actions.FindAction("Inventory");
+        if(action != null)
+        {
+            action.started -= OnInventoryKey;
+        }
+    }
+
+    private void OnInventoryKey(InputAction.CallbackContext context)
+    {
+        ToggleInventory();
+    }
+
     protected void Start()
     {
         inventory = Inventory.instance;
         inventory.onItemChangedCallback += UpdateUI;
 
         // 1. 기존에 있던 슬롯들을 모두 삭제 (에디터에 남아있는 경우를 대비)
-        foreach (Transform child in itemsParent)
-        {
-            Destroy(child.gameObject);
-        }
+        foreach (Transform child in hotbarParent) Destroy(child.gameObject);
+        foreach (Transform child in inventoryParent) Destroy(child.gameObject);
+
+        List<InventorySlot> createdSlots = new List<InventorySlot>();
 
         // 2. 인벤토리 공간(space)만큼 슬롯 프리팹을 생성
         for (int i = 0; i < inventory.space; i++)
         {
-            Instantiate(inventorySlotPrefab, itemsParent);
+            Transform targetParent = (i < 10) ? hotbarParent : inventoryParent;
+
+            GameObject slotObj = Instantiate(inventorySlotPrefab, targetParent);
+            createdSlots.Add(slotObj.GetComponent<InventorySlot>());
         }
+
+        slots = createdSlots.ToArray();
+
+        // 정렬버튼
+        if(sortButton) sortButton.onClick.AddListener(() => inventory.SortItems());
 
         // 버튼 리스너 등록
         inventoryButton.onClick.AddListener(() => SwitchView(inventoryView));
@@ -51,15 +91,30 @@ public class InventoryUI : MonoBehaviour
         // 기본 뷰 설정
         SwitchView(inventoryView);
 
-        // 이제 동적으로 생성된 30개의 슬롯을 찾아 배열에 할당
-        slots = itemsParent.GetComponentsInChildren<InventorySlot>();
-
         // 모든 초기화가 끝난 후 인벤토리 UI를 비활성화
         inventoryUI.SetActive(false);
+        Time.timeScale = 1f; 
+    }
+
+    public void ToggleInventory()
+    {
+        bool isActive = !inventoryUI.activeSelf;
+        inventoryUI.SetActive(isActive);
+
+        if(isActive)
+        {
+            Time.timeScale = 0f; // 게임 일시정지
+            SwitchView(inventoryView); // 인벤토리 뷰로 전환
+        }
+        else
+        {
+            Time.timeScale = 1f; // 게임 재개
+        }
     }
 
     void Update()
     {
+
     }
 
     void UpdateUI()

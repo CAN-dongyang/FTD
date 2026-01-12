@@ -6,6 +6,7 @@ public class Item : ScriptableObject
     public string itemName = "New Item";
     public Sprite icon = null;
     public bool isDefaultItem = false;
+    public int price = 100; // 아이템 가격 추가
     
     public virtual void Use()
     {

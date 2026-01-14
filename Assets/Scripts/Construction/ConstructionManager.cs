@@ -9,16 +9,23 @@ public class ConstructionManager : MonoBehaviour
 	[SerializeField] private CinemachineCamera _camera;
 
 	[Header("Preview")]
-	[SerializeField] private Tilemap _gridOverlayMap;
+	[SerializeField] private TilemapRenderer _gridOverlay;
 	[SerializeField] private Tilemap _previewMap;
-	[SerializeField] private DragableUI _dragItem;
+	private Vector2 _mousePos;
 
-	private Grid _grid;
-
-	private void Pospos(Vector2 screenPos)
+	private void FixedUpdate()
 	{
-		var worldPos = Camera.main.ScreenToWorldPoint(screenPos);
-		Debug.Log($"{screenPos} => {worldPos} => {_grid.WorldToCell(worldPos)}");
+		if(_ui.IsShow)
+		{
+			var worldPos = Camera.main.ScreenToWorldPoint(_mousePos);
+			_gridOverlay.transform.position =
+				School.Instance.Grid.WorldToCell(worldPos);
+		}
+	}
+
+	private void GetMousePos(InputAction.CallbackContext ctx)
+	{
+		_mousePos = ctx.ReadValue<Vector2>();
 	}
 	public void Open()
 	{
@@ -27,12 +34,13 @@ public class ConstructionManager : MonoBehaviour
 		var act = InputSystem.actions.FindAction("Cancel");
 		act.started += Cancel;
 
-		_grid = School.Instance.Grid;
+		act = InputSystem.actions.FindAction("Point");
+		act.performed += GetMousePos;
+		_mousePos = act.ReadValue<Vector2>();
 
-		_dragItem.OnDragStart.AddListener(Pospos);
-		_dragItem.OnDragEnd.AddListener(Pospos);
+		_gridOverlay.enabled = true;
 
-		_camera.gameObject.SetActive(true);
+		_camera.enabled = true;
 		_ui.OpenUI();
 	}
 	public void Close()
@@ -40,11 +48,14 @@ public class ConstructionManager : MonoBehaviour
 		var act = InputSystem.actions.FindAction("Cancel");
 		act.started -= Cancel;
 
-		_ui.CloseUI();
-		_camera.gameObject.SetActive(false);
+		act = InputSystem.actions.FindAction("Point");
+		act.performed -= GetMousePos;
 
-		_dragItem.OnDragStart.RemoveListener(Pospos);
-		_dragItem.OnDragEnd.RemoveListener(Pospos);
+		_ui.CloseUI();
+		_camera.enabled = false;
+
+		_gridOverlay.enabled = false;
+		_previewMap.SetTile(Vector3Int.zero, null);
 
 		Player.Instance.InputHandled = true;
 	}

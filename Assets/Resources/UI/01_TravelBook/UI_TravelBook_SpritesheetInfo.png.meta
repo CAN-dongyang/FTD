@@ -682,7 +682,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_1
+      name: UI_TravelBook_BookCover
       rect:
         serializedVersion: 2
         x: 32
@@ -691,7 +691,7 @@ TextureImporter:
         height: 160
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 14, y: 14, z: 14, w: 14}
+      border: {x: 12, y: 12, z: 12, w: 12}
       customData: 
       outline: []
       physicsShape: []
@@ -704,7 +704,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_2
+      name: UI_TravelBook_BookPage_left
       rect:
         serializedVersion: 2
         x: 272
@@ -713,7 +713,7 @@ TextureImporter:
         height: 147
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 6, y: 8, z: 6, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -726,7 +726,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_3
+      name: UI_TravelBook_BookPage_right
       rect:
         serializedVersion: 2
         x: 400
@@ -735,7 +735,7 @@ TextureImporter:
         height: 147
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 6, y: 8, z: 6, w: 6}
       customData: 
       outline: []
       physicsShape: []
@@ -748,7 +748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_5
+      name: UI_TravelBook_Banner_01
       rect:
         serializedVersion: 2
         x: 33
@@ -757,7 +757,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 14, y: 4, z: 14, w: 14}
+      border: {x: 11, y: 6, z: 14, w: 12}
       customData: 
       outline: []
       physicsShape: []
@@ -770,7 +770,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_6
+      name: UI_TravelBook_Banner_02
       rect:
         serializedVersion: 2
         x: 272
@@ -779,7 +779,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 14, y: 4, z: 14, w: 14}
+      border: {x: 12, y: 4, z: 12, w: 12}
       customData: 
       outline: []
       physicsShape: []
@@ -792,16 +792,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_8
+      name: UI_TravelBook_Slot_01
       rect:
         serializedVersion: 2
-        x: 32
-        y: 576
-        width: 32
-        height: 32
+        x: 33
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -814,13 +814,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_9
+      name: UI_TravelBook_Marker
       rect:
         serializedVersion: 2
-        x: 37
-        y: 608
-        width: 22
-        height: 16
+        x: 38
+        y: 609
+        width: 20
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,16 +836,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_10
+      name: UI_TravelBook_Slot_02
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576
-        width: 32
-        height: 32
+        x: 65
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -858,16 +858,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_11
+      name: UI_TravelBook_Slot_03
       rect:
         serializedVersion: 2
-        x: 96
-        y: 576
-        width: 32
-        height: 32
+        x: 97
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -880,16 +880,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_12
+      name: UI_TravelBook_Slot_04
       rect:
         serializedVersion: 2
-        x: 128
-        y: 576
-        width: 32
-        height: 32
+        x: 129
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -902,16 +902,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_13
+      name: UI_TravelBook_Slot_05
       rect:
         serializedVersion: 2
-        x: 160
-        y: 576
-        width: 32
-        height: 32
+        x: 161
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -924,16 +924,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_14
+      name: UI_TravelBook_Slot_06
       rect:
         serializedVersion: 2
-        x: 192
-        y: 576
-        width: 32
-        height: 32
+        x: 193
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -946,16 +946,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_15
+      name: UI_TravelBook_Slot_07
       rect:
         serializedVersion: 2
-        x: 224
-        y: 576
-        width: 32
-        height: 32
+        x: 225
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 3, z: 3, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -968,16 +968,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_16
+      name: UI_TravelBook_Slot_08
       rect:
         serializedVersion: 2
-        x: 256
-        y: 576
-        width: 32
-        height: 32
+        x: 257
+        y: 577
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 5, y: 5, z: 5, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -990,16 +990,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_18
+      name: UI_TravelBook_Frame_01
       rect:
         serializedVersion: 2
-        x: 32
-        y: 560
-        width: 64
-        height: 16
+        x: 33
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1012,16 +1012,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_19
+      name: UI_TravelBook_FrameSelect_01a
       rect:
         serializedVersion: 2
-        x: 32
-        y: 544
-        width: 64
-        height: 16
+        x: 33
+        y: 545
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 3, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1034,16 +1034,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_20
+      name: UI_TravelBook_Frame_02
       rect:
         serializedVersion: 2
-        x: 96
-        y: 560
-        width: 64
-        height: 16
+        x: 97
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1056,16 +1056,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_21
+      name: UI_TravelBook_FrameSelect_01b
       rect:
         serializedVersion: 2
-        x: 96
-        y: 544
-        width: 64
-        height: 16
+        x: 97
+        y: 545
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 3, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1078,16 +1078,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_22
+      name: UI_TravelBook_Frame_03
       rect:
         serializedVersion: 2
-        x: 160
-        y: 560
-        width: 64
-        height: 16
+        x: 161
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1100,16 +1100,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_23
+      name: UI_TravelBook_FrameSelect_02a
       rect:
         serializedVersion: 2
-        x: 160
-        y: 544
-        width: 64
-        height: 16
+        x: 161
+        y: 545
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 2, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1122,16 +1122,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_24
+      name: UI_TravelBook_Frame_04
       rect:
         serializedVersion: 2
-        x: 224
-        y: 560
-        width: 64
-        height: 16
+        x: 225
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1144,16 +1144,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_25
+      name: UI_TravelBook_FrameSelect_02b
       rect:
         serializedVersion: 2
-        x: 224
-        y: 544
-        width: 64
-        height: 16
+        x: 225
+        y: 545
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 2, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1166,16 +1166,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_26
+      name: UI_TravelBook_Frame_05
       rect:
         serializedVersion: 2
-        x: 288
-        y: 560
-        width: 64
-        height: 16
+        x: 289
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 3, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1188,16 +1188,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_27
+      name: UI_TravelBook_Frame_06
       rect:
         serializedVersion: 2
-        x: 352
-        y: 560
-        width: 64
-        height: 16
+        x: 353
+        y: 561
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1210,16 +1210,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_28
+      name: UI_TravelBook_FrameSelect_03a
       rect:
         serializedVersion: 2
-        x: 288
-        y: 548
-        width: 16
-        height: 6
+        x: 289
+        y: 549
+        width: 14
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1232,16 +1232,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_29
+      name: UI_TravelBook_FrameSelect_03b
       rect:
         serializedVersion: 2
-        x: 304
-        y: 548
-        width: 16
-        height: 6
+        x: 305
+        y: 549
+        width: 14
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1254,16 +1254,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_31
+      name: UI_TravelBook_Popup_01
       rect:
         serializedVersion: 2
-        x: 32
-        y: 512
-        width: 64
-        height: 32
+        x: 33
+        y: 513
+        width: 62
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 4, z: 4, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1276,16 +1276,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_32
+      name: UI_TravelBook_Popup_02
       rect:
         serializedVersion: 2
-        x: 96
-        y: 513
-        width: 64
-        height: 31
+        x: 97
+        y: 514
+        width: 62
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 5, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -1298,16 +1298,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_33
+      name: UI_TravelBook_Popup_03
       rect:
         serializedVersion: 2
-        x: 160
-        y: 512
-        width: 64
-        height: 32
+        x: 161
+        y: 513
+        width: 62
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1320,7 +1320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_34
+      name: UI_TravelBook_Select
       rect:
         serializedVersion: 2
         x: 33
@@ -1329,7 +1329,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 6, y: 6, z: 6, w: 6}
       customData: 
       outline: []
       physicsShape: []
@@ -1342,7 +1342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_35
+      name: UI_TravelBook_Line_01
       rect:
         serializedVersion: 2
         x: 33
@@ -1364,7 +1364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_37
+      name: UI_TravelBook_Line_02
       rect:
         serializedVersion: 2
         x: 65
@@ -1386,7 +1386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_38
+      name: UI_TravelBook_Line_05
       rect:
         serializedVersion: 2
         x: 161
@@ -1408,13 +1408,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_39
+      name: UI_TravelBook_Mod
       rect:
         serializedVersion: 2
-        x: 33
-        y: 464
-        width: 14
-        height: 14
+        x: 34
+        y: 465
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1430,13 +1430,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_40
+      name: UI_TravelBook_Cursor_01
       rect:
         serializedVersion: 2
-        x: 40
-        y: 439
-        width: 16
-        height: 18
+        x: 41
+        y: 440
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1452,13 +1452,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_41
+      name: UI_TravelBook_Cursor_02
       rect:
         serializedVersion: 2
-        x: 72
-        y: 439
-        width: 16
-        height: 18
+        x: 73
+        y: 440
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1474,13 +1474,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_42
+      name: UI_TravelBook_Cursor_03
       rect:
         serializedVersion: 2
-        x: 104
-        y: 439
-        width: 16
-        height: 18
+        x: 105
+        y: 440
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1496,13 +1496,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_43
+      name: UI_TravelBook_Cursor_04
       rect:
         serializedVersion: 2
-        x: 136
-        y: 439
-        width: 16
-        height: 18
+        x: 137
+        y: 440
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,7 +1518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_45
+      name: UI_TravelBook_Bar_01
       rect:
         serializedVersion: 2
         x: 33
@@ -1527,7 +1527,7 @@ TextureImporter:
         height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1540,7 +1540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_46
+      name: UI_TravelBook_Bar_02
       rect:
         serializedVersion: 2
         x: 97
@@ -1549,7 +1549,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 0, z: 2, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1562,7 +1562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_47
+      name: UI_TravelBook_Bar_03
       rect:
         serializedVersion: 2
         x: 161
@@ -1571,7 +1571,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1584,7 +1584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_48
+      name: UI_TravelBook_Bar_04
       rect:
         serializedVersion: 2
         x: 225
@@ -1593,7 +1593,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 0, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_49
+      name: UI_TravelBook_Bar_05
       rect:
         serializedVersion: 2
         x: 289
@@ -1615,7 +1615,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1628,7 +1628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_50
+      name: UI_TravelBook_Bar_06
       rect:
         serializedVersion: 2
         x: 353
@@ -1650,7 +1650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_51
+      name: UI_TravelBook_Line_06
       rect:
         serializedVersion: 2
         x: 193
@@ -1672,7 +1672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_52
+      name: UI_TravelBook_Line_07
       rect:
         serializedVersion: 2
         x: 225
@@ -1694,7 +1694,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_53
+      name: UI_TravelBook_Line_04
       rect:
         serializedVersion: 2
         x: 129
@@ -1716,7 +1716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_54
+      name: UI_TravelBook_Line_03
       rect:
         serializedVersion: 2
         x: 96
@@ -1738,7 +1738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_56
+      name: UI_TravelBook_Fill_01
       rect:
         serializedVersion: 2
         x: 33
@@ -1760,7 +1760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_57
+      name: UI_TravelBook_Fill_03
       rect:
         serializedVersion: 2
         x: 97
@@ -1782,16 +1782,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_62
+      name: UI_TravelBook_Fill_04
       rect:
         serializedVersion: 2
-        x: 128
-        y: 405
-        width: 16
-        height: 6
+        x: 129
+        y: 406
+        width: 14
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1804,16 +1804,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_63
+      name: UI_TravelBook_Handle_01
       rect:
         serializedVersion: 2
-        x: 35
-        y: 387
-        width: 10
-        height: 9
+        x: 36
+        y: 388
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1826,16 +1826,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_64
+      name: UI_TravelBook_Handle_02
       rect:
         serializedVersion: 2
-        x: 51
-        y: 387
-        width: 9
-        height: 10
+        x: 52
+        y: 388
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1848,16 +1848,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_65
+      name: UI_TravelBook_Handle_03
       rect:
         serializedVersion: 2
-        x: 68
-        y: 387
-        width: 9
-        height: 10
+        x: 69
+        y: 388
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1870,16 +1870,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_66
+      name: UI_TravelBook_Handle_04
       rect:
         serializedVersion: 2
-        x: 84
-        y: 387
-        width: 9
-        height: 10
+        x: 85
+        y: 388
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1892,16 +1892,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_67
+      name: UI_TravelBook_Handle_05
       rect:
         serializedVersion: 2
-        x: 100
-        y: 387
-        width: 9
-        height: 10
+        x: 101
+        y: 388
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1914,16 +1914,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_68
+      name: UI_TravelBook_Handle_06
       rect:
         serializedVersion: 2
-        x: 114
-        y: 389
-        width: 13
-        height: 6
+        x: 115
+        y: 390
+        width: 11
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1936,16 +1936,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_69
+      name: UI_TravelBook_Handle_07
       rect:
         serializedVersion: 2
-        x: 133
-        y: 387
-        width: 6
-        height: 10
+        x: 134
+        y: 388
+        width: 4
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1958,13 +1958,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_70
+      name: UI_TravelBook_Dropdown_01
       rect:
         serializedVersion: 2
-        x: 34
-        y: 371
-        width: 11
-        height: 8
+        x: 35
+        y: 372
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,13 +1980,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_71
+      name: UI_TravelBook_Dropdown_02
       rect:
         serializedVersion: 2
-        x: 51
-        y: 372
-        width: 10
-        height: 7
+        x: 52
+        y: 373
+        width: 8
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2002,13 +2002,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_72
+      name: UI_TravelBook_Point_01
       rect:
         serializedVersion: 2
-        x: 36
-        y: 357
-        width: 7
-        height: 7
+        x: 37
+        y: 358
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,13 +2024,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_73
+      name: UI_TravelBook_Point_02
       rect:
         serializedVersion: 2
-        x: 52
-        y: 357
-        width: 8
-        height: 5
+        x: 54
+        y: 358
+        width: 5
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2046,16 +2046,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_74
+      name: UI_TravelBook_Toggle_01_Off
       rect:
         serializedVersion: 2
-        x: 34
-        y: 340
-        width: 11
-        height: 8
+        x: 35
+        y: 341
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2068,16 +2068,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_75
+      name: UI_TravelBook_Toggle_02_Off
       rect:
         serializedVersion: 2
-        x: 67
-        y: 340
-        width: 11
-        height: 8
+        x: 68
+        y: 341
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2090,16 +2090,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_76
+      name: UI_TravelBook_Toggle_02_On
       rect:
         serializedVersion: 2
-        x: 83
-        y: 340
-        width: 11
-        height: 8
+        x: 84
+        y: 341
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2112,16 +2112,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_77
+      name: UI_TravelBook_Toggle_03_Off
       rect:
         serializedVersion: 2
-        x: 98
-        y: 340
-        width: 12
-        height: 8
+        x: 99
+        y: 341
+        width: 10
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2134,16 +2134,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_78
+      name: UI_TravelBook_Toggle_03_On
       rect:
         serializedVersion: 2
-        x: 114
-        y: 340
-        width: 12
-        height: 8
+        x: 115
+        y: 341
+        width: 10
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2156,16 +2156,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_79
+      name: UI_TravelBook_Toggle_04_Off
       rect:
         serializedVersion: 2
         x: 128
-        y: 340
+        y: 341
         width: 16
-        height: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -2178,16 +2178,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_80
+      name: UI_TravelBook_Toggle_05a
       rect:
         serializedVersion: 2
-        x: 160
-        y: 336
-        width: 17
-        height: 17
+        x: 161
+        y: 337
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2200,16 +2200,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_81
+      name: UI_TravelBook_Toggle_05b
       rect:
         serializedVersion: 2
-        x: 176
-        y: 336
-        width: 17
-        height: 17
+        x: 177
+        y: 337
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2222,16 +2222,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_82
+      name: UI_TravelBook_Toggle_05c
       rect:
         serializedVersion: 2
-        x: 192
-        y: 336
-        width: 17
-        height: 17
+        x: 193
+        y: 337
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2244,13 +2244,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_83
+      name: UI_TravelBook_Icon_Check
       rect:
         serializedVersion: 2
-        x: 210
-        y: 339
-        width: 11
-        height: 9
+        x: 211
+        y: 340
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,13 +2266,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_84
+      name: UI_TravelBook_Icon_Cross
       rect:
         serializedVersion: 2
-        x: 227
-        y: 339
-        width: 9
-        height: 9
+        x: 228
+        y: 340
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2288,13 +2288,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_85
+      name: UI_TravelBook_ButtonValue_minus
       rect:
         serializedVersion: 2
-        x: 33
-        y: 324
-        width: 13
-        height: 9
+        x: 34
+        y: 325
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2310,13 +2310,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_86
+      name: UI_TravelBook_ButtonValue_plus
       rect:
         serializedVersion: 2
-        x: 49
-        y: 324
-        width: 13
-        height: 9
+        x: 50
+        y: 325
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2332,13 +2332,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_87
+      name: UI_TravelBook_ButtonValue_left
       rect:
         serializedVersion: 2
-        x: 67
-        y: 324
-        width: 10
-        height: 8
+        x: 68
+        y: 325
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2354,13 +2354,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_88
+      name: UI_TravelBook_ButtonValue_right
       rect:
         serializedVersion: 2
-        x: 83
-        y: 324
-        width: 10
-        height: 8
+        x: 84
+        y: 325
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2376,13 +2376,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_89
+      name: UI_TravelBook_IconHeart01
       rect:
         serializedVersion: 2
-        x: 33
-        y: 306
-        width: 15
-        height: 12
+        x: 34
+        y: 307
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2398,13 +2398,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_90
+      name: UI_TravelBook_IconHeart02
       rect:
         serializedVersion: 2
-        x: 50
-        y: 306
-        width: 13
-        height: 12
+        x: 51
+        y: 307
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2420,13 +2420,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_91
+      name: UI_TravelBook_IconEnergy01
       rect:
         serializedVersion: 2
-        x: 65
-        y: 304
-        width: 14
-        height: 16
+        x: 66
+        y: 305
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2442,13 +2442,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_92
+      name: UI_TravelBook_IconEnergy02
       rect:
         serializedVersion: 2
-        x: 82
-        y: 305
-        width: 12
-        height: 14
+        x: 83
+        y: 306
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2464,13 +2464,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_93
+      name: UI_TravelBook_IconCoin01
       rect:
         serializedVersion: 2
-        x: 98
-        y: 305
-        width: 13
-        height: 14
+        x: 99
+        y: 306
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2486,13 +2486,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_94
+      name: UI_TravelBook_IconCoin02
       rect:
         serializedVersion: 2
-        x: 114
-        y: 306
-        width: 12
-        height: 12
+        x: 115
+        y: 307
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2508,13 +2508,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_95
+      name: UI_TravelBook_IconStar01
       rect:
         serializedVersion: 2
-        x: 129
-        y: 306
-        width: 14
-        height: 13
+        x: 130
+        y: 307
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2530,13 +2530,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_96
+      name: UI_TravelBook_IconStar02
       rect:
         serializedVersion: 2
-        x: 145
-        y: 306
-        width: 14
-        height: 13
+        x: 146
+        y: 307
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2552,13 +2552,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_97
+      name: UI_TravelBook_IconPotion
       rect:
         serializedVersion: 2
-        x: 163
-        y: 305
-        width: 9
-        height: 13
+        x: 164
+        y: 306
+        width: 7
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2574,13 +2574,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_98
+      name: UI_TravelBook_IconHeart01h
       rect:
         serializedVersion: 2
-        x: 33
-        y: 290
-        width: 15
-        height: 12
+        x: 34
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2596,13 +2596,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_99
+      name: UI_TravelBook_IconHeart01g
       rect:
         serializedVersion: 2
-        x: 49
-        y: 290
-        width: 15
-        height: 12
+        x: 50
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2618,13 +2618,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_100
+      name: UI_TravelBook_IconHeart01f
       rect:
         serializedVersion: 2
-        x: 65
-        y: 290
-        width: 15
-        height: 12
+        x: 66
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2640,13 +2640,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_101
+      name: UI_TravelBook_IconHeart01e
       rect:
         serializedVersion: 2
-        x: 81
-        y: 290
-        width: 15
-        height: 12
+        x: 82
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2662,13 +2662,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_102
+      name: UI_TravelBook_IconHeart01d
       rect:
         serializedVersion: 2
-        x: 97
-        y: 290
-        width: 15
-        height: 12
+        x: 98
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2684,13 +2684,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_103
+      name: UI_TravelBook_IconHeart01c
       rect:
         serializedVersion: 2
-        x: 113
-        y: 290
-        width: 15
-        height: 12
+        x: 114
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2706,13 +2706,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_104
+      name: UI_TravelBook_IconHeart01b
       rect:
         serializedVersion: 2
-        x: 129
-        y: 290
-        width: 15
-        height: 12
+        x: 130
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2728,13 +2728,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_105
+      name: UI_TravelBook_IconHeart01a
       rect:
         serializedVersion: 2
-        x: 145
-        y: 290
-        width: 15
-        height: 12
+        x: 146
+        y: 291
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2750,13 +2750,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_106
+      name: UI_TravelBook_IconEnergy01f
       rect:
         serializedVersion: 2
-        x: 33
-        y: 272
-        width: 14
-        height: 16
+        x: 34
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2772,13 +2772,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_107
+      name: UI_TravelBook_IconEnergy01e
       rect:
         serializedVersion: 2
-        x: 49
-        y: 272
-        width: 14
-        height: 16
+        x: 50
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2794,13 +2794,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_108
+      name: UI_TravelBook_IconEnergy01d
       rect:
         serializedVersion: 2
-        x: 65
-        y: 272
-        width: 14
-        height: 16
+        x: 66
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2816,13 +2816,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_109
+      name: UI_TravelBook_IconEnergy01c
       rect:
         serializedVersion: 2
-        x: 81
-        y: 272
-        width: 14
-        height: 16
+        x: 82
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2838,13 +2838,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_110
+      name: UI_TravelBook_IconEnergy01b
       rect:
         serializedVersion: 2
-        x: 97
-        y: 272
-        width: 14
-        height: 16
+        x: 98
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2860,13 +2860,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_111
+      name: UI_TravelBook_IconEnergy01a
       rect:
         serializedVersion: 2
-        x: 113
-        y: 272
-        width: 14
-        height: 16
+        x: 114
+        y: 273
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2882,13 +2882,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_112
+      name: UI_TravelBook_IconStar01c
       rect:
         serializedVersion: 2
-        x: 129
-        y: 274
-        width: 14
-        height: 13
+        x: 130
+        y: 275
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2904,13 +2904,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_113
+      name: UI_TravelBook_IconStar01b
       rect:
         serializedVersion: 2
-        x: 145
-        y: 274
-        width: 14
-        height: 13
+        x: 146
+        y: 275
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2926,13 +2926,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_114
+      name: UI_TravelBook_IconStar01a
       rect:
         serializedVersion: 2
-        x: 161
-        y: 274
-        width: 14
-        height: 13
+        x: 162
+        y: 275
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2948,13 +2948,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_115
+      name: UI_TravelBook_IconEquipment_a
       rect:
         serializedVersion: 2
-        x: 34
-        y: 258
-        width: 11
-        height: 11
+        x: 35
+        y: 259
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2970,13 +2970,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_116
+      name: UI_TravelBook_IconInventory_a
       rect:
         serializedVersion: 2
-        x: 51
-        y: 258
-        width: 10
-        height: 11
+        x: 52
+        y: 259
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2992,13 +2992,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_117
+      name: UI_TravelBook_IconSetting_a
       rect:
         serializedVersion: 2
-        x: 66
-        y: 258
-        width: 11
-        height: 11
+        x: 67
+        y: 259
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3014,13 +3014,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_118
+      name: UI_TravelBook_IconJournal_a
       rect:
         serializedVersion: 2
-        x: 83
-        y: 258
-        width: 9
-        height: 11
+        x: 84
+        y: 259
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3036,13 +3036,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_119
+      name: UI_TravelBook_IconEquipment_b
       rect:
         serializedVersion: 2
-        x: 34
-        y: 242
-        width: 11
-        height: 11
+        x: 35
+        y: 243
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3058,13 +3058,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_120
+      name: UI_TravelBook_IconInventory_b
       rect:
         serializedVersion: 2
-        x: 51
-        y: 242
-        width: 10
-        height: 11
+        x: 52
+        y: 243
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3080,13 +3080,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_121
+      name: UI_TravelBook_IconSetting_b
       rect:
         serializedVersion: 2
-        x: 66
-        y: 242
-        width: 11
-        height: 11
+        x: 67
+        y: 243
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3102,13 +3102,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_122
+      name: UI_TravelBook_IconJournal_b
       rect:
         serializedVersion: 2
-        x: 83
-        y: 242
-        width: 9
-        height: 11
+        x: 84
+        y: 243
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3124,13 +3124,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_123
+      name: UI_TravelBook_IconEquipment_c
       rect:
         serializedVersion: 2
-        x: 34
-        y: 226
-        width: 11
-        height: 11
+        x: 35
+        y: 227
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3146,13 +3146,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_124
+      name: UI_TravelBook_IconInventory_c
       rect:
         serializedVersion: 2
-        x: 51
-        y: 226
-        width: 10
-        height: 11
+        x: 52
+        y: 227
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3168,13 +3168,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_125
+      name: UI_TravelBook_IconSetting_c
       rect:
         serializedVersion: 2
         x: 66
-        y: 226
-        width: 11
-        height: 11
+        y: 227
+        width: 10
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3190,13 +3190,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_126
+      name: UI_TravelBook_IconJournal_c
       rect:
         serializedVersion: 2
-        x: 83
-        y: 226
-        width: 9
-        height: 11
+        x: 84
+        y: 227
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3212,13 +3212,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_127
+      name: UI_TravelBook_IconHealth_a
       rect:
         serializedVersion: 2
-        x: 35
-        y: 211
-        width: 9
-        height: 8
+        x: 36
+        y: 212
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3234,13 +3234,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_128
+      name: UI_TravelBook_IconStorage_a
       rect:
         serializedVersion: 2
-        x: 52
-        y: 211
-        width: 8
-        height: 8
+        x: 53
+        y: 212
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3256,13 +3256,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_129
+      name: UI_TravelBook_IconConsumable_a
       rect:
         serializedVersion: 2
-        x: 68
-        y: 211
-        width: 8
-        height: 8
+        x: 69
+        y: 212
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3278,13 +3278,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_130
+      name: UI_TravelBook_IconValuable_a
       rect:
         serializedVersion: 2
-        x: 84
-        y: 211
-        width: 8
-        height: 8
+        x: 85
+        y: 212
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3300,13 +3300,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_131
+      name: UI_TravelBook_IconWeapon_a
       rect:
         serializedVersion: 2
-        x: 116
-        y: 212
-        width: 8
-        height: 8
+        x: 117
+        y: 213
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3322,13 +3322,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_132
+      name: UI_TravelBook_IconArmor_a
       rect:
         serializedVersion: 2
-        x: 132
-        y: 211
-        width: 8
-        height: 8
+        x: 133
+        y: 212
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3344,13 +3344,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_133
+      name: UI_TravelBook_IconHealth_b
       rect:
         serializedVersion: 2
-        x: 35
-        y: 195
-        width: 9
-        height: 8
+        x: 36
+        y: 196
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3366,13 +3366,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_134
+      name: UI_TravelBook_IconStorage_b
       rect:
         serializedVersion: 2
-        x: 52
-        y: 195
-        width: 8
-        height: 8
+        x: 53
+        y: 196
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3388,13 +3388,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_135
+      name: UI_TravelBook_IconConsumable_b
       rect:
         serializedVersion: 2
-        x: 68
-        y: 195
-        width: 8
-        height: 8
+        x: 69
+        y: 196
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3410,13 +3410,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_136
+      name: UI_TravelBook_IconValuable_b
       rect:
         serializedVersion: 2
-        x: 84
-        y: 195
-        width: 8
-        height: 8
+        x: 85
+        y: 196
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3432,13 +3432,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_137
+      name: UI_TravelBook_IconWeapon_b
       rect:
         serializedVersion: 2
-        x: 116
-        y: 196
-        width: 8
-        height: 8
+        x: 117
+        y: 197
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3454,13 +3454,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_138
+      name: UI_TravelBook_IconArmor_b
       rect:
         serializedVersion: 2
-        x: 132
-        y: 195
-        width: 8
-        height: 8
+        x: 133
+        y: 196
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3476,13 +3476,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_139
+      name: UI_TravelBook_IconHealth_c
       rect:
         serializedVersion: 2
-        x: 35
-        y: 179
-        width: 9
-        height: 8
+        x: 36
+        y: 180
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3498,13 +3498,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_140
+      name: UI_TravelBook_IconStorage_c
       rect:
         serializedVersion: 2
-        x: 52
-        y: 179
-        width: 8
-        height: 8
+        x: 53
+        y: 180
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3520,13 +3520,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_141
+      name: UI_TravelBook_IconConsumable_c
       rect:
         serializedVersion: 2
-        x: 68
-        y: 179
-        width: 8
-        height: 8
+        x: 69
+        y: 180
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3542,13 +3542,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_142
+      name: UI_TravelBook_IconValuable_c
       rect:
         serializedVersion: 2
-        x: 84
-        y: 179
-        width: 8
-        height: 8
+        x: 85
+        y: 180
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3564,13 +3564,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_143
+      name: UI_TravelBook_IconWeapon_c
       rect:
         serializedVersion: 2
-        x: 116
-        y: 180
-        width: 8
-        height: 8
+        x: 117
+        y: 181
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3586,13 +3586,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_144
+      name: UI_TravelBook_IconArmor_c
       rect:
         serializedVersion: 2
-        x: 132
-        y: 179
-        width: 8
-        height: 8
+        x: 133
+        y: 180
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3608,13 +3608,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_146
+      name: UI_TravelBook_Alert_02
       rect:
         serializedVersion: 2
-        x: 52
-        y: 164
-        width: 7
-        height: 7
+        x: 53
+        y: 165
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3630,13 +3630,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_147
+      name: UI_TravelBook_Alert_03
       rect:
         serializedVersion: 2
-        x: 69
-        y: 164
-        width: 7
-        height: 7
+        x: 70
+        y: 165
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3652,13 +3652,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_148
+      name: UI_TravelBook_GamepadDPad_left
       rect:
         serializedVersion: 2
-        x: 35
-        y: 147
-        width: 10
-        height: 10
+        x: 36
+        y: 148
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3674,13 +3674,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_149
+      name: UI_TravelBook_GamepadDPad_up
       rect:
         serializedVersion: 2
-        x: 51
-        y: 147
-        width: 10
-        height: 10
+        x: 52
+        y: 148
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3696,13 +3696,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_150
+      name: UI_TravelBook_GamepadDPad_right
       rect:
         serializedVersion: 2
-        x: 67
-        y: 147
-        width: 10
-        height: 10
+        x: 68
+        y: 148
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3718,13 +3718,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_151
+      name: UI_TravelBook_GamepadDPad_down
       rect:
         serializedVersion: 2
-        x: 83
-        y: 147
-        width: 10
-        height: 10
+        x: 84
+        y: 148
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3740,13 +3740,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_152
+      name: UI_TravelBook_Gamepad_A
       rect:
         serializedVersion: 2
-        x: 98
-        y: 147
-        width: 11
-        height: 10
+        x: 99
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3762,13 +3762,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_153
+      name: UI_TravelBook_Gamepad_B
       rect:
         serializedVersion: 2
-        x: 114
-        y: 147
-        width: 11
-        height: 10
+        x: 115
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3784,13 +3784,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_154
+      name: UI_TravelBook_Gamepad_X
       rect:
         serializedVersion: 2
-        x: 130
-        y: 147
-        width: 11
-        height: 10
+        x: 131
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3806,13 +3806,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_155
+      name: UI_TravelBook_Gamepad_Y
       rect:
         serializedVersion: 2
-        x: 146
-        y: 147
-        width: 11
-        height: 10
+        x: 147
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3828,13 +3828,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_156
+      name: UI_TravelBook_Gamepad_L
       rect:
         serializedVersion: 2
-        x: 163
-        y: 146
-        width: 11
-        height: 11
+        x: 164
+        y: 147
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3850,13 +3850,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_157
+      name: UI_TravelBook_Gamepad_R
       rect:
         serializedVersion: 2
-        x: 179
-        y: 146
-        width: 11
-        height: 11
+        x: 180
+        y: 147
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3872,13 +3872,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_158
+      name: UI_TravelBook_Gamepad_L3
       rect:
         serializedVersion: 2
-        x: 194
-        y: 146
-        width: 13
-        height: 11
+        x: 195
+        y: 147
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3894,13 +3894,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_159
+      name: UI_TravelBook_Gamepad_R3
       rect:
         serializedVersion: 2
-        x: 210
-        y: 146
-        width: 13
-        height: 11
+        x: 211
+        y: 147
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3916,13 +3916,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_160
+      name: UI_TravelBook_Gamepad_LB
       rect:
         serializedVersion: 2
-        x: 224
-        y: 147
-        width: 17
-        height: 10
+        x: 225
+        y: 148
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3938,13 +3938,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_161
+      name: UI_TravelBook_Gamepad_RB
       rect:
         serializedVersion: 2
-        x: 240
-        y: 147
-        width: 17
-        height: 10
+        x: 241
+        y: 148
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3960,13 +3960,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_162
+      name: UI_TravelBook_Gamepad_LT
       rect:
         serializedVersion: 2
-        x: 256
-        y: 147
-        width: 17
-        height: 10
+        x: 257
+        y: 148
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3982,13 +3982,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_163
+      name: UI_TravelBook_Gamepad_RT
       rect:
         serializedVersion: 2
-        x: 272
-        y: 147
-        width: 17
-        height: 10
+        x: 273
+        y: 148
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4004,13 +4004,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_164
+      name: UI_TravelBook_Gamepad_view
       rect:
         serializedVersion: 2
-        x: 291
-        y: 147
-        width: 11
-        height: 10
+        x: 292
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4026,13 +4026,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_165
+      name: UI_TravelBook_Gamepad_Menu
       rect:
         serializedVersion: 2
-        x: 307
-        y: 147
-        width: 11
-        height: 10
+        x: 308
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4048,13 +4048,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_166
+      name: UI_TravelBook_Gamepad_power
       rect:
         serializedVersion: 2
-        x: 323
-        y: 147
-        width: 11
-        height: 10
+        x: 324
+        y: 148
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4070,13 +4070,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_168
+      name: UI_TravelBook_Command_hold
       rect:
         serializedVersion: 2
-        x: 66
-        y: 129
-        width: 11
-        height: 13
+        x: 67
+        y: 130
+        width: 9
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4092,16 +4092,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_169
+      name: UI_TravelBook_Button
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 33
+        y: 97
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 4, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -4114,13 +4114,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_170
+      name: UI_TravelBook_Button_Setting
       rect:
         serializedVersion: 2
-        x: 36
-        y: 67
-        width: 24
-        height: 26
+        x: 37
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4136,13 +4136,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_171
+      name: UI_TravelBook_Button_MusicOn
       rect:
         serializedVersion: 2
-        x: 68
-        y: 67
-        width: 24
-        height: 26
+        x: 69
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4158,13 +4158,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_172
+      name: UI_TravelBook_Button_MusicOff
       rect:
         serializedVersion: 2
-        x: 100
-        y: 67
-        width: 24
-        height: 26
+        x: 101
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4180,13 +4180,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_173
+      name: UI_TravelBook_Button_Gamepad
       rect:
         serializedVersion: 2
-        x: 132
-        y: 67
-        width: 24
-        height: 26
+        x: 133
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4202,13 +4202,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_174
+      name: UI_TravelBook_Button_Keyboard
       rect:
         serializedVersion: 2
-        x: 163
-        y: 67
-        width: 24
-        height: 26
+        x: 164
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4224,13 +4224,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_175
+      name: UI_TravelBook_Button_Arrow
       rect:
         serializedVersion: 2
-        x: 196
-        y: 67
-        width: 24
-        height: 26
+        x: 197
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4246,13 +4246,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_176
+      name: UI_TravelBook_Button_Back
       rect:
         serializedVersion: 2
-        x: 228
-        y: 67
-        width: 24
-        height: 26
+        x: 229
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4268,13 +4268,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_177
+      name: UI_TravelBook_Button_Restart
       rect:
         serializedVersion: 2
-        x: 259
-        y: 67
-        width: 24
-        height: 26
+        x: 260
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4290,13 +4290,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_178
+      name: UI_TravelBook_Button_Play
       rect:
         serializedVersion: 2
-        x: 292
-        y: 67
-        width: 24
-        height: 26
+        x: 293
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4312,13 +4312,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_179
+      name: UI_TravelBook_Button_Pause
       rect:
         serializedVersion: 2
-        x: 324
-        y: 67
-        width: 24
-        height: 26
+        x: 325
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4334,13 +4334,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_180
+      name: UI_TravelBook_Button_Home
       rect:
         serializedVersion: 2
-        x: 356
-        y: 67
-        width: 24
-        height: 26
+        x: 357
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4356,13 +4356,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_181
+      name: UI_TravelBook_Button_Save
       rect:
         serializedVersion: 2
-        x: 388
-        y: 67
-        width: 24
-        height: 26
+        x: 389
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4378,13 +4378,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_182
+      name: UI_TravelBook_Button_Load
       rect:
         serializedVersion: 2
-        x: 419
-        y: 67
-        width: 24
-        height: 26
+        x: 420
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4400,13 +4400,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_183
+      name: UI_TravelBook_Button_Check
       rect:
         serializedVersion: 2
-        x: 452
-        y: 67
-        width: 24
-        height: 26
+        x: 453
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4422,13 +4422,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_184
+      name: UI_TravelBook_Button_Cross
       rect:
         serializedVersion: 2
-        x: 484
-        y: 67
-        width: 24
-        height: 26
+        x: 485
+        y: 68
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4444,13 +4444,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_185
+      name: UI_TravelBook_Button_Display
       rect:
         serializedVersion: 2
-        x: 36
-        y: 35
-        width: 24
-        height: 26
+        x: 37
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4466,13 +4466,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_186
+      name: UI_TravelBook_Button_Graphic
       rect:
         serializedVersion: 2
-        x: 67
-        y: 35
-        width: 24
-        height: 26
+        x: 68
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4488,13 +4488,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_187
+      name: UI_TravelBook_Button_Achivement
       rect:
         serializedVersion: 2
-        x: 100
-        y: 35
-        width: 24
-        height: 26
+        x: 101
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4510,13 +4510,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_188
+      name: UI_TravelBook_Button_Leaderboard
       rect:
         serializedVersion: 2
-        x: 131
-        y: 35
-        width: 24
-        height: 26
+        x: 132
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4532,13 +4532,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_189
+      name: UI_TravelBook_Button_Manual
       rect:
         serializedVersion: 2
-        x: 164
-        y: 35
-        width: 24
-        height: 26
+        x: 165
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4554,13 +4554,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_190
+      name: UI_TravelBook_Button_Locked
       rect:
         serializedVersion: 2
-        x: 196
-        y: 35
-        width: 24
-        height: 26
+        x: 197
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4576,13 +4576,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_191
+      name: UI_TravelBook_Button_Unlocked
       rect:
         serializedVersion: 2
-        x: 227
-        y: 35
-        width: 24
-        height: 26
+        x: 228
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4598,13 +4598,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_192
+      name: UI_TravelBook_Button_Talk
       rect:
         serializedVersion: 2
-        x: 259
-        y: 35
-        width: 24
-        height: 26
+        x: 260
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4620,13 +4620,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_193
+      name: UI_TravelBook_Button_Message
       rect:
         serializedVersion: 2
-        x: 291
-        y: 35
-        width: 24
-        height: 26
+        x: 292
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4642,13 +4642,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_194
+      name: UI_TravelBook_Button_About
       rect:
         serializedVersion: 2
-        x: 324
-        y: 35
-        width: 24
-        height: 26
+        x: 325
+        y: 36
+        width: 22
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4664,13 +4664,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_0
+      name: UI_TravelBook_Command_press
       rect:
         serializedVersion: 2
-        x: 52
+        x: 51
         y: 130
-        width: 7
-        height: 12
+        width: 9
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4686,13 +4686,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_4
+      name: UI_TravelBook_Command_direction
       rect:
         serializedVersion: 2
-        x: 36
-        y: 131
-        width: 7
-        height: 9
+        x: 35
+        y: 130
+        width: 9
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4708,13 +4708,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_7
+      name: UI_TravelBook_Alert_01
       rect:
         serializedVersion: 2
-        x: 37
-        y: 164
-        width: 5
-        height: 8
+        x: 38
+        y: 165
+        width: 3
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4730,13 +4730,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_17
+      name: UI_TravelBook_IconKey_c
       rect:
         serializedVersion: 2
-        x: 99
-        y: 181
-        width: 9
-        height: 5
+        x: 100
+        y: 182
+        width: 7
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4752,13 +4752,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_30
+      name: UI_TravelBook_IconKey_b
       rect:
         serializedVersion: 2
-        x: 99
-        y: 197
-        width: 9
-        height: 5
+        x: 100
+        y: 198
+        width: 7
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4774,13 +4774,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_36
+      name: UI_TravelBook_IconKey_a
       rect:
         serializedVersion: 2
-        x: 99
-        y: 213
-        width: 9
-        height: 5
+        x: 100
+        y: 214
+        width: 7
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4796,16 +4796,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_44
+      name: UI_TravelBook_Toggle_01_On
       rect:
         serializedVersion: 2
-        x: 51
-        y: 340
-        width: 11
-        height: 8
+        x: 52
+        y: 341
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 1, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -4818,16 +4818,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_145
+      name: UI_TravelBook_Toggle_04_On
       rect:
         serializedVersion: 2
         x: 144
-        y: 340
+        y: 341
         width: 16
-        height: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 1, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -4840,7 +4840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_TravelBook_SpritesheetInfo01a_167
+      name: UI_TravelBook_Fill_02
       rect:
         serializedVersion: 2
         x: 65
@@ -4875,201 +4875,201 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UI_TravelBook_SpritesheetInfo01a_0: -4796797004290817211
-      UI_TravelBook_SpritesheetInfo01a_1: -2485073289665033462
-      UI_TravelBook_SpritesheetInfo01a_10: 15875216693588287
-      UI_TravelBook_SpritesheetInfo01a_100: 6914749436734946810
-      UI_TravelBook_SpritesheetInfo01a_101: 8148153179371265387
-      UI_TravelBook_SpritesheetInfo01a_102: 167252924009139932
-      UI_TravelBook_SpritesheetInfo01a_103: -9167160708563436093
-      UI_TravelBook_SpritesheetInfo01a_104: -1673221681613601440
-      UI_TravelBook_SpritesheetInfo01a_105: 4900772861726571821
-      UI_TravelBook_SpritesheetInfo01a_106: 6199451261822158589
-      UI_TravelBook_SpritesheetInfo01a_107: 8857580050621962198
-      UI_TravelBook_SpritesheetInfo01a_108: 4996746142988284695
-      UI_TravelBook_SpritesheetInfo01a_109: -5616343562409971272
-      UI_TravelBook_SpritesheetInfo01a_11: 4558924068366903267
-      UI_TravelBook_SpritesheetInfo01a_110: 8200639563697727781
-      UI_TravelBook_SpritesheetInfo01a_111: -8762297421468179894
-      UI_TravelBook_SpritesheetInfo01a_112: 6704537221336437441
-      UI_TravelBook_SpritesheetInfo01a_113: -3513721130527932831
-      UI_TravelBook_SpritesheetInfo01a_114: 2161609487352791750
-      UI_TravelBook_SpritesheetInfo01a_115: -963897423449363654
-      UI_TravelBook_SpritesheetInfo01a_116: 4927798656394311184
-      UI_TravelBook_SpritesheetInfo01a_117: 3962902209794154555
-      UI_TravelBook_SpritesheetInfo01a_118: 5085878984032964311
-      UI_TravelBook_SpritesheetInfo01a_119: 7961977532637365243
-      UI_TravelBook_SpritesheetInfo01a_12: -529817588679009576
-      UI_TravelBook_SpritesheetInfo01a_120: -5305987878297758350
-      UI_TravelBook_SpritesheetInfo01a_121: -6398304589354834864
-      UI_TravelBook_SpritesheetInfo01a_122: 3338290629990852147
-      UI_TravelBook_SpritesheetInfo01a_123: 3814272907338376691
-      UI_TravelBook_SpritesheetInfo01a_124: -4394698823762188088
-      UI_TravelBook_SpritesheetInfo01a_125: -5572127233074483284
-      UI_TravelBook_SpritesheetInfo01a_126: 7141891447215893163
-      UI_TravelBook_SpritesheetInfo01a_127: -6223628951739665747
-      UI_TravelBook_SpritesheetInfo01a_128: 7927688370926798130
-      UI_TravelBook_SpritesheetInfo01a_129: -5069643020616929649
-      UI_TravelBook_SpritesheetInfo01a_13: -2115045346070018405
-      UI_TravelBook_SpritesheetInfo01a_130: -6166830253379763132
-      UI_TravelBook_SpritesheetInfo01a_131: -8040348325196017935
-      UI_TravelBook_SpritesheetInfo01a_132: -4967907790718734478
-      UI_TravelBook_SpritesheetInfo01a_133: 352930487020763201
-      UI_TravelBook_SpritesheetInfo01a_134: -2815992629772046345
-      UI_TravelBook_SpritesheetInfo01a_135: -5015845600684356389
-      UI_TravelBook_SpritesheetInfo01a_136: 4691932449677867074
-      UI_TravelBook_SpritesheetInfo01a_137: 6395925253900547189
-      UI_TravelBook_SpritesheetInfo01a_138: -8551037448640047448
-      UI_TravelBook_SpritesheetInfo01a_139: 1246814114578617931
-      UI_TravelBook_SpritesheetInfo01a_14: 3796025192770223316
-      UI_TravelBook_SpritesheetInfo01a_140: -7989480444160337014
-      UI_TravelBook_SpritesheetInfo01a_141: 2160595628322245910
-      UI_TravelBook_SpritesheetInfo01a_142: 171951520007044762
-      UI_TravelBook_SpritesheetInfo01a_143: 3677850813149161714
-      UI_TravelBook_SpritesheetInfo01a_144: 2885231237462547414
-      UI_TravelBook_SpritesheetInfo01a_145: 5703833662462012494
-      UI_TravelBook_SpritesheetInfo01a_146: 7207229024469954042
-      UI_TravelBook_SpritesheetInfo01a_147: -6716291407033446565
-      UI_TravelBook_SpritesheetInfo01a_148: -7919216480834665981
-      UI_TravelBook_SpritesheetInfo01a_149: -2144509431202734201
-      UI_TravelBook_SpritesheetInfo01a_15: -514765367692108894
-      UI_TravelBook_SpritesheetInfo01a_150: -746539465769707450
-      UI_TravelBook_SpritesheetInfo01a_151: 690691512054670331
-      UI_TravelBook_SpritesheetInfo01a_152: 29761210921566337
-      UI_TravelBook_SpritesheetInfo01a_153: 5840744119145205111
-      UI_TravelBook_SpritesheetInfo01a_154: -7456799763515048984
-      UI_TravelBook_SpritesheetInfo01a_155: -8459278318475221880
-      UI_TravelBook_SpritesheetInfo01a_156: -3229312176401871809
-      UI_TravelBook_SpritesheetInfo01a_157: -362637324637717540
-      UI_TravelBook_SpritesheetInfo01a_158: -1697844897860461225
-      UI_TravelBook_SpritesheetInfo01a_159: 6784893829045802877
-      UI_TravelBook_SpritesheetInfo01a_16: 3893287287263263213
-      UI_TravelBook_SpritesheetInfo01a_160: -1675928426988919599
-      UI_TravelBook_SpritesheetInfo01a_161: -1404784745036063705
-      UI_TravelBook_SpritesheetInfo01a_162: 8683080507424103790
-      UI_TravelBook_SpritesheetInfo01a_163: 8658463898296455550
-      UI_TravelBook_SpritesheetInfo01a_164: 1086509967526535432
-      UI_TravelBook_SpritesheetInfo01a_165: 8485147670372428566
-      UI_TravelBook_SpritesheetInfo01a_166: 5996849698324602172
-      UI_TravelBook_SpritesheetInfo01a_167: -5927505810708123531
-      UI_TravelBook_SpritesheetInfo01a_168: 7989796597809987687
-      UI_TravelBook_SpritesheetInfo01a_169: 2495832069352335592
-      UI_TravelBook_SpritesheetInfo01a_17: 3837844380258999439
-      UI_TravelBook_SpritesheetInfo01a_170: -9126364131313354024
-      UI_TravelBook_SpritesheetInfo01a_171: 1511249235101291471
-      UI_TravelBook_SpritesheetInfo01a_172: 7975861598921134747
-      UI_TravelBook_SpritesheetInfo01a_173: 8463801478515716055
-      UI_TravelBook_SpritesheetInfo01a_174: -9202036893869161241
-      UI_TravelBook_SpritesheetInfo01a_175: 4126701145283866419
-      UI_TravelBook_SpritesheetInfo01a_176: 159982765552165413
-      UI_TravelBook_SpritesheetInfo01a_177: 4413451328986716918
-      UI_TravelBook_SpritesheetInfo01a_178: 6249210565207667403
-      UI_TravelBook_SpritesheetInfo01a_179: 5208009953488974555
-      UI_TravelBook_SpritesheetInfo01a_18: -5046284372209866208
-      UI_TravelBook_SpritesheetInfo01a_180: 7416729814422642076
-      UI_TravelBook_SpritesheetInfo01a_181: -2540766396485162191
-      UI_TravelBook_SpritesheetInfo01a_182: -5626338067878403287
-      UI_TravelBook_SpritesheetInfo01a_183: -3381826915240739347
-      UI_TravelBook_SpritesheetInfo01a_184: 6058630557189921673
-      UI_TravelBook_SpritesheetInfo01a_185: 6677895240055525952
-      UI_TravelBook_SpritesheetInfo01a_186: -5515619799742183154
-      UI_TravelBook_SpritesheetInfo01a_187: -7735877885848716603
-      UI_TravelBook_SpritesheetInfo01a_188: -6241513805337873463
-      UI_TravelBook_SpritesheetInfo01a_189: -5432818866814984610
-      UI_TravelBook_SpritesheetInfo01a_19: 1054461266526671681
-      UI_TravelBook_SpritesheetInfo01a_190: 483415393367184337
-      UI_TravelBook_SpritesheetInfo01a_191: -848918092583721465
-      UI_TravelBook_SpritesheetInfo01a_192: -2327329078047486914
-      UI_TravelBook_SpritesheetInfo01a_193: 1978469393723916457
-      UI_TravelBook_SpritesheetInfo01a_194: 5913590894236234466
-      UI_TravelBook_SpritesheetInfo01a_2: 5708831557300109058
-      UI_TravelBook_SpritesheetInfo01a_20: -7294805430927603221
-      UI_TravelBook_SpritesheetInfo01a_21: -8454537026326685352
-      UI_TravelBook_SpritesheetInfo01a_22: 5852705510791975812
-      UI_TravelBook_SpritesheetInfo01a_23: -7779590728655002766
-      UI_TravelBook_SpritesheetInfo01a_24: 1788334841239550891
-      UI_TravelBook_SpritesheetInfo01a_25: -3118611643948080267
-      UI_TravelBook_SpritesheetInfo01a_26: -3950768128179962213
-      UI_TravelBook_SpritesheetInfo01a_27: 1478703257261631200
-      UI_TravelBook_SpritesheetInfo01a_28: -7794949169955941610
-      UI_TravelBook_SpritesheetInfo01a_29: 4047448425815660862
-      UI_TravelBook_SpritesheetInfo01a_3: 1242935191180913064
-      UI_TravelBook_SpritesheetInfo01a_30: 7790610542199746010
-      UI_TravelBook_SpritesheetInfo01a_31: -378785253990668415
-      UI_TravelBook_SpritesheetInfo01a_32: -7146074906054836330
-      UI_TravelBook_SpritesheetInfo01a_33: -821723571350105547
-      UI_TravelBook_SpritesheetInfo01a_34: 1549121749013900649
-      UI_TravelBook_SpritesheetInfo01a_35: 9107327982371196579
-      UI_TravelBook_SpritesheetInfo01a_36: -5022135800433634160
-      UI_TravelBook_SpritesheetInfo01a_37: 350197596153820306
-      UI_TravelBook_SpritesheetInfo01a_38: 2598175288887885651
-      UI_TravelBook_SpritesheetInfo01a_39: -2057024468786292078
-      UI_TravelBook_SpritesheetInfo01a_4: 637524195662067005
-      UI_TravelBook_SpritesheetInfo01a_40: -8761153639184584243
-      UI_TravelBook_SpritesheetInfo01a_41: -5899071282611361380
-      UI_TravelBook_SpritesheetInfo01a_42: -2243668212736322195
-      UI_TravelBook_SpritesheetInfo01a_43: 3850076115442563355
-      UI_TravelBook_SpritesheetInfo01a_44: -913131637891256770
-      UI_TravelBook_SpritesheetInfo01a_45: -1720092337778683677
-      UI_TravelBook_SpritesheetInfo01a_46: -5778821512920102516
-      UI_TravelBook_SpritesheetInfo01a_47: 6176157425589521821
-      UI_TravelBook_SpritesheetInfo01a_48: 557158502233654055
-      UI_TravelBook_SpritesheetInfo01a_49: -1475308482515330158
-      UI_TravelBook_SpritesheetInfo01a_5: 5940852934217593745
-      UI_TravelBook_SpritesheetInfo01a_50: 4015410185444171346
-      UI_TravelBook_SpritesheetInfo01a_51: -1126544103917611381
-      UI_TravelBook_SpritesheetInfo01a_52: -242642143442694964
-      UI_TravelBook_SpritesheetInfo01a_53: -972817446130105419
-      UI_TravelBook_SpritesheetInfo01a_54: -8785201725946921891
+      UI_TravelBook_Alert_01: 2170474396428566125
+      UI_TravelBook_Alert_02: 7207229024469954042
+      UI_TravelBook_Alert_03: -6716291407033446565
+      UI_TravelBook_Banner_01: 5940852934217593745
+      UI_TravelBook_Banner_02: -2704969154376459881
+      UI_TravelBook_Bar_01: -1720092337778683677
+      UI_TravelBook_Bar_02: -5778821512920102516
+      UI_TravelBook_Bar_03: 6176157425589521821
+      UI_TravelBook_Bar_04: 557158502233654055
+      UI_TravelBook_Bar_05: -1475308482515330158
+      UI_TravelBook_Bar_06: 4015410185444171346
+      UI_TravelBook_BookCover: -2485073289665033462
+      UI_TravelBook_BookPage_left: 5708831557300109058
+      UI_TravelBook_BookPage_right: 1242935191180913064
+      UI_TravelBook_Button: 2495832069352335592
+      UI_TravelBook_ButtonValue_left: 8796002297492177896
+      UI_TravelBook_ButtonValue_minus: -1025695467703572747
+      UI_TravelBook_ButtonValue_plus: 7889858083671330561
+      UI_TravelBook_ButtonValue_right: 5531527192933628384
+      UI_TravelBook_Button_About: 5913590894236234466
+      UI_TravelBook_Button_Achivement: -7735877885848716603
+      UI_TravelBook_Button_Arrow: 4126701145283866419
+      UI_TravelBook_Button_Back: 159982765552165413
+      UI_TravelBook_Button_Check: -3381826915240739347
+      UI_TravelBook_Button_Cross: 6058630557189921673
+      UI_TravelBook_Button_Display: 6677895240055525952
+      UI_TravelBook_Button_Gamepad: 8463801478515716055
+      UI_TravelBook_Button_Graphic: -5515619799742183154
+      UI_TravelBook_Button_Home: 7416729814422642076
+      UI_TravelBook_Button_Keyboard: -9202036893869161241
+      UI_TravelBook_Button_Leaderboard: -6241513805337873463
+      UI_TravelBook_Button_Load: -5626338067878403287
+      UI_TravelBook_Button_Locked: 483415393367184337
+      UI_TravelBook_Button_Manual: -5432818866814984610
+      UI_TravelBook_Button_Message: 1978469393723916457
+      UI_TravelBook_Button_MusicOff: 7975861598921134747
+      UI_TravelBook_Button_MusicOn: 1511249235101291471
+      UI_TravelBook_Button_Pause: 5208009953488974555
+      UI_TravelBook_Button_Play: 6249210565207667403
+      UI_TravelBook_Button_Restart: 4413451328986716918
+      UI_TravelBook_Button_Save: -2540766396485162191
+      UI_TravelBook_Button_Setting: -9126364131313354024
+      UI_TravelBook_Button_Talk: -2327329078047486914
+      UI_TravelBook_Button_Unlocked: -848918092583721465
+      UI_TravelBook_Command_direction: 637524195662067005
+      UI_TravelBook_Command_hold: 7989796597809987687
+      UI_TravelBook_Command_press: -4796797004290817211
+      UI_TravelBook_Cursor_01: -8761153639184584243
+      UI_TravelBook_Cursor_02: -5899071282611361380
+      UI_TravelBook_Cursor_03: -2243668212736322195
+      UI_TravelBook_Cursor_04: 3850076115442563355
+      UI_TravelBook_Dropdown_01: -394773058742994528
+      UI_TravelBook_Dropdown_02: -2649208839439707103
+      UI_TravelBook_Fill_01: -8992469300794712538
+      UI_TravelBook_Fill_02: -5927505810708123531
+      UI_TravelBook_Fill_03: 972855818143838399
+      UI_TravelBook_Fill_04: 7200313325829042003
+      UI_TravelBook_FrameSelect_01a: 1054461266526671681
+      UI_TravelBook_FrameSelect_01b: -8454537026326685352
+      UI_TravelBook_FrameSelect_02a: -7779590728655002766
+      UI_TravelBook_FrameSelect_02b: -3118611643948080267
+      UI_TravelBook_FrameSelect_03a: -7794949169955941610
+      UI_TravelBook_FrameSelect_03b: 4047448425815660862
+      UI_TravelBook_Frame_01: -5046284372209866208
+      UI_TravelBook_Frame_02: -7294805430927603221
+      UI_TravelBook_Frame_03: 5852705510791975812
+      UI_TravelBook_Frame_04: 1788334841239550891
+      UI_TravelBook_Frame_05: -3950768128179962213
+      UI_TravelBook_Frame_06: 1478703257261631200
+      UI_TravelBook_GamepadDPad_down: 690691512054670331
+      UI_TravelBook_GamepadDPad_left: -7919216480834665981
+      UI_TravelBook_GamepadDPad_right: -746539465769707450
+      UI_TravelBook_GamepadDPad_up: -2144509431202734201
+      UI_TravelBook_Gamepad_A: 29761210921566337
+      UI_TravelBook_Gamepad_B: 5840744119145205111
+      UI_TravelBook_Gamepad_L: -3229312176401871809
+      UI_TravelBook_Gamepad_L3: -1697844897860461225
+      UI_TravelBook_Gamepad_LB: -1675928426988919599
+      UI_TravelBook_Gamepad_LT: 8683080507424103790
+      UI_TravelBook_Gamepad_Menu: 8485147670372428566
+      UI_TravelBook_Gamepad_R: -362637324637717540
+      UI_TravelBook_Gamepad_R3: 6784893829045802877
+      UI_TravelBook_Gamepad_RB: -1404784745036063705
+      UI_TravelBook_Gamepad_RT: 8658463898296455550
+      UI_TravelBook_Gamepad_X: -7456799763515048984
+      UI_TravelBook_Gamepad_Y: -8459278318475221880
+      UI_TravelBook_Gamepad_power: 5996849698324602172
+      UI_TravelBook_Gamepad_view: 1086509967526535432
+      UI_TravelBook_Handle_01: 3795013334793453356
+      UI_TravelBook_Handle_02: 4142846170121469043
+      UI_TravelBook_Handle_03: -1325461639200324609
+      UI_TravelBook_Handle_04: -1032622499632582257
+      UI_TravelBook_Handle_05: -4444226985589074280
+      UI_TravelBook_Handle_06: 6940916195528915217
+      UI_TravelBook_Handle_07: 9097527748674336214
+      UI_TravelBook_IconArmor_a: -4967907790718734478
+      UI_TravelBook_IconArmor_b: -8551037448640047448
+      UI_TravelBook_IconArmor_c: 2885231237462547414
+      UI_TravelBook_IconCoin01: 4138199803682205875
+      UI_TravelBook_IconCoin02: -2833547327143941832
+      UI_TravelBook_IconConsumable_a: -5069643020616929649
+      UI_TravelBook_IconConsumable_b: -5015845600684356389
+      UI_TravelBook_IconConsumable_c: 2160595628322245910
+      UI_TravelBook_IconEnergy01: -8958405976525533991
+      UI_TravelBook_IconEnergy01a: -8762297421468179894
+      UI_TravelBook_IconEnergy01b: 8200639563697727781
+      UI_TravelBook_IconEnergy01c: -5616343562409971272
+      UI_TravelBook_IconEnergy01d: 4996746142988284695
+      UI_TravelBook_IconEnergy01e: 8857580050621962198
+      UI_TravelBook_IconEnergy01f: 6199451261822158589
+      UI_TravelBook_IconEnergy02: 5001502747293195619
+      UI_TravelBook_IconEquipment_a: -963897423449363654
+      UI_TravelBook_IconEquipment_b: 7961977532637365243
+      UI_TravelBook_IconEquipment_c: 3814272907338376691
+      UI_TravelBook_IconHealth_a: -6223628951739665747
+      UI_TravelBook_IconHealth_b: 352930487020763201
+      UI_TravelBook_IconHealth_c: 1246814114578617931
+      UI_TravelBook_IconHeart01: -6286721260958339995
+      UI_TravelBook_IconHeart01a: 4900772861726571821
+      UI_TravelBook_IconHeart01b: -1673221681613601440
+      UI_TravelBook_IconHeart01c: -9167160708563436093
+      UI_TravelBook_IconHeart01d: 167252924009139932
+      UI_TravelBook_IconHeart01e: 8148153179371265387
+      UI_TravelBook_IconHeart01f: 6914749436734946810
+      UI_TravelBook_IconHeart01g: 9013665051815563811
+      UI_TravelBook_IconHeart01h: 3239430727698722596
+      UI_TravelBook_IconHeart02: 2594795495970482304
+      UI_TravelBook_IconInventory_a: 4927798656394311184
+      UI_TravelBook_IconInventory_b: -5305987878297758350
+      UI_TravelBook_IconInventory_c: -4394698823762188088
+      UI_TravelBook_IconJournal_a: 5085878984032964311
+      UI_TravelBook_IconJournal_b: 3338290629990852147
+      UI_TravelBook_IconJournal_c: 7141891447215893163
+      UI_TravelBook_IconKey_a: -5022135800433634160
+      UI_TravelBook_IconKey_b: 7790610542199746010
+      UI_TravelBook_IconKey_c: 3837844380258999439
+      UI_TravelBook_IconPotion: -2096394584833077460
+      UI_TravelBook_IconSetting_a: 3962902209794154555
+      UI_TravelBook_IconSetting_b: -6398304589354834864
+      UI_TravelBook_IconSetting_c: -5572127233074483284
+      UI_TravelBook_IconStar01: 3171111525430759171
+      UI_TravelBook_IconStar01a: 2161609487352791750
+      UI_TravelBook_IconStar01b: -3513721130527932831
+      UI_TravelBook_IconStar01c: 6704537221336437441
+      UI_TravelBook_IconStar02: 2664161519561620990
+      UI_TravelBook_IconStorage_a: 7927688370926798130
+      UI_TravelBook_IconStorage_b: -2815992629772046345
+      UI_TravelBook_IconStorage_c: -7989480444160337014
+      UI_TravelBook_IconValuable_a: -6166830253379763132
+      UI_TravelBook_IconValuable_b: 4691932449677867074
+      UI_TravelBook_IconValuable_c: 171951520007044762
+      UI_TravelBook_IconWeapon_a: -8040348325196017935
+      UI_TravelBook_IconWeapon_b: 6395925253900547189
+      UI_TravelBook_IconWeapon_c: 3677850813149161714
+      UI_TravelBook_Icon_Check: 2294995635689673050
+      UI_TravelBook_Icon_Cross: -6299417014224073521
+      UI_TravelBook_Line_01: 9107327982371196579
+      UI_TravelBook_Line_02: 350197596153820306
+      UI_TravelBook_Line_03: -8785201725946921891
+      UI_TravelBook_Line_04: -972817446130105419
+      UI_TravelBook_Line_05: 2598175288887885651
+      UI_TravelBook_Line_06: -1126544103917611381
+      UI_TravelBook_Line_07: -242642143442694964
+      UI_TravelBook_Marker: 1735667345271918102
+      UI_TravelBook_Mod: -2057024468786292078
+      UI_TravelBook_Point_01: 5227305819609512794
+      UI_TravelBook_Point_02: 7967674077949989680
+      UI_TravelBook_Popup_01: -378785253990668415
+      UI_TravelBook_Popup_02: -7146074906054836330
+      UI_TravelBook_Popup_03: -821723571350105547
+      UI_TravelBook_Select: 1549121749013900649
+      UI_TravelBook_Slot_01: -4460249996796919725
+      UI_TravelBook_Slot_02: 15875216693588287
+      UI_TravelBook_Slot_03: 4558924068366903267
+      UI_TravelBook_Slot_04: -529817588679009576
+      UI_TravelBook_Slot_05: -2115045346070018405
+      UI_TravelBook_Slot_06: 3796025192770223316
+      UI_TravelBook_Slot_07: -514765367692108894
+      UI_TravelBook_Slot_08: 3893287287263263213
       UI_TravelBook_SpritesheetInfo01a_55: 5294116804437947729
-      UI_TravelBook_SpritesheetInfo01a_56: -8992469300794712538
-      UI_TravelBook_SpritesheetInfo01a_57: 972855818143838399
       UI_TravelBook_SpritesheetInfo01a_58: -1828993970887808220
       UI_TravelBook_SpritesheetInfo01a_59: -6002291517564265212
-      UI_TravelBook_SpritesheetInfo01a_6: -2704969154376459881
       UI_TravelBook_SpritesheetInfo01a_60: -584932405649765071
       UI_TravelBook_SpritesheetInfo01a_61: -2693197253582127098
-      UI_TravelBook_SpritesheetInfo01a_62: 7200313325829042003
-      UI_TravelBook_SpritesheetInfo01a_63: 3795013334793453356
-      UI_TravelBook_SpritesheetInfo01a_64: 4142846170121469043
-      UI_TravelBook_SpritesheetInfo01a_65: -1325461639200324609
-      UI_TravelBook_SpritesheetInfo01a_66: -1032622499632582257
-      UI_TravelBook_SpritesheetInfo01a_67: -4444226985589074280
-      UI_TravelBook_SpritesheetInfo01a_68: 6940916195528915217
-      UI_TravelBook_SpritesheetInfo01a_69: 9097527748674336214
-      UI_TravelBook_SpritesheetInfo01a_7: 2170474396428566125
-      UI_TravelBook_SpritesheetInfo01a_70: -394773058742994528
-      UI_TravelBook_SpritesheetInfo01a_71: -2649208839439707103
-      UI_TravelBook_SpritesheetInfo01a_72: 5227305819609512794
-      UI_TravelBook_SpritesheetInfo01a_73: 7967674077949989680
-      UI_TravelBook_SpritesheetInfo01a_74: -34574735565662959
-      UI_TravelBook_SpritesheetInfo01a_75: -7580377991231353426
-      UI_TravelBook_SpritesheetInfo01a_76: 3508146689262531260
-      UI_TravelBook_SpritesheetInfo01a_77: 2784120923633517242
-      UI_TravelBook_SpritesheetInfo01a_78: -6170335183245519458
-      UI_TravelBook_SpritesheetInfo01a_79: -3050533451133943477
-      UI_TravelBook_SpritesheetInfo01a_8: -4460249996796919725
-      UI_TravelBook_SpritesheetInfo01a_80: -4171635538643781477
-      UI_TravelBook_SpritesheetInfo01a_81: 7156491509547674333
-      UI_TravelBook_SpritesheetInfo01a_82: -1610270071967843767
-      UI_TravelBook_SpritesheetInfo01a_83: 2294995635689673050
-      UI_TravelBook_SpritesheetInfo01a_84: -6299417014224073521
-      UI_TravelBook_SpritesheetInfo01a_85: -1025695467703572747
-      UI_TravelBook_SpritesheetInfo01a_86: 7889858083671330561
-      UI_TravelBook_SpritesheetInfo01a_87: 8796002297492177896
-      UI_TravelBook_SpritesheetInfo01a_88: 5531527192933628384
-      UI_TravelBook_SpritesheetInfo01a_89: -6286721260958339995
-      UI_TravelBook_SpritesheetInfo01a_9: 1735667345271918102
-      UI_TravelBook_SpritesheetInfo01a_90: 2594795495970482304
-      UI_TravelBook_SpritesheetInfo01a_91: -8958405976525533991
-      UI_TravelBook_SpritesheetInfo01a_92: 5001502747293195619
-      UI_TravelBook_SpritesheetInfo01a_93: 4138199803682205875
-      UI_TravelBook_SpritesheetInfo01a_94: -2833547327143941832
-      UI_TravelBook_SpritesheetInfo01a_95: 3171111525430759171
-      UI_TravelBook_SpritesheetInfo01a_96: 2664161519561620990
-      UI_TravelBook_SpritesheetInfo01a_97: -2096394584833077460
-      UI_TravelBook_SpritesheetInfo01a_98: 3239430727698722596
-      UI_TravelBook_SpritesheetInfo01a_99: 9013665051815563811
+      UI_TravelBook_Toggle_01_Off: -34574735565662959
+      UI_TravelBook_Toggle_01_On: -913131637891256770
+      UI_TravelBook_Toggle_02_Off: -7580377991231353426
+      UI_TravelBook_Toggle_02_On: 3508146689262531260
+      UI_TravelBook_Toggle_03_Off: 2784120923633517242
+      UI_TravelBook_Toggle_03_On: -6170335183245519458
+      UI_TravelBook_Toggle_04_Off: -3050533451133943477
+      UI_TravelBook_Toggle_04_On: 5703833662462012494
+      UI_TravelBook_Toggle_05a: -4171635538643781477
+      UI_TravelBook_Toggle_05b: 7156491509547674333
+      UI_TravelBook_Toggle_05c: -1610270071967843767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

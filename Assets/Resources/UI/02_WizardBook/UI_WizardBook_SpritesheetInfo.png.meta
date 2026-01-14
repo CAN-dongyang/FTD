@@ -661,38 +661,16 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_WizardBook_Line_0
+      name: UI_WizardBook_BookCover
       rect:
         serializedVersion: 2
         x: 32
-        y: 518
-        width: 32
-        height: 2
+        y: 567
+        width: 320
+        height: 219
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2de2d714fea70b610800000000000000
-      internalID: 1634941832749985490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_WizardBook_CoverBook_0
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 564
-        width: 322
-        height: 221
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 34, y: 34, z: 34, w: 34}
+      border: {x: 33, y: 32, z: 32, w: 32}
       customData: 
       outline: []
       physicsShape: []
@@ -705,16 +683,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_CoverBook_1
+      name: UI_WizardBook_BookPage_left
       rect:
         serializedVersion: 2
-        x: 367
-        y: 590
-        width: 149
-        height: 195
+        x: 368
+        y: 591
+        width: 147
+        height: 193
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 9, y: 5, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -727,16 +705,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_CoverBook_2
+      name: UI_WizardBook_BookPage_right
       rect:
         serializedVersion: 2
-        x: 527
-        y: 590
-        width: 149
-        height: 195
+        x: 528
+        y: 591
+        width: 147
+        height: 193
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 4, y: 5, z: 8, w: 6}
       customData: 
       outline: []
       physicsShape: []
@@ -752,13 +730,13 @@ TextureImporter:
       name: UI_WizardBook_Banner_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 532
-        width: 59
-        height: 24
+        x: 36
+        y: 533
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 8, y: 7, z: 7, w: 7}
       customData: 
       outline: []
       physicsShape: []
@@ -774,13 +752,13 @@ TextureImporter:
       name: UI_WizardBook_Banner_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 532
-        width: 59
-        height: 24
+        x: 100
+        y: 533
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 8, y: 7, z: 7, w: 7}
       customData: 
       outline: []
       physicsShape: []
@@ -796,13 +774,13 @@ TextureImporter:
       name: UI_WizardBook_Marker_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 490
-        width: 43
-        height: 14
+        x: 35
+        y: 491
+        width: 41
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 2, z: 2, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -818,13 +796,13 @@ TextureImporter:
       name: UI_WizardBook_Marker_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 490
-        width: 43
-        height: 14
+        x: 84
+        y: 491
+        width: 41
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 2, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -837,16 +815,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_0
+      name: UI_WizardBook_Slot_01
       rect:
         serializedVersion: 2
-        x: 35
-        y: 451
-        width: 26
-        height: 26
+        x: 36
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -859,16 +837,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_1
+      name: UI_WizardBook_Slot_02
       rect:
         serializedVersion: 2
-        x: 67
-        y: 451
-        width: 26
-        height: 26
+        x: 68
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -881,16 +859,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_2
+      name: UI_WizardBook_Slot_03
       rect:
         serializedVersion: 2
-        x: 99
-        y: 451
-        width: 26
-        height: 26
+        x: 100
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -903,16 +881,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_3
+      name: UI_WizardBook_Slot_04
       rect:
         serializedVersion: 2
-        x: 131
-        y: 451
-        width: 26
-        height: 26
+        x: 132
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -925,16 +903,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_4
+      name: UI_WizardBook_Slot_05
       rect:
         serializedVersion: 2
-        x: 163
-        y: 451
-        width: 26
-        height: 26
+        x: 164
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -947,16 +925,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_5
+      name: UI_WizardBook_Slot_06
       rect:
         serializedVersion: 2
-        x: 195
-        y: 451
-        width: 26
-        height: 26
+        x: 196
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -969,16 +947,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_6
+      name: UI_WizardBook_Slot_07
       rect:
         serializedVersion: 2
-        x: 227
-        y: 451
-        width: 26
-        height: 26
+        x: 228
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 4, y: 3, z: 4, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -991,16 +969,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_7
+      name: UI_WizardBook_Slot_08
       rect:
         serializedVersion: 2
-        x: 259
-        y: 451
-        width: 26
-        height: 26
+        x: 260
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1013,16 +991,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_8
+      name: UI_WizardBook_Slot_09
       rect:
         serializedVersion: 2
-        x: 291
-        y: 451
-        width: 26
-        height: 26
+        x: 292
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1035,16 +1013,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_9
+      name: UI_WizardBook_Slot_10
       rect:
         serializedVersion: 2
-        x: 323
-        y: 451
-        width: 26
-        height: 26
+        x: 324
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -1057,16 +1035,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_10
+      name: UI_WizardBook_Slot_11
       rect:
         serializedVersion: 2
-        x: 355
-        y: 451
-        width: 26
-        height: 26
+        x: 356
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1079,16 +1057,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Slot_11
+      name: UI_WizardBook_Slot_12
       rect:
         serializedVersion: 2
-        x: 387
-        y: 451
-        width: 26
-        height: 26
+        x: 388
+        y: 452
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1101,16 +1079,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_0
+      name: UI_WizardBook_Frame_01
       rect:
         serializedVersion: 2
-        x: 32
-        y: 400
-        width: 32
-        height: 48
+        x: 33
+        y: 401
+        width: 30
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1123,16 +1101,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_1
+      name: UI_WizardBook_Frame_02
       rect:
         serializedVersion: 2
-        x: 64
-        y: 400
-        width: 32
-        height: 48
+        x: 65
+        y: 401
+        width: 30
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1145,16 +1123,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_2
+      name: UI_WizardBook_Frame_03
       rect:
         serializedVersion: 2
-        x: 96
-        y: 400
-        width: 64
-        height: 48
+        x: 97
+        y: 401
+        width: 62
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 4, y: 4, z: 4, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1167,16 +1145,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_3
+      name: UI_WizardBook_Frame_04
       rect:
         serializedVersion: 2
-        x: 160
-        y: 400
-        width: 64
-        height: 48
+        x: 161
+        y: 401
+        width: 62
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1189,16 +1167,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_4
+      name: UI_WizardBook_Frame_05
       rect:
         serializedVersion: 2
-        x: 225
-        y: 418
-        width: 62
-        height: 26
+        x: 226
+        y: 419
+        width: 60
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 4, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1211,16 +1189,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_7
+      name: UI_WizardBook_Frame_06
       rect:
         serializedVersion: 2
-        x: 289
-        y: 418
-        width: 62
-        height: 26
+        x: 290
+        y: 419
+        width: 60
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 4, z: 4, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1233,16 +1211,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_10
+      name: UI_WizardBook_Frame_07
       rect:
         serializedVersion: 2
-        x: 353
-        y: 418
-        width: 62
-        height: 26
+        x: 354
+        y: 419
+        width: 60
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 6, z: 4, w: 6}
+      border: {x: 3, y: 4, z: 4, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1255,16 +1233,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_13
+      name: UI_WizardBook_Frame_08
       rect:
         serializedVersion: 2
-        x: 416
-        y: 423
-        width: 48
-        height: 18
+        x: 417
+        y: 424
+        width: 46
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 4}
       customData: 
       outline: []
       physicsShape: []
@@ -1277,16 +1255,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_16
+      name: UI_WizardBook_Frame_09
       rect:
         serializedVersion: 2
-        x: 465
-        y: 435
-        width: 32
-        height: 11
+        x: 466
+        y: 436
+        width: 30
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1299,16 +1277,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_17
+      name: UI_WizardBook_Frame_10
       rect:
         serializedVersion: 2
-        x: 465
-        y: 418
-        width: 32
-        height: 11
+        x: 466
+        y: 419
+        width: 30
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1321,16 +1299,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_5
+      name: UI_WizardBook_Frame_11
       rect:
         serializedVersion: 2
-        x: 225
-        y: 401
-        width: 62
-        height: 14
+        x: 226
+        y: 402
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1343,16 +1321,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_8
+      name: UI_WizardBook_Frame_12
       rect:
         serializedVersion: 2
-        x: 289
-        y: 401
-        width: 62
-        height: 14
+        x: 290
+        y: 402
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1365,16 +1343,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_11
+      name: UI_WizardBook_Frame_13
       rect:
         serializedVersion: 2
-        x: 353
-        y: 401
-        width: 62
-        height: 14
+        x: 354
+        y: 402
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1390,10 +1368,10 @@ TextureImporter:
       name: UI_WizardBook_Frame_14
       rect:
         serializedVersion: 2
-        x: 416
-        y: 400
-        width: 64
-        height: 16
+        x: 417
+        y: 401
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 4, y: 4, z: 4, w: 4}
@@ -1412,13 +1390,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 387
-        width: 48
-        height: 10
+        x: 33
+        y: 388
+        width: 46
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 6, y: 0, z: 6, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1434,13 +1412,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 387
-        width: 45
-        height: 10
+        x: 81
+        y: 388
+        width: 43
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 6, y: 0, z: 6, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1456,13 +1434,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 387
-        width: 48
-        height: 10
+        x: 129
+        y: 388
+        width: 46
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 6, y: 0, z: 6, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1478,13 +1456,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_3
       rect:
         serializedVersion: 2
-        x: 177
-        y: 389
-        width: 46
-        height: 7
+        x: 178
+        y: 390
+        width: 44
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 6, w: 0}
+      border: {x: 2, y: 0, z: 2, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1497,16 +1475,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_6
+      name: UI_WizardBook_Frame_15
       rect:
         serializedVersion: 2
-        x: 225
-        y: 385
-        width: 62
-        height: 14
+        x: 226
+        y: 386
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 3, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1519,16 +1497,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_9
+      name: UI_WizardBook_Frame_16
       rect:
         serializedVersion: 2
-        x: 289
-        y: 385
-        width: 62
-        height: 14
+        x: 290
+        y: 386
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 3, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1541,16 +1519,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_12
+      name: UI_WizardBook_Frame_17
       rect:
         serializedVersion: 2
-        x: 353
-        y: 385
-        width: 62
-        height: 14
+        x: 354
+        y: 386
+        width: 60
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 2, z: 3, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1563,16 +1541,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Frame_15
+      name: UI_WizardBook_Frame_18
       rect:
         serializedVersion: 2
-        x: 416
-        y: 384
-        width: 64
-        height: 16
+        x: 417
+        y: 385
+        width: 62
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 1, y: 2, z: 2, w: 1}
       customData: 
       outline: []
       physicsShape: []
@@ -1588,13 +1566,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 372
-        width: 48
-        height: 9
+        x: 33
+        y: 373
+        width: 46
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      border: {x: 3, y: 0, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1610,13 +1588,13 @@ TextureImporter:
       name: UI_WizardBook_Fill_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 357
-        width: 11
-        height: 6
+        x: 35
+        y: 358
+        width: 9
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 2, y: 0, z: 2, w: 0}
+      border: {x: 1, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1632,13 +1610,13 @@ TextureImporter:
       name: UI_WizardBook_Bar_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 372
-        width: 48
-        height: 9
+        x: 81
+        y: 373
+        width: 46
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 6, y: 0, z: 6, w: 0}
+      border: {x: 4, y: 0, z: 4, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1682,7 +1660,7 @@ TextureImporter:
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      border: {x: 2, y: 0, z: 2, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1764,13 +1742,13 @@ TextureImporter:
       name: UI_WizardBook_Dropdown_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 326
-        width: 64
-        height: 19
+        x: 33
+        y: 327
+        width: 62
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1786,13 +1764,13 @@ TextureImporter:
       name: UI_WizardBook_Dropdown_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 326
-        width: 64
-        height: 19
+        x: 97
+        y: 327
+        width: 62
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -1808,10 +1786,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_0_off
       rect:
         serializedVersion: 2
-        x: 33
-        y: 307
-        width: 13
-        height: 10
+        x: 34
+        y: 308
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1830,10 +1808,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_0_on
       rect:
         serializedVersion: 2
-        x: 49
-        y: 307
-        width: 13
-        height: 10
+        x: 50
+        y: 308
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1852,10 +1830,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_3_off
       rect:
         serializedVersion: 2
-        x: 64
-        y: 307
-        width: 16
-        height: 10
+        x: 65
+        y: 308
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1874,10 +1852,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_4_off
       rect:
         serializedVersion: 2
-        x: 79
-        y: 306
-        width: 18
-        height: 12
+        x: 80
+        y: 307
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,10 +1874,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_5_off
       rect:
         serializedVersion: 2
-        x: 102
-        y: 305
-        width: 21
-        height: 13
+        x: 103
+        y: 306
+        width: 19
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1918,10 +1896,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_2_off
       rect:
         serializedVersion: 2
-        x: 33
-        y: 291
-        width: 14
-        height: 10
+        x: 34
+        y: 292
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1918,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_2_on
       rect:
         serializedVersion: 2
-        x: 49
-        y: 291
-        width: 14
-        height: 10
+        x: 50
+        y: 292
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1963,9 +1941,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 65
-        y: 291
-        width: 16
-        height: 10
+        y: 292
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1984,10 +1962,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_4_on
       rect:
         serializedVersion: 2
-        x: 79
-        y: 290
-        width: 18
-        height: 12
+        x: 80
+        y: 291
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2006,10 +1984,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_5_on
       rect:
         serializedVersion: 2
-        x: 102
-        y: 290
-        width: 21
-        height: 13
+        x: 103
+        y: 291
+        width: 19
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2028,10 +2006,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_1_off
       rect:
         serializedVersion: 2
-        x: 33
-        y: 275
-        width: 13
-        height: 10
+        x: 34
+        y: 276
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2050,10 +2028,10 @@ TextureImporter:
       name: UI_WizardBook_Toggle_1_on
       rect:
         serializedVersion: 2
-        x: 49
-        y: 275
-        width: 13
-        height: 10
+        x: 50
+        y: 276
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2072,13 +2050,13 @@ TextureImporter:
       name: UI_WizardBook_Toggle_6_off
       rect:
         serializedVersion: 2
-        x: 80
-        y: 269
-        width: 47
-        height: 18
+        x: 81
+        y: 270
+        width: 45
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 2, y: 3, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -2091,16 +2069,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_7_on
+      name: UI_WizardBook_Toggle_7
       rect:
         serializedVersion: 2
-        x: 31
-        y: 256
-        width: 17
-        height: 16
+        x: 32
+        y: 257
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2113,16 +2091,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_7_off
+      name: UI_WizardBook_Toggle_8
       rect:
         serializedVersion: 2
-        x: 31
-        y: 240
-        width: 17
-        height: 16
+        x: 32
+        y: 241
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2135,16 +2113,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_8_on
+      name: UI_WizardBook_Toggle_7_on
       rect:
         serializedVersion: 2
-        x: 47
-        y: 256
-        width: 17
-        height: 16
+        x: 48
+        y: 257
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 2, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2157,16 +2135,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_8_off
+      name: UI_WizardBook_Toggle_8_on
       rect:
         serializedVersion: 2
-        x: 47
-        y: 240
-        width: 17
-        height: 16
+        x: 48
+        y: 241
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2179,16 +2157,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_9_on
+      name: UI_WizardBook_Toggle_7_off
       rect:
         serializedVersion: 2
-        x: 63
-        y: 256
-        width: 17
-        height: 16
+        x: 64
+        y: 257
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 3, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -2201,16 +2179,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Toggle_9_off
+      name: UI_WizardBook_Toggle_8_off
       rect:
         serializedVersion: 2
-        x: 63
-        y: 240
-        width: 17
-        height: 16
+        x: 64
+        y: 241
+        width: 15
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 2, z: 2, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2226,13 +2204,13 @@ TextureImporter:
       name: UI_WizardBook_Toggle_6_on
       rect:
         serializedVersion: 2
-        x: 80
-        y: 250
-        width: 47
-        height: 18
+        x: 81
+        y: 251
+        width: 45
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 4}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2245,13 +2223,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_0_0
+      name: UI_WizardBook_Button_a0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 227
-        width: 13
-        height: 10
+        x: 35
+        y: 228
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2267,13 +2245,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_0_1
+      name: UI_WizardBook_Button_a0_minus
       rect:
         serializedVersion: 2
-        x: 50
-        y: 227
-        width: 13
-        height: 10
+        x: 51
+        y: 228
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2289,13 +2267,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_0_2
+      name: UI_WizardBook_Button_a0_left
       rect:
         serializedVersion: 2
-        x: 66
-        y: 227
-        width: 13
-        height: 10
+        x: 67
+        y: 228
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2311,13 +2289,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_1_0
+      name: UI_WizardBook_Button_a1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 227
-        width: 14
-        height: 10
+        x: 82
+        y: 228
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2333,13 +2311,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_1_1
+      name: UI_WizardBook_Button_a1_minus
       rect:
         serializedVersion: 2
-        x: 97
-        y: 227
-        width: 14
-        height: 10
+        x: 98
+        y: 228
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2355,13 +2333,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_1_2
+      name: UI_WizardBook_Button_a1_left
       rect:
         serializedVersion: 2
-        x: 113
-        y: 227
-        width: 14
-        height: 10
+        x: 114
+        y: 228
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2377,13 +2355,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_2_0
+      name: UI_WizardBook_Button_a2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 225
-        width: 10
-        height: 14
+        x: 132
+        y: 226
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2399,13 +2377,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_2_1
+      name: UI_WizardBook_Button_a2_left
       rect:
         serializedVersion: 2
-        x: 147
-        y: 225
-        width: 10
-        height: 14
+        x: 148
+        y: 226
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,13 +2399,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_3_0
+      name: UI_WizardBook_Button_b0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 211
-        width: 13
-        height: 10
+        x: 35
+        y: 212
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2443,13 +2421,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_3_1
+      name: UI_WizardBook_Button_b0_plus
       rect:
         serializedVersion: 2
-        x: 50
-        y: 211
-        width: 13
-        height: 10
+        x: 51
+        y: 212
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2465,13 +2443,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_3_2
+      name: UI_WizardBook_Button_b0_right
       rect:
         serializedVersion: 2
-        x: 66
-        y: 211
-        width: 13
-        height: 10
+        x: 67
+        y: 212
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2487,13 +2465,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_4_0
+      name: UI_WizardBook_Button_b1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 211
-        width: 14
-        height: 10
+        x: 82
+        y: 212
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2509,13 +2487,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_4_1
+      name: UI_WizardBook_Button_b1_plus
       rect:
         serializedVersion: 2
-        x: 97
-        y: 211
-        width: 14
-        height: 10
+        x: 98
+        y: 212
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2531,13 +2509,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_4_2
+      name: UI_WizardBook_Button_b1_right
       rect:
         serializedVersion: 2
-        x: 113
-        y: 211
-        width: 14
-        height: 10
+        x: 114
+        y: 212
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2553,13 +2531,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_5_0
+      name: UI_WizardBook_Button_b2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 209
-        width: 10
-        height: 14
+        x: 132
+        y: 210
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2575,13 +2553,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_5_1
+      name: UI_WizardBook_Button_b2_right
       rect:
         serializedVersion: 2
-        x: 147
-        y: 209
-        width: 10
-        height: 14
+        x: 148
+        y: 210
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2597,16 +2575,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_6_0
+      name: UI_WizardBook_Button_c0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 182
-        width: 28
-        height: 20
+        x: 35
+        y: 183
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 8, z: 4, w: 4}
+      border: {x: 3, y: 6, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2619,16 +2597,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_6_1
+      name: UI_WizardBook_Button_c1
       rect:
         serializedVersion: 2
-        x: 66
-        y: 182
-        width: 28
-        height: 20
+        x: 67
+        y: 183
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 8, z: 4, w: 4}
+      border: {x: 3, y: 6, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2641,16 +2619,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_7_0
+      name: UI_WizardBook_Button_d0
       rect:
         serializedVersion: 2
-        x: 98
-        y: 182
-        width: 28
-        height: 20
+        x: 99
+        y: 183
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 8, z: 4, w: 4}
+      border: {x: 3, y: 6, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2663,16 +2641,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Button_7_1
+      name: UI_WizardBook_Button_d1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 182
-        width: 28
-        height: 20
+        x: 131
+        y: 183
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 8, z: 4, w: 4}
+      border: {x: 3, y: 6, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -2685,13 +2663,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_100
+      name: UI_WizardBook_Gamdpad_left
       rect:
         serializedVersion: 2
-        x: 34
-        y: 163
-        width: 12
-        height: 10
+        x: 35
+        y: 164
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2707,13 +2685,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_101
+      name: UI_WizardBook_Gamdpad_up
       rect:
         serializedVersion: 2
-        x: 51
-        y: 161
-        width: 10
-        height: 13
+        x: 52
+        y: 162
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2729,13 +2707,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_102
+      name: UI_WizardBook_Gamdpad_right
       rect:
         serializedVersion: 2
-        x: 66
-        y: 163
-        width: 12
-        height: 10
+        x: 67
+        y: 164
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2751,13 +2729,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_103
+      name: UI_WizardBook_Gamdpad_down
       rect:
         serializedVersion: 2
-        x: 83
-        y: 161
-        width: 10
-        height: 13
+        x: 84
+        y: 162
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2773,13 +2751,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_104
+      name: UI_WizardBook_Gamdpad_A
       rect:
         serializedVersion: 2
-        x: 98
-        y: 162
-        width: 11
-        height: 11
+        x: 99
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2795,13 +2773,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_105
+      name: UI_WizardBook_Gamdpad_B
       rect:
         serializedVersion: 2
-        x: 114
-        y: 162
-        width: 11
-        height: 11
+        x: 115
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2817,13 +2795,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_106
+      name: UI_WizardBook_Gamdpad_X
       rect:
         serializedVersion: 2
-        x: 130
-        y: 162
-        width: 11
-        height: 11
+        x: 131
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2839,13 +2817,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_107
+      name: UI_WizardBook_Gamdpad_Y
       rect:
         serializedVersion: 2
-        x: 146
-        y: 162
-        width: 11
-        height: 11
+        x: 147
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2861,13 +2839,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_108
+      name: UI_WizardBook_Gamdpad_L
       rect:
         serializedVersion: 2
-        x: 162
-        y: 162
-        width: 11
-        height: 11
+        x: 163
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2883,13 +2861,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_109
+      name: UI_WizardBook_Gamdpad_R
       rect:
         serializedVersion: 2
-        x: 178
-        y: 162
-        width: 11
-        height: 11
+        x: 179
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2905,13 +2883,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_110
+      name: UI_WizardBook_Gamdpad_L3
       rect:
         serializedVersion: 2
-        x: 193
-        y: 162
-        width: 15
-        height: 11
+        x: 194
+        y: 163
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2927,13 +2905,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_111
+      name: UI_WizardBook_Gamdpad_R3
       rect:
         serializedVersion: 2
-        x: 209
-        y: 162
-        width: 15
-        height: 11
+        x: 210
+        y: 163
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2949,13 +2927,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_112
+      name: UI_WizardBook_Gamdpad_LB
       rect:
         serializedVersion: 2
-        x: 224
-        y: 163
-        width: 17
-        height: 10
+        x: 225
+        y: 164
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2971,13 +2949,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_113
+      name: UI_WizardBook_Gamdpad_RB
       rect:
         serializedVersion: 2
-        x: 240
-        y: 163
-        width: 17
-        height: 10
+        x: 241
+        y: 164
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2993,13 +2971,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_114
+      name: UI_WizardBook_Gamdpad_LT
       rect:
         serializedVersion: 2
-        x: 256
-        y: 163
-        width: 17
-        height: 10
+        x: 257
+        y: 164
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3015,13 +2993,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_115
+      name: UI_WizardBook_Gamdpad_R5
       rect:
         serializedVersion: 2
-        x: 272
-        y: 163
-        width: 17
-        height: 10
+        x: 273
+        y: 164
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3037,13 +3015,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_116
+      name: UI_WizardBook_Gamdpad_select
       rect:
         serializedVersion: 2
-        x: 291
-        y: 162
-        width: 11
-        height: 11
+        x: 292
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3059,13 +3037,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_117
+      name: UI_WizardBook_Gamdpad_option
       rect:
         serializedVersion: 2
-        x: 307
-        y: 162
-        width: 11
-        height: 11
+        x: 308
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3081,13 +3059,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_118
+      name: UI_WizardBook_Gamdpad_power
       rect:
         serializedVersion: 2
-        x: 323
-        y: 162
-        width: 11
-        height: 11
+        x: 324
+        y: 163
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3103,13 +3081,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_119
+      name: UI_WizardBook_Handle_01
       rect:
         serializedVersion: 2
-        x: 35
-        y: 145
-        width: 9
-        height: 14
+        x: 36
+        y: 146
+        width: 7
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3125,13 +3103,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_120
+      name: UI_WizardBook_Handle_02
       rect:
         serializedVersion: 2
-        x: 51
-        y: 145
-        width: 10
-        height: 14
+        x: 52
+        y: 146
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3147,13 +3125,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_121
+      name: UI_WizardBook_Point_01
       rect:
         serializedVersion: 2
-        x: 68
-        y: 148
-        width: 8
-        height: 7
+        x: 69
+        y: 149
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3169,13 +3147,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_122
+      name: UI_WizardBook_Point_02
       rect:
         serializedVersion: 2
-        x: 84
-        y: 148
-        width: 8
-        height: 7
+        x: 85
+        y: 149
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3191,13 +3169,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_123
+      name: UI_WizardBook_Point_03
       rect:
         serializedVersion: 2
-        x: 100
-        y: 148
-        width: 8
-        height: 7
+        x: 101
+        y: 149
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3213,13 +3191,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_124
+      name: UI_WizardBook_IconShortcut_down
       rect:
         serializedVersion: 2
-        x: 116
-        y: 147
-        width: 9
-        height: 8
+        x: 117
+        y: 148
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3235,13 +3213,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_125
+      name: UI_WizardBook_IconShortcut_left
       rect:
         serializedVersion: 2
-        x: 132
-        y: 147
-        width: 8
-        height: 9
+        x: 133
+        y: 148
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3257,13 +3235,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_126
+      name: UI_WizardBook_IconShortcut_top
       rect:
         serializedVersion: 2
-        x: 147
-        y: 147
-        width: 9
-        height: 8
+        x: 148
+        y: 148
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3279,13 +3257,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_127
+      name: UI_WizardBook_IconShortcut_right
       rect:
         serializedVersion: 2
-        x: 164
-        y: 147
-        width: 8
-        height: 9
+        x: 165
+        y: 148
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3301,13 +3279,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_128
+      name: UI_WizardBook_Cursor_a01
       rect:
         serializedVersion: 2
-        x: 179
-        y: 145
-        width: 10
-        height: 15
+        x: 180
+        y: 146
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3323,13 +3301,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_129
+      name: UI_WizardBook_Cursor_a02
       rect:
         serializedVersion: 2
-        x: 196
-        y: 146
-        width: 10
-        height: 13
+        x: 197
+        y: 147
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3345,13 +3323,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_130
+      name: UI_WizardBook_Cursor_a03
       rect:
         serializedVersion: 2
-        x: 212
-        y: 147
-        width: 10
-        height: 10
+        x: 213
+        y: 148
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3367,13 +3345,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_131
+      name: UI_WizardBook_Gamdpad_LMove_Horizon
       rect:
         serializedVersion: 2
-        x: 229
-        y: 146
-        width: 27
-        height: 11
+        x: 240
+        y: 147
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3389,13 +3367,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_132
+      name: UI_WizardBook_Gamdpad_RMove_Horizon
       rect:
         serializedVersion: 2
-        x: 255
-        y: 146
-        width: 17
-        height: 11
+        x: 256
+        y: 147
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3411,13 +3389,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_133
+      name: UI_WizardBook_Gamdpad_LMove_Vertical
       rect:
         serializedVersion: 2
-        x: 274
-        y: 143
-        width: 11
-        height: 17
+        x: 275
+        y: 144
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3433,13 +3411,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_134
+      name: UI_WizardBook_Gamdpad_RMove_Vertical
       rect:
         serializedVersion: 2
-        x: 290
-        y: 143
-        width: 11
-        height: 17
+        x: 291
+        y: 144
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3455,13 +3433,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_135
+      name: UI_WizardBook_Gamdpad_LMove
       rect:
         serializedVersion: 2
-        x: 303
-        y: 143
-        width: 17
-        height: 17
+        x: 304
+        y: 144
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3477,13 +3455,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_136
+      name: UI_WizardBook_Gamdpad_RMove
       rect:
         serializedVersion: 2
-        x: 319
-        y: 143
-        width: 17
-        height: 17
+        x: 320
+        y: 144
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3499,13 +3477,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_137
+      name: UI_WizardBook_Handle_03
       rect:
         serializedVersion: 2
-        x: 35
-        y: 114
-        width: 11
-        height: 28
+        x: 36
+        y: 115
+        width: 9
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3521,13 +3499,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_138
+      name: UI_WizardBook_Dropdown_01
       rect:
         serializedVersion: 2
-        x: 50
-        y: 131
-        width: 11
-        height: 9
+        x: 51
+        y: 132
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3543,13 +3521,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_139
+      name: UI_WizardBook_Dropdown_02
       rect:
         serializedVersion: 2
-        x: 66
-        y: 131
-        width: 11
-        height: 9
+        x: 67
+        y: 132
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3565,13 +3543,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_140
+      name: UI_WizardBook_Alert_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 131
-        width: 7
-        height: 11
+        x: 86
+        y: 132
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3587,13 +3565,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_141
+      name: UI_WizardBook_Alert_2
       rect:
         serializedVersion: 2
-        x: 100
-        y: 131
-        width: 7
-        height: 11
+        x: 101
+        y: 132
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3609,13 +3587,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_142
+      name: UI_WizardBook_Alert_3
       rect:
         serializedVersion: 2
-        x: 116
-        y: 131
-        width: 7
-        height: 11
+        x: 117
+        y: 132
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3631,13 +3609,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_143
+      name: UI_WizardBook_IconDirection_01
       rect:
         serializedVersion: 2
-        x: 132
-        y: 131
-        width: 9
-        height: 10
+        x: 133
+        y: 132
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3653,13 +3631,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_144
+      name: UI_WizardBook_IconPress
       rect:
         serializedVersion: 2
-        x: 147
-        y: 130
-        width: 9
-        height: 12
+        x: 148
+        y: 131
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3697,13 +3675,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_146
+      name: UI_WizardBook_IconHold
       rect:
         serializedVersion: 2
         x: 162
         y: 130
         width: 11
-        height: 13
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3719,13 +3697,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_147
+      name: UI_WizardBook_Cursor_b01
       rect:
         serializedVersion: 2
-        x: 180
-        y: 128
-        width: 10
-        height: 15
+        x: 181
+        y: 129
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3741,13 +3719,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_148
+      name: UI_WizardBook_Cursor_b02
       rect:
         serializedVersion: 2
-        x: 196
-        y: 129
-        width: 10
-        height: 13
+        x: 197
+        y: 130
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3763,13 +3741,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_149
+      name: UI_WizardBook_Cursor_b03
       rect:
         serializedVersion: 2
-        x: 212
-        y: 131
-        width: 10
-        height: 10
+        x: 213
+        y: 132
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3785,13 +3763,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_150
+      name: UI_WizardBook_Alert_4
       rect:
         serializedVersion: 2
-        x: 85
-        y: 115
-        width: 7
-        height: 11
+        x: 86
+        y: 116
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3807,13 +3785,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_151
+      name: UI_WizardBook_Alert_5
       rect:
         serializedVersion: 2
-        x: 100
-        y: 115
-        width: 7
-        height: 11
+        x: 101
+        y: 116
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3829,13 +3807,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_152
+      name: UI_WizardBook_Alert_6
       rect:
         serializedVersion: 2
-        x: 116
-        y: 115
-        width: 7
-        height: 11
+        x: 117
+        y: 116
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3851,13 +3829,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_153
+      name: UI_WizardBook_IconDirection_02
       rect:
         serializedVersion: 2
-        x: 131
-        y: 116
-        width: 10
-        height: 8
+        x: 132
+        y: 117
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3873,13 +3851,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_154
+      name: UI_WizardBook_IconDirection_03
       rect:
         serializedVersion: 2
-        x: 147
-        y: 116
-        width: 9
-        height: 7
+        x: 148
+        y: 117
+        width: 7
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3895,13 +3873,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_155
+      name: UI_WizardBook_IconCheck
       rect:
         serializedVersion: 2
-        x: 164
-        y: 116
-        width: 9
-        height: 8
+        x: 165
+        y: 117
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3917,13 +3895,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_156
+      name: UI_WizardBook_Cursor_c01
       rect:
         serializedVersion: 2
-        x: 180
-        y: 112
-        width: 10
-        height: 15
+        x: 181
+        y: 113
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3939,13 +3917,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_157
+      name: UI_WizardBook_Cursor_c02
       rect:
         serializedVersion: 2
-        x: 196
-        y: 113
-        width: 10
-        height: 13
+        x: 197
+        y: 114
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3961,13 +3939,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetInfo01a_158
+      name: UI_WizardBook_Cursor_c03
       rect:
         serializedVersion: 2
-        x: 212
-        y: 115
-        width: 10
-        height: 10
+        x: 213
+        y: 116
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3992,7 +3970,7 @@ TextureImporter:
         height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 8, y: 8, z: 8, w: 8}
+      border: {x: 7, y: 7, z: 7, w: 7}
       customData: 
       outline: []
       physicsShape: []
@@ -4005,13 +3983,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_4
+      name: UI_WizardBook_IconItems_02
       rect:
         serializedVersion: 2
-        x: 33
-        y: 34
-        width: 19
-        height: 20
+        x: 34
+        y: 36
+        width: 17
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4027,13 +4005,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_6
+      name: UI_WizardBook_IconTreasures_02
       rect:
         serializedVersion: 2
-        x: 77
-        y: 37
-        width: 18
-        height: 16
+        x: 79
+        y: 38
+        width: 15
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4049,13 +4027,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_3
+      name: UI_WizardBook_IconKeys_01
       rect:
         serializedVersion: 2
-        x: 97
-        y: 61
-        width: 19
-        height: 16
+        x: 98
+        y: 64
+        width: 17
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4071,13 +4049,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_2
+      name: UI_WizardBook_IconTreasures_01
       rect:
         serializedVersion: 2
-        x: 77
-        y: 61
-        width: 18
-        height: 16
+        x: 79
+        y: 63
+        width: 15
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4093,13 +4071,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_0
+      name: UI_WizardBook_IconItems_01
       rect:
         serializedVersion: 2
         x: 34
-        y: 60
-        width: 19
-        height: 20
+        y: 61
+        width: 17
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4115,13 +4093,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_1
+      name: UI_WizardBook_IconApple_1
       rect:
         serializedVersion: 2
-        x: 55
-        y: 60
-        width: 19
-        height: 20
+        x: 56
+        y: 61
+        width: 17
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4137,13 +4115,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_8
+      name: UI_WizardBook_IconHerb_01
       rect:
         serializedVersion: 2
-        x: 129
-        y: 65
-        width: 14
-        height: 13
+        x: 130
+        y: 66
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4159,13 +4137,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_9
+      name: UI_WizardBook_IconHerb_02
       rect:
         serializedVersion: 2
-        x: 145
-        y: 65
-        width: 14
-        height: 13
+        x: 146
+        y: 66
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4181,13 +4159,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_5
+      name: UI_WizardBook_IconApple_2
       rect:
         serializedVersion: 2
-        x: 55
-        y: 34
-        width: 19
-        height: 20
+        x: 56
+        y: 36
+        width: 17
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4203,13 +4181,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_7
+      name: UI_WizardBook_IconKeys_02
       rect:
         serializedVersion: 2
-        x: 97
-        y: 37
-        width: 19
-        height: 16
+        x: 98
+        y: 40
+        width: 17
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4225,13 +4203,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_10
+      name: UI_WizardBook_IconHerb_03
       rect:
         serializedVersion: 2
-        x: 129
-        y: 49
-        width: 14
-        height: 13
+        x: 130
+        y: 50
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4247,13 +4225,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_11
+      name: UI_WizardBook_IconHerb_04
       rect:
         serializedVersion: 2
-        x: 145
-        y: 49
-        width: 14
-        height: 13
+        x: 146
+        y: 50
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4269,13 +4247,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_Icon_12
+      name: UI_WizardBook_IconHealth
       rect:
         serializedVersion: 2
-        x: 131
-        y: 36
-        width: 11
-        height: 9
+        x: 132
+        y: 37
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4356,6 +4334,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: UI_WizardBook_Gamdpad_Slash
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 147
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7040326b0a71ad49a41c28a4609c6ac
+      internalID: 413378360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -4370,6 +4370,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      1: -7488824492698004042
+      UI_WizardBook_Alert_1: -4144075740651341559
+      UI_WizardBook_Alert_2: -8935872619269132240
+      UI_WizardBook_Alert_3: -6057288609589357021
+      UI_WizardBook_Alert_4: 178748559341002910
+      UI_WizardBook_Alert_5: -6952710595333505308
+      UI_WizardBook_Alert_6: -1799712759986760275
       UI_WizardBook_Banner_0: -3343897881542668450
       UI_WizardBook_Banner_1: -7413175229126925537
       UI_WizardBook_Bar_0: -3014694881065373212
@@ -4380,144 +4387,139 @@ TextureImporter:
       UI_WizardBook_Bar_5: 7231485433203316680
       UI_WizardBook_Bar_6: 5677212825180002800
       UI_WizardBook_Bar_7: -5676697454972219192
-      UI_WizardBook_Button_0_0: -524272761172664343
-      UI_WizardBook_Button_0_1: -3597457018392644536
-      UI_WizardBook_Button_0_2: -5320047032491292590
-      UI_WizardBook_Button_1_0: -3926816305953251670
-      UI_WizardBook_Button_1_1: -2531434260256018859
-      UI_WizardBook_Button_1_2: 1211873611627871668
-      UI_WizardBook_Button_2_0: 1586144103808928884
-      UI_WizardBook_Button_2_1: -4777932216982834520
-      UI_WizardBook_Button_3_0: -5691975316020967449
-      UI_WizardBook_Button_3_1: -7539634284772652189
-      UI_WizardBook_Button_3_2: -554642405130494159
-      UI_WizardBook_Button_4_0: 389935554754286992
-      UI_WizardBook_Button_4_1: -24500112109652938
-      UI_WizardBook_Button_4_2: 4388461540192411232
-      UI_WizardBook_Button_5_0: -9181752336613825326
-      UI_WizardBook_Button_5_1: 1426663733664000754
-      UI_WizardBook_Button_6_0: -6721242035659718791
-      UI_WizardBook_Button_6_1: 8768888043347744711
-      UI_WizardBook_Button_7_0: -6405980625145544928
-      UI_WizardBook_Button_7_1: 2969298926960767937
-      UI_WizardBook_CoverBook_0: 7193035527422363262
-      UI_WizardBook_CoverBook_1: 956464329773743017
-      UI_WizardBook_CoverBook_2: -2189946761257890346
+      UI_WizardBook_BookCover: 7193035527422363262
+      UI_WizardBook_BookPage_left: 956464329773743017
+      UI_WizardBook_BookPage_right: -2189946761257890346
+      UI_WizardBook_Button_a0: -524272761172664343
+      UI_WizardBook_Button_a0_left: -5320047032491292590
+      UI_WizardBook_Button_a0_minus: -3597457018392644536
+      UI_WizardBook_Button_a1: -3926816305953251670
+      UI_WizardBook_Button_a1_left: 1211873611627871668
+      UI_WizardBook_Button_a1_minus: -2531434260256018859
+      UI_WizardBook_Button_a2: 1586144103808928884
+      UI_WizardBook_Button_a2_left: -4777932216982834520
+      UI_WizardBook_Button_b0: -5691975316020967449
+      UI_WizardBook_Button_b0_plus: -7539634284772652189
+      UI_WizardBook_Button_b0_right: -554642405130494159
+      UI_WizardBook_Button_b1: 389935554754286992
+      UI_WizardBook_Button_b1_plus: -24500112109652938
+      UI_WizardBook_Button_b1_right: 4388461540192411232
+      UI_WizardBook_Button_b2: -9181752336613825326
+      UI_WizardBook_Button_b2_right: 1426663733664000754
+      UI_WizardBook_Button_c0: -6721242035659718791
+      UI_WizardBook_Button_c1: 8768888043347744711
+      UI_WizardBook_Button_d0: -6405980625145544928
+      UI_WizardBook_Button_d1: 2969298926960767937
+      UI_WizardBook_Cursor_a01: 283979817350555390
+      UI_WizardBook_Cursor_a02: -8889804499953158380
+      UI_WizardBook_Cursor_a03: -2913958735899970078
+      UI_WizardBook_Cursor_b01: 2226016334820283449
+      UI_WizardBook_Cursor_b02: 9020208693388221620
+      UI_WizardBook_Cursor_b03: -3439236561000834653
+      UI_WizardBook_Cursor_c01: 3654287348541797544
+      UI_WizardBook_Cursor_c02: -7664322311848266298
+      UI_WizardBook_Cursor_c03: 4101070565163649750
       UI_WizardBook_Dropdown_0: 1458994891896786928
+      UI_WizardBook_Dropdown_01: 7208657737840199071
+      UI_WizardBook_Dropdown_02: -3872659408454435355
       UI_WizardBook_Dropdown_1: -3409780900027795288
       UI_WizardBook_Fill_0: -8663361512515692374
       UI_WizardBook_Fill_1: -1917825113003366048
       UI_WizardBook_Fill_2: -1256221507245103797
       UI_WizardBook_Fill_3: 5631221488629717548
       UI_WizardBook_Fill_4: -7863363031196207677
-      UI_WizardBook_Frame_0: -7048998931956509284
-      UI_WizardBook_Frame_1: -2852740593635480321
-      UI_WizardBook_Frame_10: -2527381198631315568
-      UI_WizardBook_Frame_11: -4509145579890327403
-      UI_WizardBook_Frame_12: -7970080065385934373
-      UI_WizardBook_Frame_13: -6369069187875581986
+      UI_WizardBook_Frame_01: -7048998931956509284
+      UI_WizardBook_Frame_02: -2852740593635480321
+      UI_WizardBook_Frame_03: 4812621064977884013
+      UI_WizardBook_Frame_04: -3381043297814909472
+      UI_WizardBook_Frame_05: -4234517839226379048
+      UI_WizardBook_Frame_06: 1508484450508821483
+      UI_WizardBook_Frame_07: -2527381198631315568
+      UI_WizardBook_Frame_08: -6369069187875581986
+      UI_WizardBook_Frame_09: -933159376622509695
+      UI_WizardBook_Frame_10: -483199197122610813
+      UI_WizardBook_Frame_11: 4528184330264393716
+      UI_WizardBook_Frame_12: 3767134766659936576
+      UI_WizardBook_Frame_13: -4509145579890327403
       UI_WizardBook_Frame_14: 8392322783496431710
-      UI_WizardBook_Frame_15: -7488824492698004042
-      UI_WizardBook_Frame_16: -933159376622509695
-      UI_WizardBook_Frame_17: -483199197122610813
-      UI_WizardBook_Frame_2: 4812621064977884013
-      UI_WizardBook_Frame_3: -3381043297814909472
-      UI_WizardBook_Frame_4: -4234517839226379048
-      UI_WizardBook_Frame_5: 4528184330264393716
-      UI_WizardBook_Frame_6: 5144754307720642322
-      UI_WizardBook_Frame_7: 1508484450508821483
-      UI_WizardBook_Frame_8: 3767134766659936576
-      UI_WizardBook_Frame_9: 8664066403389009066
-      UI_WizardBook_Icon_0: 4750958397985391866
-      UI_WizardBook_Icon_1: 5284987775755124592
-      UI_WizardBook_Icon_10: -4339796458238124533
-      UI_WizardBook_Icon_11: 55631212372633703
-      UI_WizardBook_Icon_12: 5673835095595667811
-      UI_WizardBook_Icon_2: 4968967947134597102
-      UI_WizardBook_Icon_3: 8245465075722103083
-      UI_WizardBook_Icon_4: -9185789105186160202
-      UI_WizardBook_Icon_5: 557560591701301121
-      UI_WizardBook_Icon_6: -3462949157968546475
-      UI_WizardBook_Icon_7: 5681277210890360633
-      UI_WizardBook_Icon_8: 89391014208625733
-      UI_WizardBook_Icon_9: -5146714017495857996
+      UI_WizardBook_Frame_15: 5144754307720642322
+      UI_WizardBook_Frame_16: 8664066403389009066
+      UI_WizardBook_Frame_17: -7970080065385934373
+      UI_WizardBook_Frame_18: -7488824492698004042
+      UI_WizardBook_Gamdpad_A: -3478887424612872888
+      UI_WizardBook_Gamdpad_B: 8155177403499008586
+      UI_WizardBook_Gamdpad_L: -705271821768826784
+      UI_WizardBook_Gamdpad_L3: 4690903787731880915
+      UI_WizardBook_Gamdpad_LB: -4801230095449034472
+      UI_WizardBook_Gamdpad_LMove: 7178928545545109190
+      UI_WizardBook_Gamdpad_LMove_Horizon: 4060591338747995274
+      UI_WizardBook_Gamdpad_LMove_Vertical: -3079074142691125579
+      UI_WizardBook_Gamdpad_LT: -7012687812682134556
+      UI_WizardBook_Gamdpad_R: -3946002168403040792
+      UI_WizardBook_Gamdpad_R3: -2113572342680910279
+      UI_WizardBook_Gamdpad_R5: 6561459875942161961
+      UI_WizardBook_Gamdpad_RB: -8634061355032344267
+      UI_WizardBook_Gamdpad_RMove: 4109309171282247104
+      UI_WizardBook_Gamdpad_RMove_Horizon: 5071035060930470209
+      UI_WizardBook_Gamdpad_RMove_Vertical: 5870156421384651605
+      UI_WizardBook_Gamdpad_Slash: 413378360
+      UI_WizardBook_Gamdpad_X: 4388103998166399699
+      UI_WizardBook_Gamdpad_Y: -6997702319149405805
+      UI_WizardBook_Gamdpad_down: 2648742318244909606
+      UI_WizardBook_Gamdpad_left: -9187761485600501765
+      UI_WizardBook_Gamdpad_option: -817894092150327638
+      UI_WizardBook_Gamdpad_power: 8412415778186345710
+      UI_WizardBook_Gamdpad_right: 5512538197504594967
+      UI_WizardBook_Gamdpad_select: -2158854751592535307
+      UI_WizardBook_Gamdpad_up: 8748002704934656993
+      UI_WizardBook_Handle_01: -7296344118753606083
+      UI_WizardBook_Handle_02: 6333453264446447686
+      UI_WizardBook_Handle_03: -3933415176258146231
+      UI_WizardBook_IconApple_1: 5284987775755124592
+      UI_WizardBook_IconApple_2: 557560591701301121
+      UI_WizardBook_IconCheck: -5984576323389736327
+      UI_WizardBook_IconDirection_01: -3407945040614203303
+      UI_WizardBook_IconDirection_02: -4669570065056756718
+      UI_WizardBook_IconDirection_03: -5315220730134039177
+      UI_WizardBook_IconHealth: 5673835095595667811
+      UI_WizardBook_IconHerb_01: 89391014208625733
+      UI_WizardBook_IconHerb_02: -5146714017495857996
+      UI_WizardBook_IconHerb_03: -4339796458238124533
+      UI_WizardBook_IconHerb_04: 55631212372633703
+      UI_WizardBook_IconHold: -6772226119137909453
+      UI_WizardBook_IconItems_01: 4750958397985391866
+      UI_WizardBook_IconItems_02: -9185789105186160202
+      UI_WizardBook_IconKeys_01: 8245465075722103083
+      UI_WizardBook_IconKeys_02: 5681277210890360633
+      UI_WizardBook_IconPress: -7624189630307319238
+      UI_WizardBook_IconShortcut_down: -1426806782219064790
+      UI_WizardBook_IconShortcut_left: 1307618287689643208
+      UI_WizardBook_IconShortcut_right: 2782374821611207658
+      UI_WizardBook_IconShortcut_top: -7354787827199364260
+      UI_WizardBook_IconTreasures_01: 4968967947134597102
+      UI_WizardBook_IconTreasures_02: -3462949157968546475
       UI_WizardBook_Line_0: 1634941832749985490
       UI_WizardBook_Line_1: 1654245988
       UI_WizardBook_Line_2: -442551982
       UI_WizardBook_Line_3: -22106998
       UI_WizardBook_Marker_0: -6802938948849723144
       UI_WizardBook_Marker_1: -267829302184673235
+      UI_WizardBook_Point_01: -815257017439483149
+      UI_WizardBook_Point_02: -5264917568678223316
+      UI_WizardBook_Point_03: -5058907722454129189
       UI_WizardBook_Select: -2724321171118738004
-      UI_WizardBook_Slot_0: 6477782578277152724
-      UI_WizardBook_Slot_1: 359585593423210411
-      UI_WizardBook_Slot_10: 2489415754877151816
-      UI_WizardBook_Slot_11: -9192180373827350498
-      UI_WizardBook_Slot_2: 3878998022490593155
-      UI_WizardBook_Slot_3: 7207644334407035329
-      UI_WizardBook_Slot_4: -4901528181436006007
-      UI_WizardBook_Slot_5: 5175833400807593087
-      UI_WizardBook_Slot_6: -4438992355297940581
-      UI_WizardBook_Slot_7: 1994665469501677286
-      UI_WizardBook_Slot_8: 435199457556352993
-      UI_WizardBook_Slot_9: -5430818114228586072
-      UI_WizardBook_SpritesheetInfo01a_100: -9187761485600501765
-      UI_WizardBook_SpritesheetInfo01a_101: 8748002704934656993
-      UI_WizardBook_SpritesheetInfo01a_102: 5512538197504594967
-      UI_WizardBook_SpritesheetInfo01a_103: 2648742318244909606
-      UI_WizardBook_SpritesheetInfo01a_104: -3478887424612872888
-      UI_WizardBook_SpritesheetInfo01a_105: 8155177403499008586
-      UI_WizardBook_SpritesheetInfo01a_106: 4388103998166399699
-      UI_WizardBook_SpritesheetInfo01a_107: -6997702319149405805
-      UI_WizardBook_SpritesheetInfo01a_108: -705271821768826784
-      UI_WizardBook_SpritesheetInfo01a_109: -3946002168403040792
-      UI_WizardBook_SpritesheetInfo01a_110: 4690903787731880915
-      UI_WizardBook_SpritesheetInfo01a_111: -2113572342680910279
-      UI_WizardBook_SpritesheetInfo01a_112: -4801230095449034472
-      UI_WizardBook_SpritesheetInfo01a_113: -8634061355032344267
-      UI_WizardBook_SpritesheetInfo01a_114: -7012687812682134556
-      UI_WizardBook_SpritesheetInfo01a_115: 6561459875942161961
-      UI_WizardBook_SpritesheetInfo01a_116: -2158854751592535307
-      UI_WizardBook_SpritesheetInfo01a_117: -817894092150327638
-      UI_WizardBook_SpritesheetInfo01a_118: 8412415778186345710
-      UI_WizardBook_SpritesheetInfo01a_119: -7296344118753606083
-      UI_WizardBook_SpritesheetInfo01a_120: 6333453264446447686
-      UI_WizardBook_SpritesheetInfo01a_121: -815257017439483149
-      UI_WizardBook_SpritesheetInfo01a_122: -5264917568678223316
-      UI_WizardBook_SpritesheetInfo01a_123: -5058907722454129189
-      UI_WizardBook_SpritesheetInfo01a_124: -1426806782219064790
-      UI_WizardBook_SpritesheetInfo01a_125: 1307618287689643208
-      UI_WizardBook_SpritesheetInfo01a_126: -7354787827199364260
-      UI_WizardBook_SpritesheetInfo01a_127: 2782374821611207658
-      UI_WizardBook_SpritesheetInfo01a_128: 283979817350555390
-      UI_WizardBook_SpritesheetInfo01a_129: -8889804499953158380
-      UI_WizardBook_SpritesheetInfo01a_130: -2913958735899970078
-      UI_WizardBook_SpritesheetInfo01a_131: 4060591338747995274
-      UI_WizardBook_SpritesheetInfo01a_132: 5071035060930470209
-      UI_WizardBook_SpritesheetInfo01a_133: -3079074142691125579
-      UI_WizardBook_SpritesheetInfo01a_134: 5870156421384651605
-      UI_WizardBook_SpritesheetInfo01a_135: 7178928545545109190
-      UI_WizardBook_SpritesheetInfo01a_136: 4109309171282247104
-      UI_WizardBook_SpritesheetInfo01a_137: -3933415176258146231
-      UI_WizardBook_SpritesheetInfo01a_138: 7208657737840199071
-      UI_WizardBook_SpritesheetInfo01a_139: -3872659408454435355
-      UI_WizardBook_SpritesheetInfo01a_140: -4144075740651341559
-      UI_WizardBook_SpritesheetInfo01a_141: -8935872619269132240
-      UI_WizardBook_SpritesheetInfo01a_142: -6057288609589357021
-      UI_WizardBook_SpritesheetInfo01a_143: -3407945040614203303
-      UI_WizardBook_SpritesheetInfo01a_144: -7624189630307319238
-      UI_WizardBook_SpritesheetInfo01a_146: -6772226119137909453
-      UI_WizardBook_SpritesheetInfo01a_147: 2226016334820283449
-      UI_WizardBook_SpritesheetInfo01a_148: 9020208693388221620
-      UI_WizardBook_SpritesheetInfo01a_149: -3439236561000834653
-      UI_WizardBook_SpritesheetInfo01a_150: 178748559341002910
-      UI_WizardBook_SpritesheetInfo01a_151: -6952710595333505308
-      UI_WizardBook_SpritesheetInfo01a_152: -1799712759986760275
-      UI_WizardBook_SpritesheetInfo01a_153: -4669570065056756718
-      UI_WizardBook_SpritesheetInfo01a_154: -5315220730134039177
-      UI_WizardBook_SpritesheetInfo01a_155: -5984576323389736327
-      UI_WizardBook_SpritesheetInfo01a_156: 3654287348541797544
-      UI_WizardBook_SpritesheetInfo01a_157: -7664322311848266298
-      UI_WizardBook_SpritesheetInfo01a_158: 4101070565163649750
+      UI_WizardBook_Slot_01: 6477782578277152724
+      UI_WizardBook_Slot_02: 359585593423210411
+      UI_WizardBook_Slot_03: 3878998022490593155
+      UI_WizardBook_Slot_04: 7207644334407035329
+      UI_WizardBook_Slot_05: -4901528181436006007
+      UI_WizardBook_Slot_06: 5175833400807593087
+      UI_WizardBook_Slot_07: -4438992355297940581
+      UI_WizardBook_Slot_08: 1994665469501677286
+      UI_WizardBook_Slot_09: 435199457556352993
+      UI_WizardBook_Slot_10: -5430818114228586072
+      UI_WizardBook_Slot_11: 2489415754877151816
+      UI_WizardBook_Slot_12: -9192180373827350498
       UI_WizardBook_SpritesheetInfo01a_165: 7435109953030698687
       UI_WizardBook_SpritesheetInfo01a_167: -7287466092870601547
       UI_WizardBook_SpritesheetInfo01a_168: 860516032562553874
@@ -4555,13 +4557,14 @@ TextureImporter:
       UI_WizardBook_Toggle_5_on: 6637880815080407965
       UI_WizardBook_Toggle_6_off: -2628775931068493257
       UI_WizardBook_Toggle_6_on: -361287793557512766
-      UI_WizardBook_Toggle_7_off: -1521545702071078160
-      UI_WizardBook_Toggle_7_on: 6639522907133035358
-      UI_WizardBook_Toggle_8_off: 4129381536772183701
-      UI_WizardBook_Toggle_8_on: -4852267224256073907
-      UI_WizardBook_Toggle_9_off: 107107043641481929
-      UI_WizardBook_Toggle_9_on: 5719673658699278709
-      f: -3868094905902556386
+      UI_WizardBook_Toggle_7: 6639522907133035358
+      UI_WizardBook_Toggle_7_off: 5719673658699278709
+      UI_WizardBook_Toggle_7_on: -4852267224256073907
+      UI_WizardBook_Toggle_8: -1521545702071078160
+      UI_WizardBook_Toggle_8_off: 107107043641481929
+      UI_WizardBook_Toggle_8_on: 4129381536772183701
+      a: 557560591701301121
+      f: 5719673658699278709
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

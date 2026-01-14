@@ -145,7 +145,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_0
+      name: UI_WizardBookAnim_Button_a01
       rect:
         serializedVersion: 2
         x: 0
@@ -167,7 +167,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_1
+      name: UI_WizardBookAnim_Button_a02
       rect:
         serializedVersion: 2
         x: 32
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_2
+      name: UI_WizardBookAnim_Button_a03
       rect:
         serializedVersion: 2
         x: 64
@@ -211,7 +211,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_3
+      name: UI_WizardBookAnim_Button_a04
       rect:
         serializedVersion: 2
         x: 96
@@ -233,7 +233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_4
+      name: UI_WizardBookAnim_Button_b01
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_5
+      name: UI_WizardBookAnim_Button_b02
       rect:
         serializedVersion: 2
         x: 32
@@ -277,7 +277,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_6
+      name: UI_WizardBookAnim_Button_b03
       rect:
         serializedVersion: 2
         x: 64
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_7
+      name: UI_WizardBookAnim_Button_b04
       rect:
         serializedVersion: 2
         x: 96
@@ -321,7 +321,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_8
+      name: UI_WizardBookAnim_Button_c01
       rect:
         serializedVersion: 2
         x: 0
@@ -343,7 +343,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_9
+      name: UI_WizardBookAnim_Button_c02
       rect:
         serializedVersion: 2
         x: 32
@@ -365,7 +365,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_10
+      name: UI_WizardBookAnim_Button_c03
       rect:
         serializedVersion: 2
         x: 64
@@ -387,7 +387,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_11
+      name: UI_WizardBookAnim_Button_c04
       rect:
         serializedVersion: 2
         x: 96
@@ -409,7 +409,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_12
+      name: UI_WizardBookAnim_Button_d01
       rect:
         serializedVersion: 2
         x: 0
@@ -431,7 +431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_13
+      name: UI_WizardBookAnim_Button_d02
       rect:
         serializedVersion: 2
         x: 32
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_14
+      name: UI_WizardBookAnim_Button_d03
       rect:
         serializedVersion: 2
         x: 64
@@ -475,7 +475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_WizardBook_SpritesheetButton01a_15
+      name: UI_WizardBookAnim_Button_d04
       rect:
         serializedVersion: 2
         x: 96
@@ -512,22 +512,22 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      UI_WizardBook_SpritesheetButton01a_0: -2396282632805326623
-      UI_WizardBook_SpritesheetButton01a_1: -7605798046489765873
-      UI_WizardBook_SpritesheetButton01a_10: 1857076856001412992
-      UI_WizardBook_SpritesheetButton01a_11: -1187457271191539456
-      UI_WizardBook_SpritesheetButton01a_12: 1576149209203284285
-      UI_WizardBook_SpritesheetButton01a_13: -8763252840899444430
-      UI_WizardBook_SpritesheetButton01a_14: 4253775949067754056
-      UI_WizardBook_SpritesheetButton01a_15: -7876956275648157378
-      UI_WizardBook_SpritesheetButton01a_2: 3927244167406144298
-      UI_WizardBook_SpritesheetButton01a_3: -2752853277521384666
-      UI_WizardBook_SpritesheetButton01a_4: 1147050562267468638
-      UI_WizardBook_SpritesheetButton01a_5: 9168832892042845482
-      UI_WizardBook_SpritesheetButton01a_6: -1532428342230345274
-      UI_WizardBook_SpritesheetButton01a_7: -209001288761411678
-      UI_WizardBook_SpritesheetButton01a_8: 1637826182722057227
-      UI_WizardBook_SpritesheetButton01a_9: -4510382578530809605
+      UI_WizardBookAnim_Button_a01: -2396282632805326623
+      UI_WizardBookAnim_Button_a02: -7605798046489765873
+      UI_WizardBookAnim_Button_a03: 3927244167406144298
+      UI_WizardBookAnim_Button_a04: -2752853277521384666
+      UI_WizardBookAnim_Button_b01: 1147050562267468638
+      UI_WizardBookAnim_Button_b02: 9168832892042845482
+      UI_WizardBookAnim_Button_b03: -1532428342230345274
+      UI_WizardBookAnim_Button_b04: -209001288761411678
+      UI_WizardBookAnim_Button_c01: 1637826182722057227
+      UI_WizardBookAnim_Button_c02: -4510382578530809605
+      UI_WizardBookAnim_Button_c03: 1857076856001412992
+      UI_WizardBookAnim_Button_c04: -1187457271191539456
+      UI_WizardBookAnim_Button_d01: 1576149209203284285
+      UI_WizardBookAnim_Button_d02: -8763252840899444430
+      UI_WizardBookAnim_Button_d03: 4253775949067754056
+      UI_WizardBookAnim_Button_d04: -7876956275648157378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -11,6 +11,8 @@ public class HotbarUI : MonoBehaviour
 
     void OnEnable()
     {
+        InputSystem.actions.Enable(); // Player 액션 맵 활성화
+        
         // 각 핫바 액션이 performed 될 때 SelectSlot 메서드를 호출하도록 이벤트 구독
         InputSystem.actions.FindAction("Hotbar1").performed += ctx => SelectSlot(0);
         InputSystem.actions.FindAction("Hotbar2").performed += ctx => SelectSlot(1);

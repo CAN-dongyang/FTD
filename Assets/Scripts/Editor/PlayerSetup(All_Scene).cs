@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine.SceneManagement; // 씬 관리용
 using UnityEditor.SceneManagement; // 씬 이동/저장용
 
-public class PlayerSetup : EditorWindow
+public class PlayerSetup_AllScene : EditorWindow
 {
     static string prefabPath = "Assets/Resources/PlayerPrefab.prefab";
 

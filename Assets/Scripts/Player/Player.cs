@@ -12,29 +12,35 @@ public class Player : MonoBehaviour
 	[SerializeField] private float _moveSpeed = 5f;
 	[SerializeField] private Rigidbody2D _rigidbody;
 
-	[Header("Detective")]
-	[SerializeField] private GameObject _detectedObject;
-	public GameObject NowDetected => _detectedObject;
-	public UnityEvent<GameObject> OnDetectEvent = new();
-
-	public void Detect(GameObject obj)
+	private bool _inputHandled;
+	public bool InputHandled
 	{
-		OnDetectEvent.Invoke(_detectedObject = obj);
+		get => _inputHandled;
+		set
+		{
+			_inputHandled = value;
+			
+			_rigidbody.linearVelocity = Vector2.zero;
+		}
+	}
+	public Detectable NowDetected { get; private set; }
+
+	public void Detect(Detectable d)
+	{
+		if(NowDetected) NowDetected.OnFocusOut.Invoke();
+		NowDetected = d;
+		if(NowDetected) NowDetected.OnDetect.Invoke();
 	}
 
 	private void Move(InputAction.CallbackContext cb)
 	{
-		_rigidbody.linearVelocity = cb.ReadValue<Vector2>() * _moveSpeed;
+		if(InputHandled)
+			_rigidbody.linearVelocity = cb.ReadValue<Vector2>() * _moveSpeed;
 	}
 	private void Interact(InputAction.CallbackContext cb)
 	{
-		if(NowDetected is not null)
-		{
-			Debug.Log($"Interact to {NowDetected}");
-			
-			var schoolUI = FindAnyObjectByType<SchoolUIControl>();
-			if(schoolUI) schoolUI.ToggleUI();
-		}
+		if(InputHandled && NowDetected != null)
+			NowDetected.OnInteract.Invoke(true);
 	}
 
 	private void OnEnable()
@@ -54,12 +60,7 @@ public class Player : MonoBehaviour
 			act.performed += Move;
 			act.canceled += Move;
 		}
-
-		OnDetectEvent.AddListener(obj =>
-		{
-			var schoolUI = FindAnyObjectByType<SchoolUIControl>();
-			if(schoolUI) schoolUI.CloseUI();
-		});
+		InputHandled = true;
 	}
 	private void OnDisable()
 	{
@@ -77,9 +78,8 @@ public class Player : MonoBehaviour
 			act.canceled -= Move;
 		}
 
+		InputHandled = false;
 		InputSystem.actions.Disable();
-
-		OnDetectEvent.RemoveAllListeners();
 	}
 
 	#region Singleton

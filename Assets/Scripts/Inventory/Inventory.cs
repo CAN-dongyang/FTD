@@ -20,7 +20,7 @@ public class Inventory : MonoBehaviour
     public delegate void OnItemChanged();
     public OnItemChanged onItemChangedCallback;
 
-    public int space = 30; // 10 * 3
+    public int space = 40; // (핫바 10칸 + 인벤 30칸)
 
     public List<Item> items = new();
 
@@ -45,5 +45,24 @@ public class Inventory : MonoBehaviour
         items.Remove(item);
 
             onItemChangedCallback?.Invoke();
+    }
+
+    public void SortItems()
+    {
+        if(items.Count <= 10) return;
+
+        List<Item> hotbarItems = items.GetRange(0, 10);
+        List<Item> inventoryItems = items.GetRange(10, items.Count - 10);
+
+        inventoryItems.Sort((a, b) => a.itemName.CompareTo(b.itemName));
+
+        items.Clear();
+        items.AddRange(hotbarItems);
+        items.AddRange(inventoryItems);
+
+        if(onItemChangedCallback != null)
+        {
+            onItemChangedCallback.Invoke();
+        }
     }
 }

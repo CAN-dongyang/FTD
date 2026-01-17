@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
 	[SerializeField] private PlayerData _data;
-	public PlayerData Data => _data;
+	static public PlayerData Data => Instance._data;
 
 	[Header("Physics")]
 	[Range(3, 12)]
@@ -45,8 +45,6 @@ public class Player : MonoBehaviour
 
 	private void OnEnable()
 	{
-		InputSystem.actions.Enable();
-
 		InputAction act;
 		act = InputSystem.actions.FindAction("Interact");
 		if(act is not null)
@@ -77,9 +75,7 @@ public class Player : MonoBehaviour
 			act.performed -= Move;
 			act.canceled -= Move;
 		}
-
 		InputHandled = false;
-		InputSystem.actions.Disable();
 	}
 
 	#region Singleton

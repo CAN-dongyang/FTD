@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InventorySlot : MonoBehaviour
+public class ItemSlot : MonoBehaviour
 {
     public Image icon;
     public Button removeButton;
@@ -28,7 +28,7 @@ public class InventorySlot : MonoBehaviour
 
     public void OnRemoveButton()
     {
-        Inventory.instance.Remove(item);
+        Player.Data.Inventory.Remove(item);
     }
 
     public void UseItem()

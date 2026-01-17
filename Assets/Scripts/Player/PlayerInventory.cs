@@ -1,27 +1,15 @@
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Inventory : MonoBehaviour
+[Serializable]
+public class PlayerInventory
 {
-    #region Singleton
-    public static Inventory instance;
-
-    void Awake()
-    {
-        if (instance != null)
-        {
-            Debug.LogWarning("More than one instance of Inventory found!");
-            return;
-        }
-        instance = this;
-    }
-    #endregion
-
     public delegate void OnItemChanged();
     public OnItemChanged onItemChangedCallback;
 
     public int space = 40; // (핫바 10칸 + 인벤 30칸)
-
     public List<Item> items = new();
 
     public bool Add(Item item)
@@ -34,17 +22,14 @@ public class Inventory : MonoBehaviour
                 return false;
             }
             items.Add(item);
-
             onItemChangedCallback?.Invoke();
         }
         return true;
     }
-
     public void Remove(Item item)
     {
         items.Remove(item);
-
-            onItemChangedCallback?.Invoke();
+        onItemChangedCallback?.Invoke();
     }
 
     public void SortItems()

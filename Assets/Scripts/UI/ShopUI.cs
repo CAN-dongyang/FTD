@@ -64,7 +64,7 @@ public class ShopUI : MonoBehaviour
         }
 
         // 플레이어 인벤토리 목록 생성
-        foreach (Item item in Inventory.instance.items)
+        foreach (Item item in playerData.Inventory.items)
         {
             GameObject obj = Instantiate(shopSlotPrefab, playerItemParent);
             obj.GetComponent<ShopSlot>().Setup(item, false); // false = 판매 모드
@@ -79,7 +79,7 @@ public class ShopUI : MonoBehaviour
     {
         if (playerData.money >= item.price)
         {
-            if (Inventory.instance.Add(item))
+            if (playerData.Inventory.Add(item))
             {
                 playerData.money -= item.price;
                 UpdateUI();
@@ -98,7 +98,7 @@ public class ShopUI : MonoBehaviour
     public void SellItem(Item item)
     {
         playerData.money += item.price;
-        Inventory.instance.Remove(item);
+        playerData.Inventory.Remove(item);
         UpdateUI();
     }
 }

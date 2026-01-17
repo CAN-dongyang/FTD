@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class SceneController : MonoBehaviour
 {
@@ -21,9 +22,14 @@ public class SceneController : MonoBehaviour
 		if(!_gameData.time.IsPaused)
 			_gameData.time.TimeOfDay += Time.deltaTime * _gameData.time.TimeScale;
 	}
-	private void Awake() => StartCoroutine(InitializeRoutine());
+	private void Awake()
+	{
+		InputSystem.actions.Enable();
+		StartCoroutine(InitializeRoutine());
+	}
 	private void OnDestroy()
 	{
+		InputSystem.actions.Disable();
 		_gameData.Release();
 	}
 

@@ -6,16 +6,26 @@ public class GameData : ScriptableObject
 	public GameTime time;
 	public static GameTime Time => Instance.time;
 
-	public Player player;
-	public static Player Player => Instance.player;
-
-	public static GameData Instance { get; private set; }
+	#region Singleton
+	private static GameData _instance;
+	public static GameData Instance
+	{
+		get
+		{
+			if(_instance == null) _instance = Resources.Load<GameData>("GameData");
+			return _instance;
+		}
+	}
 	public void Initialize()
 	{
-		Instance = this;
 	}
 	public void Release()
 	{
-		if(Instance == this) Instance = null;
+		if(_instance)
+		{
+			Resources.UnloadAsset(_instance);
+			_instance = null;
+		}
 	}
+	#endregion
 }

@@ -9,11 +9,20 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 4489fddbe0eb4584a8d48df1a5dfcd8f
   - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: be03087cffc28c149aa0eb7b4ee1f7f8
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: fe7cc69d7e2493e498d25015bf552bcb
+  - enabled: 1
     path: Assets/Scenes/School_External.unity
     guid: 1802c33a26e81a34aa95b2b5b39092b9
   - enabled: 1
     path: Assets/Scenes/School_Internal.unity
     guid: 6d6b06cffd6eae249a49885de6bfb421
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: 4299cbf4045b43948a39b654170206f3
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: e3ccfee1bc3545845aa3455afdc9e050, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

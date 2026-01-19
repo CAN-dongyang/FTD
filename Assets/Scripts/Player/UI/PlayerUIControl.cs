@@ -25,16 +25,17 @@ public class PlayerUIControl : MonoBehaviour
 
 		if(NowMenu != MENU.NONE)
 		{
-			GameData.Instance.time.TimeScale = 0f;
+			GameData.Time.Pause();
 			Player.Instance.InputHandled = false;
 		}
 		else
 		{
-			GameData.Instance.time.TimeScale = 1f;
+			GameData.Time.Start();
 			Player.Instance.InputHandled = true;
 		}
 	}
 
+	private void Start() => SelectMenu(MENU.NONE);
 	private void OnEnable()
 	{
 		var action = InputSystem.actions.FindAction("Inventory");

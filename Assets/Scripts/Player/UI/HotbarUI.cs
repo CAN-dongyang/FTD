@@ -6,13 +6,11 @@ public class HotbarUI : MonoBehaviour
     public HotbarSlot[] slots; // 핫바 슬롯들
     public Color selectedColor = Color.green; // 선택되었을 때의 테두리 색상
 
-    private Inventory inventory;
+    private PlayerInventory inventory;
     private int selectedIndex = 0;
 
     void OnEnable()
     {
-        InputSystem.actions.Enable(); // Player 액션 맵 활성화
-        
         // 각 핫바 액션이 performed 될 때 SelectSlot 메서드를 호출하도록 이벤트 구독
         InputSystem.actions.FindAction("Hotbar1").performed += ctx => SelectSlot(0);
         InputSystem.actions.FindAction("Hotbar2").performed += ctx => SelectSlot(1);
@@ -43,7 +41,7 @@ public class HotbarUI : MonoBehaviour
 
     void Start()
     {
-        inventory = Inventory.instance;
+        inventory = Player.Data.Inventory;
         // 인벤토리 아이템이 변경될 때마다 UI를 업데이트하도록 콜백을 등록
         inventory.onItemChangedCallback += UpdateUI;
 
@@ -53,7 +51,7 @@ public class HotbarUI : MonoBehaviour
     }
 
     // 키 입력에 따라 호출될 메서드
-    private void SelectSlot(int index)
+    public void SelectSlot(int index)
     {
         selectedIndex = index;
         UpdateSelection();

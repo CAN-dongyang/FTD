@@ -24,7 +24,7 @@ public class AssetRegistry : ScriptableObject
                 assets[i].SetAddress(registryType, (byte)i);
             }
         }
-        Debug.Log($"[AssetRegistry] {registryType} 동기화 완료. ({assets.Count} 개)");
+        //Debug.Log($"[AssetRegistry] {registryType} 동기화 완료. ({assets.Count} 개)");
     }
 
     private void OnValidate()

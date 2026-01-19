@@ -22,7 +22,7 @@ class DataTypeMacro
 		new(1, "Guild"),
 	};
 	
-	[MenuItem("Macro/Create DataType Enum")]
+	//[MenuItem("Macro/Create DataType Enum")]
 	static public void CreateDataTypeEnum()
 	{
 		new DataTypeMacro().Run();

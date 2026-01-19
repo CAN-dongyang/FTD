@@ -1,8 +1,8 @@
-# FTD
+# LC
 
 Game / Unity
 
-ECS, DOD proj
+~~ECS, DOD proj~~
 
 ## others
 #### Unity version : 6000.2.10f1

@@ -314,7 +314,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1618051932520100907}
-  - component: {fileID: 677092924108506076}
   m_Layer: 5
   m_Name: PlayerUI
   m_TagString: Untagged
@@ -345,23 +344,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &677092924108506076
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3533687640659369033}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f87aa194b12069243a6fd9fc16f5ebb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerUIControl
-  _menus:
-  - key: 0
-    view: {fileID: 8656539983135032542}
-  - key: 1
-    view: {fileID: 3620960555679613843}
 --- !u!1 &4350689613225735793
 GameObject:
   m_ObjectHideFlags: 0

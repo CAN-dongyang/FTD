@@ -4,13 +4,17 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-	[SerializeField] private PlayerData _data;
-	static public PlayerData Data => Instance._data;
-
 	[Header("Physics")]
 	[Range(3, 12)]
 	[SerializeField] private float _moveSpeed = 5f;
 	[SerializeField] private Rigidbody2D _rigidbody;
+
+	[Header("Properties")]
+	[SerializeField] private PlayerData _data;
+	static public PlayerData Data => Instance._data;
+
+	[SerializeField] private PlayerUIControl _playerUI;
+	public static PlayerUIControl UI => Instance._playerUI;
 
 	private bool _inputHandled;
 	public bool InputHandled
@@ -19,11 +23,9 @@ public class Player : MonoBehaviour
 		set
 		{
 			_inputHandled = value;
-			
-			_rigidbody.linearVelocity = Vector2.zero;
+			_moveInput = _rigidbody.linearVelocity = Vector2.zero;
 		}
 	}
-	public Detectable NowDetected { get; private set; }
 
 	public void Detect(Detectable d)
 	{
@@ -31,11 +33,36 @@ public class Player : MonoBehaviour
 		NowDetected = d;
 		if(NowDetected) NowDetected.OnDetect.Invoke();
 	}
+	public Detectable NowDetected { get; private set; }
 
+	public Grid WorldGrid { get; set; }
+	public Vector3Int CellPos { get; private set; }
+
+	public void Spawn(Grid grid, Vector3Int cell)
+	{
+		Spawn(grid.CellToWorld(cell));
+	}
+	public void Spawn(Vector3 pos)
+	{
+		_rigidbody.MovePosition(pos);
+	}
+
+	private void FixedUpdate()
+	{
+		if(_moveInput.magnitude > 0f)
+			_rigidbody.linearVelocity = _moveInput * _moveSpeed;
+		
+		if(WorldGrid != null)
+			CellPos = WorldGrid.WorldToCell(_rigidbody.position);
+	}
+	[SerializeField] private Vector2 _moveInput;
 	private void Move(InputAction.CallbackContext cb)
 	{
 		if(InputHandled)
-			_rigidbody.linearVelocity = cb.ReadValue<Vector2>() * _moveSpeed;
+		{
+			_moveInput = cb.ReadValue<Vector2>();
+			if(cb.canceled) _rigidbody.linearVelocity = Vector2.zero;
+		}
 	}
 	private void Interact(InputAction.CallbackContext cb)
 	{
@@ -58,6 +85,7 @@ public class Player : MonoBehaviour
 			act.performed += Move;
 			act.canceled += Move;
 		}
+
 		InputHandled = true;
 	}
 	private void OnDisable()

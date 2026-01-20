@@ -2914,7 +2914,7 @@ GameObject:
   - component: {fileID: 7680766096083181178}
   - component: {fileID: 5658920213502456366}
   m_Layer: 5
-  m_Name: SchoolUI
+  m_Name: CanvasGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2954,9 +2954,9 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3867311948425371414}
   m_Enabled: 1
-  m_Alpha: 0
-  m_Interactable: 0
-  m_BlocksRaycasts: 0
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
 --- !u!114 &5658920213502456366
 MonoBehaviour:

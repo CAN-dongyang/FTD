@@ -1,3 +1,3 @@
-public class ConstructionUI : UIView
+public class ConstructionUI : UIGroup
 {
 }

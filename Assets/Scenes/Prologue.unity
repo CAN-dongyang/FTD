@@ -319,7 +319,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1266984692}
-        m_TargetAssemblyTypeName: MainMenuScene, Assembly-CSharp
+        m_TargetAssemblyTypeName: PrologueScene, Assembly-CSharp
         m_MethodName: TestPrologueSkip
         m_Mode: 1
         m_Arguments:
@@ -833,11 +833,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1266984689}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c18f0726b34eeb4c99431f6d2fba450, type: 3}
+  m_Script: {fileID: 11500000, guid: f4b21250d6c6da84b86ac37b6238f6fd, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MainMenuScene
-  _btnStartGame: {fileID: 0}
-  _btnLoadGame: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::PrologueScene
 --- !u!1 &1512620516
 GameObject:
   m_ObjectHideFlags: 0

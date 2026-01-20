@@ -12,3 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c13a1d4e5055dcc43b84eb6edf4a484b, type: 3}
   m_Name: GameData
   m_EditorClassIdentifier: Assembly-CSharp::GameData
+  _time:
+    Year: 0
+    Quater: 0
+    Day: 0
+    _timeOfDay: 0
+    _timeScale: 1
+  _save:
+    GameProgress: 32
+    Year: 2312
+    Quater: 123123
+    Day: 1313
+    HiredProfessorIds: 

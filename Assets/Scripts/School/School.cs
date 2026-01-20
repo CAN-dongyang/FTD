@@ -3,10 +3,24 @@ using UnityEngine;
 public class School : MonoBehaviour
 {
 	[SerializeField] private SchoolData _data;
-	[SerializeField] private Grid _schoolGrid;
+	[SerializeField] private Grid _gridExternal;
+	[SerializeField] private Grid _gridInternal;
+	[SerializeField] private Home _home;
 
-	static public SchoolData Data => Instance._data;
-	public Grid Grid => Instance._schoolGrid;
+	public static SchoolData Data => Instance._data;
+	public static Grid GridExternal => Instance._gridExternal;
+	public static Grid GridInternal => Instance._gridInternal;
+
+	public Home Home => Instance._home;
+
+	public void MoveIn()
+	{
+		if(Player.Instance) Player.Instance.Spawn(GridInternal, Vector3Int.zero);
+	}
+	public void MoveOut()
+	{
+		if(Player.Instance) Player.Instance.Spawn(GridExternal, Vector3Int.zero);
+	}
 
 	#region Singleton
 	private static School _instance = null;

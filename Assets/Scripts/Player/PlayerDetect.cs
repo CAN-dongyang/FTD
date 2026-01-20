@@ -4,7 +4,6 @@ public class PlayerDetect : MonoBehaviour
 {
 	[SerializeField] private LayerMask _detectLayer;
 	
-
 	private void OnTriggerEnter2D(Collider2D collision)
 	{
 		if((_detectLayer & collision.includeLayers) > 0)

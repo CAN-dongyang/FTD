@@ -5,7 +5,7 @@ using UnityEngine.Tilemaps;
 
 public class ConstructionManager : MonoBehaviour
 {
-	[SerializeField] private UIView _ui;
+	[SerializeField] private UIGroup _ui;
 	[SerializeField] private CinemachineCamera _camera;
 
 	[Header("Preview")]
@@ -19,7 +19,7 @@ public class ConstructionManager : MonoBehaviour
 		{
 			var worldPos = Camera.main.ScreenToWorldPoint(_mousePos);
 			_gridOverlay.transform.position =
-				School.Instance.Grid.WorldToCell(worldPos);
+				School.GridInternal.WorldToCell(worldPos);
 		}
 	}
 

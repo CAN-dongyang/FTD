@@ -17,14 +17,10 @@ public class GameTime
 	{
 		if(!IsPaused) _timeOfDay += deltaTime * TimeScale;
 	}
-	public void Start(float scale=1f)
-	{
-		_timeScale = scale; Debug.Log($"Start {_timeScale} <= {scale}, {IsPaused}");
-	}
-	public void Pause()
-	{
-		_timeScale = 0f; Debug.Log("Pause!");
-	}
+	/// 기본 : 오전 6시 (360)
+	public void Reset(int timeOfDay = 360) => _timeOfDay = timeOfDay;
+	public void Resume(float scale=1f) => _timeScale = scale;
+	public void Pause() => _timeScale = 0f;
 
 	// ----- ----- Properties ----- -----
 	public bool IsPaused => TimeScale.Equals(0f);

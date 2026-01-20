@@ -7,6 +7,7 @@ public enum AssetType : uint
 	Guild,
 	Character,
 	Item,
+	Room,
 
 	None = 255
 }

@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-public class TalkUIController : MonoBehaviour
+public class TalkUIController : UIGroup
 {
     public static TalkUIController Instance { get; private set; }
 
@@ -20,8 +20,10 @@ public class TalkUIController : MonoBehaviour
     private DialogueNode currentNode;
     private List<GameObject> activeButtons = new List<GameObject>();
 
-    void Awake()
+    protected override void Awake()
     {
+		base.Awake();
+
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
         

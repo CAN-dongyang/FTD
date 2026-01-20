@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 
-public class TimeUI : MonoBehaviour
+public class TimeUI : UIGroup
 {
 	[SerializeField] private TextMeshProUGUI timeText;
 

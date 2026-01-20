@@ -32,7 +32,8 @@ public class GameScene : MonoBehaviour
 		
 		// Home 에서 시작. 아직 시간 정지
 		// Home Out 시에 DayRoutine 시작
-		School.Instance.Home.MoveIn();
+		School.Instance.MoveIn();
+		Player.Instance.InputHandled = true;
 
 		_fadeAnim.OnCompleted.AddListener(() => 
 		{

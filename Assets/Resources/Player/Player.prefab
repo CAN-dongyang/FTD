@@ -302,6 +302,7 @@ MonoBehaviour:
   _rigidbody: {fileID: 1091151135880012053}
   _data: {fileID: 11400000, guid: 852fe1c6f0e5816418cc13f515d5b69e, type: 2}
   _playerUI: {fileID: 0}
+  _moveInput: {x: 0, y: 0}
 --- !u!50 &1091151135880012053
 Rigidbody2D:
   serializedVersion: 5

@@ -8,7 +8,8 @@ public class PlayerUIControl : MonoBehaviour
 	[Flags]
 	public enum MENU
 	{
-		NONE = 1,
+		LOCK = 0,
+		DEFAULT = 2 << 0,
 		INVENTORY = 2 << 1,
 		PLAYER_INFO = 2 << 2,
 		SETTINGS = 2 << 3,
@@ -16,29 +17,18 @@ public class PlayerUIControl : MonoBehaviour
 	}
 	[Serializable]
 	public struct TabMenu {  public UIGroup view; public MENU key; }
-	[SerializeField] private List<TabMenu> _menus;
+	[SerializeField] private List<TabMenu> _menus = new();
 
-	[SerializeField] public MENU NowMenu = MENU.NONE;
+	[SerializeField] public MENU NowMenu = MENU.LOCK;
 	public void SelectMenu(MENU key)
 	{
 		_menus.ForEach(m => m.view.ActivateUI((m.key & key) > 0));
 		NowMenu = key;
-
-		if(NowMenu != MENU.NONE)
-		{
-			//GameData.Time.Pause();
-			Player.Instance.InputHandled = false;
-		}
-		else
-		{
-			//GameData.Time.Resume();
-			Player.Instance.InputHandled = true;
-		}
 	}
 
 	private void OpenInventory(InputAction.CallbackContext ctx) => SelectMenu(MENU.INVENTORY);
-	private void Cancel(InputAction.CallbackContext ctx) { if(NowMenu != MENU.NONE) SelectMenu(MENU.NONE); }
-	private void Start() => SelectMenu(MENU.NONE);
+	private void Cancel(InputAction.CallbackContext ctx) { if(NowMenu != MENU.DEFAULT) SelectMenu(MENU.DEFAULT); }
+	private void Start() => SelectMenu(MENU.DEFAULT);
 	private void OnEnable()
 	{
 		var action = InputSystem.actions.FindAction("Inventory");

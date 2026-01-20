@@ -23,7 +23,18 @@ public class Player : MonoBehaviour
 		set
 		{
 			_inputHandled = value;
-			_moveInput = _rigidbody.linearVelocity = Vector2.zero;
+			if(!_inputHandled)
+			{
+				_moveInput = _rigidbody.linearVelocity = Vector2.zero;
+				UI.SelectMenu(PlayerUIControl.MENU.LOCK);
+				GameData.Time.Pause();
+			}
+			///////////////////////////////////////////
+			else if(UI.NowMenu == PlayerUIControl.MENU.LOCK)
+			{
+				UI.SelectMenu(PlayerUIControl.MENU.DEFAULT);
+				GameData.Time.Resume();
+			}
 		}
 	}
 
@@ -67,7 +78,7 @@ public class Player : MonoBehaviour
 	private void Interact(InputAction.CallbackContext cb)
 	{
 		if(InputHandled && NowDetected != null)
-			NowDetected.OnInteract.Invoke(true);
+			NowDetected.OnInteract.Invoke();
 	}
 
 	private void OnEnable()
@@ -85,8 +96,6 @@ public class Player : MonoBehaviour
 			act.performed += Move;
 			act.canceled += Move;
 		}
-
-		InputHandled = true;
 	}
 	private void OnDisable()
 	{
@@ -103,7 +112,6 @@ public class Player : MonoBehaviour
 			act.performed -= Move;
 			act.canceled -= Move;
 		}
-		InputHandled = false;
 	}
 
 	#region Singleton

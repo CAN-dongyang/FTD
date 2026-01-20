@@ -23,9 +23,6 @@ public class TalkUIController : UIGroup
     protected override void Awake()
     {
 		base.Awake();
-
-        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-        Instance = this;
         
         CloseTalk();
         nextButton.onClick.AddListener(OnNextButtonClicked);

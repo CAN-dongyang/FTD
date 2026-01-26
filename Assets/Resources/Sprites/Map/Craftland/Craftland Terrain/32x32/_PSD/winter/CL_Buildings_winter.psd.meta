@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 1c82df4721e419648b10cb5ef3c29ea4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2899979276022711829
+    second: CL_Buildings_winter_0
+  - first:
+      213: 7900585484505735871
+    second: CL_Buildings_winter_1
+  - first:
+      213: -1492500773436201399
+    second: CL_Buildings_winter_2
+  - first:
+      213: -635368719509706218
+    second: CL_Buildings_winter_3
+  - first:
+      213: -2280258426218757341
+    second: CL_Buildings_winter_4
+  - first:
+      213: 6452528686158407913
+    second: CL_Buildings_winter_5
+  - first:
+      213: -454775402083380957
+    second: CL_Buildings_winter_6
+  - first:
+      213: 5688810984098702385
+    second: CL_Buildings_winter_7
+  - first:
+      213: 8042180503074100278
+    second: CL_Buildings_winter_8
+  - first:
+      213: 6235538965269670070
+    second: CL_Buildings_winter_9
+  - first:
+      213: -4780693906705506408
+    second: CL_Buildings_winter_10
+  - first:
+      213: -20100594106447964
+    second: CL_Buildings_winter_11
+  - first:
+      213: -6745836295946750242
+    second: CL_Buildings_winter_12
+  - first:
+      213: -8605372515663435300
+    second: CL_Buildings_winter_13
+  - first:
+      213: 1297856344842589255
+    second: CL_Buildings_winter_14
+  - first:
+      213: -4629125641920795403
+    second: CL_Buildings_winter_15
+  - first:
+      213: 1800202803296613619
+    second: CL_Buildings_winter_16
+  - first:
+      213: -7420546480904240801
+    second: CL_Buildings_winter_17
+  - first:
+      213: 4630444224958249529
+    second: CL_Buildings_winter_18
+  - first:
+      213: 947292205815981931
+    second: CL_Buildings_winter_19
+  - first:
+      213: -5733440672396102424
+    second: CL_Buildings_winter_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CL_Buildings_winter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 385
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516045b69cbce3820800000000000000
+      internalID: 2899979276022711829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 447
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2629993a484ad60800000000000000
+      internalID: 7900585484505735871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 447
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e6544472994be0800000000000000
+      internalID: -1492500773436201399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 389
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aaa341487be27f0800000000000000
+      internalID: -635368719509706218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 287
+        width: 386
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c32dea05ea50e0800000000000000
+      internalID: -2280258426218757341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86d7137acfb8950800000000000000
+      internalID: 6452528686158407913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 415
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3211c3a6e2050b9f0800000000000000
+      internalID: -454775402083380957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342b8d0377b2fe40800000000000000
+      internalID: 5688810984098702385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 387
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634dd49ee809b9f60800000000000000
+      internalID: 8042180503074100278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 287
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86100d6a5198650800000000000000
+      internalID: 6235538965269670070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 279
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f91f6983097adb0800000000000000
+      internalID: -4780693906705506408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 279
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c28cbd9698bff0800000000000000
+      internalID: -20100594106447964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6382b31a9f162a0800000000000000
+      internalID: -6745836295946750242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 174
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a8fb4a43939880800000000000000
+      internalID: -8605372515663435300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 226
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74454d32879e20210800000000000000
+      internalID: 1297856344842589255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 105
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca8ac31ca02cfb0800000000000000
+      internalID: -4629125641920795403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_16
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 105
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4382669ea9bf810800000000000000
+      internalID: 1800202803296613619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 201
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518d669a4ce40990800000000000000
+      internalID: -7420546480904240801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_18
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 169
+        width: 14
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a35ec4d74a24040800000000000000
+      internalID: 4630444224958249529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6768220e35752d00800000000000000
+      internalID: 947292205815981931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Buildings_winter_20
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 105
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4bd05e51abe60b0800000000000000
+      internalID: -5733440672396102424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CL_Buildings_winter_0: 2899979276022711829
+      CL_Buildings_winter_1: 7900585484505735871
+      CL_Buildings_winter_10: -4780693906705506408
+      CL_Buildings_winter_11: -20100594106447964
+      CL_Buildings_winter_12: -6745836295946750242
+      CL_Buildings_winter_13: -8605372515663435300
+      CL_Buildings_winter_14: 1297856344842589255
+      CL_Buildings_winter_15: -4629125641920795403
+      CL_Buildings_winter_16: 1800202803296613619
+      CL_Buildings_winter_17: -7420546480904240801
+      CL_Buildings_winter_18: 4630444224958249529
+      CL_Buildings_winter_19: 947292205815981931
+      CL_Buildings_winter_2: -1492500773436201399
+      CL_Buildings_winter_20: -5733440672396102424
+      CL_Buildings_winter_3: -635368719509706218
+      CL_Buildings_winter_4: -2280258426218757341
+      CL_Buildings_winter_5: 6452528686158407913
+      CL_Buildings_winter_6: -454775402083380957
+      CL_Buildings_winter_7: 5688810984098702385
+      CL_Buildings_winter_8: 8042180503074100278
+      CL_Buildings_winter_9: 6235538965269670070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7aced8af24bc02346a32413c69f2802b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1035580384601170921
+    second: CL_Tropical_WaterEnv_0
+  - first:
+      213: 427561441797957064
+    second: CL_Tropical_WaterEnv_1
+  - first:
+      213: -474098934073002579
+    second: CL_Tropical_WaterEnv_2
+  - first:
+      213: -2632996791481819356
+    second: CL_Tropical_WaterEnv_3
+  - first:
+      213: 71124816104260189
+    second: CL_Tropical_WaterEnv_4
+  - first:
+      213: 2156475880309214407
+    second: CL_Tropical_WaterEnv_5
+  - first:
+      213: -1856426314680759137
+    second: CL_Tropical_WaterEnv_6
+  - first:
+      213: -3013014888653427647
+    second: CL_Tropical_WaterEnv_7
+  - first:
+      213: -4743032366953554461
+    second: CL_Tropical_WaterEnv_8
+  - first:
+      213: 3552653841827486347
+    second: CL_Tropical_WaterEnv_9
+  - first:
+      213: -4269181650272852888
+    second: CL_Tropical_WaterEnv_10
+  - first:
+      213: 6242920505436745380
+    second: CL_Tropical_WaterEnv_11
+  - first:
+      213: 8675666814991854006
+    second: CL_Tropical_WaterEnv_12
+  - first:
+      213: -2460614271797922455
+    second: CL_Tropical_WaterEnv_13
+  - first:
+      213: -8748937436858085904
+    second: CL_Tropical_WaterEnv_14
+  - first:
+      213: 5207379179589158803
+    second: CL_Tropical_WaterEnv_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 640
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c1c7f7021e0a1f0800000000000000
+      internalID: -1035580384601170921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56502bdd00fe500800000000000000
+      internalID: 427561441797957064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 103
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ff260889ab69f0800000000000000
+      internalID: -474098934073002579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 103
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9bfc4e57b57bd0800000000000000
+      internalID: -2632996791481819356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 108
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d520c96b4afacf000800000000000000
+      internalID: 71124816104260189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 108
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc478c33675ded10800000000000000
+      internalID: 2156475880309214407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 114
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c04c14a16ac36e0800000000000000
+      internalID: -1856426314680759137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 114
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c69d22cee9f26d0800000000000000
+      internalID: -3013014888653427647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 114
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed9d81213d5d2eb0800000000000000
+      internalID: -4743032366953554461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8add0ca8df8d4130800000000000000
+      internalID: 3552653841827486347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 130
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864eedd78e1d0c4c0800000000000000
+      internalID: -4269181650272852888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 130
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae2f8f8f1f43a650800000000000000
+      internalID: 6242920505436745380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9eb39a009266870800000000000000
+      internalID: 8675666814991854006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 47
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657a305b542addd0800000000000000
+      internalID: -2460614271797922455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd05f941c7859680800000000000000
+      internalID: -8748937436858085904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_Tropical_WaterEnv_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974d2226c3544840800000000000000
+      internalID: 5207379179589158803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CL_Tropical_WaterEnv_0: -1035580384601170921
+      CL_Tropical_WaterEnv_1: 427561441797957064
+      CL_Tropical_WaterEnv_10: -4269181650272852888
+      CL_Tropical_WaterEnv_11: 6242920505436745380
+      CL_Tropical_WaterEnv_12: 8675666814991854006
+      CL_Tropical_WaterEnv_13: -2460614271797922455
+      CL_Tropical_WaterEnv_14: -8748937436858085904
+      CL_Tropical_WaterEnv_15: 5207379179589158803
+      CL_Tropical_WaterEnv_2: -474098934073002579
+      CL_Tropical_WaterEnv_3: -2632996791481819356
+      CL_Tropical_WaterEnv_4: 71124816104260189
+      CL_Tropical_WaterEnv_5: 2156475880309214407
+      CL_Tropical_WaterEnv_6: -1856426314680759137
+      CL_Tropical_WaterEnv_7: -3013014888653427647
+      CL_Tropical_WaterEnv_8: -4743032366953554461
+      CL_Tropical_WaterEnv_9: 3552653841827486347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

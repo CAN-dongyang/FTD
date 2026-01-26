@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: a036c77d95a2530409486a6ee95f5d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4597394599561394853
+    second: CLM_MainLev_0
+  - first:
+      213: -461079587252986777
+    second: CLM_MainLev_1
+  - first:
+      213: 6843022694472118078
+    second: CLM_MainLev_2
+  - first:
+      213: 4351973963357055987
+    second: CLM_MainLev_3
+  - first:
+      213: 6336148442365342459
+    second: CLM_MainLev_4
+  - first:
+      213: 2299951704404326162
+    second: CLM_MainLev_5
+  - first:
+      213: 1674465801926849118
+    second: CLM_MainLev_6
+  - first:
+      213: -2117970772373021125
+    second: CLM_MainLev_7
+  - first:
+      213: -7471270038748901985
+    second: CLM_MainLev_8
+  - first:
+      213: -747373207906014141
+    second: CLM_MainLev_9
+  - first:
+      213: -4386652585458638859
+    second: CLM_MainLev_10
+  - first:
+      213: 5309334013601804213
+    second: CLM_MainLev_11
+  - first:
+      213: 3743137020573311750
+    second: CLM_MainLev_12
+  - first:
+      213: 8204303580808875882
+    second: CLM_MainLev_13
+  - first:
+      213: -8880609781870810325
+    second: CLM_MainLev_14
+  - first:
+      213: 6152011600765567380
+    second: CLM_MainLev_15
+  - first:
+      213: -6945869348314609975
+    second: CLM_MainLev_16
+  - first:
+      213: -7466896220053837061
+    second: CLM_MainLev_17
+  - first:
+      213: -8330521016931364980
+    second: CLM_MainLev_18
+  - first:
+      213: 5049388121179165028
+    second: CLM_MainLev_19
+  - first:
+      213: 3480339270767205375
+    second: CLM_MainLev_20
+  - first:
+      213: -3059043737454750611
+    second: CLM_MainLev_21
+  - first:
+      213: 51014203640728747
+    second: CLM_MainLev_22
+  - first:
+      213: -3163035060513253252
+    second: CLM_MainLev_23
+  - first:
+      213: -4395375884029628723
+    second: CLM_MainLev_24
+  - first:
+      213: 6614069566568584181
+    second: CLM_MainLev_25
+  - first:
+      213: -7975267614008781460
+    second: CLM_MainLev_26
+  - first:
+      213: 905580934604724809
+    second: CLM_MainLev_27
+  - first:
+      213: -3880633417355827900
+    second: CLM_MainLev_28
+  - first:
+      213: 236238109789887124
+    second: CLM_MainLev_29
+  - first:
+      213: 7767449248240263106
+    second: CLM_MainLev_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CLM_MainLev_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1747
+        width: 1803
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf72fb70a3dcf30800000000000000
+      internalID: 4597394599561394853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_1
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1919
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1a9cee8ae999f0800000000000000
+      internalID: -461079587252986777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_2
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1919
+        width: 172
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f62fd72ec47fe50800000000000000
+      internalID: 6843022694472118078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_3
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1855
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb65ad0341556c30800000000000000
+      internalID: 4351973963357055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_4
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1823
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b45f10758ee750800000000000000
+      internalID: 6336148442365342459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_5
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1827
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f295b3e11bef10800000000000000
+      internalID: 2299951704404326162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_6
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1791
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b36076c5ec3710800000000000000
+      internalID: 1674465801926849118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1427
+        width: 1729
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3edb04ddc47b92e0800000000000000
+      internalID: -2117970772373021125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_8
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1699
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4a57fb77b05890800000000000000
+      internalID: -7471270038748901985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_9
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1699
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2e14f60cc0a5f0800000000000000
+      internalID: -747373207906014141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_10
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1585
+        width: 30
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff50ba07ba7f13c0800000000000000
+      internalID: -4386652585458638859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_11
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1593
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf62a2c72b8ea940800000000000000
+      internalID: 5309334013601804213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_12
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1593
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603e2e8c94b42f330800000000000000
+      internalID: 3743137020573311750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_13
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1631
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f049373aa8bd170800000000000000
+      internalID: 8204303580808875882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_14
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1421
+        width: 146
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2bb2747cb1c480800000000000000
+      internalID: -8880609781870810325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_15
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1473
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491c6b5c4f5506550800000000000000
+      internalID: 6152011600765567380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_16
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1517
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60f65e0a05b9f90800000000000000
+      internalID: -6945869348314609975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_17
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1513
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaebfcf271406890800000000000000
+      internalID: -7466896220053837061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_18
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1423
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f41e7a54b046c80800000000000000
+      internalID: -8330521016931364980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_19
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1377
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46116ff4eb7031640800000000000000
+      internalID: 5049388121179165028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_20
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1421
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdbeb8026ac4030800000000000000
+      internalID: 3480339270767205375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_21
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1417
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6450a4ade71c85d0800000000000000
+      internalID: -3059043737454750611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 1345
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac418ed52d35b000800000000000000
+      internalID: 51014203640728747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_23
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1281
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c785006fe54aa14d0800000000000000
+      internalID: -3163035060513253252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_24
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1337
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6812dbec7003c0800000000000000
+      internalID: -4395375884029628723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_25
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1245
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3da0b5a35e9cb50800000000000000
+      internalID: 6614069566568584181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_26
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1341
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65545e1c58225190800000000000000
+      internalID: -7975267614008781460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_27
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1281
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1b72ef05419c00800000000000000
+      internalID: 905580934604724809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_28
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1327
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445eef6a778352ac0800000000000000
+      internalID: -3880633417355827900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_29
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1321
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a9f682f49474300800000000000000
+      internalID: 236238109789887124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLM_MainLev_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 1921
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5c3400f58bcb60800000000000000
+      internalID: 7767449248240263106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CLM_MainLev_0: 4597394599561394853
+      CLM_MainLev_1: -461079587252986777
+      CLM_MainLev_10: -4386652585458638859
+      CLM_MainLev_11: 5309334013601804213
+      CLM_MainLev_12: 3743137020573311750
+      CLM_MainLev_13: 8204303580808875882
+      CLM_MainLev_14: -8880609781870810325
+      CLM_MainLev_15: 6152011600765567380
+      CLM_MainLev_16: -6945869348314609975
+      CLM_MainLev_17: -7466896220053837061
+      CLM_MainLev_18: -8330521016931364980
+      CLM_MainLev_19: 5049388121179165028
+      CLM_MainLev_2: 6843022694472118078
+      CLM_MainLev_20: 3480339270767205375
+      CLM_MainLev_21: -3059043737454750611
+      CLM_MainLev_22: 51014203640728747
+      CLM_MainLev_23: -3163035060513253252
+      CLM_MainLev_24: -4395375884029628723
+      CLM_MainLev_25: 6614069566568584181
+      CLM_MainLev_26: -7975267614008781460
+      CLM_MainLev_27: 905580934604724809
+      CLM_MainLev_28: -3880633417355827900
+      CLM_MainLev_29: 236238109789887124
+      CLM_MainLev_3: 4351973963357055987
+      CLM_MainLev_30: 7767449248240263106
+      CLM_MainLev_4: 6336148442365342459
+      CLM_MainLev_5: 2299951704404326162
+      CLM_MainLev_6: 1674465801926849118
+      CLM_MainLev_7: -2117970772373021125
+      CLM_MainLev_8: -7471270038748901985
+      CLM_MainLev_9: -747373207906014141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

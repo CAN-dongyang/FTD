@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: de79c02983ede6c4fa2f42105e9bb1fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4155418954517446156
+    second: CL_MainLev_0
+  - first:
+      213: -3752024781351200393
+    second: CL_MainLev_1
+  - first:
+      213: 5606651064034345997
+    second: CL_MainLev_2
+  - first:
+      213: -5833295323315588154
+    second: CL_MainLev_3
+  - first:
+      213: -5719786728501776754
+    second: CL_MainLev_4
+  - first:
+      213: 7290508195839701307
+    second: CL_MainLev_5
+  - first:
+      213: -8796072458843168867
+    second: CL_MainLev_6
+  - first:
+      213: 7767769848748516587
+    second: CL_MainLev_7
+  - first:
+      213: 1761443573973559276
+    second: CL_MainLev_8
+  - first:
+      213: -8394210213895288923
+    second: CL_MainLev_9
+  - first:
+      213: -4638798850637314445
+    second: CL_MainLev_10
+  - first:
+      213: 269434271134432876
+    second: CL_MainLev_11
+  - first:
+      213: 7263212567493508016
+    second: CL_MainLev_12
+  - first:
+      213: 8841249940503463476
+    second: CL_MainLev_13
+  - first:
+      213: 480444476270763230
+    second: CL_MainLev_14
+  - first:
+      213: -1049774006695053232
+    second: CL_MainLev_15
+  - first:
+      213: 3124143992574425509
+    second: CL_MainLev_16
+  - first:
+      213: -2541538703905961852
+    second: CL_MainLev_17
+  - first:
+      213: -8429100141673259678
+    second: CL_MainLev_18
+  - first:
+      213: -7838533227454257344
+    second: CL_MainLev_19
+  - first:
+      213: -2236916602792495116
+    second: CL_MainLev_20
+  - first:
+      213: 2450576016822808021
+    second: CL_MainLev_21
+  - first:
+      213: 1658694039239849400
+    second: CL_MainLev_22
+  - first:
+      213: 4669308564851575323
+    second: CL_MainLev_23
+  - first:
+      213: -2581933578881566058
+    second: CL_MainLev_24
+  - first:
+      213: -3676237417107408323
+    second: CL_MainLev_25
+  - first:
+      213: -7374079133280305530
+    second: CL_MainLev_26
+  - first:
+      213: 8698373118812582882
+    second: CL_MainLev_27
+  - first:
+      213: -1181441019772321909
+    second: CL_MainLev_28
+  - first:
+      213: 6131581500992998133
+    second: CL_MainLev_29
+  - first:
+      213: 1783268323909641753
+    second: CL_MainLev_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CL_MainLev_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 1024
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0effe4d5830ba930800000000000000
+      internalID: 4155418954517446156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 385
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779591727512eebc0800000000000000
+      internalID: -3752024781351200393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04455bff63decd40800000000000000
+      internalID: 5606651064034345997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b3df3fc8fb0fa0800000000000000
+      internalID: -5833295323315588154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 223
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e68a0764c3f90b0800000000000000
+      internalID: -5719786728501776754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 231
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31791dc3961d2560800000000000000
+      internalID: 7290508195839701307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 246
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f5e08c3b21ee580800000000000000
+      internalID: -8796072458843168867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 271
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be425a3a589accb60800000000000000
+      internalID: 7767769848748516587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a6961997e17810800000000000000
+      internalID: 1761443573973559276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c0dee846c18b80800000000000000
+      internalID: -8394210213895288923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 194
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376c543d50daf9fb0800000000000000
+      internalID: -4638798850637314445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eb845ca093db300800000000000000
+      internalID: 269434271134432876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 194
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb7a95195d1cc460800000000000000
+      internalID: 7263212567493508016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436072a5afd62ba70800000000000000
+      internalID: 8841249940503463476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 194
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcda66a4b1eaa600800000000000000
+      internalID: 480444476270763230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b0845a147e61f0800000000000000
+      internalID: -1049774006695053232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 194
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b198a8603b5b20800000000000000
+      internalID: 3124143992574425509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 97
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48847c2b304aabcd0800000000000000
+      internalID: -2541538703905961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 97
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dde579412d50b80800000000000000
+      internalID: -8429100141673259678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 97
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0472e795f8fe73390800000000000000
+      internalID: -7838533227454257344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 97
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f731629330e4f0e0800000000000000
+      internalID: -2236916602792495116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 127
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dda0d157e1320220800000000000000
+      internalID: 2450576016822808021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f2f7c07dd40710800000000000000
+      internalID: 1658694039239849400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 226
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acaa29667bcc040800000000000000
+      internalID: 4669308564851575323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 57
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7c15f6112b2cd0800000000000000
+      internalID: -2581933578881566058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 52
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a3053fb816bfcc0800000000000000
+      internalID: -3676237417107408323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 50
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef43b09120aa990800000000000000
+      internalID: -7374079133280305530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 63
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e371aef344d6b870800000000000000
+      internalID: 8698373118812582882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_28
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 63
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f356de6adaa9fe0800000000000000
+      internalID: -1181441019772321909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 15
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa4b0e73e0c71550800000000000000
+      internalID: 6131581500992998133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CL_MainLev_30
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91627d9a7117fb810800000000000000
+      internalID: 1783268323909641753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CL_MainLev_0: 4155418954517446156
+      CL_MainLev_1: -3752024781351200393
+      CL_MainLev_10: -4638798850637314445
+      CL_MainLev_11: 269434271134432876
+      CL_MainLev_12: 7263212567493508016
+      CL_MainLev_13: 8841249940503463476
+      CL_MainLev_14: 480444476270763230
+      CL_MainLev_15: -1049774006695053232
+      CL_MainLev_16: 3124143992574425509
+      CL_MainLev_17: -2541538703905961852
+      CL_MainLev_18: -8429100141673259678
+      CL_MainLev_19: -7838533227454257344
+      CL_MainLev_2: 5606651064034345997
+      CL_MainLev_20: -2236916602792495116
+      CL_MainLev_21: 2450576016822808021
+      CL_MainLev_22: 1658694039239849400
+      CL_MainLev_23: 4669308564851575323
+      CL_MainLev_24: -2581933578881566058
+      CL_MainLev_25: -3676237417107408323
+      CL_MainLev_26: -7374079133280305530
+      CL_MainLev_27: 8698373118812582882
+      CL_MainLev_28: -1181441019772321909
+      CL_MainLev_29: 6131581500992998133
+      CL_MainLev_3: -5833295323315588154
+      CL_MainLev_30: 1783268323909641753
+      CL_MainLev_4: -5719786728501776754
+      CL_MainLev_5: 7290508195839701307
+      CL_MainLev_6: -8796072458843168867
+      CL_MainLev_7: 7767769848748516587
+      CL_MainLev_8: 1761443573973559276
+      CL_MainLev_9: -8394210213895288923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

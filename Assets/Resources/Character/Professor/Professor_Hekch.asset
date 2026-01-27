@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce6b9353d1a26bb4eafa6cd1b3f420b6, type: 3}
+  m_Name: Professor_Hekch
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterAsset
+  _name: Hekch
+  _description: 
+  _baseStatus:
+    dispositions: 0
+    skills:
+    - {fileID: 11400000, guid: a427e586cea0ddf45a260ecd951b28ce, type: 2}
+    - {fileID: 11400000, guid: a9b1e7d36d8d0dc48a4324af3d608b89, type: 2}
+    Charm: 0
+    Dignity: 0
+    Morality: 0
+    Intelligence: 0
+    Mentality: 0
+    Creativity: 0
+    Strength: 0
+    Agility: 0
+    Technique: 0
+  _spriteAtlas: {fileID: 0}
+  _textData: {fileID: 0}
+  _synergy: []

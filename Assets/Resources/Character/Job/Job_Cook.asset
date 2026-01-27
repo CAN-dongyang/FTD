@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd212637406d4d478da5539bd4a4644, type: 3}
+  m_Name: Job_Cook
+  m_EditorClassIdentifier: 
+  jobTitle: 
+  description: 
+  jobIcon: {fileID: 0}
+  requireStatus:
+    skills: []
+    Charm: 0
+    Dignity: 0
+    Morality: 0
+    Intelligence: 0
+    Mentality: 0
+    Creativity: 0
+    Strength: 0
+    Agility: 0
+    Technique: 0
+  nextTierJob: {fileID: 11400000, guid: f74567bcb2fa7ab40ac01a3339b18b40, type: 2}

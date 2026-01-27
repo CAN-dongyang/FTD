@@ -24,8 +24,8 @@ public struct CharacterStatus
 	/// </summary>
 	public Ability[] aptitudes;
 	public Ability[] interests;
-	public Ability[] dispositions;
-	public List<Skill> skills;
+	public Disposition dispositions;
+	public SkillAsset[] skills;
 
 	[Range(0, 100)]
 	public float Charm, Dignity, Morality;

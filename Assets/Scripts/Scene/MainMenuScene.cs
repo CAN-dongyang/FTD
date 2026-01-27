@@ -13,7 +13,7 @@ public class MainMenuScene : MonoBehaviour
 		Destroy(EventSystem.current.gameObject);
 
 		if(SaveData.Exists() && SaveData.Load().GameProgress > 0)
-			SceneManager.LoadScene("Scenes/MainGame");
+			SceneManager.LoadScene("Scenes/World");
 		else
 			SceneManager.LoadScene("Scenes/Prologue");
 	}

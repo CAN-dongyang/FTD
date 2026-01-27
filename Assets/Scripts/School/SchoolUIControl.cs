@@ -9,10 +9,10 @@ public class SchoolUIControl : MonoBehaviour
 	public enum MENU
 	{
 		NONE,
-		INFO,
-		ACTIVITY,
-		MEMBER,
-		EMPLOYMENT
+		SCHEDULE,
+		CONSTRUCTION,
+		FACULTY,
+		STUDENTS
 	}
 	[Serializable]
 	public struct TabMenu { public MENU key; public UIGroup view; public Button tabButton; }
@@ -21,7 +21,8 @@ public class SchoolUIControl : MonoBehaviour
 	private Canvas _canvas;
 	
 	public MENU NowMenu { get; private set; } = MENU.NONE;
-	public void OpenUI() => SelectMenu(MENU.INFO);
+	public void OpenUI() => SelectMenu(MENU.SCHEDULE);
+	public void CloseUI() => Cancel(default);
 	public void SelectMenu(MENU key)
 	{
 		_menus.ForEach(m => m.view.ActivateUI(m.key == key));

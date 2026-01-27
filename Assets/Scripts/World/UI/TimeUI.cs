@@ -7,9 +7,7 @@ public class TimeUI : UIGroup
 
 	void LateUpdate()
 	{
-		var time = GameData.Time;
-
-		int hour = time.Hour;
+		int hour = WorldTime.Hour;
 		string timePeriod;
 		if (hour >= 24) { timePeriod = "새벽"; }       // 24:00 (자정) ~ 02:00
 		else if (hour >= 17) { timePeriod = "저녁"; }  // 17:00 ~ 23:59
@@ -20,8 +18,8 @@ public class TimeUI : UIGroup
 		int hours12 = hour % 12;
 		if (hours12 == 0) hours12 = 12; // 0시는 12시로 표시
 
-		string timeString = $"{time.Year}년 {time.Quater}분기 {time.Day}일차\n";
-		timeString += $"{timePeriod} {hours12:00}시 {time.Minutes:00}분 ({time.DayOfWeek})";
+		string timeString = $"{WorldTime.Year}년 {WorldTime.Quater}분기 {WorldTime.Day}일차\n";
+		timeString += $"{timePeriod} {hours12:00}시 {WorldTime.Minutes:00}분 ({WorldTime.DayOfWeek})";
 
 		// UI 텍스트를 업데이트합니다.
 		timeText.text = timeString;

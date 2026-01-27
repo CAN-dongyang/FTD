@@ -1,3 +1,5 @@
+using System;
+using System.Collections;
 using UnityEngine;
 
 public class School : MonoBehaviour
@@ -20,6 +22,34 @@ public class School : MonoBehaviour
 	public void MoveOut()
 	{
 		if(Player.Instance) Player.Instance.Spawn(GridExternal, Vector3Int.zero);
+	}
+
+	#region Routines
+	IEnumerable DayStart()
+	{
+		// Home 에서 시작
+		MoveIn();
+		
+		FadeInOut fade = FindAnyObjectByType<FadeInOut>();
+		fade.OpenUI();
+
+		World.Instance.Pause();
+		fade.FadeIn();
+
+		while(fade.IsShow)
+			yield return null;
+		
+		World.Instance.Resume();
+	}
+	#endregion
+
+	private void OnEnable()
+	{
+		if(World.Instance) World.Instance.OnDayStart.Add(DayStart);
+	}
+	private void OnDisable()
+	{
+		if(World.Instance) World.Instance.OnDayStart.Remove(DayStart);
 	}
 
 	#region Singleton

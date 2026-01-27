@@ -259,6 +259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5999123051877781925}
   - component: {fileID: 4557436494111485971}
+  - component: {fileID: 3121090829392225095}
   - component: {fileID: 1091151135880012053}
   - component: {fileID: 1134046762136674889}
   m_Layer: 9
@@ -298,11 +299,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b6eef93d098c8e45a5a8ef80cb9dfbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  _moveSpeed: 5
-  _rigidbody: {fileID: 1091151135880012053}
   _data: {fileID: 11400000, guid: 852fe1c6f0e5816418cc13f515d5b69e, type: 2}
   _playerUI: {fileID: 0}
-  _moveInput: {x: 0, y: 0}
+  _move: {fileID: 3121090829392225095}
+  _detector: {fileID: 7451006075150238651}
+--- !u!114 &3121090829392225095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7015265263311932640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080183a7fd34bb24eb97f780e66bafb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMove
+  _moveSpeed: 5
+  _rigidbody: {fileID: 1091151135880012053}
 --- !u!50 &1091151135880012053
 Rigidbody2D:
   serializedVersion: 5

@@ -28,8 +28,6 @@ public class MainMenuScene : MonoBehaviour
 
 	private void Start()
 	{
-		SaveData.Save(new SaveData());
-
 		_btnStartGame.GetComponentInChildren<TextMeshProUGUI>().text
 			= SaveData.Exists() ? "Start Game" : "New Game";
 	}

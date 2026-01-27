@@ -1,20 +1,17 @@
+using System.Collections;
 using UnityEngine;
-using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-	[Header("Physics")]
-	[Range(3, 12)]
-	[SerializeField] private float _moveSpeed = 5f;
-	[SerializeField] private Rigidbody2D _rigidbody;
 
 	[Header("Properties")]
 	[SerializeField] private PlayerData _data;
 	static public PlayerData Data => Instance._data;
-
 	[SerializeField] private PlayerUIControl _playerUI;
 	public static PlayerUIControl UI => Instance._playerUI;
+	[SerializeField] private PlayerMove _move;
+	[SerializeField] private PlayerDetect _detector;
 
 	private bool _inputHandled;
 	public bool InputHandled
@@ -23,31 +20,20 @@ public class Player : MonoBehaviour
 		set
 		{
 			_inputHandled = value;
+
 			if(!_inputHandled)
 			{
-				_moveInput = _rigidbody.linearVelocity = Vector2.zero;
-				UI.SelectMenu(PlayerUIControl.MENU.LOCK);
-				GameData.Time.Pause();
+				_move.Stop();
 			}
-			///////////////////////////////////////////
 			else if(UI.NowMenu == PlayerUIControl.MENU.LOCK)
 			{
-				UI.SelectMenu(PlayerUIControl.MENU.DEFAULT);
-				GameData.Time.Resume();
 			}
 		}
 	}
 
-	public void Detect(Detectable d)
-	{
-		if(NowDetected) NowDetected.OnFocusOut.Invoke();
-		NowDetected = d;
-		if(NowDetected) NowDetected.OnDetect.Invoke();
-	}
-	public Detectable NowDetected { get; private set; }
-
-	public Grid WorldGrid { get; set; }
-	public Vector3Int CellPos { get; private set; }
+	public Grid WorldGrid { set => _move.WorldGrid = value; }
+	public Vector3Int CellPos { get => _move.CellPos; }
+	public Detectable NowDetected { get => _detector.NowDetected; }
 
 	public void Spawn(Grid grid, Vector3Int cell)
 	{
@@ -55,63 +41,7 @@ public class Player : MonoBehaviour
 	}
 	public void Spawn(Vector3 pos)
 	{
-		_rigidbody.MovePosition(pos);
-	}
-
-	private void FixedUpdate()
-	{
-		if(_moveInput.magnitude > 0f)
-			_rigidbody.linearVelocity = _moveInput * _moveSpeed;
-		
-		if(WorldGrid != null)
-			CellPos = WorldGrid.WorldToCell(_rigidbody.position);
-	}
-	[SerializeField] private Vector2 _moveInput;
-	private void Move(InputAction.CallbackContext cb)
-	{
-		if(InputHandled)
-		{
-			_moveInput = cb.ReadValue<Vector2>();
-			if(cb.canceled) _rigidbody.linearVelocity = Vector2.zero;
-		}
-	}
-	private void Interact(InputAction.CallbackContext cb)
-	{
-		if(InputHandled && NowDetected != null)
-			NowDetected.OnInteract.Invoke();
-	}
-
-	private void OnEnable()
-	{
-		InputAction act;
-		act = InputSystem.actions.FindAction("Interact");
-		if(act is not null)
-		{
-			act.started += Interact;
-		}
-
-		act = InputSystem.actions.FindAction("Move");
-		if(act is not null)
-		{
-			act.performed += Move;
-			act.canceled += Move;
-		}
-	}
-	private void OnDisable()
-	{
-		InputAction act;
-		act = InputSystem.actions.FindAction("Interact");
-		if(act is not null)
-		{
-			act.started -= Interact;
-		}
-
-		act = InputSystem.actions.FindAction("Move");
-		if(act is not null)
-		{
-			act.performed -= Move;
-			act.canceled -= Move;
-		}
+		_move.Body.MovePosition(pos);
 	}
 
 	#region Singleton

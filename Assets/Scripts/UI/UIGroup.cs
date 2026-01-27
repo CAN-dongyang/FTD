@@ -13,7 +13,10 @@ public class UIGroup : MonoBehaviour
 		get => _canvasGroup.alpha > 0f;
 		private set { if(IsShow != value) SetActivateUI(value); }
 	}
+	public void Toggle() => IsShow = !IsShow;
+	
 	// 상속 용도
+	// 상태가 변화했을 때에만 호출
 	protected virtual void SetActivateUI(bool active)
 	{
 		_canvasGroup.alpha = active ? 1f : 0f;

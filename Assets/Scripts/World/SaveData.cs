@@ -18,7 +18,7 @@ public class SaveData
 	{
 #if ANDROID
 #else
-		return Path.Combine(Application.dataPath, fileName + ".json");
+		return Path.Combine(Application.streamingAssetsPath, fileName + ".json");
 #endif
 	}
 	public static bool Exists() => File.Exists(GetSavePath("save"));
@@ -29,9 +29,11 @@ public class SaveData
 		if(File.Exists(path))
 		{
 			string json = File.ReadAllText(path);
-			return JsonUtility.FromJson<SaveData>(json);
+			SaveData res = JsonUtility.FromJson<SaveData>(json);
+
+			Debug.Log($"Load SaveData Completed : {path}");
+			return res;
 		}
-		Debug.Log("Can't Found Save File");
 		return null;
 	}
 	public static void Save<T>(T data)
@@ -40,6 +42,6 @@ public class SaveData
 		string json = JsonUtility.ToJson(data, true);
 
 		File.WriteAllText(path, json);
-		Debug.Log($"Save Complete : {path}");
+		Debug.Log($"Save Completed : {path}");
 	}
 }

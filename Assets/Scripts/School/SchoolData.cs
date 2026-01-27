@@ -6,7 +6,7 @@ public class SchoolData : ScriptableObject
 	// Quater Data
 	// Next Quater Data
 
-	public List<CharacterData> _characters;
+	public List<CharacterInstance> _characters;
 
 	public ConstructionInfo _cSchoolInfo;
 	public ConstructionInfo _cHomeInfo;

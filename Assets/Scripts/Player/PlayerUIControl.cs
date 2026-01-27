@@ -23,11 +23,26 @@ public class PlayerUIControl : MonoBehaviour
 	public void SelectMenu(MENU key)
 	{
 		_menus.ForEach(m => m.view.ActivateUI((m.key & key) > 0));
+		
+		if(key > MENU.DEFAULT) World.Instance.Pause();
+		else if(NowMenu > MENU.DEFAULT) World.Instance.Resume();
+		
 		NowMenu = key;
 	}
 
-	private void OpenInventory(InputAction.CallbackContext ctx) => SelectMenu(MENU.INVENTORY);
-	private void Cancel(InputAction.CallbackContext ctx) { if(NowMenu != MENU.DEFAULT) SelectMenu(MENU.DEFAULT); }
+	private void OpenInventory(InputAction.CallbackContext ctx)
+	{
+		if(NowMenu != MENU.LOCK)
+		{
+			// Toggle
+			if(NowMenu == MENU.INVENTORY) SelectMenu(MENU.DEFAULT);
+			else SelectMenu(MENU.INVENTORY);
+		}
+	}
+	private void Cancel(InputAction.CallbackContext ctx)
+	{
+		if(NowMenu > MENU.DEFAULT) SelectMenu(MENU.DEFAULT);
+	}
 	private void Start() => SelectMenu(MENU.DEFAULT);
 	private void OnEnable()
 	{

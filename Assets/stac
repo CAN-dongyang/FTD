@@ -1,0 +1,30 @@
+Unity
+   World/World
+	- WorldData
+		- Graduateds
+		- Many Professors
+		- ...
+    - WorldTime (static)
+	- UI_Stack				: UIGroup[]
+
+    - Init Routine			: IEnumerator
+    - GameFlow Routine		: IEnumerator
+
+  Player/Player
+    - PlayerData
+	- InputHandled			: bool
+    - Player_UI
+		> Talk Routine		: IEnumerator
+
+  School/School
+    - SchoolData
+    - School_UI
+
+    - Day Routine			: IEnumerator
+
+  Some_Guild/Some_Guild
+    - GuildData
+    - Guild_UI
+
+    - Day Routine			: IEnumerator
+
